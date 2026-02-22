@@ -1,43 +1,96 @@
-Trump Tariff Tracker is a web application designed to help users easily access and understand potential tariff details related to the Trump administration’s trade policies. The tool provides up-to-date information on country-specific and product-specific tariffs, exceptions, and recent updates or publications. Data is based on analysis as of April 14, 2025.
+# Trump Tariff Intelligence Desk
 
-**Features**
-Country Tariffs:
-View potential tariffs by selecting a specific country from a dropdown menu.
+Internal procurement intelligence dashboard focused on U.S. tariff actions, countermeasures, and landed-cost scenario modeling.
 
-Product Tariffs:
-Explore tariffs by product category (feature available via navigation tabs).
+This build is designed for Siemens Healthineers global procurement users who need:
+- Fast country-level view of active vs contested U.S. tariff measures.
+- Commodity-level view of affected products and tariff programs.
+- Daily official-feed monitoring from reputable primary sources.
+- Scenario calculator for planning landed-cost impact.
 
-**Exceptions**:
-Find details on tariff exceptions and special cases.
+## What Is Included
 
-**Updates & Publications**:
-Stay informed with the latest updates and official publications related to tariffs.
+- `index.html`
+  - Single-page intelligence desk with tabs for Dashboard, Country Explorer, Commodity Matrix, Timeline, Live Feeds, Tariff Calculator, Sourcebook, and Gaps.
+- `scripts/update_live_intel.py`
+  - Pulls latest official feed data and writes `data/live_intel.json`.
+- `data/live_intel.json`
+  - Generated live feed artifact consumed by frontend.
+- `.github/workflows/daily-intel-update.yml`
+  - Daily auto-refresh workflow for `data/live_intel.json`.
 
-**Usage**
-Clone the repository:
+## Reputable Source Policy
 
-**bash**
-git clone https://github.com/Kapish789/trump-tariff-tracker.git
-Navigate to the project directory:
+The live ingestion script only pulls from primary/public official sources in this build:
+- U.S. Federal Register API.
+- U.S. CBP CSMS (GovDelivery RSS).
+- European Commission Press Corner RSS.
+- UK GOV.UK DBT Atom feed.
+- MOFCOM English site (headline extraction).
+- Government of Canada Department of Finance tariff response page.
 
-**bash**
-cd trump-tariff-tracker
-Install dependencies:
+## Local Run
 
-**bash**
-npm install
-Start the development server:
+No framework build is required.
 
-**bash**
-npm start
-Open your browser and visit https://trumptarifftracker.vercel.app/ to use the application.
+1. Refresh live feed data:
+```bash
+python3 scripts/update_live_intel.py
+```
 
-**Data Disclaimer**
-The information is based on Reed Smith’s analysis as of April 14, 2025.
+2. Open the site:
+```bash
+open index.html
+```
 
-This website is for informational purposes only and is not affiliated with, endorsed by, or officially connected to Reed and Smith or any government entity.
+Or serve locally:
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000
+```
 
-Data is sourced from the Reed and Smith article and is presented for educational and informational purposes.
+## Live Feed Data Schema
 
-Accuracy, completeness, and timeliness are not guaranteed. Users should consult official sources or legal professionals for specific advice or the most current tariff details.
+`data/live_intel.json` structure:
+- `generated_at`: UTC timestamp for data build.
+- `about`: ingestion metadata and keyword filters.
+- `feeds.federal_register`: deduped tariff-relevant Federal Register docs.
+- `feeds.cbp_csms`: filtered CSMS operational messages.
+- `feeds.retaliation.eu_commission`
+- `feeds.retaliation.uk_dbt`
+- `feeds.retaliation.china_mofcom`
+- `feeds.retaliation.canada_finance`
 
+Each feed includes:
+- `source`
+- `source_url`
+- `items`
+- `errors`
+
+## Calculator Assumptions
+
+The HTS landed-cost calculator is an estimator for planning, not customs entry filing.
+
+Current logic:
+- Inputs for country, commodity program, customs value, freight/insurance, MFN rate, and optional Section 301 rate.
+- Optional contested IEEPA inclusion.
+- Optional non-stacking simplification (highest special-duty bucket applied).
+- Canada/Mexico USMCA + energy/potash toggles.
+- Brazil targeted-products toggle.
+
+Known limitations:
+- Not a substitute for HTS line-level legal determination.
+- Does not fully model AD/CVD, quota fill effects, or exclusions.
+- Does not guarantee exact duty sequencing for all legal permutations.
+
+## Automation
+
+GitHub Action schedule: `30 6 * * *` (daily at 06:30 UTC).
+
+Workflow behavior:
+- Runs `scripts/update_live_intel.py`.
+- Commits and pushes `data/live_intel.json` only when content changes.
+
+## Compliance Note
+
+This repository is an internal intelligence tool and not legal advice. Always confirm execution decisions against the latest official customs notices, legal texts, and counsel review before shipment booking.
