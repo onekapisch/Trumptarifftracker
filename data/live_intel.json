@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T17:11:22+00:00",
+  "generated_at": "2026-02-23T06:48:08+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b11c9",
+          "pub_date": "Sun, 22 Feb 2026 21:57:11 -0500",
+          "guid": "67834313",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Executive Order (EO), \u201cEnding Certain Tariff Actions,\u201d that terminates the collection of the additional ad valorem duties imposed pursuant to the International Emergency Economic Powers Act (IEEPA). GUIDANCE ENDING IEEPA TARIFF COLLECTION Duties imposed pursuant to IEEPA under the following presidential actions, including all modifications and amendments, will no longer be in effect and will no longer be collected for goods entered for consumption or withdrawn from warehouse for consumption"
+        },
+        {
           "title": "CSMS # 67823350 - Supreme Court of the United States (SCOTUS) Judgment - International Emergency Economic Powers Act (IEEPA) Tariffs",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ae6f6",
           "pub_date": "Fri, 20 Feb 2026 23:38:57 -0500",
@@ -1062,14 +1070,6 @@
           "guid": "67396418",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67396418 - UPDATE: Additional Parties Qualified for the Payment of Duty on International Mail Shipments pursuant to Executive Order 14324 \u201cSuspending Duty-Free De Minimis Treatment for All Countries\u201d Pursuant to Executive Order 14324 of July 30, 2025, (\u201c Suspending Duty-Free De Minimis Treatment for All Countries \u201d), effective August 29, 2025, de minimis duty-free treatment under 19 U.S.C. \u00a7 1321(a)(2)(C) will no longer be available for shipments entering into the United States not covered by 50 U.S.C. \u00a7 1702(b), including those entering through international mail. As outlined in the Executive Order, duty on international mail shipments must be paid by "
-        },
-        {
-          "title": "CSMS # 67395160 - REMINDER: Support Call Today for Electronic Refund and Add Notify Party Features in the ACE Portal",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4045e58",
-          "pub_date": "Wed, 14 Jan 2026 10:36:30 -0500",
-          "guid": "67395160",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67395160 - REMINDER: Support Call Today for Electronic Refund and Add Notify Party Features in the ACE Portal Beginning February 6, 2026, U.S. Customs and Border Protection (CBP) will issue all refunds electronically via Automated Clearing House (ACH) (subject to limited exceptions), as announced in the Electronic Refunds Interim Final Rule published January 2, 2026 in the Federal Register ( FR Document 2025-24171 ). In preparation for this change, CBP improved the ACH refund sign-up process in the Automated Commercial Environment (ACE). CBP also recently added a feature for importers to add notify parties, also known as \u201cSpecial Address Notification (C"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Daily News 20 / 02 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_447",
-            "pub_date": "Fri, 20 Feb 2026 10:38:37 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_447",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 20 Feb 2026 European Union endorses Leaders' Declaration at AI Summit in India The European Union will endorse the Leaders' Declaration at the AI Impact Summit 2026 in New ..."
-          },
-          {
-            "title": "Speech by Commissioner Kubilius at the New Economy Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_446",
-            "pub_date": "Fri, 20 Feb 2026 10:30:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_446",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Madrid, 20 Feb 2026 Thank you, Minister, for your kind words today.For the great meeting yesterday and especially for our great cooperation on defence. It's a very big pleasure to..."
-          },
-          {
-            "title": "Applications for New European Bauhaus Prizes and Boost 2026 are open",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_445",
-            "pub_date": "Fri, 20 Feb 2026 08:56:52 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_445",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Press release Brussels, 20 Feb 2026 Today, the European Commission is opening applications for several awards celebrating innovation and creativity inspired by the New European Bauhaus (NEB): The..."
-          },
-          {
-            "title": "Statement by Executive Vice-President Virkkunen and Commissioner McGrath ahead of the European Day for Victims of Crime",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_443",
-            "pub_date": "Thu, 19 Feb 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_443",
-            "category": "POLICY_AREA=JFRC",
-            "description": "European Commission Statement Brussels, 20 Feb 2026 \u201cThe essential tasks of Justice are to repair the intolerable affront inflicted on victims of crimes and to uphold their fundamental right to human dignity. Cri..."
-          },
-          {
-            "title": "Commission invests \u20ac225 million to deliver next-generation influenza vaccines",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_399",
-            "pub_date": "Thu, 19 Feb 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_399",
-            "category": "POLICY_AREA=HEALTHPOL,ICHACR",
-            "description": "European Commission Press release Brussels, 20 Feb 2026 The European Union is committing \u20ac225 million to speed up the development of next-generation flu vaccines that will offer protection across a wider range of influenza variants and quickly adapted if a pandemic strain emerges. It marks the first time the Commission will be using pre-commercial procurement to advance products through clinical trials, ensuring they meet strict safety, quality and efficacy criteria, while supporting innovations that might otherwise stall without public intervention."
-          },
-          {
-            "title": "Daily News 19 / 02 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_441",
-            "pub_date": "Thu, 19 Feb 2026 09:48:09 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_441",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 19 Feb 2026 Commission publishes summary of responses to the consultation on the ongoing review of the antitrust enforcement Regulation 1/2003 Today, the European Commissio..."
-          },
-          {
-            "title": "Discurso da Comiss\u00e1ria Albuquerque na Confer\u00eancia APS (Associa\u00e7\u00e3o Portuguesa de Seguradores): \u201cA Geoeconomia: como a geopol\u00edtica interfere na economia e o reflexo no setor segurador\u201d",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/pt/speech_26_439",
-            "pub_date": "Thu, 19 Feb 2026 08:55:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/pt/speech_26_439",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Discurso Lisbon, 19 Feb 2026 Senhor Presidente da APS, Minhas Senhoras e Meus Senhores, \u00c9 um grande prazer estar hoje convosco para refletirmos sobre um tema particularmente atual: a forma ..."
-          },
-          {
-            "title": "Remarks by Executive Vice-President Fitto on the Communication on Eastern border regions",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_435",
-            "pub_date": "Wed, 18 Feb 2026 09:59:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_435",
-            "category": "POLICY_AREA=REGIONAL",
-            "description": "European Commission Speech Brussels, 18 Feb 2026 Good morning and thank you for being here. Today, the Commission presents a Communication on the EU's eastern regions bordering Russia, Belarus and Ukraine. Let..."
-          },
-          {
-            "title": "Daily News 18 / 02 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_434",
-            "pub_date": "Wed, 18 Feb 2026 09:20:50 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_434",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 18 Feb 2026 EU announces over \u20ac81 million in humanitarian aid as conflict in eastern Democratic Republic of Congo pushes Great Lakes crisis to new extremes The escalation o..."
-          },
-          {
-            "title": "Commission supports the EU's eastern regions bordering Russia, Belarus and Ukraine",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_433",
-            "pub_date": "Wed, 18 Feb 2026 09:15:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_433",
-            "category": "POLICY_AREA=REGIONAL",
-            "description": "European Commission Press release Brussels, 18 Feb 2026 The European Commission has adopted a comprehensive strategy to step up support for the EU eastern regions bordering Russia, Belarus and Ukraine. Strengthening the prosperity and resilience of these regions is not only an expression of EU solidarity in the wake of Russia's invasion of Ukraine, but also a strategic investment in Europe's security, competitiveness, and future stability."
+            "title": "European Commission statement on the recent judgment of the Supreme Court of the United States",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_450",
+            "pub_date": "Sun, 22 Feb 2026 11:33:14 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_450",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Statement Brussels, 22 Feb 2026 The European Commission requests full clarity on the steps the United States intends to take following the recent Supreme Court ruling on the International Emer..."
           }
         ],
         "errors": []
@@ -1247,7 +1175,7 @@
           }
         ],
         "errors": [
-          "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)>"
+          "<urlopen error [Errno 104] Connection reset by peer>"
         ]
       },
       "canada_finance": {
