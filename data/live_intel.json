@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T06:48:08+00:00",
+  "generated_at": "2026-02-24T06:46:56+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,22 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b3d6e",
+          "pub_date": "Mon, 23 Feb 2026 19:38:19 -0500",
+          "guid": "67845486",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries Pursuant to the proclamation issued by the President on February 20, 2026, Imposing a Temporary Import Surcharge to Address Fundamental International Payment Problems , effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. eastern standard time on February 24, 2026, all goods entering the United States regardless of country of origin are subject to an additional 10% import surcharge, unless specifically exempt. Additionally, pursuant to the Executive Order, Continuing the Suspension of Duty-Free "
+        },
+        {
+          "title": "CSMS # 67844987 - Imposing Temporary Section 122 Duties",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b3b7b",
+          "pub_date": "Mon, 23 Feb 2026 19:32:21 -0500",
+          "guid": "67844987",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67844987 - Imposing Temporary Section 122 Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Presidential Proclamation, \u201cImposing a Temporary Import Surcharge to Address Fundamental International Payments Problems,\u201d issued pursuant to Section 122 of the Trade Act of 1974 (Section 122), which imposed an additional 10% ad valorem duty on imported articles of every country for a period of 150 days, unless specifically exempt. GUIDANCE APPLICATION OF ADDITIONAL DUTY RATES UNDER SECTION 122 For articles that are the product of any country entered for consumption, or withdrawn from warehouse for consumption, on or after "
+        },
+        {
           "title": "CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b11c9",
           "pub_date": "Sun, 22 Feb 2026 21:57:11 -0500",
@@ -1054,22 +1070,6 @@
           "guid": "67400472",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67400472 - GUIDANCE: Section 232 Import Duties on Semiconductors and their Derivative Products The purpose of this message is to provide guidance on the implementation of the January 14, 2026, Proclamation, \u201cAdjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products into the United States.\u201d BACKGROUND The January 14, 2026, Proclamation, issued pursuant to Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862), imposes 25 percent ad valorem duties on certain imports of semiconductors and their derivative products. ENTRY FILING GUIDANCE This message provides guidance for importers, broker"
-        },
-        {
-          "title": "CSMS # 67396599 - An updated U.S. Drug Enforcement Agency Implementation Guide is now available with a new section providing guidance on submitting PGA Message Set data for tableting and encapsulating machines",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40463f7",
-          "pub_date": "Wed, 14 Jan 2026 11:58:53 -0500",
-          "guid": "67396599",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67396599 - An updated U.S. Drug Enforcement Agency Implementation Guide is now available with a new section providing guidance on submitting PGA Message Set data for tableting and encapsulating machines An updated U.S. Drug Enforcement Agency (DEA) Implementation Guide (IG) is now available and can be found in the \u2018Draft Chapters: Future Capabilities\u2019 section of CBP.gov: https://www.cbp.gov/trade/automated/catair The DEA IG was updated to provide guidance on submitting PGA Message Set data when importing tableting and encapsulating machines. This is a new message set requirement, as DEA will begin requiring machine data to be submitted via Customs and B"
-        },
-        {
-          "title": "CSMS # 67396418 - UPDATE: Additional Parties Qualified for the Payment of Duty on International Mail Shipments pursuant to Executive Order 14324 \u201cSuspending Duty-Free De Minimis Treatment for All Countries\u201d",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4046342",
-          "pub_date": "Wed, 14 Jan 2026 11:28:22 -0500",
-          "guid": "67396418",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67396418 - UPDATE: Additional Parties Qualified for the Payment of Duty on International Mail Shipments pursuant to Executive Order 14324 \u201cSuspending Duty-Free De Minimis Treatment for All Countries\u201d Pursuant to Executive Order 14324 of July 30, 2025, (\u201c Suspending Duty-Free De Minimis Treatment for All Countries \u201d), effective August 29, 2025, de minimis duty-free treatment under 19 U.S.C. \u00a7 1321(a)(2)(C) will no longer be available for shipments entering into the United States not covered by 50 U.S.C. \u00a7 1702(b), including those entering through international mail. As outlined in the Executive Order, duty on international mail shipments must be paid by "
         }
       ],
       "errors": []
