@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T06:46:56+00:00",
+  "generated_at": "2026-02-25T06:47:11+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-03691",
+          "publication_date": "2026-02-24",
+          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys in the Gulf of America",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03691/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-03683",
+          "publication_date": "2026-02-24",
+          "title": "Foreign-Trade Zone (FTZ) 183, Notification of Proposed Production Activity; Ultra Clean Technology Systems and Service, Inc.; (Inputs Primarily for Semiconductor Industry); Manor, Texas",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03683/foreign-trade-zone-ftz-183-notification-of-proposed-production-activity-ultra-clean-technology",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-03682",
+          "publication_date": "2026-02-24",
+          "title": "Foreign-Trade Zone (FTZ) 93, Notification of Proposed Production Activity; Alder SOL Holdings LLC dba StayOnline; (Power Cords); Henderson, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03682/foreign-trade-zone-ftz-93-notification-of-proposed-production-activity-alder-sol-holdings-llc-dba",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-03680",
+          "publication_date": "2026-02-24",
+          "title": "Certain Crystalline Silicon Photovoltaic Products from Taiwan: Final Results of the Antidumping Duty Administrative Review: 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03680/certain-crystalline-silicon-photovoltaic-products-from-taiwan-final-results-of-the-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03679",
+          "publication_date": "2026-02-24",
+          "title": "Granular Polytetrafluoroethylene Resin From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03679/granular-polytetrafluoroethylene-resin-from-india-final-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03678",
+          "publication_date": "2026-02-24",
+          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03678/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03611",
+          "publication_date": "2026-02-24",
+          "title": "Sodium Nitrite From India: Final Results of Countervailing Duty Administrative Review; 2022-2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03611/sodium-nitrite-from-india-final-results-of-countervailing-duty-administrative-review-2022-2023",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03600",
+          "publication_date": "2026-02-24",
+          "title": "Unwrought Palladium From Russia; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03600/unwrought-palladium-from-russia-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-03538",
           "publication_date": "2026-02-23",
@@ -454,7 +526,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02932/foreign-trade-zone-ftz-38-notification-of-proposed-production-activity-coroplast-tape-corporation",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-02878",
@@ -646,22 +718,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-02662",
-          "publication_date": "2026-02-10",
-          "title": "Electronic Export Manifest for Vessel Cargo",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02662/electronic-export-manifest-for-vessel-cargo",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-02646",
           "publication_date": "2026-02-10",
           "title": "Large Power Transformers From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review, 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02646/large-power-transformers-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02643",
@@ -670,16 +733,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02643/low-melt-polyester-staple-fiber-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02642",
-          "publication_date": "2026-02-10",
-          "title": "Disposable Aluminum Containers, Pans, Trays, and Lids From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02642/disposable-aluminum-containers-pans-trays-and-lids-from-the-peoples-republic-of-china-initiation-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02641",
@@ -687,60 +741,6 @@
           "title": "Polyethylene Retail Carrier Bags From Malaysia: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02641/polyethylene-retail-carrier-bags-from-malaysia-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02640",
-          "publication_date": "2026-02-10",
-          "title": "Hydrofluorocarbon Blends From the People's Republic of China: Preliminary Results of the Antidumping Duty Administrative Review and Preliminary Determination of No Shipments; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02640/hydrofluorocarbon-blends-from-the-peoples-republic-of-china-preliminary-results-of-the-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02639",
-          "publication_date": "2026-02-10",
-          "title": "Ripe Olives From Spain: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02639/ripe-olives-from-spain-preliminary-results-and-partial-rescission-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02638",
-          "publication_date": "2026-02-10",
-          "title": "Utility Scale Windtowers From Indonesia: Preliminary Results and Rescission, In Part, of the Antidumping Duty Admninistrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02638/utility-scale-windtowers-from-indonesia-preliminary-results-and-rescission-in-part-of-the",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02570",
-          "publication_date": "2026-02-10",
-          "title": "Forged Steel Fittings From Taiwan: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02570/forged-steel-fittings-from-taiwan-preliminary-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02563",
-          "publication_date": "2026-02-10",
-          "title": "Erythritol From the People's Republic of China: Final Affirmative Countervailing Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02563/erythritol-from-the-peoples-republic-of-china-final-affirmative-countervailing-duty-determination",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02561",
-          "publication_date": "2026-02-10",
-          "title": "Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02561/steel-propane-cylinders-from-thailand-preliminary-results-of-antidumping-duty-administrative-review",
           "raw_text_url": null,
           "term_hit": "de minimis"
         }
@@ -751,6 +751,30 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 67856863 - ACE Foreign Trade Zone (FTZ) CATAIR Document Updated on CBP.gov: FT40 (Record Processing)",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b69df",
+          "pub_date": "Tue, 24 Feb 2026 17:53:19 -0500",
+          "guid": "67856863",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67856863 - ACE Foreign Trade Zone (FTZ) CATAIR Document Updated on CBP.gov: FT40 (Record Processing) U.S. Customs and Border Protection (CBP) has updated the Foreign Trade Zone CATAIR document in the \u201cChapters: Current Capabilities\u201d section in CBP\u2019s CATAIR webpage . Change: FT40 (Record Processing) Updated the FT record number for Country of Export and Foreign Load Port descriptions For questions, please email crem@cbp.dhs.gov ."
+        },
+        {
+          "title": "CSMS # 67853680 - Truck Manifest - Transition to Fast and Secure Trade (FAST) IDs as the Standard Identifier for FAST ID via Automated Commercial Environment (ACE) Electronic Data Interchange (EDI)",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b5d70",
+          "pub_date": "Tue, 24 Feb 2026 13:15:58 -0500",
+          "guid": "67853680",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67853680 - Truck Manifest - Transition to Fast and Secure Trade (FAST) IDs as the Standard Identifier for FAST ID via Automated Commercial Environment (ACE) Electronic Data Interchange (EDI) Effective February 24, 2026, the Automated Commercial Environment (ACE) Truck environment will transition to utilizing Fast and Secure Trade (FAST) IDs as the standard identifier for FAST ID via ACE Electronic Data Interchange (EDI). Usage of the ACE ID for this purpose is retired, and moving forward, all users will need to use a FAST ID. For FAST ID services, please visit the Trusted Traveler Program (TPP) website . Questions regarding this informational note can d"
+        },
+        {
+          "title": "CSMS # 67852800 - Harmonized System Update (HSU) 2605",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b5a00",
+          "pub_date": "Tue, 24 Feb 2026 12:27:00 -0500",
+          "guid": "67852800",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67852800 - Harmonized System Update (HSU) 2605 Harmonized System Update (HSU) 2605 was created on February 23, 2026, and contains 169 harmonized tariff records and 512 Automated Broker Interface (ABI) records. HSU 2605 includes updates regarding the ending of certain tariff actions under the International Emergency Economic Powers Act (IEEPA) and updates to Section 122 of the Trade Act of 1974. For guidance on Section 122 duties, please see Executive Order Imposing a Temporary Import Surcharge to Address Fundamental International Payments Problems and CSMS 67844987 . For more information on the International Emergency Economic Powers Act (IEEPA) updates"
+        },
         {
           "title": "CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b3d6e",
@@ -1046,30 +1070,6 @@
           "guid": "67489550",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67489550 - UPDATE: ACE Air EDI and Entry Summary EDI Experiencing Slow Processing CBP is continuing to experience network issues resulting in ACE slow processing. CBP is requesting the trade to refrain from resending ACE transmissions as initial transmissions will be processed. Resending transmissions will continue to cause additional delays."
-        },
-        {
-          "title": "CSMS # 67466320 - Launch of the Forced Labor Portal",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4057450",
-          "pub_date": "Wed, 21 Jan 2026 12:32:01 -0500",
-          "guid": "67466320",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67466320 - Launch of the Forced Labor Portal U.S. Customs and Border Protection is pleased to announce that the Forced Labor Portal is now live. The Forced Labor Portal is a centralized location for importers to submit review requests for shipments detained or excluded for forced labor enforcement. Depending on the type of review submitted, submission will be reviewed by CBP personnel in Forced Labor Division, or Port of Entry, or the Center of Excellence and Expertise. Effective, January 21, 2026, it is a mandatory requirement to use the Forced Labor Portal to submit the following review: Withhold Release Order/Finding admissibility reviews. Uyghur For"
-        },
-        {
-          "title": "CSMS # 67423068 - Duty Calculation Validation Enhancement Deployed to ACE Certification (CERT); ACE Production (PROD) Deployment Scheduled for Feb 17",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/404cb5c",
-          "pub_date": "Fri, 16 Jan 2026 13:44:52 -0500",
-          "guid": "67423068",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67423068 - Duty Calculation Validation Enhancement Deployed to ACE Certification (CERT); ACE Production (PROD) Deployment Scheduled for Feb 17 U.S. Customs and Border Protection has updated the Automated Commercial Environment (ACE) certification environment (CERT) to enhance duty calculation validation in response to trade requests. When testing in CERT, software vendors will see the following condition codes when an incorrect duty value is provided on entry summary lines that have up to 32 Harmonized Tariff Schedule (HTS) codes: 624 \u2013 EST DUTY/CALC\u2019D DUTY MISMATCH - LINE 627 \u2013 Est Duty/Calc\u2019d Duty Mismatch - Total This enhancement is expected to be de"
-        },
-        {
-          "title": "CSMS # 67400472 - GUIDANCE: Section 232 Import Duties on Semiconductors and their Derivative Products",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4047318",
-          "pub_date": "Wed, 14 Jan 2026 17:33:51 -0500",
-          "guid": "67400472",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67400472 - GUIDANCE: Section 232 Import Duties on Semiconductors and their Derivative Products The purpose of this message is to provide guidance on the implementation of the January 14, 2026, Proclamation, \u201cAdjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products into the United States.\u201d BACKGROUND The January 14, 2026, Proclamation, issued pursuant to Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862), imposes 25 percent ad valorem duties on certain imports of semiconductors and their derivative products. ENTRY FILING GUIDANCE This message provides guidance for importers, broker"
         }
       ],
       "errors": []
@@ -1080,12 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "European Commission statement on the recent judgment of the Supreme Court of the United States",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_450",
-            "pub_date": "Sun, 22 Feb 2026 11:33:14 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_450",
+            "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the Structured Dialogue with the European Parliament's Committee on International Trade",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_460",
+            "pub_date": "Tue, 24 Feb 2026 09:34:28 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_460",
             "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Statement Brussels, 22 Feb 2026 The European Commission requests full clarity on the steps the United States intends to take following the recent Supreme Court ruling on the International Emer..."
+            "description": "European Commission Speech Brussels, 24 Feb 2026 Dear Chair, Honourable Members. It is a pleasure to be here in front of the European Parliament Committee on International Trade for this Structured Dialogue. I..."
           }
         ],
         "errors": []
@@ -1147,18 +1147,6 @@
             "link": "https://www.gov.uk/government/news/fourth-edition-of-the-annual-dialogue-between-the-department-for-business-and-trade-and-the-direction-generale-des-entreprises",
             "updated": "2025-12-30T11:37:27+00:00",
             "summary": "The UK hosted the fourth edition of the annual dialogue between the UK Department for Business and <mark>Trade</mark> and the French Direction g\u00e9n\u00e9rale des Entreprises."
-          },
-          {
-            "title": "Boom lifts and baubles: keeping Britain\u2019s festive spirit aloft",
-            "link": "https://www.gov.uk/government/news/boom-lifts-and-baubles-keeping-britains-festive-spirit-aloft",
-            "updated": "2025-12-22T13:59:02+00:00",
-            "summary": "UK launches anti-dumping and anti-subsidy investigation into imported boom lifts to defend British manufacturers."
-          },
-          {
-            "title": "Businesses, unions and civil society leaders welcome Royal Assent of Employment Rights Act",
-            "link": "https://www.gov.uk/government/news/businesses-unions-and-civil-society-leaders-welcome-royal-assent-of-employment-rights-act",
-            "updated": "2025-12-18T15:46:22+00:00",
-            "summary": "Leaders from across the business community, <mark>trade</mark> union movement and wider civil society have welcomed the Employment Rights Act receiving Royal Assent.\u2026"
           }
         ],
         "errors": []
