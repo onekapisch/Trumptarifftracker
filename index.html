@@ -2151,7 +2151,7 @@
 
   <script>
     const META = {
-      asOf: "2026-02-24",
+      asOf: "2026-02-25",
       legalShockDate: "2026-02-20",
       section122EffectiveDate: "2026-02-24",
       section122ExpiryDate: "2026-07-24",
@@ -2309,12 +2309,17 @@
       wh_section122_factsheet: {
         title: "White House: Fact Sheet — Temporary Import Duty Under Section 122 (Feb 20, 2026)",
         url: "https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/",
-        note: "Section 122 Trade Act of 1974; 15% global; effective Feb 24 2026"
+        note: "Section 122 Trade Act of 1974; temporary 10% global import duty; effective Feb 24 2026"
+      },
+      wh_section122_proclamation: {
+        title: "White House: Adjusting Imports To Address Fundamental International Payment Problems (Section 122 Proclamation)",
+        url: "https://www.whitehouse.gov/presidential-actions/2026/02/adjusting-imports-to-address-fundamental-international-payment-problems/",
+        note: "Operative 10% ad valorem temporary import duty effective Feb 24, 2026; annexes define exceptions"
       },
       axios_section122: {
         title: "Axios: How Section 122 and the 10%→15% shift works (Feb 20, 2026)",
         url: "https://www.axios.com/2026/02/20/trump-tariff-plan-section-122-trade-act",
-        note: "Max 15%; 150-day duration; exceptions for pharma, ag, critical minerals"
+        note: "Covers Section 122 mechanics and reported escalation discussions; use White House proclamation for operative rate"
       },
       scotusblog_ieepa: {
         title: "SCOTUSblog: Breakdown of the IEEPA tariff decision (Feb 20, 2026)",
@@ -2354,12 +2359,12 @@
       budgetlab_scotus: {
         title: "Yale Budget Lab: State of U.S. Tariffs After SCOTUS Ruling (Feb 20, 2026)",
         url: "https://budgetlab.yale.edu/research/state-us-tariffs-scotus-ruling-update",
-        note: "Pre-SCOTUS effective rate 16%; post-SCOTUS 9.1%; with Section 122 13.7% (Feb 21 2026). CBP collected ~$129B IEEPA duties through Dec 2025 — refund liability analysis"
+        note: "Pre-SCOTUS effective rate 16%; post-SCOTUS 9.1%; Yale published 13.7% with Section 122 (Feb 21, 2026) before later operative-rate clarification. CBP collected ~$129B IEEPA duties through Dec 2025 — refund liability analysis"
       },
       taxfdn_trump_tariffs: {
         title: "Tax Foundation: Trump Tariff Economic Impact Tracker (updated Feb 2026)",
         url: "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
-        note: "Current effective tariff rate 13.7% (Feb 21, 2026 — Yale Budget Lab); pre-SCOTUS 16% (highest since 1936); $287B 2025 tariff revenue"
+        note: "Tax Foundation cites Yale's Feb 21, 2026 published estimate (13.7% with Section 122); pre-SCOTUS 16% (highest since 1936); $287B 2025 tariff revenue"
       },
       reuters_cbp_ieepa_halt: {
         title: "Reuters: U.S. customs agency to stop collecting IEEPA tariffs (Feb 23, 2026)",
@@ -2556,10 +2561,10 @@
       },
       {
         commodity: "Section 122 Global Import Surcharge — ALL COUNTRIES",
-        treatment: "15% ad valorem on all imports from all countries (effective Feb 24, 2026). Maximum allowed under Section 122 of Trade Act of 1974.",
-        coverage: "All countries, all products — EXCEPT: pharmaceuticals, certain agricultural products (beef, tomatoes, oranges), critical minerals & metals, some electronics, passenger vehicles. Duration: 150 days (expires ~Jul 24, 2026); Congressional approval needed to extend.",
+        treatment: "10% ad valorem on covered imports from all countries effective Feb 24, 2026 under the White House Section 122 proclamation. Section 122 statute allows up to 15% for up to 150 days.",
+        coverage: "Broad temporary surcharge with proclamation exceptions including pharmaceuticals/pharmaceutical ingredients, certain agriculture, critical minerals/metals, some electronics, passenger vehicles and many other vehicle categories/parts, Section 232-covered goods (no stacking), USMCA-qualifying Canada/Mexico goods, and selected other listed categories. 150-day duration (~Jul 24, 2026) unless Congress approves extension.",
         status: "Active",
-        sourceIds: ["wh_section122_factsheet", "axios_section122", "cnbc_scotus_industries"]
+        sourceIds: ["wh_section122_proclamation", "wh_section122_factsheet", "axios_section122", "cnbc_scotus_industries"]
       },
       {
         commodity: "Branded/Patented Pharmaceuticals",
@@ -2570,14 +2575,14 @@
       },
       {
         commodity: "Medical Devices, PPE & Medical Equipment",
-        treatment: "No dedicated tariff yet; Section 232 investigation active. Section 122 15% surcharge applies from Feb 24. Section 232 (metal/semi components) also applies to device subsystems.",
+        treatment: "No dedicated tariff yet; Section 232 investigation active. Section 122 10% surcharge may apply from Feb 24 to non-exempt imports, while Section 232-covered goods remain exempt from §122 stacking under the proclamation.",
         coverage: "CT scanners, MRI machines, X-ray/angiography, electrosurgical equipment, pacemakers, insulin pumps, coronary stents, heart valves, ventilators, respirators, oxygen equipment, PPE (gloves, gowns, masks), orthopedic appliances, hearing aids.",
         status: "Watch",
         sourceIds: ["fr_meddevice_232_invest", "wh_section122_factsheet"]
       },
       {
         commodity: "Generic Pharmaceuticals / APIs / Key Starting Materials",
-        treatment: "Section 232 investigation active; no standalone tariff imposed yet. Section 122 15% applies from Feb 24 (generics NOT exempt under Section 122 exceptions).",
+        treatment: "Section 232 investigation active; no standalone tariff imposed yet. White House Section 122 proclamation/fact sheet exempt pharmaceuticals and pharmaceutical ingredients, so generic drugs/APIs appear exempt from §122 pending CBP implementation detail.",
         coverage: "Active pharmaceutical ingredients, key starting materials, finished generic drugs, medical countermeasures. Predominantly China and India supply chains.",
         status: "Watch",
         sourceIds: ["fr_pharma_232_invest", "wh_section122_factsheet"]
@@ -2663,7 +2668,7 @@
       medical_devices: {
         label: "Medical devices and PPE",
         section232Rate: 0,
-        affected: "CT, MRI, X-ray, pacemakers, stents, ventilators, PPE. No dedicated S.232 tariff yet; S.122 (15%) applies. S.232 metal/semi rates apply to component-level imports."
+        affected: "CT, MRI, X-ray, pacemakers, stents, ventilators, PPE. No dedicated S.232 tariff yet; S.122 (10%) may apply to non-exempt device imports. S.232 metal/semi rates apply to component-level imports."
       }
     };
 
@@ -2794,13 +2799,13 @@
         date: "2026-02-20",
         event: "Hours after SCOTUS ruling: Trump signs Proclamation invoking Section 122 of the Trade Act of 1974 — imposing a 10% global import surcharge on ALL countries. Effective Feb 24, 2026. Exceptions: pharmaceuticals (incl. diagnostic reagents), some agricultural products (beef, tomatoes, oranges), critical minerals/metals, some electronics, passenger vehicles, USMCA-qualifying goods from Canada and Mexico, and all Section 232-covered goods (steel, aluminum, autos, auto parts, MHDV/buses, copper, lumber, semiconductors — NO stacking with Section 232).",
         meta: "Never previously used; Section 122 allows maximum 15% for 150 days; no investigation required. LEGAL STATUS CONTESTED: trade experts argue S.122 is invalid because the U.S. does not have a qualifying balance-of-payments deficit under the statute (Fortune, Cato Institute, BCA Research). New legal challenges expected.",
-        sourceIds: ["wh_section122_factsheet", "axios_section122"]
+        sourceIds: ["wh_section122_proclamation", "wh_section122_factsheet", "axios_section122"]
       },
       {
         date: "2026-02-21",
-        event: "BREAKING: Trump announces on Truth Social he will immediately escalate the Section 122 global surcharge to the full statutory maximum of 15% for all countries (effective Feb 24, 2026). Duration: ~150 days (expires approx. July 24, 2026). Congressional approval needed for any extension beyond 150 days.",
-        meta: "Section 122 max = 15%; second announcement within 24 hours of SCOTUS ruling",
-        sourceIds: ["wh_section122_factsheet", "axios_section122", "cnbc_scotus_industries"]
+        event: "Reported follow-on escalation to a 15% Section 122 global surcharge (effective Feb 24, 2026) appears in media coverage of White House/Truth Social messaging, but no follow-on White House proclamation/Federal Register publication was located by this dashboard as of Feb 25, 2026; treat operative rate as 10% under the Feb 20 proclamation. (superseded)",
+        meta: "Section 122 statutory max = 15%; reported escalation claim not corroborated by later operative legal text as of 2026-02-25",
+        sourceIds: ["wh_section122_proclamation", "axios_section122", "cnbc_scotus_industries"]
       },
       {
         date: "2026-02-24",
@@ -2811,7 +2816,7 @@
     ];
 
     const GAPS = [
-      "CRITICAL: CBP implementation guidance for Section 122 (15% global surcharge, effective Feb 24 2026) not yet published — confirm operationalization before PO release post Feb 24.",
+      "CRITICAL: CBP implementation guidance for Section 122 (operative 10% surcharge under White House proclamation, effective Feb 24 2026) not yet published — confirm entry-line coding and exception handling before PO release.",
       "CRITICAL: IEEPA tariff unwinding CBP guidance pending — no official CBP/USTR instructions yet on refund processing for pre-Feb 20 shipments. Collections halted Feb 24, 2026 (Reuters).",
       "Medical Devices Section 232 investigation result unknown — Commerce report due May 30, 2026; impact on CT/MRI/X-ray imports could add +10–25% to import costs.",
       "Generic pharma Section 232 investigation ongoing — potential tariff on APIs and key starting materials from China and India remains a major SHS diagnostics supply chain risk.",
@@ -2821,7 +2826,7 @@
       "No direct CBP/ABI API integration for entry-level real-time tariff rate validation before PO release.",
       "No procurement-user role segmentation (buyer execution / legal-compliance / executive watch).",
       "Siemens Healthineers SKU-level supplier-country mapping not yet built — required for precision landed-cost estimates.",
-      "Section 122 exception product list for 'some electronics' not yet officially published — scope unclear for SHS imaging electronics components.",
+      "Section 122 proclamation exceptions (including some electronics) are not yet mapped into this dashboard at annex/HTS-line level — scope remains unclear for SHS imaging electronics components.",
       "India-U.S. Interim Agreement full product list and IEEPA legal survival post-SCOTUS not yet confirmed."
     ];
 
@@ -2970,16 +2975,16 @@
 
     function reciprocalText(country) {
       if (country === "China") {
-        return "IEEPA-derived tariffs STRUCK DOWN by SCOTUS Feb 20, 2026. China-specific heightened reciprocal layers and opioid-linked duties are no longer enforceable. Active measures remain: Section 301 strategic products, Section 232 commodities, Section 122 global surcharge (15%, Feb 24 2026).";
+        return "IEEPA-derived tariffs STRUCK DOWN by SCOTUS Feb 20, 2026. China-specific heightened reciprocal layers and opioid-linked duties are no longer enforceable. Active measures remain: Section 301 strategic products, Section 232 commodities, Section 122 global surcharge (10%, Feb 24 2026 proclamation).";
       }
       if (country === "EU" || isEuMember(country)) {
-        return "IEEPA-derived EU formula rate STRUCK DOWN by SCOTUS Feb 20, 2026. The EU Annex formula (max(0, 15% - MFN rate)) is no longer operative. Active measures: Section 232 (steel 50%, auto 25%, semi 25%); Section 122 global surcharge (15%, Feb 24 2026).";
+        return "IEEPA-derived EU formula rate STRUCK DOWN by SCOTUS Feb 20, 2026. The EU Annex formula (max(0, 15% - MFN rate)) is no longer operative. Active measures: Section 232 (steel 50%, auto 25%, semi 25%); Section 122 global surcharge (10%, Feb 24 2026 proclamation).";
       }
       const annex = ANNEX_RATES[country];
       if (annex) {
-        return `IEEPA Annex I adjusted reciprocal rate of ${annex} has been STRUCK DOWN by SCOTUS Feb 20, 2026 and is no longer enforceable. Active measures now are Section 232 commodity programs and the new Section 122 global surcharge (15%, effective Feb 24 2026).`;
+        return `IEEPA Annex I adjusted reciprocal rate of ${annex} has been STRUCK DOWN by SCOTUS Feb 20, 2026 and is no longer enforceable. Active measures now are Section 232 commodity programs and the new Section 122 global surcharge (10%, effective Feb 24 2026 under proclamation).`;
       }
-      return "IEEPA default reciprocal baseline (10%) STRUCK DOWN by SCOTUS Feb 20, 2026. Active measures: Section 232 commodity programs and Section 122 global surcharge (15%, effective Feb 24 2026).";
+      return "IEEPA default reciprocal baseline (10%) STRUCK DOWN by SCOTUS Feb 20, 2026. Active measures: Section 232 commodity programs and Section 122 global surcharge (10%, effective Feb 24 2026 under proclamation).";
     }
 
     function countrySummary(country) {
@@ -2988,50 +2993,50 @@
       const euTag = isEuMember(country) ? " This country is treated as an EU member for framework/countermeasure context." : "";
 
       if (country === "Canada") {
-        return "Canada has major exposure to Section 232 metals (50%) and vehicles (25%), plus the new Section 122 global surcharge (15%, Feb 24 2026). IEEPA northern-border duties (35% non-USMCA / 10% energy/potash) were STRUCK DOWN by the SCOTUS Feb 20 ruling. USMCA-compliant goods still benefit from zero tariff on USMCA-covered flows for Section 232 purposes. Canada maintains active countermeasures on U.S. steel, aluminum, and automobiles; broad 2025 retaliatory tariffs removed Sep 2025. Key source: Government of Canada Finance.";
+        return "Canada has major exposure to Section 232 metals (50%) and vehicles (25%), plus the Section 122 global surcharge (operatively 10% under the Feb 20 proclamation for covered non-exempt goods from Feb 24, 2026). IEEPA northern-border duties (35% non-USMCA / 10% energy/potash) were STRUCK DOWN by the SCOTUS Feb 20 ruling. USMCA-compliant goods are also excepted from the Section 122 layer under the proclamation. Canada maintains active countermeasures on U.S. steel, aluminum, and automobiles; broad 2025 retaliatory tariffs removed Sep 2025. Key source: Government of Canada Finance.";
       }
       if (country === "Mexico") {
-        return "Mexico faces Section 232 on metals/vehicles and the new Section 122 global surcharge (15%). IEEPA southern-border duties (25% non-USMCA) were STRUCK DOWN by SCOTUS Feb 20 ruling. USMCA carve-outs remain for compliant goods. Mexico's retaliatory posture is limited — no comprehensive retaliation schedule confirmed. Section 301 China measures do not apply to Mexican-origin goods unless transshipped.";
+        return "Mexico faces Section 232 on metals/vehicles and the Section 122 global surcharge (operatively 10% for covered non-exempt goods). IEEPA southern-border duties (25% non-USMCA) were STRUCK DOWN by SCOTUS Feb 20 ruling. USMCA-compliant goods are excepted from the Section 122 layer under the proclamation. Mexico's retaliatory posture is limited — no comprehensive retaliation schedule confirmed. Section 301 China measures do not apply to Mexican-origin goods unless transshipped.";
       }
       if (country === "China") {
-        return "China remains the highest-risk jurisdiction. Active measures: Section 301 strategic products (EVs, batteries, solar, cranes, selected medical — rates 25–100%+); Section 232 steel/aluminum (50%) and semiconductors (25%); Section 122 global surcharge (15%, Feb 24). IEEPA-derived heightened reciprocal tariffs and opioid duties were STRUCK DOWN by SCOTUS Feb 20. U.S.-PRC arrangement suspended PRC retaliatory ag tariffs through Nov 10, 2026. For Siemens Healthineers: China-origin electronics, detector components, and PPE face cumulative tariff stacking of Section 232 + Section 122.";
+        return "China remains the highest-risk jurisdiction. Active measures: Section 301 strategic products (EVs, batteries, solar, cranes, selected medical — rates 25–100%+); Section 232 steel/aluminum (50%) and semiconductors (25%); Section 122 global surcharge (operatively 10% from Feb 24 for covered non-exempt goods). IEEPA-derived heightened reciprocal tariffs and opioid duties were STRUCK DOWN by SCOTUS Feb 20. U.S.-PRC arrangement suspended PRC retaliatory ag tariffs through Nov 10, 2026. For Siemens Healthineers: China-origin electronics, detector components, and PPE can still face cumulative exposure where Section 122 applies and no exception/non-stacking rule blocks it.";
       }
       if (country === "United Kingdom") {
-        return "The UK has the most favorable tariff position for Siemens Healthineers procurement. U.S.-UK Economic Prosperity Deal (EO 14305) provides: steel/aluminum at 25% (carve-out from 50%); auto TRQ 100,000 units at combined 10%; 0% on pharmaceutical and medtech exports. Section 122 (15%) still applies unless goods qualify for explicit exceptions. UK pharma/medtech 0% tariff is a significant SHS sourcing advantage — verify HTS classification to confirm eligibility.";
+        return "The UK has the most favorable tariff position for Siemens Healthineers procurement. U.S.-UK Economic Prosperity Deal (EO 14305) provides: steel/aluminum at 25% (carve-out from 50%); auto TRQ 100,000 units at combined 10%; 0% on pharmaceutical and medtech exports. Section 122 (10% under the Feb 20 proclamation) can still apply to covered non-exempt goods. UK pharma/medtech 0% tariff is a significant SHS sourcing advantage — verify HTS classification to confirm eligibility.";
       }
       if (country === "Japan") {
-        return "Japan has dedicated treatment via EO 14345: 15% total tariff floor for qualifying auto and reciprocal pathways. Section 232 steel/aluminum at 50% (no Japan-specific exemption). Section 122 global surcharge (15%) applies. IEEPA Annex I rate was 15% — now moot after SCOTUS ruling. Japan has not announced formal retaliatory tariffs but is engaged in ongoing trade talks. Key supply for SHS: precision components, optical systems, medical electronics.";
+        return "Japan has dedicated treatment via EO 14345: 15% total tariff floor for qualifying auto and reciprocal pathways. Section 232 steel/aluminum at 50% (no Japan-specific exemption). Section 122 global surcharge (operatively 10% under the Feb 20 proclamation) applies to covered non-exempt goods. IEEPA Annex I rate was 15% — now moot after SCOTUS ruling. Japan has not announced formal retaliatory tariffs but is engaged in ongoing trade talks. Key supply for SHS: precision components, optical systems, medical electronics.";
       }
       if (country === "India") {
-        return "India had IEEPA reciprocal rate of 25% (now moot post-SCOTUS Feb 20) and was removed from Russia-linked 25% secondary duty effective Feb 7, 2026. U.S.-India Interim Agreement reduces certain goods to 18% reciprocal rate — bilateral framework may survive separate from IEEPA. Section 232 metals (50%), autos (25%), and Section 122 global surcharge (15%, Feb 24) all apply. India is a critical source for SHS APIs/generic pharma; Section 232 pharma investigation poses medium-term risk. India has not formally retaliated but may pursue WTO dispute mechanisms.";
+        return "India had IEEPA reciprocal rate of 25% (now moot post-SCOTUS Feb 20) and was removed from Russia-linked 25% secondary duty effective Feb 7, 2026. U.S.-India Interim Agreement reduces certain goods to 18% reciprocal rate — bilateral framework may survive separate from IEEPA. Section 232 metals (50%), autos (25%), and the Section 122 global surcharge (operatively 10% for covered non-exempt goods from Feb 24) all apply. India is a critical source for SHS APIs/generic pharma; pharmaceuticals/pharmaceutical ingredients appear exempt from Section 122, but the Section 232 pharma investigation poses medium-term risk. India has not formally retaliated but may pursue WTO dispute mechanisms.";
       }
       if (country === "Brazil") {
-        return "Brazil had an IEEPA Annex I rate of 10% plus a 40% targeted duty on specific Annex-listed products — both STRUCK DOWN by SCOTUS Feb 20, 2026. Section 122 global surcharge (15%, Feb 24) applies. Section 232 metals (50%) apply. Brazil had imposed limited WTO-framework retaliatory measures. Monitor EO 14323 enforcement status closely.";
+        return "Brazil had an IEEPA Annex I rate of 10% plus a 40% targeted duty on specific Annex-listed products — both STRUCK DOWN by SCOTUS Feb 20, 2026. Section 122 global surcharge (operatively 10% for covered non-exempt goods from Feb 24) applies. Section 232 metals (50%) apply. Brazil had imposed limited WTO-framework retaliatory measures. Monitor EO 14323 enforcement status closely.";
       }
       if (country === "South Korea") {
-        return "South Korea had IEEPA Annex I rate of 15% (now moot post-SCOTUS). Section 232 steel/aluminum at 50%, autos at 25%, semiconductors at 25%, Section 122 (15%) all apply. U.S.-Japan deal framework provides a reference for potential bilateral negotiations. South Korea is a critical SHS supply chain node for memory chips, display panels, and precision manufacturing. No formal US-Korea bilateral trade deal announced.";
+        return "South Korea had IEEPA Annex I rate of 15% (now moot post-SCOTUS). Section 232 steel/aluminum at 50%, autos at 25%, semiconductors at 25%, and Section 122 (operatively 10% for covered non-exempt goods) all apply. U.S.-Japan deal framework provides a reference for potential bilateral negotiations. South Korea is a critical SHS supply chain node for memory chips, display panels, and precision manufacturing. No formal US-Korea bilateral trade deal announced.";
       }
       if (country === "Taiwan") {
-        return "Taiwan had IEEPA Annex I rate of 20% (now moot post-SCOTUS). Section 232 semiconductors (25%) is highly relevant — Taiwan is the dominant source of advanced chips (TSMC), which are inputs in medical imaging systems. Section 122 (15%) also applies. No bilateral deal. Taiwan faces geopolitical risk overlapping with tariff risk for supply chain continuity.";
+        return "Taiwan had IEEPA Annex I rate of 20% (now moot post-SCOTUS). Section 232 semiconductors (25%) is highly relevant — Taiwan is the dominant source of advanced chips (TSMC), which are inputs in medical imaging systems. Section 122 (operatively 10% for covered non-exempt goods) also applies. No bilateral deal. Taiwan faces geopolitical risk overlapping with tariff risk for supply chain continuity.";
       }
       if (country === "Germany" || country === "France" || country === "Italy" || country === "Netherlands" || isEuMember(country)) {
-        const euRateNote = `KEY ADVANTAGE: U.S.-EU Framework Agreement (Aug 21, 2025, pharma effective Sep 1, 2025) caps EU pharmaceutical and medtech tariffs at a maximum 15% ceiling — the 100% branded-pharma rate does NOT apply to EU/German-origin products. EU generic pharma receives MFN rates (~0%). IEEPA EU formula rate: now moot post-SCOTUS. Section 122 global surcharge (15%) effective Feb 24. Section 232 steel/aluminum at 50%; autos 25%; advanced semiconductors 25% (narrow scope). Germany is SHS home country and key manufacturing base — pharma/medtech shipped from Germany to U.S. benefits from the 15% EU ceiling rather than the global 100% branded-pharma rate.`;
+        const euRateNote = `KEY ADVANTAGE: U.S.-EU Framework Agreement (Aug 21, 2025, pharma effective Sep 1, 2025) caps EU pharmaceutical and medtech tariffs at a maximum 15% ceiling — the 100% branded-pharma rate does NOT apply to EU/German-origin products. EU generic pharma receives MFN rates (~0%). IEEPA EU formula rate: now moot post-SCOTUS. Section 122 global surcharge is operatively 10% (not 15%) under the Feb 20 proclamation and applies only to covered non-exempt goods. Section 232 steel/aluminum at 50%; autos 25%; advanced semiconductors 25% (narrow scope). Germany is SHS home country and key manufacturing base — pharma/medtech shipped from Germany to U.S. benefits from the 15% EU ceiling rather than the global 100% branded-pharma rate.`;
         return euRateNote;
       }
       if (country === "EU") {
-        return "European Union: IEEPA formula rate (contested, now moot post-SCOTUS) was: max(0, 15% - Column 1 MFN rate). Section 122 global surcharge (15%) applies from Feb 24. Section 232 programs (steel 50%, auto 25%, semi 25%) apply to all EU member goods. EU-U.S. trade framework negotiations ongoing; no formal retaliation yet. EU is SHS primary manufacturing base; note any goods exported from EU to U.S. will face Section 122 + Section 232 stacking where applicable.";
+        return "European Union: IEEPA formula rate (contested, now moot post-SCOTUS) was: max(0, 15% - Column 1 MFN rate). Section 122 global surcharge is operatively 10% from Feb 24 under the White House proclamation for covered non-exempt goods. Section 232 programs (steel 50%, auto 25%, semi 25%) apply to all EU member goods, and Section 232-covered goods are excepted from the §122 layer. EU-U.S. trade framework negotiations ongoing; no formal retaliation yet. EU is SHS primary manufacturing base.";
       }
       if (country === "Vietnam") {
-        return "Vietnam had IEEPA Annex I rate of 20% (now moot post-SCOTUS). Section 122 (15%) applies from Feb 24. Section 232 steel/aluminum (50%) applies. Vietnam is a growing source of electronics and medical device components. China transshipment risk: CBP has tightened anti-circumvention enforcement; goods routed through Vietnam to avoid China Section 301 tariffs face seizure risk.";
+        return "Vietnam had IEEPA Annex I rate of 20% (now moot post-SCOTUS). Section 122 (operatively 10% for covered non-exempt goods) applies from Feb 24. Section 232 steel/aluminum (50%) applies. Vietnam is a growing source of electronics and medical device components. China transshipment risk: CBP has tightened anti-circumvention enforcement; goods routed through Vietnam to avoid China Section 301 tariffs face seizure risk.";
       }
       if (country === "Singapore") {
-        return "Singapore: No IEEPA Annex I rate listed; defaulted to 10% baseline (now moot). Section 122 (15%) applies from Feb 24. Section 232 programs apply. Singapore is a key logistics and distribution hub; verify origin rules carefully for goods transiting Singapore — MFN origin, not shipping origin, determines tariff treatment.";
+        return "Singapore: No IEEPA Annex I rate listed; defaulted to 10% baseline (now moot). Section 122 (operatively 10% for covered non-exempt goods) applies from Feb 24. Section 232 programs apply. Singapore is a key logistics and distribution hub; verify origin rules carefully for goods transiting Singapore — MFN origin, not shipping origin, determines tariff treatment.";
       }
       if (country === "Switzerland") {
-        return "Switzerland had one of the highest IEEPA Annex I rates at 39% (now moot post-SCOTUS). Section 122 (15%) applies. Section 232 metals (50%) apply. Switzerland is a critical source for SHS high-precision instruments, watch/clock components, and specialty pharma. Swiss pharma/medtech sector is closely monitoring the Section 122 exception for pharmaceuticals.";
+        return "Switzerland had one of the highest IEEPA Annex I rates at 39% (now moot post-SCOTUS). Section 122 (operatively 10% for covered non-exempt goods) applies. Section 232 metals (50%) apply. Switzerland is a critical source for SHS high-precision instruments, watch/clock components, and specialty pharma. Swiss pharma/medtech sector is closely monitoring the Section 122 exception for pharmaceuticals.";
       }
 
-      return `Primary active exposure is through Section 232 product programs (metals, vehicles, timber, copper, semiconductors) and the new Section 122 global surcharge (15%, effective Feb 24 2026). ${reciprocalText(country)}${euTag}`;
+      return `Primary active exposure is through Section 232 product programs (metals, vehicles, timber, copper, semiconductors) and the Section 122 global surcharge (operatively 10% under the Feb 20 proclamation, effective Feb 24 2026 for covered non-exempt goods). ${reciprocalText(country)}${euTag}`;
     }
 
     function buildActiveRows(country) {
@@ -3110,11 +3115,11 @@
 
       rows.push({
         measure: "Section 122 global import surcharge",
-        scope: "All products from ALL countries. Exceptions: pharmaceuticals (incl. diagnostic reagents), certain agricultural products (beef, tomatoes, oranges), critical minerals & metals, some electronics, passenger vehicles, USMCA-qualifying goods from Canada/Mexico, and all goods already subject to Section 232 tariffs (no stacking — steel, aluminum, autos, copper, lumber, semiconductors all exempt from the §122 layer).",
-        tariff: "15% ad valorem (maximum under Trade Act §122). Duration ~150 days from Feb 24; expires approx. Jul 24, 2026 without Congressional extension.",
+        scope: "Covered imports from ALL countries. Proclamation exceptions include pharmaceuticals/pharmaceutical ingredients (incl. diagnostic reagents), certain agriculture (beef, tomatoes, oranges), critical minerals & metals, some electronics, passenger vehicles and many vehicle categories/parts, USMCA-qualifying Canada/Mexico goods, and all goods already subject to Section 232 tariffs (no stacking — steel, aluminum, autos, copper, lumber, semiconductors, etc. exempt from the §122 layer).",
+        tariff: "10% ad valorem under Feb 20, 2026 White House proclamation. Trade Act §122 statutory maximum is 15%. Duration ~150 days from Feb 24; expires approx. Jul 24, 2026 without Congressional extension.",
         status: "Active",
         effective: "2026-02-24",
-        sourceIds: ["wh_section122_factsheet", "axios_section122"]
+        sourceIds: ["wh_section122_proclamation", "wh_section122_factsheet", "axios_section122"]
       });
 
       if (country === "United Kingdom") {
@@ -3333,7 +3338,7 @@
     function renderKpis() {
       const kpis = [
         { label: "Active Tariff Commodity Programs", value: "12", sub: "S.232 · S.301 · S.122" },
-        { label: "Avg. Effective U.S. Tariff Rate",  value: "13.7%", sub: "Feb 2026 · Yale Budget Lab ↓ from 16% pre-ruling" },
+        { label: "Latest Published Effective Tariff Estimate",  value: "13.7%", sub: "Yale Budget Lab (Feb 21, 2026 published estimate) · monitor for update after operative 10% Section 122 clarification" },
         { label: "2025 U.S. Tariff Revenue",         value: "$287B",  sub: "+192% vs 2024" },
         { label: "SHS Projected FY2026 Impact",       value: "€400M",  sub: "~2× FY2025 · Bloomberg" }
       ];
@@ -3705,7 +3710,7 @@
         section301Note = "Section 301 strategic preset applies to China-origin products only.";
       }
 
-      // Section 122 global surcharge (15%, effective Feb 24 2026, all countries, ~150 days)
+      // Section 122 global surcharge (operative 10% under Feb 20, 2026 proclamation; effective Feb 24 2026 for covered non-exempt goods)
       let section122Rate = 0;
       let section122Note = "";
       if (commodityKey === "branded_pharma") {
@@ -3713,8 +3718,8 @@
       } else if (section122Exempt) {
         section122Note = "Goods marked as Section 122 exempt (pharma, certain ag, critical minerals, some electronics).";
       } else if (includeSection122) {
-        section122Rate = 15;
-        section122Note = "Section 122 global surcharge (15%) effective Feb 24 2026 for ~150 days (Trade Act §122). Max statutory rate. Expires ~Jul 24 2026 without Congressional extension.";
+        section122Rate = 10;
+        section122Note = "Section 122 global surcharge (10%) effective Feb 24 2026 for covered non-exempt goods under White House proclamation (Trade Act §122). Statutory max is 15%. Expires ~Jul 24 2026 without Congressional extension.";
       } else {
         section122Note = "Section 122 surcharge excluded from scenario.";
       }
