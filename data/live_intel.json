@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T06:47:11+00:00",
+  "generated_at": "2026-02-26T06:47:02+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-03832",
+          "publication_date": "2026-02-25",
+          "title": "Ending Certain Tariff Actions",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03832/ending-certain-tariff-actions",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03829",
+          "publication_date": "2026-02-25",
+          "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03829/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03824",
+          "publication_date": "2026-02-25",
+          "title": "Imposing a Temporary Import Surcharge To Address Fundamental International Payments Problems",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03824/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03760",
+          "publication_date": "2026-02-25",
+          "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; LEO Certification Letter for Official Duty Firearm Purchase",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03760/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-03759",
+          "publication_date": "2026-02-25",
+          "title": "Float Glass Products From Malaysia: Final Affirmative Countervailing Duty Determination; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03759/float-glass-products-from-malaysia-final-affirmative-countervailing-duty-determination-correction",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03755",
+          "publication_date": "2026-02-25",
+          "title": "Purchase, Sale, and Pledge of Eligible Obligations",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03755/purchase-sale-and-pledge-of-eligible-obligations",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-03691",
           "publication_date": "2026-02-24",
@@ -391,7 +445,7 @@
           "type": "Rule",
           "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-03135",
@@ -412,22 +466,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-03074",
-          "publication_date": "2026-02-17",
-          "title": "Clarification of the Appropriate Use of Terms \u201cNational\u201d and \u201cRegional\u201d by Recognized Accrediting Agencies",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03074/clarification-of-the-appropriate-use-of-terms-national-and-regional-by-recognized-accrediting",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-03066",
           "publication_date": "2026-02-17",
           "title": "Numbering Policies for Modern Communications",
           "type": "Rule",
           "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03066/numbering-policies-for-modern-communications",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-03060",
@@ -463,7 +508,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03001/foreign-trade-zone-ftz-22-notification-of-proposed-production-activity-afc-specialty-coatings-group",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-02999",
@@ -637,40 +682,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-02780",
-          "publication_date": "2026-02-11",
-          "title": "Carbon and Alloy Steel Wire Rod From Ukraine: Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02780/carbon-and-alloy-steel-wire-rod-from-ukraine-rescission-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-02779",
           "publication_date": "2026-02-11",
           "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02779/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-preliminary",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02778",
-          "publication_date": "2026-02-11",
-          "title": "Monosodium Glutamate From the People's Republic of China: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02778/monosodium-glutamate-from-the-peoples-republic-of-china-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02777",
-          "publication_date": "2026-02-11",
-          "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping Duty and Countervailing Duty Petitions: Certain Fatty Acids From Indonesia and Malaysia",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02777/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-duty-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02775",
@@ -709,15 +727,6 @@
           "term_hit": "de minimis"
         },
         {
-          "document_number": "2026-02760",
-          "publication_date": "2026-02-11",
-          "title": "Lattice-Boom Crawler Cranes (LBCCs) From Japan; Scheduling of the Final Phase of Antidumping Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02760/lattice-boom-crawler-cranes-lbccs-from-japan-scheduling-of-the-final-phase-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-02646",
           "publication_date": "2026-02-10",
           "title": "Large Power Transformers From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review, 2023-2024",
@@ -732,15 +741,6 @@
           "title": "Low Melt Polyester Staple Fiber From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02643/low-melt-polyester-staple-fiber-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02641",
-          "publication_date": "2026-02-10",
-          "title": "Polyethylene Retail Carrier Bags From Malaysia: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02641/polyethylene-retail-carrier-bags-from-malaysia-preliminary-results-of-antidumping-duty",
           "raw_text_url": null,
           "term_hit": "de minimis"
         }
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the Structured Dialogue with the European Parliament's Committee on International Trade",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_460",
-            "pub_date": "Tue, 24 Feb 2026 09:34:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_460",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Speech Brussels, 24 Feb 2026 Dear Chair, Honourable Members. It is a pleasure to be here in front of the European Parliament Committee on International Trade for this Structured Dialogue. I..."
+            "title": "Speech by Commissioner \u0160uica at the Structured Dialogue of the Committee on Foreign Affairs of the European Parliament",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_478",
+            "pub_date": "Wed, 25 Feb 2026 14:35:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_478",
+            "category": "POLICY_AREA=MED",
+            "description": "European Commission Speech Brussels, 25 Feb 2026 Dear Chair, Dear Vice-Chairs, Honourable Members, Thank you for the invitation to today's Structured Dialogue with your Committee. It is always a pleasure to ..."
+          },
+          {
+            "title": "President von der Leyen visits Kyiv to reaffirm EU's unwavering support as Ukraine commemorates four years of war",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_475",
+            "pub_date": "Wed, 25 Feb 2026 10:27:50 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_475",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 25 Feb 2026 President of the Commission, Ursula von der Leyen, together with President of the European Council Ant\u00f3nio Costa, travelled to Ukraine this week to mark the tr..."
+          },
+          {
+            "title": "\u2018Roam Like at Home': Commission proposes to open negotiations to extend EU Roaming to the Western Balkans",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_474",
+            "pub_date": "Wed, 25 Feb 2026 10:03:39 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_474",
+            "category": "POLICY_AREA=DIGAG,ENLNEIG,TECH",
+            "description": "European Commission Press release Brussels, 25 Feb 2026 The European Commission has proposed to open negotiations with Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia to integrate them into the EU's \u2018Roam Like at Home' regime."
+          },
+          {
+            "title": "Opening remarks by Executive Vice-President Teresa Ribera at the signing ceremony of the EU \u2013 UK Competition Cooperation Agreement",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_473",
+            "pub_date": "Wed, 25 Feb 2026 09:57:42 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_473",
+            "category": "POLICY_AREA=COMPETY",
+            "description": "European Commission Speech Brussels, 25 Feb 2026 Thank you all for being here with us this afternoon. Dear Secretary of State, thank you. Thank you for your involvement and the involvement of your government, ..."
+          },
+          {
+            "title": "Joint press release: New platform to boost support for EU regions most affected by the war in Ukraine",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_471",
+            "pub_date": "Wed, 25 Feb 2026 09:24:28 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_471",
+            "category": "POLICY_AREA=REGIONAL",
+            "description": "European Commission Press release Brussels, 25 Feb 2026 Tomorrow, the Commission will be hosting the launch of a new initiative to provide easier access to lending support to EU Member States bordering Russia, Belaru..."
+          },
+          {
+            "title": "Daily News 25 / 02 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_470",
+            "pub_date": "Wed, 25 Feb 2026 09:06:21 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_470",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 25 Feb 2026 Joint press release: New facility to boost support for EU regions most affected by the war in Ukraine Tomorrow, the Commission will be hosting the launch of a ..."
+          },
+          {
+            "title": "EU and UK agree to cooperate closely on competition matters",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_454",
+            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_454",
+            "category": "POLICY_AREA=COMPETY",
+            "description": "European Commission Press release Brussels, 25 Feb 2026 Today, the European Commission and the United Kingdom signed the EU-UK Competition Cooperation Agreement. The agreement sets a new and clear framework for coope..."
+          },
+          {
+            "title": "Keynote speech by Commissioner Dombrovskis on the digital euro at Masters of Digital 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_455",
+            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_455",
+            "category": "POLICY_AREA=DIGAG,ECOMONAFF",
+            "description": "European Commission Speech Brussels, 25 Feb 2026 Good afternoon, ladies and gentlemen. It is my pleasure to return to Masters of Digital for its 2026 edition. Digital innovation is reshaping every aspect of ou..."
+          },
+          {
+            "title": "Commission invites comments on draft new State aid General Block Exemption Regulation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_453",
+            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_453",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Press release Brussels, 25 Feb 2026 The European Commission has today launched a public consultation on the draft of a simpler and more streamlined General Block Exemption Regulation (GBER). The n..."
+          },
+          {
+            "title": "Speech of Commissioner \u0160uica at the European Summit of Cruise Lines International (CLIA)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_461",
+            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_461",
+            "category": "POLICY_AREA=TRANSPORT,MED",
+            "description": "European Commission Speech Madeira, 25 Feb 2026 Dear Charles Darr, Dear Miguel Albuquerque, Dear participants and guests, It is a great honour to address you today. Sustainable tourism plays a crucial role ..."
           }
         ],
         "errors": []
