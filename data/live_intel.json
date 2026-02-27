@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T06:47:02+00:00",
+  "generated_at": "2026-02-27T06:45:37+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-03897",
+          "publication_date": "2026-02-26",
+          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules From the Lao People's Democratic Republic: Preliminary Affirmative Countervailing Duty Determination, Preliminary Negative Critical Circumstances Determination, and Alignment of Final Determination With Final Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03897/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-the-lao-peoples",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03896",
+          "publication_date": "2026-02-26",
+          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules From Indonesia: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, in Part, and Alignment of Final Determination With Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03896/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-indonesia",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03895",
+          "publication_date": "2026-02-26",
+          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From India: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, in Part, and Alignment of Final Determination With Final Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03895/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-india-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03894",
+          "publication_date": "2026-02-26",
+          "title": "Organic Soybean Meal From India: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03894/organic-soybean-meal-from-india-final-results-of-countervailing-duty-administrative-review-2023",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03893",
+          "publication_date": "2026-02-26",
+          "title": "Large Diameter Welded Pipe From the Republic of T\u00fcrkiye: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03893/large-diameter-welded-pipe-from-the-republic-of-trkiye-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03892",
+          "publication_date": "2026-02-26",
+          "title": "Certain Lined Paper Products From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03892/certain-lined-paper-products-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03881",
+          "publication_date": "2026-02-26",
+          "title": "Certain New Pneumatic Off-the-Road Tires From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03881/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03878",
+          "publication_date": "2026-02-26",
+          "title": "Electrolytic Manganese Dioxide From the People's Republic of China: Continuation of Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03878/electrolytic-manganese-dioxide-from-the-peoples-republic-of-china-continuation-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03868",
+          "publication_date": "2026-02-26",
+          "title": "Request for Comments on the Design of a Plurilateral Agreement on Trade in Critical Minerals and Policy Actions To Strengthen the Resilience of Critical Mineral Supply Chains",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03868/request-for-comments-on-the-design-of-a-plurilateral-agreement-on-trade-in-critical-minerals-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03795",
+          "publication_date": "2026-02-26",
+          "title": "Certain Cut-to-Length Carbon-Quality Steel Plate Products From the Republic of Korea: Preliminary Results and Rescission of Antidumping Duty Administrative Review, in Part; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03795/certain-cut-to-length-carbon-quality-steel-plate-products-from-the-republic-of-korea-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-03832",
           "publication_date": "2026-02-25",
@@ -616,16 +706,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02859/finished-carbon-steel-flanges-from-india-preliminary-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02852",
-          "publication_date": "2026-02-12",
-          "title": "Limitations of Duty-Free Imports of Apparel Articles Assembled in Beneficiary Sub-Saharan African Countries From Regional and Third-Country Fabric",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02852/limitations-of-duty-free-imports-of-apparel-articles-assembled-in-beneficiary-sub-saharan-african",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02850",
@@ -634,52 +715,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02850/carbon-and-certain-alloy-steel-wire-rod-from-mexico-preliminary-results-and-partial-rescission-of",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02832",
-          "publication_date": "2026-02-12",
-          "title": "Limitation of Duty-Free Imports of Apparel Articles Assembled in Haiti Under the Caribbean Basin Economic Recovery Act",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02832/limitation-of-duty-free-imports-of-apparel-articles-assembled-in-haiti-under-the-caribbean-basin",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02828",
-          "publication_date": "2026-02-12",
-          "title": "Sodium Nitrite From India: Final Results of Antidumping Duty Administrative Review; 2022-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02828/sodium-nitrite-from-india-final-results-of-antidumping-duty-administrative-review-2022-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02783",
-          "publication_date": "2026-02-12",
-          "title": "Certain Frozen Fish Fillets From the Socialist Republic of Vietnam: Notice of Court Decision Not in Harmony With the Final Results of New Shipper Review; and Notice of Amended Final Results",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02783/certain-frozen-fish-fillets-from-the-socialist-republic-of-vietnam-notice-of-court-decision-not-in",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02781",
-          "publication_date": "2026-02-12",
-          "title": "Certain Uncoated Paper From Brazil: Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02781/certain-uncoated-paper-from-brazil-rescission-of-antidumping-duty-administrative-review-2024-2025",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02818",
-          "publication_date": "2026-02-11",
-          "title": "Modifying Duties To Address Threats to the United States by the Government of the Russian Federation",
-          "type": "Presidential Document",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02818/modifying-duties-to-address-threats-to-the-united-states-by-the-government-of-the-russian-federation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02779",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02774/foreign-trade-zone-ftz-93-notification-of-proposed-production-activity-general-electric-company",
           "raw_text_url": null,
           "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-02773",
-          "publication_date": "2026-02-11",
-          "title": "Foreign-Trade Zone (FTZ) 72, Notification of Proposed Production Activity; General Electric Company; (Commercial Aerospace Propulsion Parts and Engine Cores); Lafayette, Indiana",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02773/foreign-trade-zone-ftz-72-notification-of-proposed-production-activity-general-electric-company",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-02772",
-          "publication_date": "2026-02-11",
-          "title": "Certain Frozen Fish Fillets From the Socialist Republic of Vietnam: Preliminary Results of Antidumping Duty Administrative Review; Preliminary Recission of Administrative Review; and Recission of Administrative Review, in Part; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02772/certain-frozen-fish-fillets-from-the-socialist-republic-of-vietnam-preliminary-results-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02646",
-          "publication_date": "2026-02-10",
-          "title": "Large Power Transformers From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review, 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02646/large-power-transformers-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02643",
-          "publication_date": "2026-02-10",
-          "title": "Low Melt Polyester Staple Fiber From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/10/2026-02643/low-melt-polyester-staple-fiber-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Speech by Commissioner \u0160uica at the Structured Dialogue of the Committee on Foreign Affairs of the European Parliament",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_478",
-            "pub_date": "Wed, 25 Feb 2026 14:35:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_478",
-            "category": "POLICY_AREA=MED",
-            "description": "European Commission Speech Brussels, 25 Feb 2026 Dear Chair, Dear Vice-Chairs, Honourable Members, Thank you for the invitation to today's Structured Dialogue with your Committee. It is always a pleasure to ..."
-          },
-          {
-            "title": "President von der Leyen visits Kyiv to reaffirm EU's unwavering support as Ukraine commemorates four years of war",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_475",
-            "pub_date": "Wed, 25 Feb 2026 10:27:50 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_475",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission News Brussels, 25 Feb 2026 President of the Commission, Ursula von der Leyen, together with President of the European Council Ant\u00f3nio Costa, travelled to Ukraine this week to mark the tr..."
-          },
-          {
-            "title": "\u2018Roam Like at Home': Commission proposes to open negotiations to extend EU Roaming to the Western Balkans",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_474",
-            "pub_date": "Wed, 25 Feb 2026 10:03:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_474",
-            "category": "POLICY_AREA=DIGAG,ENLNEIG,TECH",
-            "description": "European Commission Press release Brussels, 25 Feb 2026 The European Commission has proposed to open negotiations with Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia to integrate them into the EU's \u2018Roam Like at Home' regime."
-          },
-          {
-            "title": "Opening remarks by Executive Vice-President Teresa Ribera at the signing ceremony of the EU \u2013 UK Competition Cooperation Agreement",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_473",
-            "pub_date": "Wed, 25 Feb 2026 09:57:42 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_473",
-            "category": "POLICY_AREA=COMPETY",
-            "description": "European Commission Speech Brussels, 25 Feb 2026 Thank you all for being here with us this afternoon. Dear Secretary of State, thank you. Thank you for your involvement and the involvement of your government, ..."
-          },
-          {
-            "title": "Joint press release: New platform to boost support for EU regions most affected by the war in Ukraine",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_471",
-            "pub_date": "Wed, 25 Feb 2026 09:24:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_471",
-            "category": "POLICY_AREA=REGIONAL",
-            "description": "European Commission Press release Brussels, 25 Feb 2026 Tomorrow, the Commission will be hosting the launch of a new initiative to provide easier access to lending support to EU Member States bordering Russia, Belaru..."
-          },
-          {
-            "title": "Daily News 25 / 02 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_470",
-            "pub_date": "Wed, 25 Feb 2026 09:06:21 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_470",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 25 Feb 2026 Joint press release: New facility to boost support for EU regions most affected by the war in Ukraine Tomorrow, the Commission will be hosting the launch of a ..."
-          },
-          {
-            "title": "EU and UK agree to cooperate closely on competition matters",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_454",
-            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_454",
-            "category": "POLICY_AREA=COMPETY",
-            "description": "European Commission Press release Brussels, 25 Feb 2026 Today, the European Commission and the United Kingdom signed the EU-UK Competition Cooperation Agreement. The agreement sets a new and clear framework for coope..."
-          },
-          {
-            "title": "Keynote speech by Commissioner Dombrovskis on the digital euro at Masters of Digital 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_455",
-            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_455",
-            "category": "POLICY_AREA=DIGAG,ECOMONAFF",
-            "description": "European Commission Speech Brussels, 25 Feb 2026 Good afternoon, ladies and gentlemen. It is my pleasure to return to Masters of Digital for its 2026 edition. Digital innovation is reshaping every aspect of ou..."
-          },
-          {
-            "title": "Commission invites comments on draft new State aid General Block Exemption Regulation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_453",
-            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_453",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 25 Feb 2026 The European Commission has today launched a public consultation on the draft of a simpler and more streamlined General Block Exemption Regulation (GBER). The n..."
-          },
-          {
-            "title": "Speech of Commissioner \u0160uica at the European Summit of Cruise Lines International (CLIA)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_461",
-            "pub_date": "Tue, 24 Feb 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_461",
-            "category": "POLICY_AREA=TRANSPORT,MED",
-            "description": "European Commission Speech Madeira, 25 Feb 2026 Dear Charles Darr, Dear Miguel Albuquerque, Dear participants and guests, It is a great honour to address you today. Sustainable tourism plays a crucial role ..."
+            "title": "Press Remarks by Commissioner Lahbib for the European Citizens' Initiative \u2018My Voice, My Choice'",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_493",
+            "pub_date": "Thu, 26 Feb 2026 15:36:24 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_493",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Speech Brussels, 26 Feb 2026 Today I am proud to stand before you for something truly important. This is one of our key equality priorities for this mandate. It will be part of our legacy. ..."
           }
         ],
         "errors": []
