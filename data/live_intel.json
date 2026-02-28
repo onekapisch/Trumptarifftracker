@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T06:45:37+00:00",
+  "generated_at": "2026-02-28T06:43:59+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,51 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-03972",
+          "publication_date": "2026-02-27",
+          "title": "Oil Country Tubular Goods From the People's Republic of China: Final Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03972/oil-country-tubular-goods-from-the-peoples-republic-of-china-final-affirmative-determination-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03954",
+          "publication_date": "2026-02-27",
+          "title": "Large Diameter Graphite Electrodes From China and India; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03954/large-diameter-graphite-electrodes-from-china-and-india-institution-of-antidumping-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03928",
+          "publication_date": "2026-02-27",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03928/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03924",
+          "publication_date": "2026-02-27",
+          "title": "Certain Beverage Brewing Products and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03924/certain-beverage-brewing-products-and-components-thereof-notice-of-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03911",
+          "publication_date": "2026-02-27",
+          "title": "Polyethylene Terephthalate (PET) Film, Sheet, and Strip From China, India, Taiwan, and United Arab Emirates; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03911/polyethylene-terephthalate-pet-film-sheet-and-strip-from-china-india-taiwan-and-united-arab-emirates",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-03897",
           "publication_date": "2026-02-26",
@@ -403,24 +448,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-03368",
-          "publication_date": "2026-02-20",
-          "title": "Imidacloprid; Pesticide Tolerance(s)",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03368/imidacloprid-pesticide-tolerances",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-03351",
-          "publication_date": "2026-02-20",
-          "title": "Development of Guidance for Alternative Fuel Vehicles and Fueling Infrastructure Deployment Under the Clean School Bus Funding Programs",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03351/development-of-guidance-for-alternative-fuel-vehicles-and-fueling-infrastructure-deployment-under",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-03340",
           "publication_date": "2026-02-20",
           "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
@@ -446,15 +473,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03324/certain-composite-intermediate-bulk-containers-notice-of-commission-determination-on-remedy-the",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03300",
-          "publication_date": "2026-02-19",
-          "title": "Petroleum-Equivalent Fuel Economy Calculation",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/19/2026-03300/petroleum-equivalent-fuel-economy-calculation",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-03287",
@@ -670,7 +688,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02878/carbazole-violet-pigment-23-from-india-preliminary-results-and-partial-rescission-of-antidumping",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02877",
@@ -682,22 +700,13 @@
           "term_hit": "de minimis"
         },
         {
-          "document_number": "2026-02876",
-          "publication_date": "2026-02-13",
-          "title": "Chromium Trioxide From India: Postponement of Preliminary Determination in the Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02876/chromium-trioxide-from-india-postponement-of-preliminary-determination-in-the-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-02875",
           "publication_date": "2026-02-13",
           "title": "Ripe Olives From Spain: Preliminary Results of Antidumping Duty Administrative Review, and Partial Rescission of Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02875/ripe-olives-from-spain-preliminary-results-of-antidumping-duty-administrative-review-and-partial",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-02859",
@@ -734,15 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02775/foreign-trade-zone-ftz-46-notification-of-proposed-production-activity-general-electric-company",
           "raw_text_url": null,
           "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-02774",
-          "publication_date": "2026-02-11",
-          "title": "Foreign-Trade Zone (FTZ) 93, Notification of Proposed Production Activity; General Electric Company; (Commercial Aerospace Propulsion Parts and Engine Cores); Durham, North Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02774/foreign-trade-zone-ftz-93-notification-of-proposed-production-activity-general-electric-company",
-          "raw_text_url": null,
-          "term_hit": "section 232"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 67893165 - Harmonized System Update (HSU) 2606",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40bf7ad",
+          "pub_date": "Fri, 27 Feb 2026 17:54:09 -0500",
+          "guid": "67893165",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67893165 - Harmonized System Update (HSU) 2606 The Agricultural Marketing Service (AMS), Department of Agriculture (USDA) is withdrawing the direct final rule, \u201cCotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2025 Amendments),\u201d that published on December 31, 2025, due to receipt of a significant adverse comment. The Withdrawal of direct final rule is currently on public inspection and will be published on March 2, 2026; however the withdrawal is effective February 26, 2026. This action confirms that the decreased assessment rate proposed for March 1, 2026, will not take effect, and the assessment will revert to the prev"
+        },
+        {
+          "title": "CSMS # 67890700 - GUIDANCE: Mandatory Electronic Submission of Ocean Cargo Manifests via ACE for U.S. Virgin Islands Ports of Entry (Additional Information for TIN # 67154332)",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40bee0c",
+          "pub_date": "Fri, 27 Feb 2026 14:00:21 -0500",
+          "guid": "67890700",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67890700 - GUIDANCE: Mandatory Electronic Submission of Ocean Cargo Manifests via ACE for U.S. Virgin Islands Ports of Entry (Additional Information for TIN # 67154332) On March 7, 2026, U.S. Customs and Border Protection (CBP), U.S. Virgin Islands (U.S.V.I.) St. Thomas Area Port will implement mandatory electronic submission of Ocean cargo manifests through the Automated Commercial Environment (ACE) at all U.S.V.I. ports of entry: St. Thomas, St. Croix, and St. John. This requirement applies to carriers, importing carriers, vessel agents, brokers, importers, freight forwarders, and other interested trade parties. CBP has successfully completed testing "
+        },
         {
           "title": "CSMS # 67856863 - ACE Foreign Trade Zone (FTZ) CATAIR Document Updated on CBP.gov: FT40 (Record Processing)",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b69df",
@@ -1054,22 +1070,6 @@
           "guid": "67513690",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67513690 - REMINDER: Electronic Refunds Interim Final Rule Effective February 6 \u2013 New FAQs Now Available Beginning February 6, 2026, U.S. Customs and Border Protection (CBP) will issue all refunds electronically via Automated Clearing House (ACH) (subject to limited exceptions), as announced in the Electronic Refunds Interim Final Rule published January 2, 2026 in the Federal Register ( FR Document 2025-24171 ). To prepare for February 6, CBP strongly encourages the trade community to review CBP\u2019s extensive resources (see below) related to the transition to all electronic refunds (subject to limited exceptions) and take any necessary action. CBP Resourc"
-        },
-        {
-          "title": "CSMS # 67510839 - Transmission of Invalid Affirmation of Compliance Code \u201cFTZ\u201d for FDA",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4062237",
-          "pub_date": "Mon, 26 Jan 2026 11:14:53 -0500",
-          "guid": "67510839",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67510839 - Transmission of Invalid Affirmation of Compliance Code \u201cFTZ\u201d for FDA The U.S. Food and Drug Administration (FDA) reminds the import community that the Affirmation of Compliance (AofC) Code \u201cFTZ\u201d (FTZ Admission Number) is not a valid code for the FDA. FDA uses the entry type and/or PG30 record to ascertain if a shipment is an FTZ withdrawal. Refer to FDA\u2019s Supplemental Guide and FDA Affirmations of Compliance Codes for data requirements and AofC details respectively. The AofC \u201cFTZ\u201d will be removed from ACE Appendix PGA in coordination with the ACE deployment scheduled for February 21, 2026 (refer to CSMS # 66836343). If AofC \u201cFTZ\u201d is transmitt"
-        },
-        {
-          "title": "CSMS # 67489550 - UPDATE: ACE Air EDI and Entry Summary EDI Experiencing Slow Processing",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/405cf0e",
-          "pub_date": "Fri, 23 Jan 2026 12:55:53 -0500",
-          "guid": "67489550",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67489550 - UPDATE: ACE Air EDI and Entry Summary EDI Experiencing Slow Processing CBP is continuing to experience network issues resulting in ACE slow processing. CBP is requesting the trade to refrain from resending ACE transmissions as initial transmissions will be processed. Resending transmissions will continue to cause additional delays."
         }
       ],
       "errors": []
@@ -1079,6 +1079,14 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Statement by President von der Leyen on the EU-Mercosur agreement",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_500",
+            "pub_date": "Fri, 27 Feb 2026 10:15:29 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_500",
+            "category": "POLICY_AREA=PRESIDENCY,TRADEPOL",
+            "description": "European Commission Statement Brussels, 27 Feb 2026 Yesterday, Argentina and Uruguay became the first countries to ratify the EU-Mercosur Agreement. Brazil and Paraguay are expected to follow soon. And it is such..."
+          },
           {
             "title": "Press Remarks by Commissioner Lahbib for the European Citizens' Initiative \u2018My Voice, My Choice'",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_493",
