@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T06:43:59+00:00",
+  "generated_at": "2026-03-01T06:44:47+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,195 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04124",
+          "publication_date": "2026-03-02",
+          "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04124/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04123",
+          "publication_date": "2026-03-02",
+          "title": "Initiation of Five-Year (Sunset) Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04123/initiation-of-five-year-sunset-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04122",
+          "publication_date": "2026-03-02",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04122/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04121",
+          "publication_date": "2026-03-02",
+          "title": "Carbon and Certain Alloy Steel Wire Rod From Brazil, Indonesia, Mexico, Moldova, and Trinidad and Tobago: Continuation of Antidumping Duty Orders and Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04121/carbon-and-certain-alloy-steel-wire-rod-from-brazil-indonesia-mexico-moldova-and-trinidad-and-tobago",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04120",
+          "publication_date": "2026-03-02",
+          "title": "Ceramic Tile From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04120/ceramic-tile-from-the-peoples-republic-of-china-continuation-of-antidumping-duty-and-countervailing",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04100",
+          "publication_date": "2026-03-02",
+          "title": "Effects on the U.S. Economy of Revoking China's Permanent Normal Trade Relations Status",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04100/effects-on-the-us-economy-of-revoking-chinas-permanent-normal-trade-relations-status",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04080",
+          "publication_date": "2026-03-02",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04080/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04076",
+          "publication_date": "2026-03-02",
+          "title": "Polyvinyl Alcohol From China and Japan; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04076/polyvinyl-alcohol-from-china-and-japan-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04075",
+          "publication_date": "2026-03-02",
+          "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Czechia, Russia, South Korea, and Ukraine; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04075/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-czechia-russia-south-korea-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04074",
+          "publication_date": "2026-03-02",
+          "title": "Silicon Metal From Bosnia and Herzegovina, Iceland, Kazakhstan, and Malaysia; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04074/silicon-metal-from-bosnia-and-herzegovina-iceland-kazakhstan-and-malaysia-institution-of-five-year",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04072",
+          "publication_date": "2026-03-02",
+          "title": "Standard Steel Welded Wire Mesh From Mexico; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04072/standard-steel-welded-wire-mesh-from-mexico-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04071",
+          "publication_date": "2026-03-02",
+          "title": "Twist Ties From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04071/twist-ties-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04070",
+          "publication_date": "2026-03-02",
+          "title": "Common Alloy Aluminum Sheet From Bahrain, Brazil, Croatia, Egypt, Germany, India, Indonesia, Italy, Oman, Romania, Serbia, Slovenia, South Africa, Spain, Taiwan, and Turkey; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04070/common-alloy-aluminum-sheet-from-bahrain-brazil-croatia-egypt-germany-india-indonesia-italy-oman",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04069",
+          "publication_date": "2026-03-02",
+          "title": "Diamond Sawblades and Parts Thereof From China; Institution of a Five-Year Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04069/diamond-sawblades-and-parts-thereof-from-china-institution-of-a-five-year-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04068",
+          "publication_date": "2026-03-02",
+          "title": "Phosphate Fertilizers From Morocco and Russia; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04068/phosphate-fertilizers-from-morocco-and-russia-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04059",
+          "publication_date": "2026-03-02",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04059/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04058",
+          "publication_date": "2026-03-02",
+          "title": "Foreign-Trade Zone (FTZ) 153, Notification of Proposed Production Activity; CMS Circuits, Inc.; (Electronic Manufacturing Services in Aerospace, Industrial, and Medical Applications); Murrieta, California",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04058/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-cms-circuits-inc-electronic",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04031",
+          "publication_date": "2026-03-02",
+          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Inclusions to the Section 232 National Security Adjustments to Automobile Parts Imports",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04031/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04026",
+          "publication_date": "2026-03-02",
+          "title": "Truck Bed Covers From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04026/truck-bed-covers-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04025",
+          "publication_date": "2026-03-02",
+          "title": "Notice of Request for Extension of a Previously Approved Information Collection and Request for Comment; Request for Comment on Designation of Confidential Information",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04025/notice-of-request-for-extension-of-a-previously-approved-information-collection-and-request-for",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-03999",
+          "publication_date": "2026-03-02",
+          "title": "Certain Hot-Rolled Steel Flat Products From the Netherlands: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-03999/certain-hot-rolled-steel-flat-products-from-the-netherlands-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-03972",
           "publication_date": "2026-02-27",
@@ -313,15 +502,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-03510",
-          "publication_date": "2026-02-23",
-          "title": "Foreign-Trade Zone (FTZ) 216, Notification of Proposed Production Activity; Essex Laboratories LLC; (Mint Oil Blends); Chehalis, Washington",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03510/foreign-trade-zone-ftz-216-notification-of-proposed-production-activity-essex-laboratories-llc-mint",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-03509",
           "publication_date": "2026-02-23",
           "title": "Submission for OMB Review; Buy American, Trade Agreements, and Duty-Free Entry",
@@ -418,7 +598,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03424/certain-frozen-warmwater-shrimp-from-thailand-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-03419",
@@ -529,22 +709,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-03194",
-          "publication_date": "2026-02-18",
-          "title": "Fresh Mushrooms From Canada: Postponement of Preliminary Determination in the Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03194/fresh-mushrooms-from-canada-postponement-of-preliminary-determination-in-the-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-03193",
           "publication_date": "2026-02-18",
           "title": "Circular Welded Carbon Steel Pipes and Tubes From Thailand: Notice of Court Decision Not in Harmony With the Results of Antidumping Duty Administrative Review; Notice of Amended Final Results",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03193/circular-welded-carbon-steel-pipes-and-tubes-from-thailand-notice-of-court-decision-not-in-harmony",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-03157",
@@ -556,22 +727,13 @@
           "term_hit": "de minimis"
         },
         {
-          "document_number": "2026-03135",
-          "publication_date": "2026-02-18",
-          "title": "Steel Concrete Reinforcing Bar From Mexico and Turkey; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03135/steel-concrete-reinforcing-bar-from-mexico-and-turkey-scheduling-of-expedited-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-03103",
           "publication_date": "2026-02-18",
           "title": "Stainless Steel Bar From India: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03103/stainless-steel-bar-from-india-final-results-and-rescission-in-part-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-03066",
@@ -581,168 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03066/numbering-policies-for-modern-communications",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-03060",
-          "publication_date": "2026-02-17",
-          "title": "Citric Acid and Certain Citrate Salts From Canada and India: Initiation of Countervailing Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03060/citric-acid-and-certain-citrate-salts-from-canada-and-india-initiation-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03032",
-          "publication_date": "2026-02-17",
-          "title": "Certain Power Converters, Circuit Board Assemblies, and Computing Systems Containing the Same; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03032/certain-power-converters-circuit-board-assemblies-and-computing-systems-containing-the-same-notice",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03031",
-          "publication_date": "2026-02-17",
-          "title": "Crystalline Silicon Photovoltaic Products (Solar Panels) From China and Taiwan; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03031/crystalline-silicon-photovoltaic-products-solar-panels-from-china-and-taiwan-scheduling-of-expedited",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03001",
-          "publication_date": "2026-02-17",
-          "title": "Foreign-Trade Zone (FTZ) 22, Notification of Proposed Production Activity; AFC Specialty Coatings Group, LLC; (Polymer or Silicone Coated Fabrics); Lake in the Hills, Illinois",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03001/foreign-trade-zone-ftz-22-notification-of-proposed-production-activity-afc-specialty-coatings-group",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-02999",
-          "publication_date": "2026-02-17",
-          "title": "Active Anode Material From the People's Republic of China: Final Affirmative Countervailing Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-02999/active-anode-material-from-the-peoples-republic-of-china-final-affirmative-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02984",
-          "publication_date": "2026-02-17",
-          "title": "Common Alloy Aluminum Sheet From the Kingdom of Bahrain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-02984/common-alloy-aluminum-sheet-from-the-kingdom-of-bahrain-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02961",
-          "publication_date": "2026-02-13",
-          "title": "Electronic Bond Transmission",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02961/electronic-bond-transmission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02959",
-          "publication_date": "2026-02-13",
-          "title": "Rescission of Antidumping and Countervailing Duty Administrative Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02959/rescission-of-antidumping-and-countervailing-duty-administrative-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02951",
-          "publication_date": "2026-02-13",
-          "title": "Calcium Hypochlorite From the People's Republic of China: Continuation of Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02951/calcium-hypochlorite-from-the-peoples-republic-of-china-continuation-of-antidumping-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02949",
-          "publication_date": "2026-02-13",
-          "title": "Certain TOPCon Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same; Notice of a Commission Determination Not To Review an Initial Determination Granting the Parties' Joint Motion To Terminate the Investigation; Terminating Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02949/certain-topcon-solar-cells-modules-panels-components-thereof-and-products-containing-same-notice-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-02932",
-          "publication_date": "2026-02-13",
-          "title": "Foreign-Trade Zone (FTZ) 38, Notification of Proposed Production Activity; Coroplast Tape Corporation; (Pressure Sensitive Tapes); Rock Hill, South Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02932/foreign-trade-zone-ftz-38-notification-of-proposed-production-activity-coroplast-tape-corporation",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-02878",
-          "publication_date": "2026-02-13",
-          "title": "Carbazole Violet Pigment 23 From India: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02878/carbazole-violet-pigment-23-from-india-preliminary-results-and-partial-rescission-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02877",
-          "publication_date": "2026-02-13",
-          "title": "Acetone From the Republic of Korea: Preliminary Results and Recission, In Part, of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02877/acetone-from-the-republic-of-korea-preliminary-results-and-recission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02875",
-          "publication_date": "2026-02-13",
-          "title": "Ripe Olives From Spain: Preliminary Results of Antidumping Duty Administrative Review, and Partial Rescission of Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/13/2026-02875/ripe-olives-from-spain-preliminary-results-of-antidumping-duty-administrative-review-and-partial",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02859",
-          "publication_date": "2026-02-12",
-          "title": "Finished Carbon Steel Flanges From India: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02859/finished-carbon-steel-flanges-from-india-preliminary-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02850",
-          "publication_date": "2026-02-12",
-          "title": "Carbon and Certain Alloy Steel Wire Rod From Mexico: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/12/2026-02850/carbon-and-certain-alloy-steel-wire-rod-from-mexico-preliminary-results-and-partial-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02779",
-          "publication_date": "2026-02-11",
-          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02779/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-preliminary",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-02775",
-          "publication_date": "2026-02-11",
-          "title": "Foreign-Trade Zone (FTZ) 46, Notification of Proposed Production Activity; General Electric Company; (Production and Testing of Jet Engines); Peebles, Ohio",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02775/foreign-trade-zone-ftz-46-notification-of-proposed-production-activity-general-electric-company",
-          "raw_text_url": null,
-          "term_hit": "section 232"
         }
       ],
       "errors": []
