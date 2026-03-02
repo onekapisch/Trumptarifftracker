@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T06:44:47+00:00",
+  "generated_at": "2026-03-02T06:46:18+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1103,6 +1103,12 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
+            "title": "UK beef hits US shelves tariff-free for the first time \u2013 cutting costs for UK businesses",
+            "link": "https://www.gov.uk/government/news/uk-beef-hits-us-shelves-tariff-free-for-the-first-time-cutting-costs-for-uk-businesses",
+            "updated": "2026-03-02T00:01:00+00:00",
+            "summary": "First <mark>tariff</mark>-free shipment of UK beef arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy"
+          },
+          {
             "title": "Secretary of State keynote: UK Trade and Export Finance Forum",
             "link": "https://www.gov.uk/government/speeches/secretary-of-state-keynote-uk-trade-and-export-finance-forum",
             "updated": "2026-02-05T10:16:25+00:00",
@@ -1149,12 +1155,6 @@
             "link": "https://www.gov.uk/government/publications/ministerial-letter-on-the-industrial-strategy-advisory-council",
             "updated": "2026-01-14T13:46:25+00:00",
             "summary": "A letter from the Chancellor of the Exchequer and the Secretary of State for Business and <mark>Trade</mark> setting out the mandate of the Industrial Strategy Advisory Council."
-          },
-          {
-            "title": "Fourth edition of the annual dialogue between the Department for Business and Trade and the Direction g\u00e9n\u00e9rale des Entreprises",
-            "link": "https://www.gov.uk/government/news/fourth-edition-of-the-annual-dialogue-between-the-department-for-business-and-trade-and-the-direction-generale-des-entreprises",
-            "updated": "2025-12-30T11:37:27+00:00",
-            "summary": "The UK hosted the fourth edition of the annual dialogue between the UK Department for Business and <mark>Trade</mark> and the French Direction g\u00e9n\u00e9rale des Entreprises."
           }
         ],
         "errors": []
