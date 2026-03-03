@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T06:46:18+00:00",
+  "generated_at": "2026-03-03T06:45:21+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,20 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President von der Leyen on the EU-Mercosur agreement",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_500",
-            "pub_date": "Fri, 27 Feb 2026 10:15:29 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_500",
-            "category": "POLICY_AREA=PRESIDENCY,TRADEPOL",
-            "description": "European Commission Statement Brussels, 27 Feb 2026 Yesterday, Argentina and Uruguay became the first countries to ratify the EU-Mercosur Agreement. Brazil and Paraguay are expected to follow soon. And it is such..."
-          },
-          {
-            "title": "Press Remarks by Commissioner Lahbib for the European Citizens' Initiative \u2018My Voice, My Choice'",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_493",
-            "pub_date": "Thu, 26 Feb 2026 15:36:24 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_493",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Speech Brussels, 26 Feb 2026 Today I am proud to stand before you for something truly important. This is one of our key equality priorities for this mandate. It will be part of our legacy. ..."
+            "title": "Statement by President von der Leyen with Swiss President Parmelin on the signature of a broad package of EU-Switzerland agreements",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_511",
+            "pub_date": "Mon, 02 Mar 2026 09:43:18 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_511",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission Statement Brussels, 02 Mar 2026 Mr President, dear Guy, It is a great pleasure to meet again so soon after Davos. And on such an important occasion. But please allow me given the gravity of th..."
           }
         ],
         "errors": []
@@ -1103,10 +1095,10 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
-            "title": "UK beef hits US shelves tariff-free for the first time \u2013 cutting costs for UK businesses",
+            "title": "UK beef hits US shelves for the first time \u2013 cutting costs for UK businesses",
             "link": "https://www.gov.uk/government/news/uk-beef-hits-us-shelves-tariff-free-for-the-first-time-cutting-costs-for-uk-businesses",
             "updated": "2026-03-02T00:01:00+00:00",
-            "summary": "First <mark>tariff</mark>-free shipment of UK beef arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy"
+            "summary": "First shipment of UK beef under reciprocal quota arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy"
           },
           {
             "title": "Secretary of State keynote: UK Trade and Export Finance Forum",
