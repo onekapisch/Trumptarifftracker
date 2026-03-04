@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T06:45:21+00:00",
+  "generated_at": "2026-03-04T06:45:04+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,69 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04197",
+          "publication_date": "2026-03-03",
+          "title": "Certain Freight Rail Couplers and Parts Thereof from India: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination with Final Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04197/certain-freight-rail-couplers-and-parts-thereof-from-india-preliminary-affirmative-countervailing",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04189",
+          "publication_date": "2026-03-03",
+          "title": "Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Tesla Inc; (Battery Storage Products and Components); Fremont, Livermore, and Lathrop, California",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04189/foreign-trade-zone-ftz-18-notification-of-proposed-production-activity-tesla-inc-battery-storage",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04188",
+          "publication_date": "2026-03-03",
+          "title": "Foreign-Trade Zone (FTZ) 214, Notification of Proposed Production Activity; Aprinnova LLC; (Cosmetic Products); Leland, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04188/foreign-trade-zone-ftz-214-notification-of-proposed-production-activity-aprinnova-llc-cosmetic",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04186",
+          "publication_date": "2026-03-03",
+          "title": "Foreign-Trade Zone (FTZ) 21, Notification of Proposed Production Activity; Zapp Precision Wire, Inc.; (Precision Wire and Metal Products); Summerville, South Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04186/foreign-trade-zone-ftz-21-notification-of-proposed-production-activity-zapp-precision-wire-inc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04158",
+          "publication_date": "2026-03-03",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04158/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04156",
+          "publication_date": "2026-03-03",
+          "title": "Certain Cameras, Camera Systems, and Accessories Used Therewith; Notice of the Commission's Final Determination Finding a Violation of Section 337; Issuance of Remedial Orders; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04156/certain-cameras-camera-systems-and-accessories-used-therewith-notice-of-the-commissions-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04152",
+          "publication_date": "2026-03-03",
+          "title": "Certain Disposable and Other Closed-System Electronic Nicotine Delivery Systems (Ends) Devices and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04152/certain-disposable-and-other-closed-system-electronic-nicotine-delivery-systems-ends-devices-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04124",
           "publication_date": "2026-03-02",
@@ -664,31 +727,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-03229",
-          "publication_date": "2026-02-19",
-          "title": "Certain Polycrystalline Diamond Compacts and Articles Containing Same; Notice of Commission Determination To Institute a Modification Proceeding and To Grant a Joint Motion for Limited Service of Confidential Exhibit; Modification of the Limited Exclusion Order; Termination of Modification Proceeding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/19/2026-03229/certain-polycrystalline-diamond-compacts-and-articles-containing-same-notice-of-commission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03207",
-          "publication_date": "2026-02-18",
-          "title": "Certain Corrosion-Resistant Steel Products From the Republic of Korea: Final Results of Countervailing Duty Changed Circumstances Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03207/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-final-results-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-03205",
           "publication_date": "2026-02-18",
           "title": "Certain Aluminum Foil From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03205/certain-aluminum-foil-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-03202",
@@ -696,51 +741,6 @@
           "title": "Stainless Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03202/stainless-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03195",
-          "publication_date": "2026-02-18",
-          "title": "Fresh Tomatoes From Mexico: Final Clarification of the Scope of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03195/fresh-tomatoes-from-mexico-final-clarification-of-the-scope-of-the-antidumping-duty-order",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03193",
-          "publication_date": "2026-02-18",
-          "title": "Circular Welded Carbon Steel Pipes and Tubes From Thailand: Notice of Court Decision Not in Harmony With the Results of Antidumping Duty Administrative Review; Notice of Amended Final Results",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03193/circular-welded-carbon-steel-pipes-and-tubes-from-thailand-notice-of-court-decision-not-in-harmony",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-03157",
-          "publication_date": "2026-02-18",
-          "title": "Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-03103",
-          "publication_date": "2026-02-18",
-          "title": "Stainless Steel Bar From India: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03103/stainless-steel-bar-from-india-final-results-and-rescission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-03066",
-          "publication_date": "2026-02-17",
-          "title": "Numbering Policies for Modern Communications",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/17/2026-03066/numbering-policies-for-modern-communications",
           "raw_text_url": null,
           "term_hit": "de minimis"
         }
@@ -1095,6 +1095,12 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
+            "title": "Export masterclasses to help Scottish businesses forge EU trade links",
+            "link": "https://www.gov.uk/government/news/export-masterclasses-to-help-scottish-businesses-forge-eu-trade-links",
+            "updated": "2026-03-03T14:42:01+00:00",
+            "summary": "Events from Scotland Office in partnership with local chambers of commerce in Glasgow, Dundee, Edinburgh and Inverness will &#39;turn Scottish business export potential into reality&#39;"
+          },
+          {
             "title": "UK beef hits US shelves for the first time \u2013 cutting costs for UK businesses",
             "link": "https://www.gov.uk/government/news/uk-beef-hits-us-shelves-tariff-free-for-the-first-time-cutting-costs-for-uk-businesses",
             "updated": "2026-03-02T00:01:00+00:00",
@@ -1141,12 +1147,6 @@
             "link": "https://www.gov.uk/government/news/trade-envoy-programme-appointments",
             "updated": "2026-01-20T00:00:00+00:00",
             "summary": "The Secretary of State for Business and <mark>Trade</mark> has announced the appointment of five new UK <mark>Trade</mark> Envoys.\u2026"
-          },
-          {
-            "title": "Ministerial letter on the Industrial Strategy Advisory Council",
-            "link": "https://www.gov.uk/government/publications/ministerial-letter-on-the-industrial-strategy-advisory-council",
-            "updated": "2026-01-14T13:46:25+00:00",
-            "summary": "A letter from the Chancellor of the Exchequer and the Secretary of State for Business and <mark>Trade</mark> setting out the mandate of the Industrial Strategy Advisory Council."
           }
         ],
         "errors": []
