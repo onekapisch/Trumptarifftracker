@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T06:45:04+00:00",
+  "generated_at": "2026-03-05T06:45:29+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04337",
+          "publication_date": "2026-03-04",
+          "title": "Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Substance Abuse Professional and the Return-to-Duty Process",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04337/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-substance-abuse",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04323",
+          "publication_date": "2026-03-04",
+          "title": "Glycine From the People's Republic of China: Notice of Final Results of Antidumping Duty Changed Circumstances Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04323/glycine-from-the-peoples-republic-of-china-notice-of-final-results-of-antidumping-duty-changed",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04285",
+          "publication_date": "2026-03-04",
+          "title": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Federal Republic of Germany: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04285/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-federal-republic-of-germany-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04245",
+          "publication_date": "2026-03-04",
+          "title": "Notice of Continuation and Request for Nominations for the Intergovernmental Policy Advisory Committee on Trade",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04245/notice-of-continuation-and-request-for-nominations-for-the-intergovernmental-policy-advisory",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04243",
+          "publication_date": "2026-03-04",
+          "title": "Notice of Continuation and Request for Nominations for the Trade Advisory Committee on Africa",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04243/notice-of-continuation-and-request-for-nominations-for-the-trade-advisory-committee-on-africa",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04236",
+          "publication_date": "2026-03-04",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04236/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04223",
+          "publication_date": "2026-03-04",
+          "title": "Overhead Door Counterbalance Torsion Springs From India: Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04223/overhead-door-counterbalance-torsion-springs-from-india-antidumping-duty-and-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04215",
+          "publication_date": "2026-03-04",
+          "title": "Certain Magnetoresistive Random Access Memory (MRAM) Devices, Products Containing Same and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04215/certain-magnetoresistive-random-access-memory-mram-devices-products-containing-same-and-components",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04197",
           "publication_date": "2026-03-03",
@@ -466,31 +538,13 @@
           "term_hit": "duty"
         },
         {
-          "document_number": "2026-03691",
-          "publication_date": "2026-02-24",
-          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys in the Gulf of America",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03691/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-03683",
           "publication_date": "2026-02-24",
           "title": "Foreign-Trade Zone (FTZ) 183, Notification of Proposed Production Activity; Ultra Clean Technology Systems and Service, Inc.; (Inputs Primarily for Semiconductor Industry); Manor, Texas",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03683/foreign-trade-zone-ftz-183-notification-of-proposed-production-activity-ultra-clean-technology",
           "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-03682",
-          "publication_date": "2026-02-24",
-          "title": "Foreign-Trade Zone (FTZ) 93, Notification of Proposed Production Activity; Alder SOL Holdings LLC dba StayOnline; (Power Cords); Henderson, North Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03682/foreign-trade-zone-ftz-93-notification-of-proposed-production-activity-alder-sol-holdings-llc-dba",
-          "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-03680",
@@ -689,60 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03417/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03340",
-          "publication_date": "2026-02-20",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03340/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03339",
-          "publication_date": "2026-02-20",
-          "title": "Steel Concrete Reinforcing Bar From Mexico: Amended Final Results of Antidumping Duty Administrative Review; 2022-2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03339/steel-concrete-reinforcing-bar-from-mexico-amended-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03324",
-          "publication_date": "2026-02-20",
-          "title": "Certain Composite Intermediate Bulk Containers; Notice of Commission Determination on Remedy, the Public Interest, and Bonding for a Defaulting Respondent; Termination of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/20/2026-03324/certain-composite-intermediate-bulk-containers-notice-of-commission-determination-on-remedy-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03287",
-          "publication_date": "2026-02-19",
-          "title": "Common Alloy Aluminum Sheet From Bahrain: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/19/2026-03287/common-alloy-aluminum-sheet-from-bahrain-final-results-of-countervailing-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03205",
-          "publication_date": "2026-02-18",
-          "title": "Certain Aluminum Foil From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03205/certain-aluminum-foil-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-03202",
-          "publication_date": "2026-02-18",
-          "title": "Stainless Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03202/stainless-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President von der Leyen with Swiss President Parmelin on the signature of a broad package of EU-Switzerland agreements",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_511",
-            "pub_date": "Mon, 02 Mar 2026 09:43:18 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_511",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission Statement Brussels, 02 Mar 2026 Mr President, dear Guy, It is a great pleasure to meet again so soon after Davos. And on such an important occasion. But please allow me given the gravity of th..."
+            "title": "Commissioner Roswall's address at the event, \u2018Innovation & Research: Paramount for shaping Europe's Water Resilient Future' at the EU Ocean Days",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_534",
+            "pub_date": "Wed, 04 Mar 2026 14:11:54 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_534",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Speech Brussels, 04 Mar 2026 Ladies and Gentlemen, I am delighted to speak at this session of the Ocean Days \u2013 and to be part of crucial discussions on the development of the Water Resilien..."
+          },
+          {
+            "title": "Speech by Commissioner Kadis at the European Ocean Days 2026: Towards the Vision 2040 for a thriving fisheries and aquaculture sector",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_533",
+            "pub_date": "Wed, 04 Mar 2026 13:55:31 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_533",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Brussels, 04 Mar 2026 Ladies and Gentlemen, It is a pleasure to join you at this panel of the European Ocean Days to discuss and advance our strategic reflections on the upcoming Vi..."
+          },
+          {
+            "title": "Remarques du vice-pr\u00e9sident ex\u00e9cutif S\u00e9journ\u00e9 sur la loi sur l'acc\u00e9l\u00e9rateur industriel",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_532",
+            "pub_date": "Wed, 04 Mar 2026 13:30:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_532",
+            "category": "POLICY_AREA=BUSINDUS",
+            "description": "European Commission Discours Brussels, 04 Mar 2026 Mesdames, Messieurs, Apr\u00e8s de longues semaines de d\u00e9bat, je vous pr\u00e9sente la loi sur l'acc\u00e9l\u00e9ration industrielle. Aujourd'hui, le \u00ab made in Europe \u00bb fait sa gra..."
+          },
+          {
+            "title": "Remarks by Executive Vice-Presidents S\u00e9journ\u00e9 and Fitto and by Commissioner Tzitzikostas on the EU Industrial Maritime and Ports Strategies",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_531",
+            "pub_date": "Wed, 04 Mar 2026 11:55:55 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_531",
+            "category": "POLICY_AREA=REGIONAL,TRANSPORT,BUSINDUS,STRUREF",
+            "description": "European Commission Speech Brussels, 04 Mar 2026 Executive Vice-President S\u00e9journ\u00e9 Chers tous, Je suis tr\u00e8s heureux d'\u00eatre parmi vous aujourd'hui, en compagnie du Vice-Pr\u00e9sident Fitto, commissaire Tzitziko..."
+          },
+          {
+            "title": "Daily News 04 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_528",
+            "pub_date": "Wed, 04 Mar 2026 09:29:08 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_528",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 04 Mar 2026 Commission's 2025 General Report highlights EU actions for citizens and businesses in a year marked by profound changes The 2025 edition of the General Report ..."
+          },
+          {
+            "title": "Commission registers European Citizens' Initiative calling for a European social media platform",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_522",
+            "pub_date": "Tue, 03 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_522",
+            "category": "POLICY_AREA=JFRC",
+            "description": "European Commission Press release Brussels, 04 Mar 2026 Today, the European Commission has registered a European Citizens' Initiative (ECI), entitled \u2018European Public Social Network'. The initiative invites the Commi..."
+          },
+          {
+            "title": "Commission proposes Industrial Accelerator Act to strengthen industry and create jobs in Europe",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_515",
+            "pub_date": "Tue, 03 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_515",
+            "category": "POLICY_AREA=BUSINDUS",
+            "description": "European Commission Press release Brussels, 04 Mar 2026 Today, the European Commission has adopted a legislative proposal to increase demand for low-carbon, European-made technologies and products. The Industrial Accelerator Act (IAA) will boost manufacturing, grow businesses, and create jobs in the EU, while supporting industry's adoption of cleaner, future-ready technologies."
+          },
+          {
+            "title": "Factsheet - EU Industrial Maritime Strategy",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_487",
+            "pub_date": "Tue, 03 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_487",
+            "category": "POLICY_AREA=HOMEAFF,REGIONAL,TRANSPORT,BUSINDUS,MIGR,STRUREF",
+            "description": "European Commission Factsheet Brussels, 04 Mar 2026 Factsheet - EU Industrial Maritime Strategy Factsheet - EU Industrial Maritime Strategy"
+          },
+          {
+            "title": "Questions and answers on the EU Industrial Maritime and Ports Strategies",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_485",
+            "pub_date": "Tue, 03 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_485",
+            "category": "POLICY_AREA=HOMEAFF,REGIONAL,TRANSPORT,BUSINDUS,MIGR,STRUREF",
+            "description": "European Commission Questions and answers Brussels, 04 Mar 2026 Both Strategies How will the Strategies boost the competitiveness and sustainability of Europe's maritime manufacturing, shipping and port sectors? The EU ..."
+          },
+          {
+            "title": "Commission launches EU Industrial Maritime and Ports Strategies to boost competitiveness across the maritime sector",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_484",
+            "pub_date": "Tue, 03 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_484",
+            "category": "POLICY_AREA=HOMEAFF,REGIONAL,TRANSPORT,BUSINDUS,MIGR,STRUREF",
+            "description": "European Commission Press release Brussels, 04 Mar 2026 Today, the European Commission adopted a EU Industrial Maritime Strategy and a Ports Strategy to drive competitiveness, sustainability, decarbonisation, security and resilience within the EU's wider waterborne sector."
           }
         ],
         "errors": []
