@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T06:45:01+00:00",
+  "generated_at": "2026-03-07T06:44:10+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,51 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04494",
+          "publication_date": "2026-03-06",
+          "title": "Certain Laptops, Routers and Gateways, and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04494/certain-laptops-routers-and-gateways-and-components-thereof-notice-of-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04485",
+          "publication_date": "2026-03-06",
+          "title": "Common Alloy Aluminum Sheet From South Africa: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04485/common-alloy-aluminum-sheet-from-south-africa-final-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04484",
+          "publication_date": "2026-03-06",
+          "title": "Oil Country Tubular Goods From the Republic of T\u00fcrkiye: Preliminary Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04484/oil-country-tubular-goods-from-the-republic-of-trkiye-preliminary-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04483",
+          "publication_date": "2026-03-06",
+          "title": "Ferrovanadium From the People's Republic of China and the Republic of South Africa: Continuation of Antidumping Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04483/ferrovanadium-from-the-peoples-republic-of-china-and-the-republic-of-south-africa-continuation-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04415",
+          "publication_date": "2026-03-06",
+          "title": "Foreign-Trade Zone (FTZ) 53, Notification of Proposed Production Activity; Baker Hughes Oilfield Operations, LLC; (Components for Electrical Submersible Pumping Systems); Claremore, Oklahoma",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04415/foreign-trade-zone-ftz-53-notification-of-proposed-production-activity-baker-hughes-oilfield",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-04390",
           "publication_date": "2026-03-05",
@@ -556,15 +601,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-03760",
-          "publication_date": "2026-02-25",
-          "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; LEO Certification Letter for Official Duty Firearm Purchase",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03760/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-03759",
           "publication_date": "2026-02-25",
           "title": "Float Glass Products From Malaysia: Final Affirmative Countervailing Duty Determination; Correction",
@@ -572,15 +608,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03759/float-glass-products-from-malaysia-final-affirmative-countervailing-duty-determination-correction",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03755",
-          "publication_date": "2026-02-25",
-          "title": "Purchase, Sale, and Pledge of Eligible Obligations",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03755/purchase-sale-and-pledge-of-eligible-obligations",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-03683",
@@ -716,33 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03484/hard-empty-capsules-from-brazil-the-peoples-republic-of-china-india-and-the-socialist-republic-of",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03482",
-          "publication_date": "2026-02-23",
-          "title": "Carbon Steel Flanges From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03482/carbon-steel-flanges-from-spain-final-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03480",
-          "publication_date": "2026-02-23",
-          "title": "Silicon Metal From the Lao People's Democratic Republic: Final Affirmative Countervailing Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03480/silicon-metal-from-the-lao-peoples-democratic-republic-final-affirmative-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03479",
-          "publication_date": "2026-02-23",
-          "title": "Silicon Metal From the Kingdom of Thailand: Final Affirmative Countervailing Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03479/silicon-metal-from-the-kingdom-of-thailand-final-affirmative-countervailing-duty-determination",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 67965619 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments (CBP-199) \u2013 Available in ACE CERT Environment Now and Deploying to ACE PROD Environment on April 9, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d12b3",
+          "pub_date": "Fri, 06 Mar 2026 15:41:30 -0500",
+          "guid": "67965619",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67965619 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments (CBP-199) \u2013 Available in ACE CERT Environment Now and Deploying to ACE PROD Environment on April 9, 2026 U.S. Customs and Border Protection (CBP) deployed updates to the Automated Commercial Environment (ACE) Certification (CERT) environment to support the automated transmission of container seal changes for ocean and rail shipments . This update includes impacts to electronic data interchange (EDI). New disposition codes have been introduced, allowing ACE to automatically notify carriers via EDI when CBP personnel add or remove container seals for o"
+        },
+        {
+          "title": "CSMS # 67960213 - ACE Truck Manifest Enhancement: New Carnet Data Elements Coming March 24",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40cfd95",
+          "pub_date": "Fri, 06 Mar 2026 10:01:01 -0500",
+          "guid": "67960213",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67960213 - ACE Truck Manifest Enhancement: New Carnet Data Elements Coming March 24 On March 24, 2026, U.S. Customs and Border Protection (CBP) will enhance the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. This update includes electronic data interchange (EDI) impacts. For more information on these changes, review the attached information notice. Trade_Information Notice_CBP221_508c.pdf"
+        },
         {
           "title": "CSMS # 67951279 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) 355 Acceptance/Rejection Message",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40cdaaf",
@@ -1054,22 +1070,6 @@
           "guid": "67538179",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67538179 - Revamped Forced Labor Website and 2026 Update to the Uyghur Forced Labor Prevention Act (UFLPA) Enforcement Statistics Dashboard As part of U.S. Customs and Border Protection\u2019s (CBP) ongoing efforts to help the trade community understand and comply with U.S. forced labor laws, CBP is proud to announce its revamped Forced Labor website. The revamped website provides streamlined navigation and expanded resources on enforcement, laws, compliance and reporting violations. This revised website is one of CBP\u2019s many resources built to help the trade community access the information and tools it needs to understand CBP\u2019s forced labor enforcement and "
-        },
-        {
-          "title": "CSMS # 67536835 - REMINDER: 2026 Customs Broker Annual Permit User Fee Due Date \u2013 January 30, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40687c3",
-          "pub_date": "Wed, 28 Jan 2026 15:50:37 -0500",
-          "guid": "67536835",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67536835 - REMINDER: 2026 Customs Broker Annual Permit User Fee Due Date \u2013 January 30, 2026 The annual Customs Broker permit user fee is due by January 30, 2026. The permit user fee for the 2026 calendar year is $185.38 and is due for all active national permits. The annual user fee payment should be submitted through the eCBP portal at https://e.cbp.dhs.gov/ecbp/#/main . The eCBP portal is available for 2026 user fee submissions from December 2, 2025, through January 30, 2026. eCBP accepts credit card and debit card payments. No additional fees are charged for online payments, and receipts are provided electronically. Failure to make the payment deadli"
-        },
-        {
-          "title": "CSMS # 67492303 - REMINDER: Support Call Today for Electronic Refund and Add Notify Party Features in the ACE Portal",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/405d9cf",
-          "pub_date": "Wed, 28 Jan 2026 09:00:32 -0500",
-          "guid": "67492303",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67492303 - REMINDER: Support Call Today for Electronic Refund and Add Notify Party Features in the ACE Portal Beginning February 6, 2026, U.S. Customs and Border Protection (CBP) will issue all refunds electronically via Automated Clearing House (ACH) (subject to limited exceptions), as announced in the Electronic Refunds Interim Final Rule published January 2, 2026 in the Federal Register ( FR Document 2025-24171 ). In preparation for this change, CBP improved the ACH refund sign-up process in the Automated Commercial Environment (ACE). CBP also recently added a feature for importers to add notify parties, also known as \u201cSpecial Address Notification (C"
         }
       ],
       "errors": []
@@ -1080,20 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "EU and Canada launch negotiations for a Digital Trade Agreement",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_553",
+            "pub_date": "Thu, 05 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_553",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Press release Toronto, 06 Mar 2026 Yesterday in Toronto, Commissioner for Trade and Economic Security, Maro\u0161 \u0160ef\u010dovi\u010d, and Canada's Minister for International Trade Maninder Sidhu launched negotiations for an EU-Canada Digital Trade Agreement (DTA)."
+          },
+          {
             "title": "Speech by Commissioner Hansen at the first Food Dialogue \"Reestablishing the essential link between farming, territory and food\"",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_560",
             "pub_date": "Thu, 05 Mar 2026 18:03:09 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_560",
             "category": "POLICY_AREA=AGRURAL",
             "description": "European Commission Speech Brussels, 05 Mar 2026 For the first time, the European Commission has a portfolio that brings together agriculture and food. As Commissioner responsible for both, I attach particular importance to this moment. Because food is not simply a policy area. It touches every European citizen, every territory, every community."
-          },
-          {
-            "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the press conference following the EU-Canada Joint Committee meeting",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_550",
-            "pub_date": "Thu, 05 Mar 2026 13:26:21 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_550",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Speech Toronto, 05 Mar 2026 Thank you. It is a pleasure to be in Toronto \u2013 and thank you for the warm welcome. Being here is always personal for me. In 1993, as a young diplomat representi..."
           }
         ],
         "errors": []
