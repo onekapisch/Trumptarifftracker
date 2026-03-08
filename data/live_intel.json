@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T06:44:10+00:00",
+  "generated_at": "2026-03-08T06:44:26+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,51 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04599",
+          "publication_date": "2026-03-09",
+          "title": "Dairy Tariff-Rate Quota Import Licensing Program",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04599/dairy-tariff-rate-quota-import-licensing-program",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04586",
+          "publication_date": "2026-03-09",
+          "title": "Christmas Tree Promotion, Research, and Information Order",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04586/christmas-tree-promotion-research-and-information-order",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04567",
+          "publication_date": "2026-03-09",
+          "title": "Honey Packers and Importers; Increased Assessment Rate",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04567/honey-packers-and-importers-increased-assessment-rate",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-04521",
+          "publication_date": "2026-03-09",
+          "title": "Certain Off-Road Vehicles and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04521/certain-off-road-vehicles-and-components-thereof-notice-of-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04516",
+          "publication_date": "2026-03-09",
+          "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04516/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04494",
           "publication_date": "2026-03-06",
@@ -698,51 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03509/submission-for-omb-review-buy-american-trade-agreements-and-duty-free-entry",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03500",
-          "publication_date": "2026-02-23",
-          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03500/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03489",
-          "publication_date": "2026-02-23",
-          "title": "Citric Acid and Certain Citrate Salts From Belgium: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03489/citric-acid-and-certain-citrate-salts-from-belgium-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03487",
-          "publication_date": "2026-02-23",
-          "title": "Citric Acid and Certain Citrate Salts From Thailand: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03487/citric-acid-and-certain-citrate-salts-from-thailand-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03485",
-          "publication_date": "2026-02-23",
-          "title": "Hard Empty Capsules From Brazil, the People's Republic of China, India, and the Socialist Republic of Vietnam: Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03485/hard-empty-capsules-from-brazil-the-peoples-republic-of-china-india-and-the-socialist-republic-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03484",
-          "publication_date": "2026-02-23",
-          "title": "Hard Empty Capsules From Brazil, the People's Republic of China, India, and the Socialist Republic of Vietnam: Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03484/hard-empty-capsules-from-brazil-the-peoples-republic-of-china-india-and-the-socialist-republic-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -1165,7 +1165,7 @@
           }
         ],
         "errors": [
-          "<urlopen error [Errno 104] Connection reset by peer>"
+          "<urlopen error [Errno 101] Network is unreachable>"
         ]
       },
       "canada_finance": {
