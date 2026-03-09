@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T06:44:26+00:00",
+  "generated_at": "2026-03-09T06:46:43+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1103,6 +1103,12 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
+            "title": "Businesses urged to take simple steps for smoother trade with the EU",
+            "link": "https://www.gov.uk/government/news/businesses-urged-to-take-simple-steps-for-smoother-trade-with-the-eu",
+            "updated": "2026-03-09T00:01:03+00:00",
+            "summary": "Businesses are being urged to take simple steps to prepare for the landmark EU agri-food deal, that will cut costs, slash red tape and open up opportunities for exporters and importers."
+          },
+          {
             "title": "Export masterclasses to help Scottish businesses forge EU trade links",
             "link": "https://www.gov.uk/government/news/export-masterclasses-to-help-scottish-businesses-forge-eu-trade-links",
             "updated": "2026-03-03T14:42:01+00:00",
@@ -1143,12 +1149,6 @@
             "link": "https://www.gov.uk/government/news/update-on-the-governments-plans-for-audit-reform-legislation",
             "updated": "2026-01-20T09:03:02+00:00",
             "summary": "\u2026Letter from the Minister for Small Business and Economic Transformation to the Chair of the Business and <mark>Trade</mark> Committee on the Government&#x27;s plans for audit reform legislation.\u2026"
-          },
-          {
-            "title": "Strategy to boost UK education abroad in major \u00a340bn growth drive",
-            "link": "https://www.gov.uk/government/news/strategy-to-boost-uk-education-abroad-in-major-40bn-growth-drive",
-            "updated": "2026-01-20T00:01:10+00:00",
-            "summary": "Bold new strategy will grow education exports to \u00a340bn a year by 2030, supporting UK jobs and investment."
           }
         ],
         "errors": []
@@ -1165,7 +1165,7 @@
           }
         ],
         "errors": [
-          "<urlopen error [Errno 101] Network is unreachable>"
+          "<urlopen error [Errno 104] Connection reset by peer>"
         ]
       },
       "canada_finance": {
