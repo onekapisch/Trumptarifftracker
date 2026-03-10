@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T06:46:43+00:00",
+  "generated_at": "2026-03-10T06:45:07+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,22 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 67987839 - ACE Appendix Partner Government Agency (PGA) Document Updated on CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d697f",
+          "pub_date": "Mon, 09 Mar 2026 14:00:02 -0400",
+          "guid": "67987839",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67987839 - ACE Appendix Partner Government Agency (PGA) Document Updated on CBP.gov U.S. Customs and Border Protection (CBP) has updated the Appendix Partner Government Agency (PGA) document in the \u201cPGA Message Set Documents\u201d section in CBP\u2019s CATAIR webpag e. CBP has updated the following sections: For FDA - PG23 Affirmation of Compliance Codes (updated for Tobacco) For DEA - PG01 Agency Program Code (added for encapsulating machines) Corrected PG01 Agency Programs for NHTSA/NMFS Please review the Appendix PGA table of changes for details. For questions, please email crem@cbp.dhs.gov ."
+        },
+        {
+          "title": "CSMS # 67986568 - Electronic Export Manifest (EEM) \u2013 Implementation Guide (IG) Updates",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d6488",
+          "pub_date": "Mon, 09 Mar 2026 12:38:55 -0400",
+          "guid": "67986568",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 67986568 - Electronic Export Manifest (EEM) \u2013 Implementation Guide (IG) Updates Electronic Export Manifest (EEM) will be implementing an update to the ACE CATAIR - Appendix B (Import) and ACE AESTIR \u2013 Appendix C (Export), removing Burma (BU) as a valid Country Code and retaining Myanmar (MM) as a valid Country Code."
+        },
+        {
           "title": "CSMS # 67965619 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments (CBP-199) \u2013 Available in ACE CERT Environment Now and Deploying to ACE PROD Environment on April 9, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d12b3",
           "pub_date": "Fri, 06 Mar 2026 15:41:30 -0500",
@@ -1054,22 +1070,6 @@
           "guid": "67544333",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67544333 - Withhold Release Order (WRO) on Coffee Harvested in Mexico by Finca Monte Grande U.S. Customs and Border Protection (CBP) issued a Withhold Release Order (WRO) against Coffee harvested by Finca Monte Grande. Effective immediately, CBP personnel at all U.S. ports of entry will detain shipments of coffee due to evidence reasonably indicating the use of forced labor in their production. This WRO, the first in year 2026 and the third in Fiscal Year 2026, was issued due to violations of 19 U.S.C. \u00a7 1307, the law prohibiting goods made with forced labor from entering the United States. When CBP has evidence indicating that imported goods are made b"
-        },
-        {
-          "title": "CSMS # 67545499 - UPDATE: Additional Parties Qualified for the Payment of Duty on International Mail Shipments pursuant to Executive Order 14324 \u201cSuspending Duty-Free De Minimis Treatment for All Countries\u201d",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/406a99b",
-          "pub_date": "Thu, 29 Jan 2026 11:50:48 -0500",
-          "guid": "67545499",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67545499 - UPDATE: Additional Parties Qualified for the Payment of Duty on International Mail Shipments pursuant to Executive Order 14324 \u201cSuspending Duty-Free De Minimis Treatment for All Countries\u201d Pursuant to Executive Order 14324 of July 30, 2025, (\u201c Suspending Duty-Free De Minimis Treatment for All Countries \u201d), effective August 29, 2025, de minimis duty-free treatment under 19 U.S.C. \u00a7 1321(a)(2)(C) will no longer be available for shipments entering into the United States not covered by 50 U.S.C. \u00a7 1702(b), including those entering through international mail. As outlined in the Executive Order, duty on international mail shipments must be paid by "
-        },
-        {
-          "title": "CSMS # 67538179 - Revamped Forced Labor Website and 2026 Update to the Uyghur Forced Labor Prevention Act (UFLPA) Enforcement Statistics Dashboard",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4068d03",
-          "pub_date": "Wed, 28 Jan 2026 18:01:45 -0500",
-          "guid": "67538179",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67538179 - Revamped Forced Labor Website and 2026 Update to the Uyghur Forced Labor Prevention Act (UFLPA) Enforcement Statistics Dashboard As part of U.S. Customs and Border Protection\u2019s (CBP) ongoing efforts to help the trade community understand and comply with U.S. forced labor laws, CBP is proud to announce its revamped Forced Labor website. The revamped website provides streamlined navigation and expanded resources on enforcement, laws, compliance and reporting violations. This revised website is one of CBP\u2019s many resources built to help the trade community access the information and tools it needs to understand CBP\u2019s forced labor enforcement and "
         }
       ],
       "errors": []
@@ -1080,20 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "EU and Canada launch negotiations for a Digital Trade Agreement",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_553",
-            "pub_date": "Thu, 05 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_553",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Press release Toronto, 06 Mar 2026 Yesterday in Toronto, Commissioner for Trade and Economic Security, Maro\u0161 \u0160ef\u010dovi\u010d, and Canada's Minister for International Trade Maninder Sidhu launched negotiations for an EU-Canada Digital Trade Agreement (DTA)."
+            "title": "EU steps up civil protection efforts and brings back 356 citizens home amid developments in the Middle East",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_577",
+            "pub_date": "Mon, 09 Mar 2026 08:09:47 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_577",
+            "category": "POLICY_AREA=ICHACR,MIDDLE",
+            "description": "European Commission Press release Brussels, 09 Mar 2026 Two repatriation flights chartered directly by the European Commission have safely landed in Romania. The two flights brought back 356 European citizens who were stranded in the Middle East from Oman to Romania. For the first time ever, the Commission mobilised its own rescEU transport and logistics capacities following a request from the Romanian authorities. This operation marks an important milestone in expanding the response tools of the EU Civil Protection Mechanism."
           },
           {
-            "title": "Speech by Commissioner Hansen at the first Food Dialogue \"Reestablishing the essential link between farming, territory and food\"",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_560",
-            "pub_date": "Thu, 05 Mar 2026 18:03:09 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_560",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Speech Brussels, 05 Mar 2026 For the first time, the European Commission has a portfolio that brings together agriculture and food. As Commissioner responsible for both, I attach particular importance to this moment. Because food is not simply a policy area. It touches every European citizen, every territory, every community."
+            "title": "Speech by President von der Leyen at the EU Ambassadors Conference 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_576",
+            "pub_date": "Mon, 09 Mar 2026 06:49:06 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_576",
+            "category": "POLICY_AREA=DEVEL,HREXTRELS,HOMEAFF,PRESIDENCY,TRADEPOL,BUSINDUS",
+            "description": "European Commission Speech Brussels, 09 Mar 2026 \u201cCheck against delivery\u201d Dear Kaja, Secretary-General, dear Bel\u00e9n, Ambassadors, Ladies and Gentlemen, It is a pleasure to once again see so many of you her..."
           }
         ],
         "errors": []
@@ -1105,7 +1105,7 @@
           {
             "title": "Businesses urged to take simple steps for smoother trade with the EU",
             "link": "https://www.gov.uk/government/news/businesses-urged-to-take-simple-steps-for-smoother-trade-with-the-eu",
-            "updated": "2026-03-09T00:01:03+00:00",
+            "updated": "2026-03-09T00:01:00+00:00",
             "summary": "Businesses are being urged to take simple steps to prepare for the landmark EU agri-food deal, that will cut costs, slash red tape and open up opportunities for exporters and importers."
           },
           {
