@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T06:45:07+00:00",
+  "generated_at": "2026-03-11T06:45:30+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04697",
+          "publication_date": "2026-03-10",
+          "title": "Fresh Garlic From the People's Republic of China: Notice of Court Decision Not in Harmony With Final Scope Ruling and Notice of Amended Final Scope Ruling Pursuant to Court Decision",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04697/fresh-garlic-from-the-peoples-republic-of-china-notice-of-court-decision-not-in-harmony-with-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04696",
+          "publication_date": "2026-03-10",
+          "title": "Heavy Walled Rectangular Pipes and Tubes From Mexico: Preliminary Results and Rescission, in Part, of the Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04696/heavy-walled-rectangular-pipes-and-tubes-from-mexico-preliminary-results-and-rescission-in-part-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04678",
+          "publication_date": "2026-03-10",
+          "title": "Certain Van-Type Trailers and Subassemblies Thereof From Canada, the People's Republic of China, and Mexico: Postponement of Preliminary Determinations in the Countervailing Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04678/certain-van-type-trailers-and-subassemblies-thereof-from-canada-the-peoples-republic-of-china-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04676",
+          "publication_date": "2026-03-10",
+          "title": "Certain Steel Racks and Parts Thereof From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04676/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-preliminary-results-and",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04617",
+          "publication_date": "2026-03-10",
+          "title": "Lithium Hexafluorophosphate From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04617/lithium-hexafluorophosphate-from-china-institution-of-antidumping-and-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04612",
+          "publication_date": "2026-03-10",
+          "title": "Frozen Warmwater Shrimp From Ecuador: Preliminary Results and Partial Rescission of Countervailing Duty Expedited Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04612/frozen-warmwater-shrimp-from-ecuador-preliminary-results-and-partial-rescission-of-countervailing",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04611",
+          "publication_date": "2026-03-10",
+          "title": "Diffusion-Annealed, Nickel-Plated Flat-Rolled Steel Products From Japan: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04611/diffusion-annealed-nickel-plated-flat-rolled-steel-products-from-japan-final-results-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04610",
+          "publication_date": "2026-03-10",
+          "title": "Common Alloy Aluminum Sheet From India: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04610/common-alloy-aluminum-sheet-from-india-final-results-of-countervailing-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04599",
           "publication_date": "2026-03-09",
@@ -671,78 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03680/certain-crystalline-silicon-photovoltaic-products-from-taiwan-final-results-of-the-antidumping-duty",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03679",
-          "publication_date": "2026-02-24",
-          "title": "Granular Polytetrafluoroethylene Resin From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03679/granular-polytetrafluoroethylene-resin-from-india-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03678",
-          "publication_date": "2026-02-24",
-          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03678/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03611",
-          "publication_date": "2026-02-24",
-          "title": "Sodium Nitrite From India: Final Results of Countervailing Duty Administrative Review; 2022-2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03611/sodium-nitrite-from-india-final-results-of-countervailing-duty-administrative-review-2022-2023",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03600",
-          "publication_date": "2026-02-24",
-          "title": "Unwrought Palladium From Russia; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03600/unwrought-palladium-from-russia-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03538",
-          "publication_date": "2026-02-23",
-          "title": "1-Hydroxyethylidene-1, 1-Diphosphonic Acid From the People's Republic of China: Final Affirmative Determination of Circumvention",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03538/1-hydroxyethylidene-1-1-diphosphonic-acid-from-the-peoples-republic-of-china-final-affirmative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03515",
-          "publication_date": "2026-02-23",
-          "title": "Light-Walled Rectangular Pipe and Tube From Mexico: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03515/light-walled-rectangular-pipe-and-tube-from-mexico-preliminary-results-and-partial-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03511",
-          "publication_date": "2026-02-23",
-          "title": "Certain Frozen Warmwater Shrimp From the Socialist Republic of Vietnam: Final Results of and Final Rescission of Review, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03511/certain-frozen-warmwater-shrimp-from-the-socialist-republic-of-vietnam-final-results-of-and-final",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03509",
-          "publication_date": "2026-02-23",
-          "title": "Submission for OMB Review; Buy American, Trade Agreements, and Duty-Free Entry",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03509/submission-for-omb-review-buy-american-trade-agreements-and-duty-free-entry",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68000541 - NCSD March and April 2026 Webinars",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d9b1d",
+          "pub_date": "Tue, 10 Mar 2026 15:22:21 -0400",
+          "guid": "68000541",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68000541 - NCSD March and April 2026 Webinars The National Commodity Specialist Division, Office of Trade, is excited to present the next round of approximately 30+ commodity-specific, educational webinars to support our internal and external stakeholders. This year, we intend to focus our webinars on the FUTURE OF TRADE: INNOVATION AND EMERGING TECHNOLOGY --dedicated to rapidly changing technology in addition to providing general classification guidance to facilitate legitimate trade. Beginning March through September 2026, the webinars will commence at 1:30pm Eastern time for approximately one hour, except for Sept 3rd, scheduled at 11:30am Eastern. W"
+        },
         {
           "title": "CSMS # 67987839 - ACE Appendix Partner Government Agency (PGA) Document Updated on CBP.gov",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d697f",
@@ -1062,14 +1070,6 @@
           "guid": "67557993",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67557993 - Resolved \u2013 ACE Reports 524 Time Out Error On January 29, 2026, U.S. Customs and Border Protection deployed an update to the Automated Commercial Environment (ACE) Reports application. This update resolves the increased occurrence of 524 (time-out) errors that some users experienced when running reports. This issue was limited to running reports in ACE and did not impact trade operations. If you continue to encounter time-out errors or any other issue in ACE Reports, please contact the CBP ACE Help Desk at (866) 530-4172 or ace.support@cbp.dhs.gov , or reach out to the ACE Reports team directly at ace.reports@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 67544333 - Withhold Release Order (WRO) on Coffee Harvested in Mexico by Finca Monte Grande",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/406a50d",
-          "pub_date": "Thu, 29 Jan 2026 12:00:49 -0500",
-          "guid": "67544333",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67544333 - Withhold Release Order (WRO) on Coffee Harvested in Mexico by Finca Monte Grande U.S. Customs and Border Protection (CBP) issued a Withhold Release Order (WRO) against Coffee harvested by Finca Monte Grande. Effective immediately, CBP personnel at all U.S. ports of entry will detain shipments of coffee due to evidence reasonably indicating the use of forced labor in their production. This WRO, the first in year 2026 and the third in Fiscal Year 2026, was issued due to violations of 19 U.S.C. \u00a7 1307, the law prohibiting goods made with forced labor from entering the United States. When CBP has evidence indicating that imported goods are made b"
         }
       ],
       "errors": []
@@ -1080,20 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "EU steps up civil protection efforts and brings back 356 citizens home amid developments in the Middle East",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_577",
-            "pub_date": "Mon, 09 Mar 2026 08:09:47 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_577",
-            "category": "POLICY_AREA=ICHACR,MIDDLE",
-            "description": "European Commission Press release Brussels, 09 Mar 2026 Two repatriation flights chartered directly by the European Commission have safely landed in Romania. The two flights brought back 356 European citizens who were stranded in the Middle East from Oman to Romania. For the first time ever, the Commission mobilised its own rescEU transport and logistics capacities following a request from the Romanian authorities. This operation marks an important milestone in expanding the response tools of the EU Civil Protection Mechanism."
+            "title": "Speech by Commissioner Kubilius at the Plenary Session of the European Parliament Joint Debate on Defence",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_592",
+            "pub_date": "Tue, 10 Mar 2026 17:54:03 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_592",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Strasbourg, 10 Mar 2026 President, Honourable Members, Thank you for these two important reports I thank the rapporteurs and the shadows for your work. First, Mr Cremer, on breaking do..."
           },
           {
-            "title": "Speech by President von der Leyen at the EU Ambassadors Conference 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_576",
-            "pub_date": "Mon, 09 Mar 2026 06:49:06 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_576",
-            "category": "POLICY_AREA=DEVEL,HREXTRELS,HOMEAFF,PRESIDENCY,TRADEPOL,BUSINDUS",
-            "description": "European Commission Speech Brussels, 09 Mar 2026 \u201cCheck against delivery\u201d Dear Kaja, Secretary-General, dear Bel\u00e9n, Ambassadors, Ladies and Gentlemen, It is a pleasure to once again see so many of you her..."
+            "title": "Commission unveils new AI tool to fight agri-food alerts and food fraud",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_584",
+            "pub_date": "Tue, 10 Mar 2026 08:32:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_584",
+            "category": "POLICY_AREA=HEALTHPOL,FOODSAF",
+            "description": "European Commission Press release Brussels, 10 Mar 2026 The European Commission has unveiled a new artificial intelligence (AI) platform, TraceMap, to accelerate the detection of food fraud, contaminated food and foodborne disease outbreaks across the EU. In line with the EU's high safety standards for food and imported products, this new tool will reinforce consumer safety and help national authorities work more effectively, by innovating on how we assess, detect and respond to food safety risks and fraudulent activity."
           }
         ],
         "errors": []
@@ -1102,6 +1102,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "UK manufacturers to save millions of pounds a year as government removes offshore wind energy tariffs",
+            "link": "https://www.gov.uk/government/news/uk-manufacturers-to-save-millions-of-pounds-a-year-as-government-removes-offshore-wind-energy-tariffs",
+            "updated": "2026-03-10T15:59:44+00:00",
+            "summary": "British manufacturers will save millions of pounds a year as the Government removes <mark>tariffs</mark> on offshore wind energy components from 1 April."
+          },
           {
             "title": "Businesses urged to take simple steps for smoother trade with the EU",
             "link": "https://www.gov.uk/government/news/businesses-urged-to-take-simple-steps-for-smoother-trade-with-the-eu",
@@ -1143,12 +1149,6 @@
             "link": "https://www.gov.uk/government/news/billions-in-exports-and-investment-deals-secured-as-pm-concludes-visit-to-china",
             "updated": "2026-01-30T22:30:00+00:00",
             "summary": "Billions of pounds worth of export and investment deals for the UK have been secured, as the Prime Minister wraps up his visit to China."
-          },
-          {
-            "title": "Update on the Government\u2019s plans for audit reform legislation",
-            "link": "https://www.gov.uk/government/news/update-on-the-governments-plans-for-audit-reform-legislation",
-            "updated": "2026-01-20T09:03:02+00:00",
-            "summary": "\u2026Letter from the Minister for Small Business and Economic Transformation to the Chair of the Business and <mark>Trade</mark> Committee on the Government&#x27;s plans for audit reform legislation.\u2026"
           }
         ],
         "errors": []
