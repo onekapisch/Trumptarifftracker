@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T06:45:30+00:00",
+  "generated_at": "2026-03-12T06:46:03+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,69 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04786",
+          "publication_date": "2026-03-11",
+          "title": "Extension of Import Restrictions Imposed on Certain Archaeological and Ecclesiastical Ethnological Material of Colombia",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04786/extension-of-import-restrictions-imposed-on-certain-archaeological-and-ecclesiastical-ethnological",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04769",
+          "publication_date": "2026-03-11",
+          "title": "Certain Nasal Devices and Components Thereof; Notice of a Commission Determination To Reconsider an Earlier Decision; Issue a Limited Exclusion Order and Cease and Desist Orders; Termination of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04769/certain-nasal-devices-and-components-thereof-notice-of-a-commission-determination-to-reconsider-an",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04767",
+          "publication_date": "2026-03-11",
+          "title": "Chlorinated Isocyanurates From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04767/chlorinated-isocyanurates-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04766",
+          "publication_date": "2026-03-11",
+          "title": "Certain Monomers and Oligomers From Taiwan: Antidumping Duty Order and Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04766/certain-monomers-and-oligomers-from-taiwan-antidumping-duty-order-and-countervailing-duty-order",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04765",
+          "publication_date": "2026-03-11",
+          "title": "Unwrought Palladium From the Russian Federation: Preliminary Affirmative Countervailing Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04765/unwrought-palladium-from-the-russian-federation-preliminary-affirmative-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04728",
+          "publication_date": "2026-03-11",
+          "title": "North American Free Trade Agreement (NAFTA), Article 1904; Binational Panel Review: Notice of Panel Decision",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04728/north-american-free-trade-agreement-nafta-article-1904-binational-panel-review-notice-of-panel",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04707",
+          "publication_date": "2026-03-11",
+          "title": "Certain Opaque Polymers; Notice of Institution of Rescission Proceeding; Rescission of Remedial Orders; Termination of Rescission Proceeding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04707/certain-opaque-polymers-notice-of-institution-of-rescission-proceeding-rescission-of-remedial-orders",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04697",
           "publication_date": "2026-03-10",
@@ -680,69 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03868/request-for-comments-on-the-design-of-a-plurilateral-agreement-on-trade-in-critical-minerals-and",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03795",
-          "publication_date": "2026-02-26",
-          "title": "Certain Cut-to-Length Carbon-Quality Steel Plate Products From the Republic of Korea: Preliminary Results and Rescission of Antidumping Duty Administrative Review, in Part; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03795/certain-cut-to-length-carbon-quality-steel-plate-products-from-the-republic-of-korea-preliminary",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03832",
-          "publication_date": "2026-02-25",
-          "title": "Ending Certain Tariff Actions",
-          "type": "Presidential Document",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03832/ending-certain-tariff-actions",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03829",
-          "publication_date": "2026-02-25",
-          "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
-          "type": "Presidential Document",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03829/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03824",
-          "publication_date": "2026-02-25",
-          "title": "Imposing a Temporary Import Surcharge To Address Fundamental International Payments Problems",
-          "type": "Presidential Document",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03824/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03759",
-          "publication_date": "2026-02-25",
-          "title": "Float Glass Products From Malaysia: Final Affirmative Countervailing Duty Determination; Correction",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/25/2026-03759/float-glass-products-from-malaysia-final-affirmative-countervailing-duty-determination-correction",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03683",
-          "publication_date": "2026-02-24",
-          "title": "Foreign-Trade Zone (FTZ) 183, Notification of Proposed Production Activity; Ultra Clean Technology Systems and Service, Inc.; (Inputs Primarily for Semiconductor Industry); Manor, Texas",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03683/foreign-trade-zone-ftz-183-notification-of-proposed-production-activity-ultra-clean-technology",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-03680",
-          "publication_date": "2026-02-24",
-          "title": "Certain Crystalline Silicon Photovoltaic Products from Taiwan: Final Results of the Antidumping Duty Administrative Review: 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/24/2026-03680/certain-crystalline-silicon-photovoltaic-products-from-taiwan-final-results-of-the-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -1086,14 +1086,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_592",
             "category": "POLICY_AREA=DEFENCE",
             "description": "European Commission Speech Strasbourg, 10 Mar 2026 President, Honourable Members, Thank you for these two important reports I thank the rapporteurs and the shadows for your work. First, Mr Cremer, on breaking do..."
-          },
-          {
-            "title": "Commission unveils new AI tool to fight agri-food alerts and food fraud",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_584",
-            "pub_date": "Tue, 10 Mar 2026 08:32:30 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_584",
-            "category": "POLICY_AREA=HEALTHPOL,FOODSAF",
-            "description": "European Commission Press release Brussels, 10 Mar 2026 The European Commission has unveiled a new artificial intelligence (AI) platform, TraceMap, to accelerate the detection of food fraud, contaminated food and foodborne disease outbreaks across the EU. In line with the EU's high safety standards for food and imported products, this new tool will reinforce consumer safety and help national authorities work more effectively, by innovating on how we assess, detect and respond to food safety risks and fraudulent activity."
           }
         ],
         "errors": []
