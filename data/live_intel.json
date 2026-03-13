@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T06:46:03+00:00",
+  "generated_at": "2026-03-13T06:45:28+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04884",
+          "publication_date": "2026-03-12",
+          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Reviews of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04884/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04883",
+          "publication_date": "2026-03-12",
+          "title": "Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04882",
+          "publication_date": "2026-03-12",
+          "title": "1,1,1,2-Tetrafluorothane (R-134a) From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04882/1112-tetrafluorothane-r-134a-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04881",
+          "publication_date": "2026-03-12",
+          "title": "Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04879",
+          "publication_date": "2026-03-12",
+          "title": "Methionine From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04879/methionine-from-spain-preliminary-results-of-antidumping-duty-administrative-review-2023-2024",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04878",
+          "publication_date": "2026-03-12",
+          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04878/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04877",
+          "publication_date": "2026-03-12",
+          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04877/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04852",
+          "publication_date": "2026-03-12",
+          "title": "Proposed Consent Decree; Clean Air Act Citizen Suit",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04852/proposed-consent-decree-clean-air-act-citizen-suit",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04838",
+          "publication_date": "2026-03-12",
+          "title": "Certain Vehicle Parts and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04838/certain-vehicle-parts-and-components-thereof-notice-of-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04812",
+          "publication_date": "2026-03-12",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04812/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04786",
           "publication_date": "2026-03-11",
@@ -580,7 +670,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04058/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-cms-circuits-inc-electronic",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-04031",
@@ -653,96 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03924/certain-beverage-brewing-products-and-components-thereof-notice-of-institution-of-investigation",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03911",
-          "publication_date": "2026-02-27",
-          "title": "Polyethylene Terephthalate (PET) Film, Sheet, and Strip From China, India, Taiwan, and United Arab Emirates; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03911/polyethylene-terephthalate-pet-film-sheet-and-strip-from-china-india-taiwan-and-united-arab-emirates",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03897",
-          "publication_date": "2026-02-26",
-          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules From the Lao People's Democratic Republic: Preliminary Affirmative Countervailing Duty Determination, Preliminary Negative Critical Circumstances Determination, and Alignment of Final Determination With Final Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03897/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-the-lao-peoples",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03896",
-          "publication_date": "2026-02-26",
-          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules From Indonesia: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, in Part, and Alignment of Final Determination With Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03896/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-indonesia",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03895",
-          "publication_date": "2026-02-26",
-          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From India: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, in Part, and Alignment of Final Determination With Final Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03895/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-india-preliminary",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03894",
-          "publication_date": "2026-02-26",
-          "title": "Organic Soybean Meal From India: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03894/organic-soybean-meal-from-india-final-results-of-countervailing-duty-administrative-review-2023",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03893",
-          "publication_date": "2026-02-26",
-          "title": "Large Diameter Welded Pipe From the Republic of T\u00fcrkiye: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03893/large-diameter-welded-pipe-from-the-republic-of-trkiye-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03892",
-          "publication_date": "2026-02-26",
-          "title": "Certain Lined Paper Products From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03892/certain-lined-paper-products-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03881",
-          "publication_date": "2026-02-26",
-          "title": "Certain New Pneumatic Off-the-Road Tires From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03881/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03878",
-          "publication_date": "2026-02-26",
-          "title": "Electrolytic Manganese Dioxide From the People's Republic of China: Continuation of Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03878/electrolytic-manganese-dioxide-from-the-peoples-republic-of-china-continuation-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03868",
-          "publication_date": "2026-02-26",
-          "title": "Request for Comments on the Design of a Plurilateral Agreement on Trade in Critical Minerals and Policy Actions To Strengthen the Resilience of Critical Mineral Supply Chains",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/26/2026-03868/request-for-comments-on-the-design-of-a-plurilateral-agreement-on-trade-in-critical-minerals-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68020465 - REMINDER: Production Deployment Date for FDA Supplemental Guide v. 2.6 was March 10, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40de8f1",
+          "pub_date": "Thu, 12 Mar 2026 09:57:14 -0400",
+          "guid": "68020465",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68020465 - REMINDER: Production Deployment Date for FDA Supplemental Guide v. 2.6 was March 10, 2026 On Tuesday, March 10, 2026, the changes related to the U.S. Food and Drug Administration (FDA) ACE Supplemental Guide (SG) Version 2.6 were deployed to the CBP PRODUCTION environment. The SG 2.6 was moved from the DRAFT CHAPTERS: Future Capabilities section to the Implementation Guide Ready for Coding section in the PGA documents section on CBP.gov: ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) Refer to the Change Log in the document for all changes. The following FDA documents associated with this deploymen"
+        },
         {
           "title": "CSMS # 68000541 - NCSD March and April 2026 Webinars",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d9b1d",
@@ -1062,14 +1070,6 @@
           "guid": "67561538",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67561538 - Harmonized System Update (HSU) 2601 and 2602 Harmonized System Update (HSU) 2601 was created on January 15, 2026, and contains 9 harmonized tariff records and 18 ABI records. HSU 2602 was created on January 30, 2026, and contains 5,405 harmonized tariff records and 25,233 ABI records. HSU 2601 contains Section 232 Semiconductor Harmonized Tariff Schedule (HTS) updates. Please see: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/ and CSMS # 67400472 for guidance on entry filings. HSU 2602 contains the Fall 2025"
-        },
-        {
-          "title": "CSMS # 67557993 - Resolved \u2013 ACE Reports 524 Time Out Error",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/406da69",
-          "pub_date": "Fri, 30 Jan 2026 11:33:14 -0500",
-          "guid": "67557993",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67557993 - Resolved \u2013 ACE Reports 524 Time Out Error On January 29, 2026, U.S. Customs and Border Protection deployed an update to the Automated Commercial Environment (ACE) Reports application. This update resolves the increased occurrence of 524 (time-out) errors that some users experienced when running reports. This issue was limited to running reports in ACE and did not impact trade operations. If you continue to encounter time-out errors or any other issue in ACE Reports, please contact the CBP ACE Help Desk at (866) 530-4172 or ace.support@cbp.dhs.gov , or reach out to the ACE Reports team directly at ace.reports@cbp.dhs.gov ."
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Speech by Commissioner Kubilius at the Plenary Session of the European Parliament Joint Debate on Defence",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_592",
-            "pub_date": "Tue, 10 Mar 2026 17:54:03 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_592",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Strasbourg, 10 Mar 2026 President, Honourable Members, Thank you for these two important reports I thank the rapporteurs and the shadows for your work. First, Mr Cremer, on breaking do..."
+            "title": "Speech by Commissioner Lahbib on Eliminating Violence against Women",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_603",
+            "pub_date": "Thu, 12 Mar 2026 16:35:21 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_603",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Speech New York, 12 Mar 2026 In just five years, the world has changed profoundly. More conflicts, more crises, more division. But one thing has not changed: our determination to end violen..."
+          },
+          {
+            "title": "Keynote speech of the Executive Vice President Ribera at the 23rd International Conference on Competition (IKK)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_602",
+            "pub_date": "Thu, 12 Mar 2026 15:46:37 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_602",
+            "category": "POLICY_AREA=COMPETY",
+            "description": "European Commission Speech Berlin, 12 Mar 2026 Executive Vice President Ribera delivered a keynote speech at the 23rd International Conference on Competition in Berlin"
+          },
+          {
+            "title": "Keynote speech by Commissioner Kadis at the Oceanology International 2026: \u2018The Future of Blue Economy'",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_601",
+            "pub_date": "Thu, 12 Mar 2026 13:36:41 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_601",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech London, 12 Mar 2026 Dear ocean techology leaders, innovators, and industry stakeholders, Dear friends of the Ocean, Ladies and Gentlemen, It is a great honour and privilege to add..."
+          },
+          {
+            "title": "Daily News 12 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_600",
+            "pub_date": "Thu, 12 Mar 2026 09:15:27 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_600",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 12 Mar 2026 EU brings over 8,000 European citizens home amid Middle East escalation Two repatriation flights chartered directly by the European Commission have just landed ..."
+          },
+          {
+            "title": "Speech by Commissioner Lahbib at Protecting Aid Workers",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_599",
+            "pub_date": "Thu, 12 Mar 2026 09:08:41 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_599",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech New York, 12 Mar 2026 Last month, I travelled to the Great Lakes region on a humanitarian mission. Thousands of women and children have fled unspeakable violence in eastern Congo. Yo..."
+          },
+          {
+            "title": "Opening Remarks by Commissioner Brunner at the 22nd Annual EU Remembrance Day for the Victims of Terrorism",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_597",
+            "pub_date": "Wed, 11 Mar 2026 16:01:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_597",
+            "category": "POLICY_AREA=HOMEAFF,MIGR,SECU",
+            "description": "European Commission Speech Brussels, 11 Mar 2026 Dear victims and survivors of terrorism, First of all, thank you for being here today. I also want to thank those victims and survivors who I know are joining t..."
+          },
+          {
+            "title": "Speech by Commissioner Lahbib on Combatting Cyber Violence Against Girls",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_596",
+            "pub_date": "Wed, 11 Mar 2026 14:55:50 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_596",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Speech New York, 11 Mar 2026 Last summer, I became a grandmother for the first time. A little girl named Jenna. When she is with me, I sometimes check messages on my phone. The moment she s..."
+          },
+          {
+            "title": "Speech by Commissioner S\u00edkela at the EU Ambassadors Conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_595",
+            "pub_date": "Wed, 11 Mar 2026 11:15:59 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_595",
+            "category": "POLICY_AREA=DEVEL",
+            "description": "European Commission Speech Brussels, 11 Mar 2026 Distinguished Ambassadors, First of all, thank you for coming to Brussels. I know that this year the journey was particularly difficult for some of you due to t..."
+          },
+          {
+            "title": "Daily News 11 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_594",
+            "pub_date": "Wed, 11 Mar 2026 10:09:14 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_594",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 11 Mar 2026 Commission adopts its March infringement procedures To help citizens and businesses benefit fully from the European Union's legislation, the European Commissio..."
+          },
+          {
+            "title": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 19-20 March 2026 and on the US-Israel military operations against the Iranian regime, its consequences and the need to support the people of Iran",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_593",
+            "pub_date": "Wed, 11 Mar 2026 07:42:07 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_593",
+            "category": "POLICY_AREA=ENERGY,HREXTRELS,GROWTH,PRESIDENCY,MIDDLE,COMPETITIVE",
+            "description": "European Commission Speech Strasbourg, 11 Mar 2026 \u201cCheck against delivery\u201d Madam President, dear Roberta, Deputy Minister Raouna, dear Marilena, Honourable Members, Let me start with the ongoing situation in ..."
           }
         ],
         "errors": []
