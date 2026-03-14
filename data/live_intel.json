@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T06:45:28+00:00",
+  "generated_at": "2026-03-14T06:44:57+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,87 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-04951",
+          "publication_date": "2026-03-13",
+          "title": "Certain Freight Rail Couplers and Parts Thereof From the People's Republic of China: Rescission of Countervailing Duty Administrative Review; 2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04951/certain-freight-rail-couplers-and-parts-thereof-from-the-peoples-republic-of-china-rescission-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04950",
+          "publication_date": "2026-03-13",
+          "title": "Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group; (Renewable Fuels); Port Arthur, Texas",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04950/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04949",
+          "publication_date": "2026-03-13",
+          "title": "Foreign-Trade Zone (FTZ) 46, Notification of Proposed Production Activity; Patheon API, Inc., (Pharmaceutical Products); Cincinnati, Ohio",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04949/foreign-trade-zone-ftz-46-notification-of-proposed-production-activity-patheon-api-inc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04945",
+          "publication_date": "2026-03-13",
+          "title": "Certain Fatty Acids From Indonesia and Malaysia: Initiation of Countervailing Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04945/certain-fatty-acids-from-indonesia-and-malaysia-initiation-of-countervailing-duty-investigations",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04943",
+          "publication_date": "2026-03-13",
+          "title": "Wooden Cabinets and Vanities and Components Thereof From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04943/wooden-cabinets-and-vanities-and-components-thereof-from-the-peoples-republic-of-china-final-results",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04929",
+          "publication_date": "2026-03-13",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04929/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04928",
+          "publication_date": "2026-03-13",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04928/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04912",
+          "publication_date": "2026-03-13",
+          "title": "Federal Acquisition Regulation: Trade Agreements Thresholds",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04912/federal-acquisition-regulation-trade-agreements-thresholds",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-04908",
+          "publication_date": "2026-03-13",
+          "title": "Certain Disposable Vaporizer Devices; Notice of Final Commission Determination of No Violation; Termination of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04908/certain-disposable-vaporizer-devices-notice-of-final-commission-determination-of-no-violation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04884",
           "publication_date": "2026-03-12",
@@ -662,87 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04059/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04058",
-          "publication_date": "2026-03-02",
-          "title": "Foreign-Trade Zone (FTZ) 153, Notification of Proposed Production Activity; CMS Circuits, Inc.; (Electronic Manufacturing Services in Aerospace, Industrial, and Medical Applications); Murrieta, California",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04058/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-cms-circuits-inc-electronic",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-04031",
-          "publication_date": "2026-03-02",
-          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Inclusions to the Section 232 National Security Adjustments to Automobile Parts Imports",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04031/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04026",
-          "publication_date": "2026-03-02",
-          "title": "Truck Bed Covers From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04026/truck-bed-covers-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04025",
-          "publication_date": "2026-03-02",
-          "title": "Notice of Request for Extension of a Previously Approved Information Collection and Request for Comment; Request for Comment on Designation of Confidential Information",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04025/notice-of-request-for-extension-of-a-previously-approved-information-collection-and-request-for",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03999",
-          "publication_date": "2026-03-02",
-          "title": "Certain Hot-Rolled Steel Flat Products From the Netherlands: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-03999/certain-hot-rolled-steel-flat-products-from-the-netherlands-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03972",
-          "publication_date": "2026-02-27",
-          "title": "Oil Country Tubular Goods From the People's Republic of China: Final Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03972/oil-country-tubular-goods-from-the-peoples-republic-of-china-final-affirmative-determination-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03954",
-          "publication_date": "2026-02-27",
-          "title": "Large Diameter Graphite Electrodes From China and India; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03954/large-diameter-graphite-electrodes-from-china-and-india-institution-of-antidumping-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03928",
-          "publication_date": "2026-02-27",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03928/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-03924",
-          "publication_date": "2026-02-27",
-          "title": "Certain Beverage Brewing Products and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/02/27/2026-03924/certain-beverage-brewing-products-and-components-thereof-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68034342 - An updated Drug Enforcement Agency (DEA) DRAFT Implementation Guide (IG) is now available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40e1f26",
+          "pub_date": "Fri, 13 Mar 2026 11:14:48 -0400",
+          "guid": "68034342",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68034342 - An updated Drug Enforcement Agency (DEA) DRAFT Implementation Guide (IG) is now available The Drug Enforcement Agency (DEA) has updated its DRAFT implementation guide. The version 2.7 dated January 14, 2026, replaces version 2.7 dated January 5, 2026, and can be found in the \"Draft Chapters: Future Capabilities\" section of CBP.gov: https://www.cbp.gov/trade/automated/catair The updates made in the January 14, 2026, version reflect clarification language made based on feedback from the trade community. For questions about the implementation guide, please reach out to DEA at: DRI@dea.gov Related Message Number(s): 67396599"
+        },
         {
           "title": "CSMS # 68020465 - REMINDER: Production Deployment Date for FDA Supplemental Guide v. 2.6 was March 10, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40de8f1",
@@ -1062,14 +1070,6 @@
           "guid": "67593748",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67593748 - Customs Broker License Exam (CBLE) Spring 2026 Registration Information Registration for the April 22, 2026, Customs Broker License Exam (CBLE) will open on Monday, February 9, 2026, at 12:01 a.m. ET and close on Wednesday, March 11, 2026, at 4:30 p.m. ET. Registration links can be found on the Customs Brokers webpage of CBP.gov in the \u201cCustoms Broker License Exam Information\u201d section. Additional information and resources on the CBLE can also be found on this webpage. Questions regarding this message should be sent to: Broker Administration Branch, Office of Trade at brokermanagement@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 67561538 - Harmonized System Update (HSU) 2601 and 2602",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/406e842",
-          "pub_date": "Fri, 30 Jan 2026 15:33:17 -0500",
-          "guid": "67561538",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67561538 - Harmonized System Update (HSU) 2601 and 2602 Harmonized System Update (HSU) 2601 was created on January 15, 2026, and contains 9 harmonized tariff records and 18 ABI records. HSU 2602 was created on January 30, 2026, and contains 5,405 harmonized tariff records and 25,233 ABI records. HSU 2601 contains Section 232 Semiconductor Harmonized Tariff Schedule (HTS) updates. Please see: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/ and CSMS # 67400472 for guidance on entry filings. HSU 2602 contains the Fall 2025"
         }
       ],
       "errors": []
@@ -1079,6 +1079,38 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "D\u00e9claration conjointe de la Haute Repr\u00e9sentante Kallas et la Commissaire Lahbib sur la R\u00e9publique d\u00e9mocratique du Congo",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_609",
+            "pub_date": "Fri, 13 Mar 2026 17:41:16 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_609",
+            "category": "POLICY_AREA=HREXTRELS,ICHACR",
+            "description": "European Commission Statement Brussels, 13 Mar 2026 L'Union europ\u00e9enne condamne fermement l'attaque par drones survenue le mardi 11 mars \u00e0 Goma et qui a co\u00fbt\u00e9 la vie \u00e0 plusieurs civils dont une humanitaire fran\u00e7a..."
+          },
+          {
+            "title": "Speech by Commissioner Lahbib at the Annual Ambassadors Conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_607",
+            "pub_date": "Fri, 13 Mar 2026 13:54:46 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_607",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech Brussels, 13 Mar 2026 Power politics. Might makes right. Transactions. Realpolitik. Spheres of influence. Hard power. The law of the jungle. These are the words we hear to describe t..."
+          },
+          {
+            "title": "Daily News 13 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_606",
+            "pub_date": "Fri, 13 Mar 2026 10:19:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_606",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 13 Mar 2026 Commission greenlights Germany's third payment request for \u20ac4.6 billion under NextGenerationEU Today, the Commission positively assessed Germany's third payment..."
+          },
+          {
+            "title": "Commission greenlights Germany's third payment request for \u20ac4.6 billion under NextGenerationEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605",
+            "pub_date": "Fri, 13 Mar 2026 09:08:41 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605",
+            "category": "POLICY_AREA=RECOVERY",
+            "description": "European Commission Press release Brussels, 13 Mar 2026 Today, the Commission positively assessed Germany's third payment request for \u20ac4.6 billion in grants under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU."
+          },
           {
             "title": "Speech by Commissioner Lahbib on Eliminating Violence against Women",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_603",
@@ -1126,38 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_597",
             "category": "POLICY_AREA=HOMEAFF,MIGR,SECU",
             "description": "European Commission Speech Brussels, 11 Mar 2026 Dear victims and survivors of terrorism, First of all, thank you for being here today. I also want to thank those victims and survivors who I know are joining t..."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib on Combatting Cyber Violence Against Girls",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_596",
-            "pub_date": "Wed, 11 Mar 2026 14:55:50 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_596",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Speech New York, 11 Mar 2026 Last summer, I became a grandmother for the first time. A little girl named Jenna. When she is with me, I sometimes check messages on my phone. The moment she s..."
-          },
-          {
-            "title": "Speech by Commissioner S\u00edkela at the EU Ambassadors Conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_595",
-            "pub_date": "Wed, 11 Mar 2026 11:15:59 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_595",
-            "category": "POLICY_AREA=DEVEL",
-            "description": "European Commission Speech Brussels, 11 Mar 2026 Distinguished Ambassadors, First of all, thank you for coming to Brussels. I know that this year the journey was particularly difficult for some of you due to t..."
-          },
-          {
-            "title": "Daily News 11 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_594",
-            "pub_date": "Wed, 11 Mar 2026 10:09:14 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_594",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 11 Mar 2026 Commission adopts its March infringement procedures To help citizens and businesses benefit fully from the European Union's legislation, the European Commissio..."
-          },
-          {
-            "title": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 19-20 March 2026 and on the US-Israel military operations against the Iranian regime, its consequences and the need to support the people of Iran",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_593",
-            "pub_date": "Wed, 11 Mar 2026 07:42:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_593",
-            "category": "POLICY_AREA=ENERGY,HREXTRELS,GROWTH,PRESIDENCY,MIDDLE,COMPETITIVE",
-            "description": "European Commission Speech Strasbourg, 11 Mar 2026 \u201cCheck against delivery\u201d Madam President, dear Roberta, Deputy Minister Raouna, dear Marilena, Honourable Members, Let me start with the ongoing situation in ..."
           }
         ],
         "errors": []
