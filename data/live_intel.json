@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T06:44:57+00:00",
+  "generated_at": "2026-03-15T06:46:03+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05101",
+          "publication_date": "2026-03-16",
+          "title": "Steel Concrete Reinforcing Bar From the Republic of T\u00fcrkiye: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05101/steel-concrete-reinforcing-bar-from-the-republic-of-trkiye-final-results-of-the-expedited-second",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05099",
+          "publication_date": "2026-03-16",
+          "title": "Certain Pasta From Italy: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05099/certain-pasta-from-italy-final-results-of-antidumping-duty-administrative-review-2023-2024",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05005",
+          "publication_date": "2026-03-16",
+          "title": "Temporary Steel Fencing From the People's Republic of China: Final Affirmative Countervailing Duy Determination and Final Affirmative Determination of Critical Circumstances, in Part",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05005/temporary-steel-fencing-from-the-peoples-republic-of-china-final-affirmative-countervailing-duy",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05003",
+          "publication_date": "2026-03-16",
+          "title": "Polypropylene Corrugated Boxes From the People's Republic of China: Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05003/polypropylene-corrugated-boxes-from-the-peoples-republic-of-china-antidumping-duty-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05002",
+          "publication_date": "2026-03-16",
+          "title": "Pentafluoroethane (R-125) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05002/pentafluoroethane-r-125-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05001",
+          "publication_date": "2026-03-16",
+          "title": "Certain Oil Country Tubular Goods From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05001/certain-oil-country-tubular-goods-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05000",
+          "publication_date": "2026-03-16",
+          "title": "Tow-Behind Lawn Groomers and Certain Parts Thereof From the People's Republic of China: Continuation of Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05000/tow-behind-lawn-groomers-and-certain-parts-thereof-from-the-peoples-republic-of-china-continuation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-04995",
+          "publication_date": "2026-03-16",
+          "title": "Oil Country Tubular Goods From Socialist Republic of Vietnam: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-04995/oil-country-tubular-goods-from-socialist-republic-of-vietnam-preliminary-results-and-rescission-in",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-04951",
           "publication_date": "2026-03-13",
@@ -553,16 +625,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04189/foreign-trade-zone-ftz-18-notification-of-proposed-production-activity-tesla-inc-battery-storage",
           "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-04188",
-          "publication_date": "2026-03-03",
-          "title": "Foreign-Trade Zone (FTZ) 214, Notification of Proposed Production Activity; Aprinnova LLC; (Cosmetic Products); Leland, North Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04188/foreign-trade-zone-ftz-214-notification-of-proposed-production-activity-aprinnova-llc-cosmetic",
-          "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-04186",
@@ -571,7 +634,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04186/foreign-trade-zone-ftz-21-notification-of-proposed-production-activity-zapp-precision-wire-inc",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-04158",
@@ -678,69 +741,6 @@
           "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Czechia, Russia, South Korea, and Ukraine; Institution of Five-Year Reviews",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04075/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-czechia-russia-south-korea-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04074",
-          "publication_date": "2026-03-02",
-          "title": "Silicon Metal From Bosnia and Herzegovina, Iceland, Kazakhstan, and Malaysia; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04074/silicon-metal-from-bosnia-and-herzegovina-iceland-kazakhstan-and-malaysia-institution-of-five-year",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04072",
-          "publication_date": "2026-03-02",
-          "title": "Standard Steel Welded Wire Mesh From Mexico; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04072/standard-steel-welded-wire-mesh-from-mexico-institution-of-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04071",
-          "publication_date": "2026-03-02",
-          "title": "Twist Ties From China; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04071/twist-ties-from-china-institution-of-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04070",
-          "publication_date": "2026-03-02",
-          "title": "Common Alloy Aluminum Sheet From Bahrain, Brazil, Croatia, Egypt, Germany, India, Indonesia, Italy, Oman, Romania, Serbia, Slovenia, South Africa, Spain, Taiwan, and Turkey; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04070/common-alloy-aluminum-sheet-from-bahrain-brazil-croatia-egypt-germany-india-indonesia-italy-oman",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04069",
-          "publication_date": "2026-03-02",
-          "title": "Diamond Sawblades and Parts Thereof From China; Institution of a Five-Year Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04069/diamond-sawblades-and-parts-thereof-from-china-institution-of-a-five-year-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04068",
-          "publication_date": "2026-03-02",
-          "title": "Phosphate Fertilizers From Morocco and Russia; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04068/phosphate-fertilizers-from-morocco-and-russia-institution-of-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04059",
-          "publication_date": "2026-03-02",
-          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04059/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
