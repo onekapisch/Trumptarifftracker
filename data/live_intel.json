@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T06:56:10+00:00",
+  "generated_at": "2026-03-17T06:47:11+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,6 +1080,54 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "EU leaders work with countries of the region to bring peace and stability back to the Middle East and Gulf region",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_620",
+            "pub_date": "Mon, 16 Mar 2026 16:47:35 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_620",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission News Brussels, 16 Mar 2026 Amidst rising tensions following the US-Israel military operations against the Iranian regime, EU leaders have been in contact with partners, acting to bring b..."
+          },
+          {
+            "title": "Keynote speech by Commissioner V\u00e1rhelyi at the high-level conference \u201cMedical Devices: Innovation and Patient Safety\u201d",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_619",
+            "pub_date": "Mon, 16 Mar 2026 16:02:04 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_619",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Speech Brussels, 16 Mar 2026 Ladies and gentlemen, Welcome to this high-level conference on medical devices: innovation and patient safety. You are a diverse audience: regulators, clinician..."
+          },
+          {
+            "title": "Daily News 16 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_612",
+            "pub_date": "Mon, 16 Mar 2026 10:00:02 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_612",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 16 Mar 2026 EU announces \u20ac458 million in humanitarian aid for the war-torn Middle East* The European Commission is confirming \u20ac458 million in humanitarian aid for Palestine..."
+          },
+          {
+            "title": "EU announces \u20ac458 million in humanitarian aid for the war-torn Middle East",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_611",
+            "pub_date": "Mon, 16 Mar 2026 09:56:22 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_611",
+            "category": "POLICY_AREA=ICHACR,MIDDLE",
+            "description": "European Commission Press release Brussels, 16 Mar 2026 The European Commission is confirming \u20ac458 million in humanitarian aid for Palestine, Lebanon, Syria, Jordan and Egypt in 2026. With major donors withdrawing from the region and international humanitarian law under unprecedented strain, the EU is sustaining life-saving assistance to millions of people."
+          },
+          {
+            "title": "Speech by Commissioner Kubilius at the Forum Europa event \u201cIdeas to Strengthen the Union\u201d",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_610",
+            "pub_date": "Mon, 16 Mar 2026 08:27:38 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_610",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Brussels, 16 Mar 2026 Dear all, Today I want to talk with you about ideas on how to strengthen Europe. It's absolutely clear why we need to strengthen Europe. What clarity we need to..."
+          },
+          {
+            "title": "Commission adopts new State aid rules to boost the use of more sustainable ways of transport",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_604",
+            "pub_date": "Sun, 15 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_604",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Press release Brussels, 16 Mar 2026 The European Commission adopted today the State aid Land and Multimodal Transport Guidelines (LMT Guidelines) and the State aid Transport Block Exemption Regula..."
+          },
+          {
             "title": "D\u00e9claration conjointe de la Haute Repr\u00e9sentante Kallas et la Commissaire Lahbib sur la R\u00e9publique d\u00e9mocratique du Congo",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_609",
             "pub_date": "Fri, 13 Mar 2026 17:41:16 GMT",
@@ -1110,54 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605",
             "category": "POLICY_AREA=RECOVERY",
             "description": "European Commission Press release Brussels, 13 Mar 2026 Today, the Commission positively assessed Germany's third payment request for \u20ac4.6 billion in grants under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib on Eliminating Violence against Women",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_603",
-            "pub_date": "Thu, 12 Mar 2026 16:35:21 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_603",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Speech New York, 12 Mar 2026 In just five years, the world has changed profoundly. More conflicts, more crises, more division. But one thing has not changed: our determination to end violen..."
-          },
-          {
-            "title": "Keynote speech of the Executive Vice President Ribera at the 23rd International Conference on Competition (IKK)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_602",
-            "pub_date": "Thu, 12 Mar 2026 15:46:37 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_602",
-            "category": "POLICY_AREA=COMPETY",
-            "description": "European Commission Speech Berlin, 12 Mar 2026 Executive Vice President Ribera delivered a keynote speech at the 23rd International Conference on Competition in Berlin"
-          },
-          {
-            "title": "Keynote speech by Commissioner Kadis at the Oceanology International 2026: \u2018The Future of Blue Economy'",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_601",
-            "pub_date": "Thu, 12 Mar 2026 13:36:41 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_601",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech London, 12 Mar 2026 Dear ocean techology leaders, innovators, and industry stakeholders, Dear friends of the Ocean, Ladies and Gentlemen, It is a great honour and privilege to add..."
-          },
-          {
-            "title": "Daily News 12 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_600",
-            "pub_date": "Thu, 12 Mar 2026 09:15:27 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_600",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 12 Mar 2026 EU brings over 8,000 European citizens home amid Middle East escalation Two repatriation flights chartered directly by the European Commission have just landed ..."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib at Protecting Aid Workers",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_599",
-            "pub_date": "Thu, 12 Mar 2026 09:08:41 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_599",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Speech New York, 12 Mar 2026 Last month, I travelled to the Great Lakes region on a humanitarian mission. Thousands of women and children have fled unspeakable violence in eastern Congo. Yo..."
-          },
-          {
-            "title": "Opening Remarks by Commissioner Brunner at the 22nd Annual EU Remembrance Day for the Victims of Terrorism",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_597",
-            "pub_date": "Wed, 11 Mar 2026 16:01:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_597",
-            "category": "POLICY_AREA=HOMEAFF,MIGR,SECU",
-            "description": "European Commission Speech Brussels, 11 Mar 2026 Dear victims and survivors of terrorism, First of all, thank you for being here today. I also want to thank those victims and survivors who I know are joining t..."
           }
         ],
         "errors": []
