@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T06:47:11+00:00",
+  "generated_at": "2026-03-18T06:46:55+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05214",
+          "publication_date": "2026-03-17",
+          "title": "Initiation of Section 301 Investigations: Acts, Policies, and Practices of Certain Economies Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05206",
+          "publication_date": "2026-03-17",
+          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Administrative Review; Notice of Amended Final Results",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05206/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-notice-of-court",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05170",
+          "publication_date": "2026-03-17",
+          "title": "Crystalline Silicon Photovoltaic Cells Whether or Not Partially or Fully Assembled Into Other Products: Evaluation of the Effectiveness of Import Relief",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05162",
+          "publication_date": "2026-03-17",
+          "title": "Tariff of Tolls",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05162/tariff-of-tolls",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05151",
+          "publication_date": "2026-03-17",
+          "title": "Initiation of Section 301 Investigations of Acts, Policies, and Practices of Various Economies Related to the Failure To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05149",
+          "publication_date": "2026-03-17",
+          "title": "Foreign-Trade Zone (FTZ) 84, Notification of Proposed Production Activity; AuroraTe LLC; (Galvanized Steel Pipes); Houston, Texas",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05149/foreign-trade-zone-ftz-84-notification-of-proposed-production-activity-aurorate-llc-galvanized-steel",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05137",
+          "publication_date": "2026-03-17",
+          "title": "Agency Information Collection Activities; Information Collection Renewal: Crash Causal Factors Program: Knowledge of Systems and Processes",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05137/agency-information-collection-activities-information-collection-renewal-crash-causal-factors-program",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05124",
+          "publication_date": "2026-03-17",
+          "title": "Certain Urine Splash Guards and Components Thereof; Notice of Commission Final Determination Finding a Violation of Section 337; Issuance of a General Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05124/certain-urine-splash-guards-and-components-thereof-notice-of-commission-final-determination-finding",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-05101",
           "publication_date": "2026-03-16",
@@ -511,15 +583,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-04366",
-          "publication_date": "2026-03-05",
-          "title": "Paper Manifest Sunset Rule; Modification of the Hazardous Waste Manifest Regulations",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04366/paper-manifest-sunset-rule-modification-of-the-hazardous-waste-manifest-regulations",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-04347",
           "publication_date": "2026-03-05",
           "title": "Certain Gyro-Stabilized Electric Unicycles and Components Thereof and Products Containing the Same; Institution of Investigation",
@@ -536,24 +599,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04328/certain-cold-rolled-steel-flat-products-from-republic-of-korea-preliminary-results-and-rescission-in",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04337",
-          "publication_date": "2026-03-04",
-          "title": "Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Substance Abuse Professional and the Return-to-Duty Process",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04337/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-substance-abuse",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-04323",
-          "publication_date": "2026-03-04",
-          "title": "Glycine From the People's Republic of China: Notice of Final Results of Antidumping Duty Changed Circumstances Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04323/glycine-from-the-peoples-republic-of-china-notice-of-final-results-of-antidumping-duty-changed",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-04285",
@@ -698,51 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04121/carbon-and-certain-alloy-steel-wire-rod-from-brazil-indonesia-mexico-moldova-and-trinidad-and-tobago",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04120",
-          "publication_date": "2026-03-02",
-          "title": "Ceramic Tile From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04120/ceramic-tile-from-the-peoples-republic-of-china-continuation-of-antidumping-duty-and-countervailing",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04100",
-          "publication_date": "2026-03-02",
-          "title": "Effects on the U.S. Economy of Revoking China's Permanent Normal Trade Relations Status",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04100/effects-on-the-us-economy-of-revoking-chinas-permanent-normal-trade-relations-status",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04080",
-          "publication_date": "2026-03-02",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04080/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04076",
-          "publication_date": "2026-03-02",
-          "title": "Polyvinyl Alcohol From China and Japan; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04076/polyvinyl-alcohol-from-china-and-japan-institution-of-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04075",
-          "publication_date": "2026-03-02",
-          "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Czechia, Russia, South Korea, and Ukraine; Institution of Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04075/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-czechia-russia-south-korea-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68076304 - REMINDER: New Carnet Data Elements Set to Deploy in ACE Truck Manifest on March 24",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ec310",
+          "pub_date": "Tue, 17 Mar 2026 16:33:31 -0400",
+          "guid": "68076304",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68076304 - REMINDER: New Carnet Data Elements Set to Deploy in ACE Truck Manifest on March 24 On March 24, 2026, U.S. Customs and Border Protection (CBP) will enhance the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. This update includes electronic data interchange (EDI) impacts. For more information on these changes, review the trade user information notice, available here: ACE Truck Manifest Enhancements - New Carnet Data Elements"
+        },
         {
           "title": "CSMS # 68034342 - An updated Drug Enforcement Agency (DEA) DRAFT Implementation Guide (IG) is now available",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40e1f26",
@@ -1062,14 +1070,6 @@
           "guid": "67590021",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67590021 - FOLLOW-UP: NOAA Fisheries Marine Mammal Protection Act (MMPA) Import Restrictions and Certification of Admissibility (COA) Requirements This message serves as a follow-up to CSMS # 67055632 , providing further clarification on the National Oceanic and Atmospheric Administration (NOAA) Fisheries' Marine Mammal Protection Act (MMPA) seafood import restrictions, effective January 1, 2026. A Certification of Admissibility (COA) is required for certain fish and fish products to attest they are not subject to MMPA import restrictions. How to Complete the Certification of Admissibility (COA): Authorized Official Completion: An authorized official or"
-        },
-        {
-          "title": "CSMS # 67593748 - Customs Broker License Exam (CBLE) Spring 2026 Registration Information",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4076614",
-          "pub_date": "Mon, 02 Feb 2026 17:31:29 -0500",
-          "guid": "67593748",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67593748 - Customs Broker License Exam (CBLE) Spring 2026 Registration Information Registration for the April 22, 2026, Customs Broker License Exam (CBLE) will open on Monday, February 9, 2026, at 12:01 a.m. ET and close on Wednesday, March 11, 2026, at 4:30 p.m. ET. Registration links can be found on the Customs Brokers webpage of CBP.gov in the \u201cCustoms Broker License Exam Information\u201d section. Additional information and resources on the CBLE can also be found on this webpage. Questions regarding this message should be sent to: Broker Administration Branch, Office of Trade at brokermanagement@cbp.dhs.gov ."
         }
       ],
       "errors": []
@@ -1080,12 +1080,76 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "President von der Leyen to visit Australia",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_636",
+            "pub_date": "Wed, 18 Mar 2026 05:46:44 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_636",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission Press release Brussels, 18 Mar 2026 European Commission President Ursula von der Leyen will visit Australia from March 23-25 to strengthen EU ties with a trusted, like-minded partner in the strate..."
+          },
+          {
+            "title": "Remarks by Commissioner Hoekstra at the ENVI Council press conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_635",
+            "pub_date": "Tue, 17 Mar 2026 17:39:38 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_635",
+            "category": "POLICY_AREA=CLIMACTION",
+            "description": "European Commission Speech Brussels, 17 Mar 2026 Good evening to all of you, Let me thank the Cyprus Presidency for a very fruitful set of meetings today. Many thanks for stepping in and steering us through th..."
+          },
+          {
+            "title": "Closing speech by Commissioner Hoekstra at the 2026 Tax Symposium",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_634",
+            "pub_date": "Tue, 17 Mar 2026 17:05:57 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_634",
+            "category": "POLICY_AREA=TAXCUAA",
+            "description": "European Commission Speech Brussels, 17 Mar 2026 Honourable Members, Ladies and Gentlemen, Good afternoon, everybody here and online, It's fantastic to be here with all of you to wrap up this year's EU Tax..."
+          },
+          {
+            "title": "Speech by Commissioner V\u00e1rhelyi at Euronews Health Summit 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_633",
+            "pub_date": "Tue, 17 Mar 2026 16:30:52 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_633",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Speech Brussels, 17 Mar 2026 Ladies and gentlemen, Good afternoon. It's a special privilege to be with you today and also to be on your screens through Euronews. I want to thank Euronews fo..."
+          },
+          {
+            "title": "Speech by Commissioner Lahbib at the European Anti-Racism Conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_627",
+            "pub_date": "Tue, 17 Mar 2026 12:47:16 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_627",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Speech Brussels, 17 Mar 2026 Let me start with a simple idea: openness is not a weakness. It is a strength. If we look around the world today, it may not feel that way. In many places, the ..."
+          },
+          {
+            "title": "Joint statement by High Representative/Vice President Kallas and Commissioner Lahbib on Kabul rehabilitation centre strike",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_625",
+            "pub_date": "Tue, 17 Mar 2026 10:32:46 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_625",
+            "category": "POLICY_AREA=ICHACR,MIDDLE",
+            "description": "European Commission Statement Brussels, 17 Mar 2026 The strike on a medical facility in Kabul is another deadly escalation in a conflict that needs to end as soon as possible. Civilian and medical facilities must..."
+          },
+          {
+            "title": "Statement by the President of the European Commission and the President of the European Council on the Druzhba pipeline*",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_624",
+            "pub_date": "Tue, 17 Mar 2026 10:20:33 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_624",
+            "category": "POLICY_AREA=ENERGY,UKRAINE",
+            "description": "European Commission Statement Brussels, 17 Mar 2026 Following the renewed Russian strikes on January 27 on the Druzhba pipeline, leading to the interruption of crude oil supplies to Hungary and Slovakia, we and o..."
+          },
+          {
+            "title": "Daily News 17 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_621",
+            "pub_date": "Tue, 17 Mar 2026 08:29:41 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_621",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 17 Mar 2026 Commission delivers additional \u20ac189 million under the Reform and Growth Facility for Moldova The European Commission has delivered \u20ac189 million under the Moldov..."
+          },
+          {
             "title": "EU leaders work with countries of the region to bring peace and stability back to the Middle East and Gulf region",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_620",
             "pub_date": "Mon, 16 Mar 2026 16:47:35 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_620",
             "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission News Brussels, 16 Mar 2026 Amidst rising tensions following the US-Israel military operations against the Iranian regime, EU leaders have been in contact with partners, acting to bring b..."
+            "description": "European Commission News Brussels, 17 Mar 2026 Amidst rising tensions following the US-Israel military operations against the Iranian regime, EU leaders have been in contact with partners, acting to bring b..."
           },
           {
             "title": "Keynote speech by Commissioner V\u00e1rhelyi at the high-level conference \u201cMedical Devices: Innovation and Patient Safety\u201d",
@@ -1094,70 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_619",
             "category": "POLICY_AREA=HEALTHPOL",
             "description": "European Commission Speech Brussels, 16 Mar 2026 Ladies and gentlemen, Welcome to this high-level conference on medical devices: innovation and patient safety. You are a diverse audience: regulators, clinician..."
-          },
-          {
-            "title": "Daily News 16 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_612",
-            "pub_date": "Mon, 16 Mar 2026 10:00:02 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_612",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 16 Mar 2026 EU announces \u20ac458 million in humanitarian aid for the war-torn Middle East* The European Commission is confirming \u20ac458 million in humanitarian aid for Palestine..."
-          },
-          {
-            "title": "EU announces \u20ac458 million in humanitarian aid for the war-torn Middle East",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_611",
-            "pub_date": "Mon, 16 Mar 2026 09:56:22 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_611",
-            "category": "POLICY_AREA=ICHACR,MIDDLE",
-            "description": "European Commission Press release Brussels, 16 Mar 2026 The European Commission is confirming \u20ac458 million in humanitarian aid for Palestine, Lebanon, Syria, Jordan and Egypt in 2026. With major donors withdrawing from the region and international humanitarian law under unprecedented strain, the EU is sustaining life-saving assistance to millions of people."
-          },
-          {
-            "title": "Speech by Commissioner Kubilius at the Forum Europa event \u201cIdeas to Strengthen the Union\u201d",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_610",
-            "pub_date": "Mon, 16 Mar 2026 08:27:38 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_610",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Brussels, 16 Mar 2026 Dear all, Today I want to talk with you about ideas on how to strengthen Europe. It's absolutely clear why we need to strengthen Europe. What clarity we need to..."
-          },
-          {
-            "title": "Commission adopts new State aid rules to boost the use of more sustainable ways of transport",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_604",
-            "pub_date": "Sun, 15 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_604",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 16 Mar 2026 The European Commission adopted today the State aid Land and Multimodal Transport Guidelines (LMT Guidelines) and the State aid Transport Block Exemption Regula..."
-          },
-          {
-            "title": "D\u00e9claration conjointe de la Haute Repr\u00e9sentante Kallas et la Commissaire Lahbib sur la R\u00e9publique d\u00e9mocratique du Congo",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_609",
-            "pub_date": "Fri, 13 Mar 2026 17:41:16 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_609",
-            "category": "POLICY_AREA=HREXTRELS,ICHACR",
-            "description": "European Commission Statement Brussels, 13 Mar 2026 L'Union europ\u00e9enne condamne fermement l'attaque par drones survenue le mardi 11 mars \u00e0 Goma et qui a co\u00fbt\u00e9 la vie \u00e0 plusieurs civils dont une humanitaire fran\u00e7a..."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib at the Annual Ambassadors Conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_607",
-            "pub_date": "Fri, 13 Mar 2026 13:54:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_607",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Speech Brussels, 13 Mar 2026 Power politics. Might makes right. Transactions. Realpolitik. Spheres of influence. Hard power. The law of the jungle. These are the words we hear to describe t..."
-          },
-          {
-            "title": "Daily News 13 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_606",
-            "pub_date": "Fri, 13 Mar 2026 10:19:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_606",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 13 Mar 2026 Commission greenlights Germany's third payment request for \u20ac4.6 billion under NextGenerationEU Today, the Commission positively assessed Germany's third payment..."
-          },
-          {
-            "title": "Commission greenlights Germany's third payment request for \u20ac4.6 billion under NextGenerationEU",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605",
-            "pub_date": "Fri, 13 Mar 2026 09:08:41 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605",
-            "category": "POLICY_AREA=RECOVERY",
-            "description": "European Commission Press release Brussels, 13 Mar 2026 Today, the Commission positively assessed Germany's third payment request for \u20ac4.6 billion in grants under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU."
           }
         ],
         "errors": []
