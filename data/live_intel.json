@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:46:55+00:00",
+  "generated_at": "2026-03-19T06:46:14+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,24 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "C1-2026-03484",
+          "publication_date": "2026-03-18",
+          "title": "Hard Empty Capsules From Brazil, the People's Republic of China, India, and the Socialist Republic of Vietnam: Antidumping Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/18/C1-2026-03484/hard-empty-capsules-from-brazil-the-peoples-republic-of-china-india-and-the-socialist-republic-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05310",
+          "publication_date": "2026-03-18",
+          "title": "Certain Chocolate Milk Powder and Packaging Thereof; Issuance of Civil Penalties and Termination of Enforcement Proceeding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/18/2026-05310/certain-chocolate-milk-powder-and-packaging-thereof-issuance-of-civil-penalties-and-termination-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-05214",
           "publication_date": "2026-03-17",
@@ -562,16 +580,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04415/foreign-trade-zone-ftz-53-notification-of-proposed-production-activity-baker-hughes-oilfield",
           "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-04390",
-          "publication_date": "2026-03-05",
-          "title": "Review of State Bar Complaints and Allegations Against Department of Justice Attorneys",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04390/review-of-state-bar-complaints-and-allegations-against-department-of-justice-attorneys",
-          "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-04381",
@@ -727,22 +736,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-04122",
+          "document_number": "2026-04058",
           "publication_date": "2026-03-02",
-          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
+          "title": "Foreign-Trade Zone (FTZ) 153, Notification of Proposed Production Activity; CMS Circuits, Inc.; (Electronic Manufacturing Services in Aerospace, Industrial, and Medical Applications); Murrieta, California",
           "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04122/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04058/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-cms-circuits-inc-electronic",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04121",
-          "publication_date": "2026-03-02",
-          "title": "Carbon and Certain Alloy Steel Wire Rod From Brazil, Indonesia, Mexico, Moldova, and Trinidad and Tobago: Continuation of Antidumping Duty Orders and Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04121/carbon-and-certain-alloy-steel-wire-rod-from-brazil-indonesia-mexico-moldova-and-trinidad-and-tobago",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "section 232"
         }
       ],
       "errors": []
@@ -751,6 +751,30 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68087488 - New ACE Drawback Error Validations Deployed to ACE CERT Environment March 17, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40eeec0",
+          "pub_date": "Wed, 18 Mar 2026 15:38:06 -0400",
+          "guid": "68087488",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68087488 - New ACE Drawback Error Validations Deployed to ACE CERT Environment March 17, 2026 Two new Drawback error messages deployed to the Automated Commercial Environment (ACE) Certification (CERT) environment on Tuesday, March 17, 2026. This update supports Proclamation 10984 Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses into the United States. ( Federal Register: Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses Into the United States ) With this change, new ACE validations allow claimants to file drawback claims for the specific eligible Se"
+        },
+        {
+          "title": "CSMS # 68085169 - ACE Manifest Modernization Release 1 (INT-060) is in Certification Environment for Testing and Scheduled to Deploy to Production on April 25, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ee5b1",
+          "pub_date": "Wed, 18 Mar 2026 12:58:26 -0400",
+          "guid": "68085169",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68085169 - ACE Manifest Modernization Release 1 (INT-060) is in Certification Environment for Testing and Scheduled to Deploy to Production on April 25, 2026 U.S. Customs and Border Protection is modernizing the Automated Commercial Environment (ACE) ocean, rail, and air manifest systems over several releases. The first release of this enhancement (INT-060) is a technical migration of back-end functionality. It will not directly affect the ACE user experience or Electronic Data Interchange (EDI) behavior. This first release of the manifest modernization enhancement is currently in the ACE certification environment (CERT). Trade software developers may s"
+        },
+        {
+          "title": "CSMS # 68083213 - Updated Document Image System (DIS) Implementation Guide is Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ede0d",
+          "pub_date": "Wed, 18 Mar 2026 10:21:35 -0400",
+          "guid": "68083213",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68083213 - Updated Document Image System (DIS) Implementation Guide is Available U.S. Customs and Border Protection (CBP) has updated the Automated Commercial Environment (ACE) Document Image System (DIS) Implementation Guide. The updated guide is available here: ACE DIS Implementation Guide . Two Document Label Codes were added for CBP related to the reauthorization of Preferential Trade Legislative (PTL) programs: African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP). One Document Label is for AGOA and the other is for Haiti. Please see the change l"
+        },
         {
           "title": "CSMS # 68076304 - REMINDER: New Carnet Data Elements Set to Deploy in ACE Truck Manifest on March 24",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ec310",
@@ -1046,30 +1070,6 @@
           "guid": "67640669",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67640669 - Section 232 Auto Credit Report Now Available in ACE Reports A new standard report is now available in ACE Reports for users with an importer or broker role to identify entries that were filed with an offset license number for an import adjustment offset applicable to Section 232 duties on automobile parts. This report will assist importers and customs brokers to keep track of the amount of import adjustment offsets claimed for specific license numbers. Importers and customs brokers are responsible for ensuring that they do not exceed import adjustment offset amounts granted by the Department of Commerce. This new report is titled TR-015 Secti"
-        },
-        {
-          "title": "CSMS # 67631822 - Information: Quota Bulletin 26-134 2026 Haiti Economic Lift Program Act (HELP)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/407face",
-          "pub_date": "Thu, 05 Feb 2026 14:22:23 -0500",
-          "guid": "67631822",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67631822 - Information: Quota Bulletin 26-134 2026 Haiti Economic Lift Program Act (HELP) Quota Bulletin 26-134 2026 Haiti Economic Lift Program Act (HELP) has been published on our webpage at the following link. Quota Bulletin 26-134 2026 Haiti HELP https://www.cbp.gov/trade/quota/bulletins/qb-26-134-2026 Commodity: Apparel goods as provided for in the Harmonized Tariff Schedule of the United States (HTSUS), Chapter 98, subchapter XX, and Chapter 61, 62 subheadings. Quota Period: February 9, 2026, through December 31, 2026 Opening Date: February 9, 2026 All entries submitted after 12:01 am local port time and prior to 08:30 am Eastern Time (ET) and on "
-        },
-        {
-          "title": "CSMS # 67630220 - Information: Quota Bulletin 26-407 2026 AGOA (African Growth and Opportunity Act) Limits",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/407f48c",
-          "pub_date": "Thu, 05 Feb 2026 12:40:38 -0500",
-          "guid": "67630220",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67630220 - Information: Quota Bulletin 26-407 2026 AGOA (African Growth and Opportunity Act) Limits Quota Bulletin 26-407 2026 AGOA (African Growth and Opportunity Act) Limits, has been published on our webpage at the following link. Quota Bulletin 26-407 2026 AGOA Limits https://www.cbp.gov/trade/quota/bulletins/qb-26-407-2026 Commodity: Apparel goods as provided for in the Harmonized Tariff Schedule of the United States (HTSUS), Chapter 98, and Chapter 61, 62, 64, 65 subheadings, from designated sub-Saharan African countries that have satisfied the requirements under the provisions of AGOA. Quota Period: February 9, 2025, through December 31, 2026 Ope"
-        },
-        {
-          "title": "CSMS # 67590021 - FOLLOW-UP: NOAA Fisheries Marine Mammal Protection Act (MMPA) Import Restrictions and Certification of Admissibility (COA) Requirements",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4075785",
-          "pub_date": "Tue, 03 Feb 2026 09:00:41 -0500",
-          "guid": "67590021",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67590021 - FOLLOW-UP: NOAA Fisheries Marine Mammal Protection Act (MMPA) Import Restrictions and Certification of Admissibility (COA) Requirements This message serves as a follow-up to CSMS # 67055632 , providing further clarification on the National Oceanic and Atmospheric Administration (NOAA) Fisheries' Marine Mammal Protection Act (MMPA) seafood import restrictions, effective January 1, 2026. A Certification of Admissibility (COA) is required for certain fish and fish products to attest they are not subject to MMPA import restrictions. How to Complete the Certification of Admissibility (COA): Authorized Official Completion: An authorized official or"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "President von der Leyen to visit Australia",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_636",
-            "pub_date": "Wed, 18 Mar 2026 05:46:44 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_636",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission Press release Brussels, 18 Mar 2026 European Commission President Ursula von der Leyen will visit Australia from March 23-25 to strengthen EU ties with a trusted, like-minded partner in the strate..."
-          },
-          {
-            "title": "Remarks by Commissioner Hoekstra at the ENVI Council press conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_635",
-            "pub_date": "Tue, 17 Mar 2026 17:39:38 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_635",
-            "category": "POLICY_AREA=CLIMACTION",
-            "description": "European Commission Speech Brussels, 17 Mar 2026 Good evening to all of you, Let me thank the Cyprus Presidency for a very fruitful set of meetings today. Many thanks for stepping in and steering us through th..."
-          },
-          {
-            "title": "Closing speech by Commissioner Hoekstra at the 2026 Tax Symposium",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_634",
-            "pub_date": "Tue, 17 Mar 2026 17:05:57 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_634",
-            "category": "POLICY_AREA=TAXCUAA",
-            "description": "European Commission Speech Brussels, 17 Mar 2026 Honourable Members, Ladies and Gentlemen, Good afternoon, everybody here and online, It's fantastic to be here with all of you to wrap up this year's EU Tax..."
-          },
-          {
-            "title": "Speech by Commissioner V\u00e1rhelyi at Euronews Health Summit 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_633",
-            "pub_date": "Tue, 17 Mar 2026 16:30:52 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_633",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Speech Brussels, 17 Mar 2026 Ladies and gentlemen, Good afternoon. It's a special privilege to be with you today and also to be on your screens through Euronews. I want to thank Euronews fo..."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib at the European Anti-Racism Conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_627",
-            "pub_date": "Tue, 17 Mar 2026 12:47:16 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_627",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Speech Brussels, 17 Mar 2026 Let me start with a simple idea: openness is not a weakness. It is a strength. If we look around the world today, it may not feel that way. In many places, the ..."
-          },
-          {
-            "title": "Joint statement by High Representative/Vice President Kallas and Commissioner Lahbib on Kabul rehabilitation centre strike",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_625",
-            "pub_date": "Tue, 17 Mar 2026 10:32:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_625",
-            "category": "POLICY_AREA=ICHACR,MIDDLE",
-            "description": "European Commission Statement Brussels, 17 Mar 2026 The strike on a medical facility in Kabul is another deadly escalation in a conflict that needs to end as soon as possible. Civilian and medical facilities must..."
-          },
-          {
-            "title": "Statement by the President of the European Commission and the President of the European Council on the Druzhba pipeline*",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_624",
-            "pub_date": "Tue, 17 Mar 2026 10:20:33 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_624",
-            "category": "POLICY_AREA=ENERGY,UKRAINE",
-            "description": "European Commission Statement Brussels, 17 Mar 2026 Following the renewed Russian strikes on January 27 on the Druzhba pipeline, leading to the interruption of crude oil supplies to Hungary and Slovakia, we and o..."
-          },
-          {
-            "title": "Daily News 17 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_621",
-            "pub_date": "Tue, 17 Mar 2026 08:29:41 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_621",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 17 Mar 2026 Commission delivers additional \u20ac189 million under the Reform and Growth Facility for Moldova The European Commission has delivered \u20ac189 million under the Moldov..."
-          },
-          {
-            "title": "EU leaders work with countries of the region to bring peace and stability back to the Middle East and Gulf region",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_620",
-            "pub_date": "Mon, 16 Mar 2026 16:47:35 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_620",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission News Brussels, 17 Mar 2026 Amidst rising tensions following the US-Israel military operations against the Iranian regime, EU leaders have been in contact with partners, acting to bring b..."
-          },
-          {
-            "title": "Keynote speech by Commissioner V\u00e1rhelyi at the high-level conference \u201cMedical Devices: Innovation and Patient Safety\u201d",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_619",
-            "pub_date": "Mon, 16 Mar 2026 16:02:04 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_619",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Speech Brussels, 16 Mar 2026 Ladies and gentlemen, Welcome to this high-level conference on medical devices: innovation and patient safety. You are a diverse audience: regulators, clinician..."
+            "title": "Speech by Commissioner Lahbib at the Youth Citizens Dialogue on Preparedness",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_649",
+            "pub_date": "Wed, 18 Mar 2026 17:38:24 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_649",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech Brussels, 18 Mar 2026 Today I want to talk about something that might not sound very exciting at first, but it is more important than you might think: preparedness. Preparedness is e..."
           }
         ],
         "errors": []
@@ -1166,6 +1094,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "Update following Round 4 of negotiations on an enhanced Free Trade Agreement with Turkey",
+            "link": "https://www.gov.uk/government/news/update-following-round-4-of-negotiations-on-an-enhanced-free-trade-agreement-with-turkey",
+            "updated": "2026-03-18T11:59:01+00:00",
+            "summary": "An update following the fourth round of UK-Turkey FTA negotiations."
+          },
           {
             "title": "UK manufacturers to save millions of pounds a year as government removes offshore wind energy tariffs",
             "link": "https://www.gov.uk/government/news/uk-manufacturers-to-save-millions-of-pounds-a-year-as-government-removes-offshore-wind-energy-tariffs",
