@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T06:46:14+00:00",
+  "generated_at": "2026-03-20T06:45:41+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05445",
+          "publication_date": "2026-03-19",
+          "title": "Certain Steel Wheels From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05445/certain-steel-wheels-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiries-on-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05444",
+          "publication_date": "2026-03-19",
+          "title": "Alloy and Certain Carbon Steel Threaded Rod From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05444/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-preliminary-results",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05443",
+          "publication_date": "2026-03-19",
+          "title": "Certain Steel Wheels From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05443/certain-steel-wheels-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiries-on-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05441",
+          "publication_date": "2026-03-19",
+          "title": "Certain Uncoated Paper From Portugal: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05441/certain-uncoated-paper-from-portugal-final-results-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05440",
+          "publication_date": "2026-03-19",
+          "title": "Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05439",
+          "publication_date": "2026-03-19",
+          "title": "Utility Scale Wind Towers From Canada, the Socialist Republic of Vietnam, Indonesia, and the Republic of Korea: Continuation of Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05439/utility-scale-wind-towers-from-canada-the-socialist-republic-of-vietnam-indonesia-and-the-republic",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05411",
+          "publication_date": "2026-03-19",
+          "title": "Tetrahydrofurfuryl Alcohol From China; Scheduling of an Expedited Five-Year Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05411/tetrahydrofurfuryl-alcohol-from-china-scheduling-of-an-expedited-five-year-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05408",
+          "publication_date": "2026-03-19",
+          "title": "Defense Trade Advisory Group; Notice of Membership",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05408/defense-trade-advisory-group-notice-of-membership",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05352",
+          "publication_date": "2026-03-19",
+          "title": "Large Diameter Welded Pipe From Canada: Notice of Initiation of Antidumping Duty Changed Circumstances Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05352/large-diameter-welded-pipe-from-canada-notice-of-initiation-of-antidumping-duty-changed",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05331",
+          "publication_date": "2026-03-19",
+          "title": "Forged Steel Fittings From India and South Korea; Notice of Commission Determination To Conduct Full Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05331/forged-steel-fittings-from-india-and-south-korea-notice-of-commission-determination-to-conduct-full",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "C1-2026-03484",
           "publication_date": "2026-03-18",
@@ -646,103 +736,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-04223",
-          "publication_date": "2026-03-04",
-          "title": "Overhead Door Counterbalance Torsion Springs From India: Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04223/overhead-door-counterbalance-torsion-springs-from-india-antidumping-duty-and-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04215",
-          "publication_date": "2026-03-04",
-          "title": "Certain Magnetoresistive Random Access Memory (MRAM) Devices, Products Containing Same and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04215/certain-magnetoresistive-random-access-memory-mram-devices-products-containing-same-and-components",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-04197",
           "publication_date": "2026-03-03",
           "title": "Certain Freight Rail Couplers and Parts Thereof from India: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination with Final Antidumping Duty Determination",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04197/certain-freight-rail-couplers-and-parts-thereof-from-india-preliminary-affirmative-countervailing",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04189",
-          "publication_date": "2026-03-03",
-          "title": "Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Tesla Inc; (Battery Storage Products and Components); Fremont, Livermore, and Lathrop, California",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04189/foreign-trade-zone-ftz-18-notification-of-proposed-production-activity-tesla-inc-battery-storage",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-04186",
-          "publication_date": "2026-03-03",
-          "title": "Foreign-Trade Zone (FTZ) 21, Notification of Proposed Production Activity; Zapp Precision Wire, Inc.; (Precision Wire and Metal Products); Summerville, South Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04186/foreign-trade-zone-ftz-21-notification-of-proposed-production-activity-zapp-precision-wire-inc",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-04158",
-          "publication_date": "2026-03-03",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04158/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04156",
-          "publication_date": "2026-03-03",
-          "title": "Certain Cameras, Camera Systems, and Accessories Used Therewith; Notice of the Commission's Final Determination Finding a Violation of Section 337; Issuance of Remedial Orders; Termination of the Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04156/certain-cameras-camera-systems-and-accessories-used-therewith-notice-of-the-commissions-final",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04152",
-          "publication_date": "2026-03-03",
-          "title": "Certain Disposable and Other Closed-System Electronic Nicotine Delivery Systems (Ends) Devices and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04152/certain-disposable-and-other-closed-system-electronic-nicotine-delivery-systems-ends-devices-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04124",
-          "publication_date": "2026-03-02",
-          "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04124/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04123",
-          "publication_date": "2026-03-02",
-          "title": "Initiation of Five-Year (Sunset) Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04123/initiation-of-five-year-sunset-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04058",
-          "publication_date": "2026-03-02",
-          "title": "Foreign-Trade Zone (FTZ) 153, Notification of Proposed Production Activity; CMS Circuits, Inc.; (Electronic Manufacturing Services in Aerospace, Industrial, and Medical Applications); Murrieta, California",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/02/2026-04058/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-cms-circuits-inc-electronic",
-          "raw_text_url": null,
-          "term_hit": "section 232"
+          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68096516 - Implementation of Jones Act Waiver Issued to the Department of War, Dated March 17, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f1204",
+          "pub_date": "Thu, 19 Mar 2026 12:13:50 -0400",
+          "guid": "68096516",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68096516 - Implementation of Jones Act Waiver Issued to the Department of War, Dated March 17, 2026 On March 17, 2026, the Department of Homeland Security (DHS) issued a limited waiver of 46 U.S. C. \u00a7 55102 (the \"Jones Act\") pursuant to 46 U.S.C. \u00a7 501(a), at the request of the Department of War. The approved waiver covers a 60-day period that expires at 11:59 p.m. Eastern Daylight Time on Sunday, May 17, 2026. U.S. Customs and Border Protection (CBP) requests that any member of the trade community who intends to conduct transportation of commodities listed in the attachment on a foreign-flag vessel, authorized by and within the parameters of the March "
+        },
+        {
+          "title": "CSMS # 68095227 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Grenada, Ireland, and New Caledonia",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f0cfb",
+          "pub_date": "Thu, 19 Mar 2026 10:51:28 -0400",
+          "guid": "68095227",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68095227 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Grenada, Ireland, and New Caledonia On March 16, 2026, The National Marine Fisheries Service (NOAA Fisheries) issued comparability findings for the fisheries of Grenada, Ireland, and New Caledonia. This action lifts the seafood import restrictions on these nations under the Marine Mammal Protection Act (MMPA) Import Provisions. As a result, effective March 16, 2026, NOAA Fisheries no longer requires a Certification of Admissibility (COA) to accompany imports from these previously restricted fisheries. However, a COA may still be required if the produc"
+        },
         {
           "title": "CSMS # 68087488 - New ACE Drawback Error Validations Deployed to ACE CERT Environment March 17, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40eeec0",
@@ -1054,22 +1070,6 @@
           "guid": "67644085",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67644085 - Electronic Refunds IFR Effective Today \u2013 Updated FAQs Now Available Beginning today, U.S. Customs and Border Protection will issue all refunds electronically via Automated Clearing House (ACH) (subject to limited exceptions), as announced in the Electronic Refunds Interim Final Rule published January 2, 2026 , in the Federal Register . The ACE Portal and ACH Refunds Frequently Asked Questions (FAQ) , linked below, have been expanded and updated. CBP encourages the trade community to review the extensive resources below and take any necessary action. CBP Resources: ACE Portal Access and ACH Refund Enrollment UPDATED ! ACE Portal and ACH Refund"
-        },
-        {
-          "title": "CSMS # 67645994 - USDA Agricultural Marketing Service \u2013 National Organic Program \u2013 New HTS Code Flagging and Filing Reminders",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/408322a",
-          "pub_date": "Fri, 06 Feb 2026 16:01:02 -0500",
-          "guid": "67645994",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67645994 - USDA Agricultural Marketing Service \u2013 National Organic Program \u2013 New HTS Code Flagging and Filing Reminders The U.S. Department of Agriculture\u2019s (USDA) National Organic Program (NOP) is providing a reminder about import filing requirements in the Automated Commercial Environment (ACE) for organic entries and new organic HTS codes. Flagging Update: On Friday, February 13, 2026, the AMS tariff flag code for the following HTS codes will change from AM7 (may File) to AM8 (must file) \u2013 with reject severity: Filing Reminders: The NOP is also encountering two common errors with trade submitted import filing data in ACE for organic shipments. Filers "
-        },
-        {
-          "title": "CSMS # 67640669 - Section 232 Auto Credit Report Now Available in ACE Reports",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4081d5d",
-          "pub_date": "Fri, 06 Feb 2026 10:45:43 -0500",
-          "guid": "67640669",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67640669 - Section 232 Auto Credit Report Now Available in ACE Reports A new standard report is now available in ACE Reports for users with an importer or broker role to identify entries that were filed with an offset license number for an import adjustment offset applicable to Section 232 duties on automobile parts. This report will assist importers and customs brokers to keep track of the amount of import adjustment offsets claimed for specific license numbers. Importers and customs brokers are responsible for ensuring that they do not exceed import adjustment offset amounts granted by the Department of Commerce. This new report is titled TR-015 Secti"
         }
       ],
       "errors": []
@@ -1079,6 +1079,14 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Commissioner Tzitzikostas delivers speech at the Aviation for Europe Association",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_661",
+            "pub_date": "Thu, 19 Mar 2026 15:03:46 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_661",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 19 Mar 2026 Ladies and gentlemen,Dear CEOs,Dear partners, It is a real pleasure to be with you today at such an important moment for European aviation. Let me begin with so..."
+          },
           {
             "title": "Speech by Commissioner Lahbib at the Youth Citizens Dialogue on Preparedness",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_649",
@@ -1094,6 +1102,30 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "Trade Minister Speech at Chatham House",
+            "link": "https://www.gov.uk/government/speeches/trade-minister-speech-at-chatham-house",
+            "updated": "2026-03-19T16:21:17+00:00",
+            "summary": "UK <mark>Trade</mark> Minister Chris Bryant gives a speech at the Chatham House Global <mark>Trade</mark> Conference.\u2026"
+          },
+          {
+            "title": "Horizon Family Members Redress Scheme: letters from the Minister for Small Business and Economic Transformation",
+            "link": "https://www.gov.uk/government/publications/horizon-family-members-redress-scheme-letters-from-the-minister-for-small-business-and-economic-transformation",
+            "updated": "2026-03-19T15:35:12+00:00",
+            "summary": "Letters to Lost Chances and the Business and <mark>Trade</mark> Select Committee about the redress scheme for family members of postmasters affected by the Horizon scandal."
+          },
+          {
+            "title": "Record-breaking order for British Steel as UK and Nigeria sign landmark \u00a3746 million ports deal",
+            "link": "https://www.gov.uk/government/news/record-breaking-order-for-british-steel-as-uk-and-nigeria-sign-landmark-746-million-ports-deal",
+            "updated": "2026-03-19T11:32:47+00:00",
+            "summary": "UK Export Finance announces support for UK exporters to supply high-value projects in Nigeria."
+          },
+          {
+            "title": "UK steel industry backed by major new trade measure and strategy",
+            "link": "https://www.gov.uk/government/news/uk-steel-industry-backed-by-major-new-trade-measure-and-strategy",
+            "updated": "2026-03-19T11:03:00+00:00",
+            "summary": "UK steel producers and thousands of steel workers to benefit from a new landmark Steel Strategy and robust <mark>trade</mark> measure."
+          },
           {
             "title": "Update following Round 4 of negotiations on an enhanced Free Trade Agreement with Turkey",
             "link": "https://www.gov.uk/government/news/update-following-round-4-of-negotiations-on-an-enhanced-free-trade-agreement-with-turkey",
@@ -1129,24 +1161,6 @@
             "link": "https://www.gov.uk/government/speeches/secretary-of-state-keynote-uk-trade-and-export-finance-forum",
             "updated": "2026-02-05T10:16:25+00:00",
             "summary": "Speech delivered by the Business Secretary, the RT Hon Peter Kyle, at the 2026 UK <mark>Trade</mark> and Export Finance Forum."
-          },
-          {
-            "title": "UK exporters boost economy, as new study reveals major impact of export credit on UK industry",
-            "link": "https://www.gov.uk/government/news/uk-exporters-boost-economy-as-new-study-reveals-major-impact-of-export-credit-on-uk-industry",
-            "updated": "2026-02-05T07:48:00+00:00",
-            "summary": "Oxford Economics study demonstrates the significant impact of UKEF&#39;s support on businesses and local supply chains."
-          },
-          {
-            "title": "Enhanced Free Trade Agreement with Switzerland round update",
-            "link": "https://www.gov.uk/government/news/enhanced-free-trade-agreement-with-switzerland-round-update",
-            "updated": "2026-02-02T18:03:31+00:00",
-            "summary": "Update following round 9 of negotiations on an enhanced Free <mark>Trade</mark> Agreement with Switzerland.\u2026"
-          },
-          {
-            "title": "Billions in exports and investment deals secured as PM concludes visit to China",
-            "link": "https://www.gov.uk/government/news/billions-in-exports-and-investment-deals-secured-as-pm-concludes-visit-to-china",
-            "updated": "2026-01-30T22:30:00+00:00",
-            "summary": "Billions of pounds worth of export and investment deals for the UK have been secured, as the Prime Minister wraps up his visit to China."
           }
         ],
         "errors": []
