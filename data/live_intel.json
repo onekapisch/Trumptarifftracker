@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T06:45:41+00:00",
+  "generated_at": "2026-03-21T06:44:30+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05564",
+          "publication_date": "2026-03-20",
+          "title": "Required Use by Foreign Applicants and Patent Owners of a Patent Practitioner",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05564/required-use-by-foreign-applicants-and-patent-owners-of-a-patent-practitioner",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05536",
+          "publication_date": "2026-03-20",
+          "title": "Truck Bed Covers From the People's Republic of China: Initiation of Countervailing Duty Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05536/truck-bed-covers-from-the-peoples-republic-of-china-initiation-of-countervailing-duty-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05508",
+          "publication_date": "2026-03-20",
+          "title": "Prestressed Concrete Steel Wire Strand From Brazil, India, Japan, Mexico, South Korea, and Thailand; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05508/prestressed-concrete-steel-wire-strand-from-brazil-india-japan-mexico-south-korea-and-thailand",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05496",
+          "publication_date": "2026-03-20",
+          "title": "Large Diameter Graphite Electrodes From the People's Republic of China and India: Initiation of Countervailing Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05496/large-diameter-graphite-electrodes-from-the-peoples-republic-of-china-and-india-initiation-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05467",
+          "publication_date": "2026-03-20",
+          "title": "Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05467/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-the-republic-of-korea-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05466",
+          "publication_date": "2026-03-20",
+          "title": "Pentafluoroethane (R-125) From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05466/pentafluoroethane-r-125-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-05445",
           "publication_date": "2026-03-19",
@@ -493,15 +547,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-04728",
-          "publication_date": "2026-03-11",
-          "title": "North American Free Trade Agreement (NAFTA), Article 1904; Binational Panel Review: Notice of Panel Decision",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04728/north-american-free-trade-agreement-nafta-article-1904-binational-panel-review-notice-of-panel",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-04707",
           "publication_date": "2026-03-11",
           "title": "Certain Opaque Polymers; Notice of Institution of Rescission Proceeding; Rescission of Remedial Orders; Termination of Rescission Proceeding",
@@ -544,7 +589,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04676/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-preliminary-results-and",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04617",
@@ -673,40 +718,13 @@
           "term_hit": "section 232"
         },
         {
-          "document_number": "2026-04381",
-          "publication_date": "2026-03-05",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04381/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04347",
-          "publication_date": "2026-03-05",
-          "title": "Certain Gyro-Stabilized Electric Unicycles and Components Thereof and Products Containing the Same; Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04347/certain-gyro-stabilized-electric-unicycles-and-components-thereof-and-products-containing-the-same",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-04328",
           "publication_date": "2026-03-05",
           "title": "Certain Cold-Rolled Steel Flat Products From Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04328/certain-cold-rolled-steel-flat-products-from-republic-of-korea-preliminary-results-and-rescission-in",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04285",
-          "publication_date": "2026-03-04",
-          "title": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Federal Republic of Germany: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04285/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-federal-republic-of-germany-final",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04245",
@@ -715,7 +733,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04245/notice-of-continuation-and-request-for-nominations-for-the-intergovernmental-policy-advisory",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "reciprocal tariff"
         },
         {
           "document_number": "2026-04243",
@@ -724,25 +742,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04243/notice-of-continuation-and-request-for-nominations-for-the-trade-advisory-committee-on-africa",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04236",
-          "publication_date": "2026-03-04",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04236/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04197",
-          "publication_date": "2026-03-03",
-          "title": "Certain Freight Rail Couplers and Parts Thereof from India: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination with Final Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04197/certain-freight-rail-couplers-and-parts-thereof-from-india-preliminary-affirmative-countervailing",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
+          "term_hit": "reciprocal tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68109215 - CBP Cancels NCSD Webinars Scheduled for March 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f439f",
+          "pub_date": "Fri, 20 Mar 2026 13:49:48 -0400",
+          "guid": "68109215",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68109215 - CBP Cancels NCSD Webinars Scheduled for March 2026 Due to the partial Department of Homeland Security (DHS) lapse in funding, U.S. Customs and Border Protection (CBP) has canceled its free monthly National Commodity Specialist Division (NCSD) commodity webinars that were originally scheduled for March 24 and March 26. The sessions focused on \"Parts of General Use\" and \"Stepping Forward in Smart Kicks.\" Both webinars will be rescheduled once the lapse in funding has ended. Please stay tuned to the NCSD's next round of webinars in the upcoming months."
+        },
+        {
+          "title": "CSMS # 68105981 - CBP Cancels Trade Violations Webinars Scheduled for March 31 and April 2",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f36fd",
+          "pub_date": "Fri, 20 Mar 2026 09:59:48 -0400",
+          "guid": "68105981",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68105981 - CBP Cancels Trade Violations Webinars Scheduled for March 31 and April 2 Due to the partial Department of Homeland Security (DHS) shutdown, U.S. Customs and Border Protection (CBP) has canceled its free quarterly webinars that were originally scheduled for March 31 and April 2. The sessions focused on using the Trade Violations Reporting (TVR) tool and filing Enforce and Protect Act (EAPA) allegations with CBP. Please stay tuned for CBP\u2019s next round of webinars in the upcoming months."
+        },
         {
           "title": "CSMS # 68096516 - Implementation of Jones Act Waiver Issued to the Department of War, Dated March 17, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f1204",
@@ -1054,22 +1070,6 @@
           "guid": "67648307",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67648307 - Updated Procedures to Add Notify Parties (CBP Form 4811) This message updates guidance issued in CSMS 62234804. On February 6, 2026, U.S. Customs and Border Protection (CBP) will transition to electronic refunds in accordance with Executive Order 14247 . To prepare for the transition, CBP has updated the CBP Form 4811, Special Address Notification (12/25), which is used to authorize notify parties. Effective February 6, 2026, refunds directed to a notify party will be electronically deposited in the notify party\u2019s bank account, as announced in an Interim Final Rule that was published in the Federal Register on January 2, 2026, and became effe"
-        },
-        {
-          "title": "CSMS # 67647279 - GUIDANCE: Reauthorization of Preferential Trade Legislative (PTL) Programs - African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/408372f",
-          "pub_date": "Fri, 06 Feb 2026 16:51:59 -0500",
-          "guid": "67647279",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67647279 - GUIDANCE: Reauthorization of Preferential Trade Legislative (PTL) Programs - African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP) 2026 Reauthorization On February 3, 2026, the President signed H.R.7148 (\u201cthe Act\u201d), extending duty-free treatment through December 31, 2026 , for imports from eligible AGOA beneficiary countries and select imports from Haiti under the Haiti/HOPE and Haiti/HELP programs, for imports entered or withdrawn from warehouse for consumption. The Act extends special rules for Haiti under the Caribbean Basin Economic Rec"
-        },
-        {
-          "title": "CSMS # 67644085 - Electronic Refunds IFR Effective Today \u2013 Updated FAQs Now Available",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4082ab5",
-          "pub_date": "Fri, 06 Feb 2026 16:27:25 -0500",
-          "guid": "67644085",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67644085 - Electronic Refunds IFR Effective Today \u2013 Updated FAQs Now Available Beginning today, U.S. Customs and Border Protection will issue all refunds electronically via Automated Clearing House (ACH) (subject to limited exceptions), as announced in the Electronic Refunds Interim Final Rule published January 2, 2026 , in the Federal Register . The ACE Portal and ACH Refunds Frequently Asked Questions (FAQ) , linked below, have been expanded and updated. CBP encourages the trade community to review the extensive resources below and take any necessary action. CBP Resources: ACE Portal Access and ACH Refund Enrollment UPDATED ! ACE Portal and ACH Refund"
         }
       ],
       "errors": []
@@ -1086,14 +1086,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_661",
             "category": "POLICY_AREA=TRANSPORT",
             "description": "European Commission Speech Brussels, 19 Mar 2026 Ladies and gentlemen,Dear CEOs,Dear partners, It is a real pleasure to be with you today at such an important moment for European aviation. Let me begin with so..."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib at the Youth Citizens Dialogue on Preparedness",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_649",
-            "pub_date": "Wed, 18 Mar 2026 17:38:24 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_649",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Speech Brussels, 18 Mar 2026 Today I want to talk about something that might not sound very exciting at first, but it is more important than you might think: preparedness. Preparedness is e..."
           }
         ],
         "errors": []
