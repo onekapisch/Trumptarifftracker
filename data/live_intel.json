@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T06:51:22+00:00",
+  "generated_at": "2026-03-24T06:47:01+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,22 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68133320 - Update to Agency Tariff Code Reference Guide Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40fa1c8",
+          "pub_date": "Mon, 23 Mar 2026 14:24:08 -0400",
+          "guid": "68133320",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68133320 - Update to Agency Tariff Code Reference Guide Available An updated version of the Automated Commercial Environment (ACE) Agency Tariff Code Reference guide is now available: ACE Agency Tariff Code Reference Guide . Changes made to the flags include: For the Drug Enforcement Agency (DEA) Updated description for DE1 Added DE3 For the Consumer Product Safety Commission (CPSC) Added CP1 and CP2 For questions about this CSMS, please contact CREM@cbp.dhs.gov ."
+        },
+        {
+          "title": "CSMS # 68133500 - Electronic Export Manifest (EEM) \u2013 Ocean X12 and Ocean CAMIR Implementation Guide (IG) Updates",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40fa27c",
+          "pub_date": "Mon, 23 Mar 2026 14:17:50 -0400",
+          "guid": "68133500",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68133500 - Electronic Export Manifest (EEM) \u2013 Ocean X12 and Ocean CAMIR Implementation Guide (IG) Updates Electronic Export Manifest (EEM) will be implementing an update to the following documents: Ocean X12 309 Segment M11 Manifest Bill of Lading Details Updated line item #2 in Semantic Notes to read M1102 is the First Foreign Port of Destination Updated line item #12 in Semantic Notes to read M1120 is the First Foreign Port of Unlading Crossed out line item #13 in Semantic Notes Added note in row M1120 description in Data Element Summary \u201cFor Transshipment movements, list the final port of unlading\u201d Segment P4 Port Information Crossed out line item #3"
+        },
+        {
           "title": "CSMS # 68109215 - CBP Cancels NCSD Webinars Scheduled for March 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f439f",
           "pub_date": "Fri, 20 Mar 2026 13:49:48 -0400",
@@ -1054,22 +1070,6 @@
           "guid": "67702087",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67702087 - UPDATED GUIDANCE \u2013 Modifying Additional Duties on Imports from India The purpose of this message is to provide guidance regarding implementation of Presidential Executive Order (EO) \u201c Modifying Duties to Address Threats to the United States by the Government of the Russian Federation ,\u201d issued on February 6, 2026. This CSMS message updates CSMS message 66027027 with the following information only. GUIDANCE Products of India entered for consumption or withdrawn from warehouse for consumption on or after 12:01 a.m. eastern time on February 7, 2026, are no longer subject to the additional ad valorem duty rate of 25 percent imposed by EO 14329, \u201c"
-        },
-        {
-          "title": "CSMS # 67698864 - Announcement \u2013 CSMS User Satisfaction Survey",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40900b0",
-          "pub_date": "Mon, 09 Feb 2026 12:05:57 -0500",
-          "guid": "67698864",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67698864 - Announcement \u2013 CSMS User Satisfaction Survey CBP\u2019s Office of Trade is excited to share that it is conducting a CSMS User Satisfaction Survey this month. As a CSMS user, your response to the CSMS User Satisfaction Survey will provide CBP with useful information about your experience engaging with CSMS messages. CBP will use the data collected from the survey to determine potential improvements to trade communications. The CSMS User Satisfaction Survey is available at https://www.surveymonkey.com/r/2VKXJJW . The survey is expected to take less than 10 minutes to complete. CBP will leave the survey open until February 27, 2026."
-        },
-        {
-          "title": "CSMS # 67648307 - Updated Procedures to Add Notify Parties (CBP Form 4811)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4083b33",
-          "pub_date": "Fri, 06 Feb 2026 17:39:38 -0500",
-          "guid": "67648307",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67648307 - Updated Procedures to Add Notify Parties (CBP Form 4811) This message updates guidance issued in CSMS 62234804. On February 6, 2026, U.S. Customs and Border Protection (CBP) will transition to electronic refunds in accordance with Executive Order 14247 . To prepare for the transition, CBP has updated the CBP Form 4811, Special Address Notification (12/25), which is used to authorize notify parties. Effective February 6, 2026, refunds directed to a notify party will be electronically deposited in the notify party\u2019s bank account, as announced in an Interim Final Rule that was published in the Federal Register on January 2, 2026, and became effe"
         }
       ],
       "errors": []
@@ -1080,12 +1080,36 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Commissioner Tzitzikostas delivers speech at the Aviation for Europe Association",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_661",
-            "pub_date": "Thu, 19 Mar 2026 15:03:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_661",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 19 Mar 2026 Ladies and gentlemen,Dear CEOs,Dear partners, It is a real pleasure to be with you today at such an important moment for European aviation. Let me begin with so..."
+            "title": "Speech by President von der Leyen at the Australian Parliament",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_694",
+            "pub_date": "Mon, 23 Mar 2026 23:04:28 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_694",
+            "category": "POLICY_AREA=PRESIDENCY,TRADEPOL,DEFENCE",
+            "description": "European Commission Speech Canberra, 24 Mar 2026 \u201cCheck against delivery\u201d Mr Speaker, Prime Minister, President of the Senate, Leader of the Opposition, Honourable Members and Senators, Distinguished guests...."
+          },
+          {
+            "title": "EU and Australia strengthen relations with Security and Defence Partnership and Trade Agreement",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_645",
+            "pub_date": "Mon, 23 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_645",
+            "category": "POLICY_AREA=AGRURAL,TRADEPOL",
+            "description": "European Commission Press release Canberra, 24 Mar 2026 The EU and Australia have today announced the adoption of a groundbreaking Security and Defence Partnership."
+          },
+          {
+            "title": "Questions and answers on the EU-Australia Trade Agreement",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_648",
+            "pub_date": "Mon, 23 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_648",
+            "category": "POLICY_AREA=AGRURAL,TRADEPOL",
+            "description": "European Commission Questions and answers Canberra, 24 Mar 2026 How big is the Australian market? How much trade does the EU do with Australia? Australia is Oceania's largest economy, with an annual GDP of \u20ac1.7 trillion. Aus..."
+          },
+          {
+            "title": "Joint Statement by Ursula von der Leyen, President of the European Commission and Anthony Albanese, Prime Minister of Australia",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_691",
+            "pub_date": "Mon, 23 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_691",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Statement Brussels, 24 Mar 2026 The Prime Minister of Australia, the Honourable Anthony Albanese MP, and President of the European Commission, Ursula von der Leyen, reaffirmed the strength of ..."
           }
         ],
         "errors": []
@@ -1094,6 +1118,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "Welsh steel industry backed with new trade measure and strategy",
+            "link": "https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy",
+            "updated": "2026-03-23T16:29:25+00:00",
+            "summary": "UK steel producers and thousands of steel workers in Wales will benefit from a landmark Steel Strategy."
+          },
           {
             "title": "Trade Minister Speech at Chatham House",
             "link": "https://www.gov.uk/government/speeches/trade-minister-speech-at-chatham-house",
@@ -1147,12 +1177,6 @@
             "link": "https://www.gov.uk/government/news/uk-beef-hits-us-shelves-tariff-free-for-the-first-time-cutting-costs-for-uk-businesses",
             "updated": "2026-03-02T00:01:00+00:00",
             "summary": "First shipment of UK beef under reciprocal quota arrives in the US, as government works in partnership with the food and farming industries to save millions in export fees and grow the UK economy"
-          },
-          {
-            "title": "Secretary of State keynote: UK Trade and Export Finance Forum",
-            "link": "https://www.gov.uk/government/speeches/secretary-of-state-keynote-uk-trade-and-export-finance-forum",
-            "updated": "2026-02-05T10:16:25+00:00",
-            "summary": "Speech delivered by the Business Secretary, the RT Hon Peter Kyle, at the 2026 UK <mark>Trade</mark> and Export Finance Forum."
           }
         ],
         "errors": []
