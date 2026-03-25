@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T08:50:00+00:00",
+  "generated_at": "2026-03-25T06:46:57+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05737",
+          "publication_date": "2026-03-24",
+          "title": "Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05737/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05731",
+          "publication_date": "2026-03-24",
+          "title": "Establishment of the Nine Lakes of East Tennessee Viticultural Area",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05731/establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area",
+          "raw_text_url": null,
+          "term_hit": "section 232"
+        },
+        {
+          "document_number": "2026-05727",
+          "publication_date": "2026-03-24",
+          "title": "Reforming Legacy Rules for an All-IP Future; Accelerating Network Modernization",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05727/reforming-legacy-rules-for-an-all-ip-future-accelerating-network-modernization",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05688",
+          "publication_date": "2026-03-24",
+          "title": "Request for Information for 2028 Department of War (DoW) State Priorities Impacting Service Members and Their Families",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05688/request-for-information-for-2028-department-of-war-dow-state-priorities-impacting-service-members",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05681",
+          "publication_date": "2026-03-24",
+          "title": "Notice of the Opening of the Inclusions Window for the Section 232 Automobile Parts Tariff Inclusions Process",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05681/notice-of-the-opening-of-the-inclusions-window-for-the-section-232-automobile-parts-tariff",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05675",
+          "publication_date": "2026-03-24",
+          "title": "Oil Country Tubular Goods From India, South Korea, Turkey, Ukraine, and Vietnam; Scheduling of Full Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05675/oil-country-tubular-goods-from-india-south-korea-turkey-ukraine-and-vietnam-scheduling-of-full",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-05564",
           "publication_date": "2026-03-20",
@@ -394,15 +448,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-04912",
-          "publication_date": "2026-03-13",
-          "title": "Federal Acquisition Regulation: Trade Agreements Thresholds",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04912/federal-acquisition-regulation-trade-agreements-thresholds",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-04908",
           "publication_date": "2026-03-13",
           "title": "Certain Disposable Vaporizer Devices; Notice of Final Commission Determination of No Violation; Termination of Investigation",
@@ -428,15 +473,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04882",
-          "publication_date": "2026-03-12",
-          "title": "1,1,1,2-Tetrafluorothane (R-134a) From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04882/1112-tetrafluorothane-r-134a-from-the-peoples-republic-of-china-preliminary-results-and-partial",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-04881",
@@ -661,16 +697,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04516/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04494",
-          "publication_date": "2026-03-06",
-          "title": "Certain Laptops, Routers and Gateways, and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04494/certain-laptops-routers-and-gateways-and-components-thereof-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04485",
@@ -679,7 +706,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04485/common-alloy-aluminum-sheet-from-south-africa-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04484",
@@ -688,16 +715,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04484/oil-country-tubular-goods-from-the-republic-of-trkiye-preliminary-results-of-countervailing-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04483",
-          "publication_date": "2026-03-06",
-          "title": "Ferrovanadium From the People's Republic of China and the Republic of South Africa: Continuation of Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04483/ferrovanadium-from-the-peoples-republic-of-china-and-the-republic-of-south-africa-continuation-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04415",
@@ -725,24 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04245/notice-of-continuation-and-request-for-nominations-for-the-intergovernmental-policy-advisory",
           "raw_text_url": null,
           "term_hit": "reciprocal tariff"
-        },
-        {
-          "document_number": "2026-04243",
-          "publication_date": "2026-03-04",
-          "title": "Notice of Continuation and Request for Nominations for the Trade Advisory Committee on Africa",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04243/notice-of-continuation-and-request-for-nominations-for-the-trade-advisory-committee-on-africa",
-          "raw_text_url": null,
-          "term_hit": "reciprocal tariff"
-        },
-        {
-          "document_number": "2026-04197",
-          "publication_date": "2026-03-03",
-          "title": "Certain Freight Rail Couplers and Parts Thereof from India: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination with Final Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/03/2026-04197/certain-freight-rail-couplers-and-parts-thereof-from-india-preliminary-affirmative-countervailing",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -1080,6 +1080,22 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Keynote speech by President von der Leyen at the European Australian Business Council event",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_705",
+            "pub_date": "Tue, 24 Mar 2026 23:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_705",
+            "category": "POLICY_AREA=DEVEL,ECOMONAFF,GROWTH,PRESIDENCY,TRADEPOL,BUSINDUS,DEFENCE,SECU",
+            "description": "European Commission Speech Sydney, 25 Mar 2026 \u201cCheck against delivery\u201d Let me start by thanking the European Australian Business Council for hosting this event. Madam Governor of New South Wales, Mr Presi..."
+          },
+          {
+            "title": "Introductory remarks by Commissioner Albuquerque at the European Principal Traders Association (EPTA) Board meeting",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_697",
+            "pub_date": "Tue, 24 Mar 2026 07:59:48 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_697",
+            "category": "POLICY_AREA=FINSTAB",
+            "description": "European Commission Speech Brussels, 24 Mar 2026 Good afternoon, ladies and gentlemen. Firstly, I would like to thank EPTA for organising this event and bringing us together today. I try to split my time as be..."
+          },
+          {
             "title": "Speech by President von der Leyen at the Australian Parliament",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_694",
             "pub_date": "Mon, 23 Mar 2026 23:04:28 GMT",
@@ -1094,22 +1110,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_645",
             "category": "POLICY_AREA=AGRURAL,TRADEPOL",
             "description": "European Commission Press release Canberra, 24 Mar 2026 The EU and Australia have today announced the adoption of a groundbreaking Security and Defence Partnership."
-          },
-          {
-            "title": "Questions and answers on the EU-Australia Trade Agreement",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_648",
-            "pub_date": "Mon, 23 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_648",
-            "category": "POLICY_AREA=AGRURAL,TRADEPOL",
-            "description": "European Commission Questions and answers Canberra, 24 Mar 2026 How big is the Australian market? How much trade does the EU do with Australia? Australia is Oceania's largest economy, with an annual GDP of \u20ac1.7 trillion. Aus..."
-          },
-          {
-            "title": "Joint Statement by Ursula von der Leyen, President of the European Commission and Anthony Albanese, Prime Minister of Australia",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_691",
-            "pub_date": "Mon, 23 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_691",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Statement Brussels, 24 Mar 2026 The Prime Minister of Australia, the Honourable Anthony Albanese MP, and President of the European Commission, Ursula von der Leyen, reaffirmed the strength of ..."
           }
         ],
         "errors": []
@@ -1118,6 +1118,18 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "Update following negotiations on an enhanced FTA with Switzerland",
+            "link": "https://www.gov.uk/government/news/update-following-negotiations-on-an-enhanced-fta-with-switzerland",
+            "updated": "2026-03-24T14:59:04+00:00",
+            "summary": "Update following round 10 of negotiations on an enhanced Free <mark>Trade</mark> Agreement with Switzerland"
+          },
+          {
+            "title": "Trade Envoy appointed to Japan",
+            "link": "https://www.gov.uk/government/news/trade-envoy-appointed-to-japan",
+            "updated": "2026-03-24T09:59:24+00:00",
+            "summary": "The Business and <mark>Trade</mark> Secretary has appointed David Taylor MP as <mark>Trade</mark> Envoy to Japan."
+          },
           {
             "title": "Welsh steel industry backed with new trade measure and strategy",
             "link": "https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy",
