@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T16:07:09+00:00",
+  "generated_at": "2026-03-26T06:50:00+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,69 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05834",
+          "publication_date": "2026-03-25",
+          "title": "Electric Quarterly Reports; TrueLight Energy, LLC, TrueLight Commodities, LLC, Neighborhood Sun Benefit Corp: Notice of Revocation of Market-Based Rate Authority and Termination of Electric Market-Based Rate Tariff",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05834/electric-quarterly-reports-truelight-energy-llc-truelight-commodities-llc-neighborhood-sun-benefit",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05814",
+          "publication_date": "2026-03-25",
+          "title": "Fluid End Blocks From China, Germany, India, and Italy; Notice of Commission Determination To Conduct Full Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05814/fluid-end-blocks-from-china-germany-india-and-italy-notice-of-commission-determination-to-conduct",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05809",
+          "publication_date": "2026-03-25",
+          "title": "Standard Steel Welded Wire Mesh From Mexico: Final Affirmative Determination of Circumvention",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05809/standard-steel-welded-wire-mesh-from-mexico-final-affirmative-determination-of-circumvention",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05808",
+          "publication_date": "2026-03-25",
+          "title": "Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05808/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-initiation-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05807",
+          "publication_date": "2026-03-25",
+          "title": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05807/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05806",
+          "publication_date": "2026-03-25",
+          "title": "Citric Acid and Certain Citrate Salts From Canada and India: Postponement of Preliminary Determination in the Countervailing Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05806/citric-acid-and-certain-citrate-salts-from-canada-and-india-postponement-of-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05805",
+          "publication_date": "2026-03-25",
+          "title": "High Purity Dissolving Pulp From Brazil: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05805/high-purity-dissolving-pulp-from-brazil-preliminary-affirmative-countervailing-duty-determination",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-05737",
           "publication_date": "2026-03-24",
@@ -349,15 +412,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-05002",
-          "publication_date": "2026-03-16",
-          "title": "Pentafluoroethane (R-125) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05002/pentafluoroethane-r-125-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05001",
           "publication_date": "2026-03-16",
           "title": "Certain Oil Country Tubular Goods From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -400,16 +454,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04950/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group",
           "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-04949",
-          "publication_date": "2026-03-13",
-          "title": "Foreign-Trade Zone (FTZ) 46, Notification of Proposed Production Activity; Patheon API, Inc., (Pharmaceutical Products); Cincinnati, Ohio",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04949/foreign-trade-zone-ftz-46-notification-of-proposed-production-activity-patheon-api-inc",
-          "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-04945",
@@ -634,34 +679,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04612/frozen-warmwater-shrimp-from-ecuador-preliminary-results-and-partial-rescission-of-countervailing",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04611",
-          "publication_date": "2026-03-10",
-          "title": "Diffusion-Annealed, Nickel-Plated Flat-Rolled Steel Products From Japan: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04611/diffusion-annealed-nickel-plated-flat-rolled-steel-products-from-japan-final-results-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04610",
-          "publication_date": "2026-03-10",
-          "title": "Common Alloy Aluminum Sheet From India: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04610/common-alloy-aluminum-sheet-from-india-final-results-of-countervailing-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04599",
-          "publication_date": "2026-03-09",
-          "title": "Dairy Tariff-Rate Quota Import Licensing Program",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04599/dairy-tariff-rate-quota-import-licensing-program",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04586",
@@ -670,7 +688,7 @@
           "type": "Rule",
           "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04586/christmas-tree-promotion-research-and-information-order",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04567",
@@ -680,15 +698,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04567/honey-packers-and-importers-increased-assessment-rate",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04521",
-          "publication_date": "2026-03-09",
-          "title": "Certain Off-Road Vehicles and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04521/certain-off-road-vehicles-and-components-thereof-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         },
         {
           "document_number": "2026-04516",
@@ -734,15 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04328/certain-cold-rolled-steel-flat-products-from-republic-of-korea-preliminary-results-and-rescission-in",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04245",
-          "publication_date": "2026-03-04",
-          "title": "Notice of Continuation and Request for Nominations for the Intergovernmental Policy Advisory Committee on Trade",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/04/2026-04245/notice-of-continuation-and-request-for-nominations-for-the-intergovernmental-policy-advisory",
-          "raw_text_url": null,
-          "term_hit": "reciprocal tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68153544 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ff0c8",
+          "pub_date": "Wed, 25 Mar 2026 11:05:42 -0400",
+          "guid": "68153544",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68153544 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update Electronic Export Manifest (EEM) will be implementing an update to the CBP Export Manifest Appendix O \u2013 Schedule K. The updates implemented are removal of Port of Unlading Codes: 27725 27726 42879 27739 27727 27700 Technical inquiries should be directed to your assigned CBP Client Representative. Policy inquiries should be submitted to cbpexportmanifest@cbp.dhs.gov ."
+        },
         {
           "title": "CSMS # 68133320 - Update to Agency Tariff Code Reference Guide Available",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40fa1c8",
@@ -1062,14 +1070,6 @@
           "guid": "67721736",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67721736 - Harmonized System Update (HSU) 2603 Harmonized System Update (HSU) 2603 was created on February 10, 2026, and contains 140 harmonized tariff records and 530 ABI records. HSU 2603 contains the African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP) HTS updates, the Modifications of Additional Duties on Imports from India and several HTS adjustments required by the verification of the 2026 Harmonized Tariff Schedule (HTS). For more information on the Modifications of Additional Duties on Imports from India please see https://www.whitehouse.gov/"
-        },
-        {
-          "title": "CSMS # 67702087 - UPDATED GUIDANCE \u2013 Modifying Additional Duties on Imports from India",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4090d47",
-          "pub_date": "Mon, 09 Feb 2026 16:14:00 -0500",
-          "guid": "67702087",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67702087 - UPDATED GUIDANCE \u2013 Modifying Additional Duties on Imports from India The purpose of this message is to provide guidance regarding implementation of Presidential Executive Order (EO) \u201c Modifying Duties to Address Threats to the United States by the Government of the Russian Federation ,\u201d issued on February 6, 2026. This CSMS message updates CSMS message 66027027 with the following information only. GUIDANCE Products of India entered for consumption or withdrawn from warehouse for consumption on or after 12:01 a.m. eastern time on February 7, 2026, are no longer subject to the additional ad valorem duty rate of 25 percent imposed by EO 14329, \u201c"
         }
       ],
       "errors": []
@@ -1080,36 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Keynote speech by President von der Leyen at the European Australian Business Council event",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_705",
+            "title": "Speech by Commissioner Micallef at Brussels Book Fair",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_730",
+            "pub_date": "Wed, 25 Mar 2026 16:30:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_730",
+            "category": "POLICY_AREA=CULTMED",
+            "description": "European Commission Speech Brussels, 25 Mar 2026 Brussels Book Fair"
+          },
+          {
+            "title": "Speech by Commissioner \u0160uica at the Parliamentary Summit of the Three Seas Initiative",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_728",
+            "pub_date": "Wed, 25 Mar 2026 15:30:56 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_728",
+            "category": "POLICY_AREA=MED",
+            "description": "European Commission Speech Zagreb, 25 Mar 2026 Honourable Speaker of the Croatian Parliament, dear Gordan, Honourable Prime Minister of the Republic of Croatia, dear Andrej, Honourable Vice-Marshall of the P..."
+          },
+          {
+            "title": "Statement by Commissioner Dombrovskis at European Parliament Plenary Debate on the conclusions of the European Council meeting of March 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_727",
+            "pub_date": "Wed, 25 Mar 2026 15:30:36 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_727",
+            "category": "POLICY_AREA=ECOMONAFF,ENERGY,HREXTRELS",
+            "description": "European Commission Statement Brussels, 25 Mar 2026 Madame President, President Costa, Honourable Members. President von der Leyen is in Australia for the signature of the EU-Australia Security and Defence Partne..."
+          },
+          {
+            "title": "Speech by Commissioner J\u00f8rgensen in the European Parliament debate on Energy security, independence and supply in the geopolitical context",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_726",
+            "pub_date": "Wed, 25 Mar 2026 15:26:39 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_726",
+            "category": "POLICY_AREA=ENERGY",
+            "description": "European Commission Speech Brussels, 25 Mar 2026 Honourable Members, dear friends, In 1956, there was a crisis over the Suez Canal. Fossil fuel markets became unstable. And in Europe, energy prices went up. In..."
+          },
+          {
+            "title": "Press Remarks by Commissioner Lahbib at the Launch of the Communication on Wildfire Risk Management",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_721",
+            "pub_date": "Wed, 25 Mar 2026 12:00:10 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_721",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech Brussels, 25 Mar 2026 Dante's Inferno. That is how Michael Balea, a Maltese firefighter, described the fires in Portugal. The smell of smoke, the night sky glowing red, flames stretc..."
+          },
+          {
+            "title": "Remarks by Commissioner Kubilius on the Proposal for a Regulation of the European Parliament and of the Council on establishing the Programme for agile and rapid defence innovation (AGILE)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_717",
+            "pub_date": "Wed, 25 Mar 2026 10:07:38 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_717",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Brussels, 25 Mar 2026 Wars and battlefields are changing very dramatically. Militaries need new tech, speedy deliveries, very competitive prices. That is why the transformation of de..."
+          },
+          {
+            "title": "Daily News 25 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_715",
+            "pub_date": "Wed, 25 Mar 2026 09:27:26 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_715",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 25 Mar 2026 Commission registers European Citizens' Initiative on accessible and sustainable transport Today, the European Commission registered a European Citizens' Initia..."
+          },
+          {
+            "title": "Remarks by Executive Vice-Presidents M\u00eenzatu and Fitto on the reprogramming of cohesion policy funds under the mid-term review",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_714",
+            "pub_date": "Wed, 25 Mar 2026 09:11:49 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_714",
+            "category": "POLICY_AREA=REGIONAL",
+            "description": "European Commission Speech Brussels, 25 Mar 2026 Executive Vice-President Fitto Good morning, Today, together with Executive Vice President Minzatu - who I would like to thank for the excellent work and cooper..."
+          },
+          {
+            "title": "SAFE approvals unlock defence funding for Czechia and France",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_713",
+            "pub_date": "Wed, 25 Mar 2026 08:18:11 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_713",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Press release Brussels, 25 Mar 2026 Following the approval of the first and second wave of defence funding, the European Commission has cleared two national defence plans under the Security Action for Europe (SAFE) initiative, further strengthening the Union's security and readiness."
+          },
+          {
+            "title": "Commission presents \u20ac115 million Programme for agile and rapid defence innovation (AGILE)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_687",
             "pub_date": "Tue, 24 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_705",
-            "category": "POLICY_AREA=DEVEL,ECOMONAFF,GROWTH,PRESIDENCY,TRADEPOL,BUSINDUS,DEFENCE,SECU",
-            "description": "European Commission Speech Sydney, 25 Mar 2026 \u201cCheck against delivery\u201d Let me start by thanking the European Australian Business Council for hosting this event. Madam Governor of New South Wales, Mr Presi..."
-          },
-          {
-            "title": "Introductory remarks by Commissioner Albuquerque at the European Principal Traders Association (EPTA) Board meeting",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_697",
-            "pub_date": "Tue, 24 Mar 2026 07:59:48 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_697",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Speech Brussels, 24 Mar 2026 Good afternoon, ladies and gentlemen. Firstly, I would like to thank EPTA for organising this event and bringing us together today. I try to split my time as be..."
-          },
-          {
-            "title": "Speech by President von der Leyen at the Australian Parliament",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_694",
-            "pub_date": "Mon, 23 Mar 2026 23:04:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_694",
-            "category": "POLICY_AREA=PRESIDENCY,TRADEPOL,DEFENCE",
-            "description": "European Commission Speech Canberra, 24 Mar 2026 \u201cCheck against delivery\u201d Mr Speaker, Prime Minister, President of the Senate, Leader of the Opposition, Honourable Members and Senators, Distinguished guests...."
-          },
-          {
-            "title": "EU and Australia strengthen relations with Security and Defence Partnership and Trade Agreement",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_645",
-            "pub_date": "Mon, 23 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_645",
-            "category": "POLICY_AREA=AGRURAL,TRADEPOL",
-            "description": "European Commission Press release Canberra, 24 Mar 2026 The EU and Australia have today announced the adoption of a groundbreaking Security and Defence Partnership."
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_687",
+            "category": "POLICY_AREA=DIGAG,RESINSC,DEFENCE,TECH",
+            "description": "European Commission Press release Brussels, 25 Mar 2026 The European Commission is presenting a new \u20ac115 million funding tool, AGILE, to bring disruptive defence technology from the lab to the field at record speed."
           }
         ],
         "errors": []
@@ -1118,6 +1166,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "David Reed appointed Trade Commissioner for Eastern Europe",
+            "link": "https://www.gov.uk/government/news/david-reed-appointed-trade-commissioner-for-eastern-europe",
+            "updated": "2026-03-26T00:01:02+00:00",
+            "summary": "David Reed MBE appointed His Majesty\u2019s <mark>Trade</mark> Commissioner for Eastern Europe and Central Asia, and His Majesty\u2019s Consul General to Istanbul."
+          },
           {
             "title": "Update following negotiations on an enhanced FTA with Switzerland",
             "link": "https://www.gov.uk/government/news/update-following-negotiations-on-an-enhanced-fta-with-switzerland",
