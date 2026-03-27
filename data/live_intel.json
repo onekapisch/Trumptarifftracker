@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T06:01:45+00:00",
+  "generated_at": "2026-03-27T06:50:20+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-05880",
+          "publication_date": "2026-03-26",
+          "title": "Foreign-Trade Zone (FTZ) 81, Notification of Proposed Production Activity; Hypertherm Inc; (Plasma Cutting Equipment and Components); Hanover and Lebanon, New Hampshire",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05880/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-hypertherm-inc-plasma-cutting",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05879",
+          "publication_date": "2026-03-26",
+          "title": "Foreign-Trade Zone (FTZ) 164, Notification of Proposed Production Activity; Webco Industries, Inc.; (Steel Tubing); Kellyville, Oklahoma",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05879/foreign-trade-zone-ftz-164-notification-of-proposed-production-activity-webco-industries-inc-steel",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-05853",
+          "publication_date": "2026-03-26",
+          "title": "Certain Hydrodermabrasion Systems and Components Thereof; Notice of the Commission's Final Determination Finding a Violation of Section 337: Issuance and Suspension of Limited Exclusion Order and Cease and Desist Order; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05853/certain-hydrodermabrasion-systems-and-components-thereof-notice-of-the-commissions-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05849",
+          "publication_date": "2026-03-26",
+          "title": "Hardwood and Decorative Plywood From China, Indonesia, and Vietnam; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05849/hardwood-and-decorative-plywood-from-china-indonesia-and-vietnam-scheduling-of-the-final-phase-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05848",
+          "publication_date": "2026-03-26",
+          "title": "Citric Acid and Certain Citrate Salts From China; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05848/citric-acid-and-certain-citrate-salts-from-china-scheduling-of-expedited-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-05847",
+          "publication_date": "2026-03-26",
+          "title": "Aluminum Lithographic Printing Plates From China and Japan",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05847/aluminum-lithographic-printing-plates-from-china-and-japan",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-05834",
           "publication_date": "2026-03-25",
@@ -358,15 +412,6 @@
           "term_hit": "duty"
         },
         {
-          "document_number": "2026-05137",
-          "publication_date": "2026-03-17",
-          "title": "Agency Information Collection Activities; Information Collection Renewal: Crash Causal Factors Program: Knowledge of Systems and Processes",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05137/agency-information-collection-activities-information-collection-renewal-crash-causal-factors-program",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05124",
           "publication_date": "2026-03-17",
           "title": "Certain Urine Splash Guards and Components Thereof; Notice of Commission Final Determination Finding a Violation of Section 337; Issuance of a General Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
@@ -643,16 +688,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04696/heavy-walled-rectangular-pipes-and-tubes-from-mexico-preliminary-results-and-rescission-in-part-of",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04678",
-          "publication_date": "2026-03-10",
-          "title": "Certain Van-Type Trailers and Subassemblies Thereof From Canada, the People's Republic of China, and Mexico: Postponement of Preliminary Determinations in the Countervailing Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04678/certain-van-type-trailers-and-subassemblies-thereof-from-canada-the-peoples-republic-of-china-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-04676",
@@ -662,15 +698,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04676/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-preliminary-results-and",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04617",
-          "publication_date": "2026-03-10",
-          "title": "Lithium Hexafluorophosphate From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04617/lithium-hexafluorophosphate-from-china-institution-of-antidumping-and-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         },
         {
           "document_number": "2026-04612",
@@ -716,33 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04485/common-alloy-aluminum-sheet-from-south-africa-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04484",
-          "publication_date": "2026-03-06",
-          "title": "Oil Country Tubular Goods From the Republic of T\u00fcrkiye: Preliminary Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04484/oil-country-tubular-goods-from-the-republic-of-trkiye-preliminary-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04415",
-          "publication_date": "2026-03-06",
-          "title": "Foreign-Trade Zone (FTZ) 53, Notification of Proposed Production Activity; Baker Hughes Oilfield Operations, LLC; (Components for Electrical Submersible Pumping Systems); Claremore, Oklahoma",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/06/2026-04415/foreign-trade-zone-ftz-53-notification-of-proposed-production-activity-baker-hughes-oilfield",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-04328",
-          "publication_date": "2026-03-05",
-          "title": "Certain Cold-Rolled Steel Flat Products From Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/05/2026-04328/certain-cold-rolled-steel-flat-products-from-republic-of-korea-preliminary-results-and-rescission-in",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68168194 - Information: Quota Bulletin 26-224 2026 Argentina Beef Tranche 2",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4102a02",
+          "pub_date": "Thu, 26 Mar 2026 15:25:39 -0400",
+          "guid": "68168194",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68168194 - Information: Quota Bulletin 26-224 2026 Argentina Beef Tranche 2 Quota Bulletin 26-224 2026 Argentina Beef Tranche 2 has been published on our webpage at the following link: Quota Bulletin 26-224 2026 Argentina Beef Tranche 2 Commodity: Beef as provided for in the Harmonized Tariff Schedule of the United States (HTSUS) Chapter 2 subheadings Additional United States Note (AUSN) 3(b) and addressed in Presidential Proclamation and Annex \u201cEnsuring Affordable Beef for the American Consumer\u201d and published on February 6, 2026. In addition to the aggregate quantity of beef of Argentina specified in AUSN 3(a) to chapter 2 of the tariff schedule for an"
+        },
+        {
+          "title": "CSMS # 68163805 - Information: Quota Bulletin 26-210 2026 Peanuts",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41018dd",
+          "pub_date": "Thu, 26 Mar 2026 09:58:04 -0400",
+          "guid": "68163805",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68163805 - Information: Quota Bulletin 26-210 2026 Peanuts Quota Bulletin 26-210 2026 Peanuts has been published on our webpage at the following link: https://www.cbp.gov/trade/quota/bulletins/qb-26-210-2026 Commodity: Peanuts provided for in the Harmonized Tariff Schedule of the United States (HTSUS) Chapter 12, Additional United States Note (AUSN) 2. Quota Period: April 1, 2026, through March 31, 2027 Opening Date: Wednesday, April 1, 2026 All entries submitted after 12:01 a.m. local port time and prior to 8:30 a.m. Eastern Time (ET) and on the opening date will receive an entry time of 8:30 a.m. for quota qualification purposes. If the total for any "
+        },
         {
           "title": "CSMS # 68153544 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ff0c8",
@@ -1054,22 +1070,6 @@
           "guid": "67735996",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67735996 - ACE Import Manifest Update: New Carnet Error Codes Available in CERT U.S. Customs and Border Protection (CBP) has enhanced the Automated Commercial Environment (ACE) certification environment (CERT) to enable filers to submit a Carnet number and expiration date via an ACE truck import manifest filing. Accordingly, CBP has updated following truck implementation guides: ANSI X12 Truck 309 Customs Manifest Added new Bill of Lading Type code for Carnet (40) Added new Reference Identification Qualifier for \u201cCarnet Number\u201d (CRN) and \u201cCarnet Expiration\u201d (CRE) EDIFACT Truck CUSCAR Import Manifest Added new Document Name code type for Carnet (40) Adde"
-        },
-        {
-          "title": "CSMS # 67721788 - REMINDER: Support Call Today for Electronic Refund and Add Notify Party Features in the ACE Portal",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4095a3c",
-          "pub_date": "Wed, 11 Feb 2026 10:20:41 -0500",
-          "guid": "67721788",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67721788 - REMINDER: Support Call Today for Electronic Refund and Add Notify Party Features in the ACE Portal On February 6, 2026, U.S. Customs and Border Protection (CBP) began issuing all refunds electronically via Automated Clearing House (ACH) (subject to limited exceptions), as announced in the Electronic Refunds Interim Final Rule published January 2, 2026 in the Federal Register ( FR Document 2025-24171 ). In preparation for this change, CBP improved the ACH refund sign-up process in the Automated Commercial Environment (ACE). CBP also recently added a feature for importers to add notify parties, also known as \u201cSpecial Address Notification (CBP F"
-        },
-        {
-          "title": "CSMS # 67721736 - Harmonized System Update (HSU) 2603",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4095a08",
-          "pub_date": "Wed, 11 Feb 2026 10:20:26 -0500",
-          "guid": "67721736",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67721736 - Harmonized System Update (HSU) 2603 Harmonized System Update (HSU) 2603 was created on February 10, 2026, and contains 140 harmonized tariff records and 530 ABI records. HSU 2603 contains the African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP) HTS updates, the Modifications of Additional Duties on Imports from India and several HTS adjustments required by the verification of the 2026 Harmonized Tariff Schedule (HTS). For more information on the Modifications of Additional Duties on Imports from India please see https://www.whitehouse.gov/"
         }
       ],
       "errors": []
@@ -1080,84 +1080,44 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Speech by Commissioner Micallef at Brussels Book Fair",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_730",
-            "pub_date": "Wed, 25 Mar 2026 16:30:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_730",
-            "category": "POLICY_AREA=CULTMED",
-            "description": "European Commission Speech Brussels, 25 Mar 2026 Brussels Book Fair"
+            "title": "Factsheet EU Customs trialogue",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_737",
+            "pub_date": "Thu, 26 Mar 2026 11:34:34 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_737",
+            "category": "POLICY_AREA=CUSTOMS",
+            "description": "European Commission Factsheet Brussels, 26 Mar 2026 Factsheet EU Customs trialogue Factsheet EU Customs trialogue"
           },
           {
-            "title": "Speech by Commissioner \u0160uica at the Parliamentary Summit of the Three Seas Initiative",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_728",
-            "pub_date": "Wed, 25 Mar 2026 15:30:56 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_728",
-            "category": "POLICY_AREA=MED",
-            "description": "European Commission Speech Zagreb, 25 Mar 2026 Honourable Speaker of the Croatian Parliament, dear Gordan, Honourable Prime Minister of the Republic of Croatia, dear Andrej, Honourable Vice-Marshall of the P..."
+            "title": "Questions and answers on the EU Customs Reform",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_736",
+            "pub_date": "Thu, 26 Mar 2026 11:34:03 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_736",
+            "category": "POLICY_AREA=CUSTOMS",
+            "description": "European Commission Questions and answers Brussels, 26 Mar 2026 What is the EU Customs Union? The EU Customs Union is a major success story of European integration and economic development. Established in 1968, the Cust..."
           },
           {
-            "title": "Statement by Commissioner Dombrovskis at European Parliament Plenary Debate on the conclusions of the European Council meeting of March 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_727",
-            "pub_date": "Wed, 25 Mar 2026 15:30:36 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_727",
-            "category": "POLICY_AREA=ECOMONAFF,ENERGY,HREXTRELS",
-            "description": "European Commission Statement Brussels, 25 Mar 2026 Madame President, President Costa, Honourable Members. President von der Leyen is in Australia for the signature of the EU-Australia Security and Defence Partne..."
+            "title": "Commission welcomes historic agreement to reform EU Customs Union",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_735",
+            "pub_date": "Thu, 26 Mar 2026 11:33:05 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_735",
+            "category": "POLICY_AREA=CUSTOMS",
+            "description": "European Commission Press release Brussels, 26 Mar 2026 The Commission welcomes today's agreement between the European Parliament and the Council, delivering a landmark reform of the EU Customs Union."
           },
           {
-            "title": "Speech by Commissioner J\u00f8rgensen in the European Parliament debate on Energy security, independence and supply in the geopolitical context",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_726",
-            "pub_date": "Wed, 25 Mar 2026 15:26:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_726",
-            "category": "POLICY_AREA=ENERGY",
-            "description": "European Commission Speech Brussels, 25 Mar 2026 Honourable Members, dear friends, In 1956, there was a crisis over the Suez Canal. Fossil fuel markets became unstable. And in Europe, energy prices went up. In..."
+            "title": "Investigation by the Commission and consumer authorities find that one in three traders incorrectly display discounts online during Black Friday and Cyber Monday",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_734",
+            "pub_date": "Thu, 26 Mar 2026 10:33:55 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_734",
+            "category": "POLICY_AREA=CONSUMPOL,JFRC",
+            "description": "European Commission Press release Brussels, 26 Mar 2026 Today, the European Commission and consumer protection authorities from 23 Member States as well as Iceland and Norway, released the results of a screening (\u2018sweep') of online discounts during Black Friday and Cyber Monday sales."
           },
           {
-            "title": "Press Remarks by Commissioner Lahbib at the Launch of the Communication on Wildfire Risk Management",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_721",
-            "pub_date": "Wed, 25 Mar 2026 12:00:10 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_721",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Speech Brussels, 25 Mar 2026 Dante's Inferno. That is how Michael Balea, a Maltese firefighter, described the fires in Portugal. The smell of smoke, the night sky glowing red, flames stretc..."
-          },
-          {
-            "title": "Remarks by Commissioner Kubilius on the Proposal for a Regulation of the European Parliament and of the Council on establishing the Programme for agile and rapid defence innovation (AGILE)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_717",
-            "pub_date": "Wed, 25 Mar 2026 10:07:38 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_717",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Brussels, 25 Mar 2026 Wars and battlefields are changing very dramatically. Militaries need new tech, speedy deliveries, very competitive prices. That is why the transformation of de..."
-          },
-          {
-            "title": "Daily News 25 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_715",
-            "pub_date": "Wed, 25 Mar 2026 09:27:26 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_715",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 25 Mar 2026 Commission registers European Citizens' Initiative on accessible and sustainable transport Today, the European Commission registered a European Citizens' Initia..."
-          },
-          {
-            "title": "Remarks by Executive Vice-Presidents M\u00eenzatu and Fitto on the reprogramming of cohesion policy funds under the mid-term review",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_714",
-            "pub_date": "Wed, 25 Mar 2026 09:11:49 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_714",
-            "category": "POLICY_AREA=REGIONAL",
-            "description": "European Commission Speech Brussels, 25 Mar 2026 Executive Vice-President Fitto Good morning, Today, together with Executive Vice President Minzatu - who I would like to thank for the excellent work and cooper..."
-          },
-          {
-            "title": "SAFE approvals unlock defence funding for Czechia and France",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_713",
-            "pub_date": "Wed, 25 Mar 2026 08:18:11 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_713",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Press release Brussels, 25 Mar 2026 Following the approval of the first and second wave of defence funding, the European Commission has cleared two national defence plans under the Security Action for Europe (SAFE) initiative, further strengthening the Union's security and readiness."
-          },
-          {
-            "title": "Commission presents \u20ac115 million Programme for agile and rapid defence innovation (AGILE)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_687",
-            "pub_date": "Tue, 24 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_687",
-            "category": "POLICY_AREA=DIGAG,RESINSC,DEFENCE,TECH",
-            "description": "European Commission Press release Brussels, 25 Mar 2026 The European Commission is presenting a new \u20ac115 million funding tool, AGILE, to bring disruptive defence technology from the lab to the field at record speed."
+            "title": "Statement by Commissioner Dombrovskis at European Parliament Plenary Debate on EU-US trade deal",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_731",
+            "pub_date": "Thu, 26 Mar 2026 08:07:11 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_731",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Statement Brussels, 26 Mar 2026 Honourable Members. Today's debate - and the vote that will follow \u2013 mark a very important milestone in our efforts to provide stability and predictability to E..."
           }
         ],
         "errors": []
@@ -1167,9 +1127,9 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
-            "title": "David Reed appointed Trade Commissioner for Eastern Europe",
+            "title": "David Reed appointed HMTC for Eastern Europe and Central Asia",
             "link": "https://www.gov.uk/government/news/david-reed-appointed-trade-commissioner-for-eastern-europe",
-            "updated": "2026-03-26T00:01:02+00:00",
+            "updated": "2026-03-26T00:01:00+00:00",
             "summary": "David Reed MBE appointed His Majesty\u2019s <mark>Trade</mark> Commissioner for Eastern Europe and Central Asia, and His Majesty\u2019s Consul General to Istanbul."
           },
           {
