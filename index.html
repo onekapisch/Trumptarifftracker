@@ -546,6 +546,68 @@
       max-width: 860px;
     }
 
+    .freshness-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin: 12px 0 14px;
+    }
+
+    .freshness-card {
+      border: 1px solid var(--b1);
+      border-left: 3px solid var(--b2);
+      border-radius: 12px;
+      background: linear-gradient(160deg, rgba(20, 24, 40, 0.98) 0%, rgba(13, 17, 29, 0.98) 100%);
+      padding: 14px 15px;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);
+    }
+
+    .freshness-card-update { border-left-color: var(--accent); }
+    .freshness-card-material { border-left-color: var(--teal); }
+    .freshness-card-rhythm { border-left-color: var(--blue); }
+
+    .freshness-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      margin-bottom: 8px;
+      font-size: 0.68rem;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+      color: var(--t2);
+      font-family: "IBM Plex Mono", Menlo, Consolas, monospace;
+    }
+
+    .freshness-eyebrow::before {
+      content: "";
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: currentColor;
+      opacity: 0.9;
+    }
+
+    .freshness-card-update .freshness-eyebrow { color: var(--accent); }
+    .freshness-card-material .freshness-eyebrow { color: var(--teal); }
+    .freshness-card-rhythm .freshness-eyebrow { color: var(--blue); }
+
+    .freshness-value {
+      display: block;
+      margin-bottom: 7px;
+      color: var(--t0);
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+    }
+
+    .freshness-card p {
+      margin: 0;
+      color: var(--t1);
+      font-size: 0.85rem;
+      line-height: 1.5;
+    }
+
     /* ═══════════════════════
        CARDS & PANELS
     ═══════════════════════ */
@@ -1308,6 +1370,7 @@
     @media (max-width: 1200px) {
       .cards-3 { grid-template-columns: 1fr; }
       .kpi-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .freshness-grid { grid-template-columns: 1fr; }
     }
 
     @media (max-width: 1100px) {
@@ -1352,6 +1415,7 @@
       .kpi .value { font-size: 1.2rem; }
       .kpi .label { font-size: 0.62rem; }
       .cards-3 { grid-template-columns: 1fr; gap: 10px; }
+      .freshness-grid { grid-template-columns: 1fr; gap: 10px; }
       .view { padding: 12px; border-radius: 10px; }
       .section-title { font-size: 1.05rem; }
       .legal-alert { padding: 10px 12px; }
@@ -1480,6 +1544,9 @@
 
     [data-theme="light"] .section-title { color: var(--t0); }
     [data-theme="light"] .small-note    { color: var(--t2); }
+    [data-theme="light"] .freshness-card { background: linear-gradient(160deg,#fff 0%,var(--s2) 100%); border-color: var(--b1); }
+    [data-theme="light"] .freshness-value { color: var(--t0); }
+    [data-theme="light"] .freshness-card p { color: var(--t1); }
 
     [data-theme="light"] .kpi { background: #fff; border-color: var(--b1); }
     [data-theme="light"] .kpi::after { background: none; }
@@ -1700,6 +1767,23 @@
       <div class="legal-alert">
         <p><strong>⚡ BREAKING / Updated Mar 28, 2026 — Section 122 temporary import duty (operative 10%):</strong> After the U.S. Supreme Court struck down IEEPA tariffs on <strong>Feb 20, 2026</strong> (24-1287, <em>Learning Resources, Inc. v. Trump</em>, 6-3 ruling), President Trump invoked Section 122 of the Trade Act of 1974 to impose an <strong>operative 10% temporary global import surcharge</strong> on covered imports — effective <strong>Feb 24, 2026 at 00:01 ET</strong> for up to 150 days (expires ~July 24, 2026; extension requires Congressional approval). <strong>Exceptions:</strong> pharmaceuticals/pharmaceutical ingredients, certain agricultural products, critical minerals &amp; metals, some electronics, USMCA-qualifying goods, and Section 232-covered goods (no stacking). <strong>Section 232 tariffs</strong> (steel 50%, aluminum 50%, autos 25%, semiconductors 25%, copper 50%) and <strong>Section 301</strong> (China strategic) remain active and were unaffected by the SCOTUS ruling. New USTR Section 301 investigations (initiated <strong>Mar 12, 2026</strong>; published <strong>Mar 17, 2026</strong>) opened on forced-labor import prohibition enforcement and structural excess-capacity practices, with comments due Apr 15 and hearings starting Apr 28. Confirm operative tariff layer with your customs broker before any PO release or shipment booking. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.whitehouse.gov/presidential-actions/2026/02/adjusting-imports-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House proclamation</a>] [<a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House fact sheet</a>] [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related" target="_blank" rel="noopener">Federal Register (forced labor)</a>] [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating" target="_blank" rel="noopener">Federal Register (structural excess capacity)</a>] [<a href="https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf" target="_blank" rel="noopener">SCOTUS opinion</a>] [<a href="https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html" target="_blank" rel="noopener">CNBC</a>]</span></p>
       </div>
+      <div class="freshness-grid" aria-label="Website freshness and weekly change summary">
+        <article class="freshness-card freshness-card-update">
+          <span class="freshness-eyebrow">Last updated</span>
+          <strong class="freshness-value" id="freshnessLastUpdated">2026-03-28</strong>
+          <p>This reflects the last homepage content update, not the background live-feed refresh time.</p>
+        </article>
+        <article class="freshness-card freshness-card-material">
+          <span class="freshness-eyebrow">Latest material change</span>
+          <strong class="freshness-value">New Section 301 investigations</strong>
+          <p>Homepage alert and timeline now include the Mar 12 USTR investigation tracks published in the Federal Register on Mar 17.</p>
+        </article>
+        <article class="freshness-card freshness-card-rhythm">
+          <span class="freshness-eyebrow">Why it can look the same</span>
+          <strong class="freshness-value">Most daily runs are feed refreshes</strong>
+          <p>The Live Feeds tab updates often, but the homepage only changes when a verified tariff-policy development is material enough to surface.</p>
+        </article>
+      </div>
       <div class="kpi-grid" id="kpiGrid"></div>
       <nav class="fnkeys" aria-label="Primary views">
         <button class="fnkey active" data-view-target="dashboard">
@@ -1742,8 +1826,8 @@
     </header>
 
     <section class="view active" data-view="dashboard">
-      <h2 class="section-title">Executive Snapshot — As of Feb 21, 2026</h2>
-      <p class="small-note">This view separates <strong>active trade measures</strong> from <strong>contested/conditional measures</strong> and highlights the highest procurement-impact categories for Siemens Healthineers global sourcing teams.</p>
+      <h2 class="section-title">Executive Snapshot</h2>
+      <p class="small-note">As of <strong id="dashboardAsOf">2026-03-28</strong>. This view separates <strong>active trade measures</strong> from <strong>contested/conditional measures</strong> and highlights the highest procurement-impact categories for Siemens Healthineers global sourcing teams.</p>
       <div class="cards-3">
         <article class="panel panel-teal">
           <h3>Active Tariff Regimes (Confirmed)</h3>
@@ -1753,7 +1837,7 @@
             <li><strong>Section 232 Semiconductors:</strong> 25% on covered chips and SME. Eff. Jan 15, 2026. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.federalregister.gov/documents/2026/01/20/2026-01052/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative" target="_blank" rel="noopener">FR Proc. 11002</a>]</span></li>
             <li><strong>Section 232 Copper:</strong> 50% on semi-finished copper derivatives. Eff. Aug 1, 2025. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.federalregister.gov/documents/2025/08/05/2025-14893/adjusting-imports-of-copper-into-the-united-states" target="_blank" rel="noopener">FR Proc. 10962</a>]</span></li>
             <li><strong>Section 301 China Strategic:</strong> Elevated duties on EVs, batteries, solar, cranes, selected medical products. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2024/may/ustr-finalizes-tariff-increases-chinese-products-electric-vehicles-batteries-solar-cells-critical-minerals-medicals-and" target="_blank" rel="noopener">USTR 2024</a>]</span></li>
-            <li><strong>Section 122 Global Surcharge:</strong> 15% on ALL countries. Effective Feb 24, 2026. 150-day limit (~Jul 24). Pharma, certain ag, critical minerals exempt. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House Fact Sheet</a>] [<a href="https://www.axios.com/2026/02/20/trump-tariff-plan-section-122-trade-act" target="_blank" rel="noopener">Axios</a>]</span></li>
+            <li><strong>Section 122 Global Surcharge:</strong> Operative 10% on covered non-exempt goods from Feb 24, 2026 under the White House proclamation. Statutory maximum is 15% for up to 150 days. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.whitehouse.gov/presidential-actions/2026/02/adjusting-imports-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House proclamation</a>] [<a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House Fact Sheet</a>]</span></li>
             <li><strong>Branded Pharma 100%:</strong> 100% tariff on branded/patented drugs (exemption for U.S. manufacturing investment). Eff. Oct 1, 2025. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.aha.org/news/headline/2025-09-26-president-announces-new-tariffs-including-certain-pharmaceuticals-set-begin-oct-1" target="_blank" rel="noopener">AHA/White House</a>]</span></li>
           </ul>
         </article>
@@ -1770,9 +1854,9 @@
         <article class="panel panel-orange">
           <h3>Priority Actions for Procurement</h3>
           <ul>
-            <li><strong>Confirm Feb 24 impact:</strong> Run all open POs through the Tariff Calculator with Section 122 (15%) layer for non-exempt commodities. <span style="font-size:0.78rem;color:var(--muted);">[Use Tariff Calculator tab]</span></li>
+            <li><strong>Confirm current impact:</strong> Run all open POs through the Tariff Calculator with the Section 122 10% layer only for covered non-exempt commodities. <span style="font-size:0.78rem;color:var(--muted);">[Use Tariff Calculator tab]</span></li>
             <li><strong>Pharma/API sourcing:</strong> Verify supplier country and product classification — UK has 0% pharma deal. Branded pharma 100% tariff already active. Generic APIs face Section 232 investigation risk. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.federalregister.gov/documents/2025/06/23/2025-11473/implementing-the-general-terms-of-the-united-states-of-america-united-kingdom-economic-prosperity" target="_blank" rel="noopener">UK deal FR</a>]</span></li>
-            <li><strong>Imaging supply chain:</strong> CT, MRI, X-ray components face Section 232 (steel 50% / semi 25%) + Section 122 (15%) + potential Medical Devices Section 232 by mid-2026 (up to +25% more). <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.bloomberg.com/news/articles/2025-11-05/siemens-healthineers-sees-tariff-impact-doubling-in-fiscal-2026" target="_blank" rel="noopener">Bloomberg SHS impact</a>]</span></li>
+            <li><strong>Imaging supply chain:</strong> CT, MRI, X-ray components face Section 232 (steel 50% / semi 25%) plus any applicable Section 122 10% non-exempt layer, with potential Medical Devices Section 232 upside risk by mid-2026. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.bloomberg.com/news/articles/2025-11-05/siemens-healthineers-sees-tariff-impact-doubling-in-fiscal-2026" target="_blank" rel="noopener">Bloomberg SHS impact</a>]</span></li>
             <li><strong>Steel/copper contracts:</strong> Re-confirm force-majeure and price-escalation clauses — 50% steel/copper rates fully active since Jun/Aug 2025, not disputed by SCOTUS ruling. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html" target="_blank" rel="noopener">CNBC — industries still facing higher rates</a>]</span></li>
             <li><strong>China exposure:</strong> Section 301 strategic tariffs remain fully active and unaffected by SCOTUS ruling. Anti-circumvention enforcement (melt-and-pour, transshipment) actively enforced. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2024/may/ustr-finalizes-tariff-increases-chinese-products-electric-vehicles-batteries-solar-cells-critical-minerals-medicals-and" target="_blank" rel="noopener">USTR Section 301</a>]</span></li>
             <li><strong>Monitor GAPS tab:</strong> Retaliation schedules for India, Japan, EU, South Korea still incomplete. SHS category-level SKU mapping not built. Medical Devices S.232 report due May 30 — critical watch date. <span style="font-size:0.78rem;color:var(--muted);">[Gaps tab]</span></li>
@@ -1835,10 +1919,10 @@
             <tr><td>X-Ray / Angio Equipment</td><td>Steel frames, X-ray tubes, detector arrays</td><td>Section 232 steel/semis + Section 122</td><td>25–65%</td><td><span class="status-pill status-risk">HIGH RISK</span></td><td>China-sourced electrical components carry additional Section 301</td></tr>
             <tr><td>Molecular Imaging (PET/SPECT)</td><td>Electronics, detectors, pharmaceuticals (tracers)</td><td>Section 232 semis + pharma 100% (tracers)</td><td>25–115%</td><td><span class="status-pill status-risk">HIGH RISK</span></td><td>PET tracers may qualify as pharmaceutical — verify HTS class</td></tr>
             <tr><td>Ultrasound Systems</td><td>Transducer elements, electronics, cables</td><td>Section 232 semis + Section 122</td><td>25–40%</td><td><span class="status-pill status-watch">WATCH</span></td><td>Lower metal content; primary exposure is semiconductor components</td></tr>
-            <tr><td>Diagnostics / IVD Reagents</td><td>Chemical reagents, APIs, plastics, consumables</td><td>Pharma S.232 investigation; Section 122</td><td>15–100%</td><td><span class="status-pill status-watch">WATCH</span></td><td>Pharma tariff risk if classified as drug product; UK-sourced may qualify for 0%</td></tr>
+            <tr><td>Diagnostics / IVD Reagents</td><td>Chemical reagents, APIs, plastics, consumables</td><td>Pharma S.232 investigation; Section 122</td><td>0–100%</td><td><span class="status-pill status-watch">WATCH</span></td><td>Section 122 exemptions may apply; pharma tariff risk remains if classified as drug product</td></tr>
             <tr><td>Varian Linac / RT Systems</td><td>Electronics, mechanical, steel</td><td>Section 232 steel/semis + Section 122</td><td>25–65%</td><td><span class="status-pill status-watch">WATCH</span></td><td>Significant U.S. domestic manufacturing reduces import exposure</td></tr>
-            <tr><td>Service Parts / Spare Parts</td><td>Varies widely by system</td><td>Section 232 applicable by part type + Section 122</td><td>15–65%</td><td><span class="status-pill status-watch">WATCH</span></td><td>Each HTS code must be mapped individually; broker review required</td></tr>
-            <tr><td>PPE / Consumables</td><td>Gloves, gowns, masks — primarily China-sourced</td><td>Section 301 (China) + Section 122</td><td>15–80%</td><td><span class="status-pill status-risk">HIGH RISK</span></td><td>In scope of Medical Devices Section 232 investigation (PPE included)</td></tr>
+            <tr><td>Service Parts / Spare Parts</td><td>Varies widely by system</td><td>Section 232 applicable by part type + Section 122</td><td>10–65%</td><td><span class="status-pill status-watch">WATCH</span></td><td>Each HTS code must be mapped individually; broker review required</td></tr>
+            <tr><td>PPE / Consumables</td><td>Gloves, gowns, masks — primarily China-sourced</td><td>Section 301 (China) + Section 122</td><td>10–80%</td><td><span class="status-pill status-risk">HIGH RISK</span></td><td>In scope of Medical Devices Section 232 investigation (PPE included)</td></tr>
             <tr><td>Raw Materials (Steel, Al, Cu)</td><td>Commodity inputs</td><td>Section 232</td><td>50%</td><td><span class="status-pill status-active">ACTIVE</span></td><td>No country exemptions remain for steel/aluminum (except UK 25%)</td></tr>
           </tbody>
         </table>
@@ -1950,7 +2034,7 @@
 
     <section class="view" data-view="timeline">
       <h2 class="section-title">Timeline (Key Events)</h2>
-      <p class="small-note">Chronology includes issuance and major modifications through February 2026. Dates are shown as absolute dates to prevent interpretation drift.</p>
+      <p class="small-note">Chronology includes issuance and major modifications through March 2026. Dates are shown as absolute dates to prevent interpretation drift.</p>
       <ul class="timeline" id="timelineList"></ul>
     </section>
 
@@ -2074,7 +2158,7 @@
               <label class="check"><input type="checkbox" id="calcUsmcaQualified" />Shipment qualifies under USMCA rules of origin</label>
               <label class="check"><input type="checkbox" id="calcEnergyPotash" />Goods are Canada/Mexico energy or potash bucket</label>
               <label class="check"><input type="checkbox" id="calcBrazilTargeted" />Goods are in Brazil-targeted Annex product list</label>
-              <label class="check"><input type="checkbox" id="calcIncludeSection122" checked />Include Section 122 global surcharge (15%, effective Feb 24 2026 for ~150 days)</label>
+              <label class="check"><input type="checkbox" id="calcIncludeSection122" checked />Include Section 122 global surcharge (10%, effective Feb 24 2026 for covered non-exempt goods)</label>
               <label class="check"><input type="checkbox" id="calcSection122Exempt" />Goods are exempt from Section 122 (pharma, certain ag, critical minerals, some electronics)</label>
             </div>
           </div>
@@ -3602,11 +3686,6 @@
         `;
       }
 
-      const generatedDate = toIsoDate(generatedAt);
-      if (generatedDate) {
-        document.getElementById("lastVerified").textContent = generatedDate;
-      }
-
       applySectionRevealAnimation();
     }
 
@@ -4078,6 +4157,10 @@
 
     async function bootstrap() {
       document.getElementById("lastVerified").textContent = META.asOf;
+      const freshnessLastUpdated = document.getElementById("freshnessLastUpdated");
+      if (freshnessLastUpdated) freshnessLastUpdated.textContent = META.asOf;
+      const dashboardAsOf = document.getElementById("dashboardAsOf");
+      if (dashboardAsOf) dashboardAsOf.textContent = META.asOf;
       renderSection122Countdown();
       renderHeadlineTicker([]);
       renderKpis();
