@@ -240,7 +240,7 @@
       align-items: center;
       gap: 28px;
       white-space: nowrap;
-      animation: tickerSlide 60s linear infinite;
+      animation: tickerSlide 120s linear infinite;
       font-size: 0.78rem;
       color: rgba(255,255,255,0.78);
       font-family: "IBM Plex Mono", Menlo, Consolas, monospace;
@@ -343,7 +343,40 @@
     }
 
     .legal-alert strong { color: #ffcc80; font-weight: 600; }
-    .legal-alert p { margin: 0; color: #ffe0b2; font-size: 0.94rem; line-height: 1.5; }
+    .legal-alert p { margin: 0; color: #ffe0b2; font-size: 0.94rem; line-height: 1.6; }
+    .legal-alert-lead {
+      margin: 0 0 8px;
+      color: #ffe7c2;
+      font-size: 0.97rem;
+      line-height: 1.55;
+      font-weight: 600;
+    }
+    .legal-alert-list {
+      margin: 0;
+      padding-left: 18px;
+      display: grid;
+      gap: 6px;
+    }
+    .legal-alert-list li {
+      color: #ffe0b2;
+      font-size: 0.94rem;
+      line-height: 1.58;
+    }
+    .legal-alert-footnote {
+      margin-top: 9px;
+      color: #ffd6a0;
+      font-size: 0.9rem;
+    }
+    .legal-alert-sources {
+      margin-top: 10px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .impact-brief-grid {
+      margin-top: 14px;
+      margin-bottom: 12px;
+    }
 
     /* ── Countdown Bar ── */
     .countdown-bar {
@@ -1400,6 +1433,7 @@
       .toolbar { grid-template-columns: 1fr; }
       th, td { font-size: 0.78rem; }
       .legal-alert p { font-size: 0.88rem; }
+      .legal-alert-list li { font-size: 0.87rem; }
       .kpi .value { font-size: 1.35rem; }
     }
 
@@ -1422,6 +1456,9 @@
       .section-title { font-size: 1.05rem; }
       .legal-alert { padding: 10px 12px; }
       .legal-alert p { font-size: 0.82rem; line-height: 1.5; }
+      .legal-alert-lead { font-size: 0.86rem; }
+      .legal-alert-list li { font-size: 0.82rem; }
+      .legal-alert-sources { font-size: 0.74rem; }
       .countdown-bar { padding: 7px 10px; gap: 8px; flex-wrap: wrap; }
       .countdown-bar .timer { font-size: 0.88rem; }
       .chips { gap: 5px; }
@@ -1767,7 +1804,21 @@
         </div>
       </div>
       <div class="legal-alert">
-        <p><strong>⚡ BREAKING / Updated Mar 28, 2026 — Section 122 temporary import duty (operative 10%):</strong> After the U.S. Supreme Court struck down IEEPA tariffs on <strong>Feb 20, 2026</strong> (24-1287, <em>Learning Resources, Inc. v. Trump</em>, 6-3 ruling), President Trump invoked Section 122 of the Trade Act of 1974 to impose an <strong>operative 10% temporary global import surcharge</strong> on covered imports — effective <strong>Feb 24, 2026 at 00:01 ET</strong> for up to 150 days (expires ~July 24, 2026; extension requires Congressional approval). <strong>Exceptions:</strong> pharmaceuticals/pharmaceutical ingredients, certain agricultural products, critical minerals &amp; metals, some electronics, USMCA-qualifying goods, and Section 232-covered goods (no stacking). <strong>Section 232 tariffs</strong> (steel 50%, aluminum 50%, autos 25%, semiconductors 25%, copper 50%) and <strong>Section 301</strong> (China strategic) remain active and were unaffected by the SCOTUS ruling. New USTR Section 301 investigations (initiated <strong>Mar 12, 2026</strong>; published <strong>Mar 17, 2026</strong>) opened on forced-labor import prohibition enforcement and structural excess-capacity practices, with comments due Apr 15 and hearings starting Apr 28. Confirm operative tariff layer with your customs broker before any PO release or shipment booking. <span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.whitehouse.gov/presidential-actions/2026/02/adjusting-imports-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House proclamation</a>] [<a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House fact sheet</a>] [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related" target="_blank" rel="noopener">Federal Register (forced labor)</a>] [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating" target="_blank" rel="noopener">Federal Register (structural excess capacity)</a>] [<a href="https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf" target="_blank" rel="noopener">SCOTUS opinion</a>] [<a href="https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html" target="_blank" rel="noopener">CNBC</a>]</span></p>
+        <p class="legal-alert-lead"><strong>⚡ BREAKING / Updated Mar 29, 2026 — Section 122 temporary import duty remains operative at 10%:</strong></p>
+        <ul class="legal-alert-list">
+          <li>After the U.S. Supreme Court struck down IEEPA tariffs on <strong>Feb 20, 2026</strong> (24-1287, 6-3 ruling), the White House invoked <strong>Section 122</strong> to impose a temporary global import surcharge.</li>
+          <li>The operative surcharge is <strong>10% effective Feb 24, 2026 at 00:01 ET</strong> for up to 150 days (expires around Jul 24, 2026 unless Congress approves extension). Exemptions include pharmaceuticals/pharma ingredients, certain agriculture, critical minerals/metals, some electronics, USMCA-qualifying goods, and Section 232-covered goods (no stacking).</li>
+          <li>New USTR <strong>Section 301</strong> investigations (initiated Mar 12; published Mar 17) remain in process, with comments due Apr 15 and hearings starting Apr 28.</li>
+        </ul>
+        <p class="legal-alert-footnote">Confirm operative tariff treatment and HTS applicability with customs counsel or your customs broker before shipment booking.</p>
+        <p class="legal-alert-sources">Sources:
+          [<a href="https://www.whitehouse.gov/presidential-actions/2026/02/adjusting-imports-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House proclamation</a>]
+          [<a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House fact sheet</a>]
+          [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related" target="_blank" rel="noopener">Federal Register (forced labor)</a>]
+          [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating" target="_blank" rel="noopener">Federal Register (structural excess capacity)</a>]
+          [<a href="https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf" target="_blank" rel="noopener">SCOTUS opinion</a>]
+          [<a href="https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html" target="_blank" rel="noopener">CNBC</a>]
+        </p>
       </div>
       <div class="freshness-grid" aria-label="Website freshness and weekly change summary">
         <article class="freshness-card freshness-card-update">
@@ -1784,6 +1835,24 @@
           <span class="freshness-eyebrow">Why it can look the same</span>
           <strong class="freshness-value">Most daily runs are feed refreshes</strong>
           <p>The Live Feeds tab updates often, but the homepage only changes when a verified tariff-policy development is material enough to surface.</p>
+        </article>
+      </div>
+      <div class="cards-3 impact-brief-grid" aria-label="What latest changes mean for Siemens Healthineers">
+        <article class="panel panel-teal">
+          <h3>What The Latest Changes Mean For Siemens Healthineers As A Business</h3>
+          <ul>
+            <li><strong>Tariff pressure remains a material earnings risk:</strong> Siemens Healthineers flagged around <strong>EUR 400M FY2026</strong> tariff impact, indicating tariff costs remain financially meaningful even after the IEEPA ruling.<br><span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.bloomberg.com/news/articles/2025-11-05/siemens-healthineers-sees-tariff-impact-doubling-in-fiscal-2026" target="_blank" rel="noopener">Bloomberg</a>]</span></li>
+            <li><strong>The U.S. import-cost baseline is still elevated:</strong> Yale Budget Lab's published checkpoint after Section 122 shows a higher effective tariff environment than pre-2025 norms, which sustains margin and pricing pressure.<br><span style="font-size:0.78rem;color:var(--muted);">[<a href="https://budgetlab.yale.edu/research/state-tariffs-february-21-2026" target="_blank" rel="noopener">Yale Budget Lab</a>]</span></li>
+            <li><strong>Policy risk remains open-ended:</strong> The two USTR Section 301 investigations can create additional duty exposure in strategic manufacturing and compliance-sensitive supply chains once the process concludes.<br><span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related" target="_blank" rel="noopener">Federal Register: forced labor track</a>] [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating" target="_blank" rel="noopener">Federal Register: structural excess capacity track</a>]</span></li>
+          </ul>
+        </article>
+        <article class="panel panel-amber">
+          <h3>What The Latest Changes Mean For Siemens Healthineers Procurement</h3>
+          <ul>
+            <li><strong>Treat 10% Section 122 as the default working layer</strong> for non-exempt imports until policy changes are formally published; keep landed-cost models on a 10% base-case and a post-July expiry decision branch.<br><span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.whitehouse.gov/presidential-actions/2026/02/adjusting-imports-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House proclamation</a>]</span></li>
+            <li><strong>Prioritize exemption validation at SKU level:</strong> pharmaceuticals/pharma ingredients, some electronics, USMCA-qualifying goods, and Section 232-covered products have specific treatment; classification errors are now high-cost errors.<br><span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/" target="_blank" rel="noopener">White House fact sheet</a>]</span></li>
+            <li><strong>Use the Apr 15/Apr 28 Section 301 process window as an execution deadline:</strong> collect supplier data, forced-labor controls, and excess-capacity exposure now so category teams can react quickly if duties are proposed.<br><span style="font-size:0.78rem;color:var(--muted);">[<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05151/initiation-of-section-301-investigations-of-acts-policies-and-practices-of-various-economies-related" target="_blank" rel="noopener">Federal Register: comments/hearings calendar</a>] [<a href="https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating" target="_blank" rel="noopener">Federal Register: comments/hearings calendar</a>]</span></li>
+          </ul>
         </article>
       </div>
       <div class="kpi-grid" id="kpiGrid"></div>
@@ -2229,7 +2298,7 @@
         <p>For any questions regarding the legal or compliance status of a specific trade transaction, contact the Siemens Healthineers Trade Compliance or Legal function directly.</p>
       </div>
       <div class="disclaimer-stamp">
-        <span>Last content update: Mar 28, 2026 &nbsp;&middot;&nbsp; Prepared for internal Siemens Healthineers Procurement use</span>
+        <span>Last content update: Mar 29, 2026 &nbsp;&middot;&nbsp; Prepared for internal Siemens Healthineers Procurement use</span>
         <span class="stamp-tag">&#128274; Internal &amp; Confidential</span>
       </div>
     </footer>
