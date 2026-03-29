@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T05:23:15+00:00",
+  "generated_at": "2026-03-29T06:47:30+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,87 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06133",
+          "publication_date": "2026-03-30",
+          "title": "Streamlining the Census Bureau's Foreign Trade Regulations",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06133/streamlining-the-census-bureaus-foreign-trade-regulations",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06126",
+          "publication_date": "2026-03-30",
+          "title": "Certain In-Vehicle Infotainment Systems, Components Thereof, and Products Containing the Same; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06126/certain-in-vehicle-infotainment-systems-components-thereof-and-products-containing-the-same-notice",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06125",
+          "publication_date": "2026-03-30",
+          "title": "Certain Electrolyte Containing Beverages and Labeling and Packaging Thereof (II); Notice of a Commission Determination Finding a Violation of Section 337; Issuance of a General Exclusion Order; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06125/certain-electrolyte-containing-beverages-and-labeling-and-packaging-thereof-ii-notice-of-a",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06121",
+          "publication_date": "2026-03-30",
+          "title": "Certain TOPCon Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same; Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06121/certain-topcon-solar-cells-modules-panels-components-thereof-and-products-containing-same",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06113",
+          "publication_date": "2026-03-30",
+          "title": "Certain NAND and DRAM Memory Chips; Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06113/certain-nand-and-dram-memory-chips-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06103",
+          "publication_date": "2026-03-30",
+          "title": "Softwood Lumber Board Assessment Rate Clarification and Changes to Membership",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06103/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-06057",
+          "publication_date": "2026-03-30",
+          "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06057/agency-information-collection-activities-proposed-collection-comment-request-extension",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-06056",
+          "publication_date": "2026-03-30",
+          "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06056/agency-information-collection-activities-proposed-collection-comment-request-extension",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-06033",
+          "publication_date": "2026-03-30",
+          "title": "Certain Dental Burs and Kits Thereof; Notice of a Commission Determination Not To Review an Initial Determination Amending the Complaint and Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06033/certain-dental-burs-and-kits-thereof-notice-of-a-commission-determination-not-to-review-an-initial",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06016",
           "publication_date": "2026-03-27",
@@ -421,15 +502,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "C1-2026-03484",
-          "publication_date": "2026-03-18",
-          "title": "Hard Empty Capsules From Brazil, the People's Republic of China, India, and the Socialist Republic of Vietnam: Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/18/C1-2026-03484/hard-empty-capsules-from-brazil-the-peoples-republic-of-china-india-and-the-socialist-republic-of",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05310",
           "publication_date": "2026-03-18",
           "title": "Certain Chocolate Milk Powder and Packaging Thereof; Issuance of Civil Penalties and Termination of Enforcement Proceeding",
@@ -671,78 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04877/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04838",
-          "publication_date": "2026-03-12",
-          "title": "Certain Vehicle Parts and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04838/certain-vehicle-parts-and-components-thereof-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04812",
-          "publication_date": "2026-03-12",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04812/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04786",
-          "publication_date": "2026-03-11",
-          "title": "Extension of Import Restrictions Imposed on Certain Archaeological and Ecclesiastical Ethnological Material of Colombia",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04786/extension-of-import-restrictions-imposed-on-certain-archaeological-and-ecclesiastical-ethnological",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04767",
-          "publication_date": "2026-03-11",
-          "title": "Chlorinated Isocyanurates From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04767/chlorinated-isocyanurates-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04765",
-          "publication_date": "2026-03-11",
-          "title": "Unwrought Palladium From the Russian Federation: Preliminary Affirmative Countervailing Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04765/unwrought-palladium-from-the-russian-federation-preliminary-affirmative-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04696",
-          "publication_date": "2026-03-10",
-          "title": "Heavy Walled Rectangular Pipes and Tubes From Mexico: Preliminary Results and Rescission, in Part, of the Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04696/heavy-walled-rectangular-pipes-and-tubes-from-mexico-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04676",
-          "publication_date": "2026-03-10",
-          "title": "Certain Steel Racks and Parts Thereof From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04676/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-preliminary-results-and",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-04612",
-          "publication_date": "2026-03-10",
-          "title": "Frozen Warmwater Shrimp From Ecuador: Preliminary Results and Partial Rescission of Countervailing Duty Expedited Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04612/frozen-warmwater-shrimp-from-ecuador-preliminary-results-and-partial-rescission-of-countervailing",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
