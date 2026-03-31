@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T07:03:01+00:00",
+  "generated_at": "2026-03-31T06:53:26+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410a75b",
+          "pub_date": "Mon, 30 Mar 2026 10:50:56 -0400",
+          "guid": "68200283",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg Electronic Export Manifest (EEM) will be implementing an update to the CBP Export Manifest Appendix O \u2013 Schedule K. The update implemented is the inclusion of Port of Unlading Code: 42876 \u2013 Hamburg Technical inquiries should be directed to your assigned CBP Client Representative. Policy inquiries may be submitted to cbpexportmanifest@cbp.dhs.gov ."
+        },
+        {
           "title": "CSMS # 68180454 - Updated Guidance: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41059e6",
           "pub_date": "Fri, 27 Mar 2026 15:49:11 -0400",
@@ -1062,14 +1070,6 @@
           "guid": "67747060",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67747060 - ACE Duty Calculations for up to 32 Harmonized Tariff Schedule (HTS) Codes Set to Deploy February 17, 2026 On February 17, 2026, U.S. Customs and Border Protection (CBP) will deploy the ACE Duty Calculation for up to 32 HTS Codes (CBP-127) enhancement to the Automated Commercial Environment (ACE) in response to requests from the trade community. Following the deployment, ACE will validate filer-provided duty amounts on entry summary lines that have up to 32 Harmonized Tariff System (HTS) codes. When the provided duty value is incorrect, filers will see the following condition codes: 624 \u2013 EST DUTY/CALC\u2019D DUTY MISMATCH - LINE 627 \u2013 Est Duty/Cal"
-        },
-        {
-          "title": "CSMS # 67739659 - U.S. Customs and Border Protection Releases FY 2026 Webinar Schedule: Learn to Report Trade Violations & File Enforce and Protect Act Allegations",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/409a00b",
-          "pub_date": "Fri, 13 Feb 2026 11:00:45 -0500",
-          "guid": "67739659",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67739659 - U.S. Customs and Border Protection Releases FY 2026 Webinar Schedule: Learn to Report Trade Violations & File Enforce and Protect Act Allegations U.S. Customs and Border Protection (CBP) is offering free quarterly webinars throughout Fiscal Year 2026 (FY 2026) on how to report suspected trade violations online. These webinars will cover using the Trade Violations Reporting tool and filing Enforce and Protect Act allegations with CBP. Registration is free and open to everyone, but you must register to attend. Registration forms will be available one month prior to each webinar at https://go.dhs.gov/4i4 . The remaining FY 2026 webinar schedule "
         }
       ],
       "errors": []
@@ -1079,6 +1079,70 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Speech by Commissioner Kadis at the Agriculture and Fisheries Council on improvement and simplification in the roll out of the amended EU Fisheries Control Regulation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_756",
+            "pub_date": "Mon, 30 Mar 2026 12:14:49 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_756",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Brussels, 30 Mar 2026 Dear Chair/Maria, Ministers, Simplification, reduction of administrative burden, proportionality of the rules, compliance and the competitiveness of the EU fish..."
+          },
+          {
+            "title": "Speech by Commissioner Kadis at the Agriculture and Fisheries Council: Implementation dialogue on small-scale and coastal fisheries",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_755",
+            "pub_date": "Mon, 30 Mar 2026 10:53:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_755",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Brussels, 30 Mar 2026 Dear Chair/Maria, Ministers, I would like to thank you for adding this point to the agenda of today's Council and for the opportunity to present the outcome of ..."
+          },
+          {
+            "title": "Speech by Commissioner Kadis at the Agriculture and Fisheries Council: Energy transition in the EU fisheries and aquaculture sector",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_754",
+            "pub_date": "Mon, 30 Mar 2026 09:22:25 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_754",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Brussels, 30 Mar 2026 Dear Chair/Maria, Ministers, I thank the Presidency for the initiative to put this item on the agenda of the Agrifish Council. Energy transition is critical for..."
+          },
+          {
+            "title": "Daily News 30 / 03 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_753",
+            "pub_date": "Mon, 30 Mar 2026 09:04:17 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_753",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 30 Mar 2026 Commission adopts \u20ac1.5 billion work programme to boost European and Ukrainian defence industry The European Commission approved today a \u20ac1.5 billion work progr..."
+          },
+          {
+            "title": "Commission adopts \u20ac1.5 billion work programme to boost European and Ukrainian defence industry",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_752",
+            "pub_date": "Mon, 30 Mar 2026 08:32:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_752",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Press release Brussels, 30 Mar 2026 The European Commission approved today a \u20ac1.5 billion work programme under the European Defence Industry Programme (EDIP)."
+          },
+          {
+            "title": "Commission publishes guidance to support implementation of new packaging rules, for a more sustainable and competitive EU packaging sector",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_664",
+            "pub_date": "Sun, 29 Mar 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_664",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Press release Brussels, 30 Mar 2026 Today, the European Commission published guidelines on the implementation of the Packaging and Packaging Waste Regulation (PPWR) to facilitate the uniform application of the new packaging rules across the EU and simplify compliance for economic actors and Member States."
+          },
+          {
+            "title": "Commission approves \u20ac6 billion Italian State aid scheme for renewable hydrogen",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_738",
+            "pub_date": "Sun, 29 Mar 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_738",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Press release Brussels, 30 Mar 2026 The European Commission has approved, under EU State aid rules, a \u20ac6 billion Italian scheme to support the production of renewable hydrogen for the transport an..."
+          },
+          {
+            "title": "Commission allocates \u20ac21.5 million in emergency support to farmers in Bulgaria, Estonia and Hungary",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_745",
+            "pub_date": "Sun, 29 Mar 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_745",
+            "category": "POLICY_AREA=AGRURAL",
+            "description": "European Commission Press release Brussels, 30 Mar 2026 Today, Member States endorsed the Commission's proposal to mobilise \u20ac21.5 million from the agricultural reserve to support farmers in Bulgaria (BG), Estonia (EE) and Hungary (HU) affected by adverse weather events during the 2025 growing season."
+          },
           {
             "title": "Commission responds to cyber-attack on its Europa web platform",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748",
@@ -1094,70 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_743",
             "category": "POLICY_AREA=ECOMONAFF,BUDFINPROG",
             "description": "European Commission Speech Brussels, 27 Mar 2026 Thank you, Kyriakos. Good afternoon, everyone. The fact that we met today virtually reflects how Cyprus has been directly impacted by the war in the Middle East..."
-          },
-          {
-            "title": "Keynote speech by Commissioner Serafin at Warsaw European Conversation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_742",
-            "pub_date": "Fri, 27 Mar 2026 10:46:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_742",
-            "category": "POLICY_AREA=BUDFINPROG",
-            "description": "European Commission Speech Warsaw, 27 Mar 2026 Szanowni Pa\u0144stwo, Przez stulecia europejskie mocarstwa rozszerza\u0142y swoje wp\u0142ywy na r\u00f3\u017cne sposoby: poprzez wojny lub poprzez sojusze przypiecz\u0119towane ma\u0142\u017ce\u0144stwam..."
-          },
-          {
-            "title": "Daily News 27 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_741",
-            "pub_date": "Fri, 27 Mar 2026 10:40:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_741",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 27 Mar 2026 Commission takes action to ensure complete and timely transposition of EU directive The European Commission is taking action against several EU Member States th..."
-          },
-          {
-            "title": "Speech by Commissioner Kadis via pre-recorded message at the International Session of the European Youth Parliament - General Assembly",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_618",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_618",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 27 Mar 2026 Dear delegates, Dear friends, It is a real pleasure to address you at the International Session of the European Youth Parliament in the vibrant Italian city of ..."
-          },
-          {
-            "title": "Commission approves \u20ac144 million French State aid to support HyforSeeds in the production of hydrogen",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_718",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_718",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 27 Mar 2026 The European Commission has approved, under EU State aid rules, a \u20ac144 million French measure to support HyforSeeds to produce renewable and low-carbon hydrogen..."
-          },
-          {
-            "title": "Commission takes action to ensure complete and timely transposition of EU directives",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_679",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_679",
-            "category": "POLICY_AREA=INTRELADM",
-            "description": "European Commission Infringement decisions Brussels, 27 Mar 2026 The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose E..."
-          },
-          {
-            "title": "Commission approves \u20ac500 million Luxembourgish cleantech manufacturing capacity State aid scheme",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_719",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_719",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 27 Mar 2026 The European Commission has approved a \u20ac500 million Luxembourgish scheme to support strategic investments that add clean technology (cleantech) manufacturing ca..."
-          },
-          {
-            "title": "Commissioner Tzitzitzikostas delivers a video address at the Mobility Innovation Summit 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_566",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_566",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 27 Mar 2026 Ladies and gentlemen, Thank you for the opportunity to speak to you today, on what the European Commission is doing to support Europe's automotive sector in t..."
-          },
-          {
-            "title": "Remarks by Commissioner Dombrovskis at Eurofi High Level Seminar",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_740",
-            "pub_date": "Thu, 26 Mar 2026 15:48:47 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_740",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Speech Brussels, 26 Mar 2026 Good afternoon, ladies and gentlemen. Thank you for the invitation to join you. Eurofi remains a crucial forum to exchange on the financial and economic develop..."
           }
         ],
         "errors": []
