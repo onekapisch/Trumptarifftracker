@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T06:53:26+00:00",
+  "generated_at": "2026-04-01T06:59:22+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06207",
+          "publication_date": "2026-03-31",
+          "title": "Publication of 2026 Tariff-Rate Quota Quantitative Limits Under the United States-Australia Free Trade Agreement",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06207/publication-of-2026-tariff-rate-quota-quantitative-limits-under-the-united-states-australia-free",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06194",
+          "publication_date": "2026-03-31",
+          "title": "Foreign-Trade Zone (FTZ) 30, Notification of Proposed Production Activity; Stadler US Inc; (Passenger Rolling Stock); Salt Lake City, Utah",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06194/foreign-trade-zone-ftz-30-notification-of-proposed-production-activity-stadler-us-inc-passenger",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06178",
+          "publication_date": "2026-03-31",
+          "title": "Fiduciary Duties in Selecting Designated Investment Alternatives",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06143",
+          "publication_date": "2026-03-31",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06143/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06128",
+          "publication_date": "2026-03-31",
+          "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Lithium Hexafluorophosphate From the People's Republic of China",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06128/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06127",
+          "publication_date": "2026-03-31",
+          "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06127/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06133",
           "publication_date": "2026-03-30",
@@ -475,15 +529,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-05408",
-          "publication_date": "2026-03-19",
-          "title": "Defense Trade Advisory Group; Notice of Membership",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05408/defense-trade-advisory-group-notice-of-membership",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05352",
           "publication_date": "2026-03-19",
           "title": "Large Diameter Welded Pipe From Canada: Notice of Initiation of Antidumping Duty Changed Circumstances Review",
@@ -664,85 +709,40 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-04929",
-          "publication_date": "2026-03-13",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04929/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04928",
-          "publication_date": "2026-03-13",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04928/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04908",
-          "publication_date": "2026-03-13",
-          "title": "Certain Disposable Vaporizer Devices; Notice of Final Commission Determination of No Violation; Termination of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04908/certain-disposable-vaporizer-devices-notice-of-final-commission-determination-of-no-violation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04884",
-          "publication_date": "2026-03-12",
-          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Reviews of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04884/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04883",
-          "publication_date": "2026-03-12",
-          "title": "Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04881",
-          "publication_date": "2026-03-12",
-          "title": "Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-04879",
           "publication_date": "2026-03-12",
           "title": "Methionine From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04879/methionine-from-spain-preliminary-results-of-antidumping-duty-administrative-review-2023-2024",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
-          "document_number": "2026-04878",
-          "publication_date": "2026-03-12",
-          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
+          "document_number": "2026-04767",
+          "publication_date": "2026-03-11",
+          "title": "Chlorinated Isocyanurates From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04878/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04767/chlorinated-isocyanurates-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
-          "document_number": "2026-04877",
-          "publication_date": "2026-03-12",
-          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
+          "document_number": "2026-04765",
+          "publication_date": "2026-03-11",
+          "title": "Unwrought Palladium From the Russian Federation: Preliminary Affirmative Countervailing Duty Determination",
           "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04877/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/11/2026-04765/unwrought-palladium-from-the-russian-federation-preliminary-affirmative-countervailing-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-04696",
+          "publication_date": "2026-03-10",
+          "title": "Heavy Walled Rectangular Pipes and Tubes From Mexico: Preliminary Results and Rescission, in Part, of the Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/10/2026-04696/heavy-walled-rectangular-pipes-and-tubes-from-mexico-preliminary-results-and-rescission-in-part-of",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410d758",
+          "pub_date": "Tue, 31 Mar 2026 11:14:25 -0400",
+          "guid": "68212568",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today On March 24, 2026, U.S. Customs and Border Protection (CBP) enhanced the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. CBP will hold a user readiness support call today at 1:00 p.m. ET to address trade community questions related to this system enhancement. ACE User Readiness Support Call Tuesday, March 31, 2026 1:00 p.m. - 2:00 p.m. ET Call Link: Join via Microsoft Teams For more information on these changes, review the trade user information "
+        },
         {
           "title": "CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410a75b",
@@ -1062,14 +1070,6 @@
           "guid": "67749745",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67749745 - CBP Issues Proposed Rule to Require Electronic Export Manifest (EEM) for Vessel (Ocean) Mode of Transportation On February 10, 2026, U.S. Customs and Border Protection (CBP) published the Electronic Export Manifest for Vessel Cargo Proposed Rule to require the trade community to use the Automated Commercial Environment\u2019s (ACE) Electronic Export Manifest (EEM) system for filing outbound vessel cargo transactions. Mandatory EEM use for electronic export vessel manifests will enhance visibility of outbound vessel cargo by requiring outbound vessel manifest submission prior to cargo departure from the United States. Learn more about the EEM syste"
-        },
-        {
-          "title": "CSMS # 67747060 - ACE Duty Calculations for up to 32 Harmonized Tariff Schedule (HTS) Codes Set to Deploy February 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/409bcf4",
-          "pub_date": "Fri, 13 Feb 2026 11:45:55 -0500",
-          "guid": "67747060",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67747060 - ACE Duty Calculations for up to 32 Harmonized Tariff Schedule (HTS) Codes Set to Deploy February 17, 2026 On February 17, 2026, U.S. Customs and Border Protection (CBP) will deploy the ACE Duty Calculation for up to 32 HTS Codes (CBP-127) enhancement to the Automated Commercial Environment (ACE) in response to requests from the trade community. Following the deployment, ACE will validate filer-provided duty amounts on entry summary lines that have up to 32 Harmonized Tariff System (HTS) codes. When the provided duty value is incorrect, filers will see the following condition codes: 624 \u2013 EST DUTY/CALC\u2019D DUTY MISMATCH - LINE 627 \u2013 Est Duty/Cal"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Speech by Commissioner Kadis at the Agriculture and Fisheries Council on improvement and simplification in the roll out of the amended EU Fisheries Control Regulation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_756",
-            "pub_date": "Mon, 30 Mar 2026 12:14:49 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_756",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 30 Mar 2026 Dear Chair/Maria, Ministers, Simplification, reduction of administrative burden, proportionality of the rules, compliance and the competitiveness of the EU fish..."
-          },
-          {
-            "title": "Speech by Commissioner Kadis at the Agriculture and Fisheries Council: Implementation dialogue on small-scale and coastal fisheries",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_755",
-            "pub_date": "Mon, 30 Mar 2026 10:53:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_755",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 30 Mar 2026 Dear Chair/Maria, Ministers, I would like to thank you for adding this point to the agenda of today's Council and for the opportunity to present the outcome of ..."
-          },
-          {
-            "title": "Speech by Commissioner Kadis at the Agriculture and Fisheries Council: Energy transition in the EU fisheries and aquaculture sector",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_754",
-            "pub_date": "Mon, 30 Mar 2026 09:22:25 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_754",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 30 Mar 2026 Dear Chair/Maria, Ministers, I thank the Presidency for the initiative to put this item on the agenda of the Agrifish Council. Energy transition is critical for..."
-          },
-          {
-            "title": "Daily News 30 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_753",
-            "pub_date": "Mon, 30 Mar 2026 09:04:17 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_753",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 30 Mar 2026 Commission adopts \u20ac1.5 billion work programme to boost European and Ukrainian defence industry The European Commission approved today a \u20ac1.5 billion work progr..."
-          },
-          {
-            "title": "Commission adopts \u20ac1.5 billion work programme to boost European and Ukrainian defence industry",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_752",
-            "pub_date": "Mon, 30 Mar 2026 08:32:23 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_752",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Press release Brussels, 30 Mar 2026 The European Commission approved today a \u20ac1.5 billion work programme under the European Defence Industry Programme (EDIP)."
-          },
-          {
-            "title": "Commission publishes guidance to support implementation of new packaging rules, for a more sustainable and competitive EU packaging sector",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_664",
-            "pub_date": "Sun, 29 Mar 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_664",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Press release Brussels, 30 Mar 2026 Today, the European Commission published guidelines on the implementation of the Packaging and Packaging Waste Regulation (PPWR) to facilitate the uniform application of the new packaging rules across the EU and simplify compliance for economic actors and Member States."
-          },
-          {
-            "title": "Commission approves \u20ac6 billion Italian State aid scheme for renewable hydrogen",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_738",
-            "pub_date": "Sun, 29 Mar 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_738",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 30 Mar 2026 The European Commission has approved, under EU State aid rules, a \u20ac6 billion Italian scheme to support the production of renewable hydrogen for the transport an..."
-          },
-          {
-            "title": "Commission allocates \u20ac21.5 million in emergency support to farmers in Bulgaria, Estonia and Hungary",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_745",
-            "pub_date": "Sun, 29 Mar 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_745",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Press release Brussels, 30 Mar 2026 Today, Member States endorsed the Commission's proposal to mobilise \u20ac21.5 million from the agricultural reserve to support farmers in Bulgaria (BG), Estonia (EE) and Hungary (HU) affected by adverse weather events during the 2025 growing season."
-          },
-          {
-            "title": "Commission responds to cyber-attack on its Europa web platform",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748",
-            "pub_date": "Fri, 27 Mar 2026 15:12:48 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748",
-            "category": "POLICY_AREA=DIGAG,CYBER",
-            "description": "European Commission Press release Brussels, 27 Mar 2026 On 24 March, the European Commission discovered a cyber-attack, which affected its cloud infrastructure hosting the Commission's web presence on the Europa.eu p..."
-          },
-          {
-            "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_743",
-            "pub_date": "Fri, 27 Mar 2026 11:29:53 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_743",
-            "category": "POLICY_AREA=ECOMONAFF,BUDFINPROG",
-            "description": "European Commission Speech Brussels, 27 Mar 2026 Thank you, Kyriakos. Good afternoon, everyone. The fact that we met today virtually reflects how Cyprus has been directly impacted by the war in the Middle East..."
+            "title": "EU and Australia strike historic trade and security pact",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_762",
+            "pub_date": "Tue, 31 Mar 2026 08:29:55 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_762",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 31 Mar 2026 The President of the European Commission, Ursula von der Leyen, visited Australia from 23 to 25 March 2026, where she became the first woman leader in Australi..."
           }
         ],
         "errors": []
