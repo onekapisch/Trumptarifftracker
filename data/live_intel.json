@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T06:50:52+00:00",
+  "generated_at": "2026-04-04T06:46:25+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,15 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06529",
+          "publication_date": "2026-04-03",
+          "title": "L-Lysine From China; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/03/2026-06529/l-lysine-from-china-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06449",
           "publication_date": "2026-04-02",
@@ -734,15 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05206",
-          "publication_date": "2026-03-17",
-          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Administrative Review; Notice of Amended Final Results",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05206/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-notice-of-court",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,30 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4117593",
+          "pub_date": "Fri, 03 Apr 2026 18:32:28 -0400",
+          "guid": "68253075",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper The purpose of this message is to provide guidance on the implementation of the April 2, 2026, Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States.\u201d BACKGROUND In April 2, 2026, the President issued a Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States,\u201d under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862). This proclamation imposes 10-50% additional duties on the full customs value of certain imports of steel, aluminum,"
+        },
+        {
+          "title": "CSMS # 68251354 - U.S. Drug Enforcement Agency Implementation Guide Moved from Draft Section of CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4116eda",
+          "pub_date": "Fri, 03 Apr 2026 15:14:48 -0400",
+          "guid": "68251354",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68251354 - U.S. Drug Enforcement Agency Implementation Guide Moved from Draft Section of CBP.gov The U.S. Drug Enforcement Agency (DEA) Implementation Guide (IG) can now be found in the \u201cImplementation Guidelines: Ready for Coding\u201d section of CBP.gov: https://www.cbp.gov/trade/automated/catair The DEA message set was deployed to Customs and Border Protection\u2019s Automated Commercial Environment (ACE) Production Environment on March 21, 2026. The new DE3 flag is being enforced with a WARNING severity (see CSMS 67396599 ). NOTE: The enforcement of the DE3 flag will change to a REJECT severity on May 4, 2026 (this date is a change from the date given in CSMS"
+        },
+        {
+          "title": "CSMS # 68247148 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 UPDATED Trade Information Notice Now Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4115e6c",
+          "pub_date": "Fri, 03 Apr 2026 09:28:46 -0400",
+          "guid": "68247148",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68247148 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 UPDATED Trade Information Notice Now Available U.S. Customs and Border Protection (CBP) published an update d version of the Automated Transmission of Container Seal Changes to ACE Manifest Trade Information Notice here . The updated notice includes an additional feature t o be deployed to the Automated Commercial Environment (ACE) production (PROD) environment to notify trade users when CBP personnel add or remove container for ocean and rail shipments . The deployment will include : N ew disposition codes to enable ACE to automatically notify car"
+        },
         {
           "title": "CSMS # 68237853 - Changes to Stow Plan Processing",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4113a1d",
@@ -1046,30 +1070,6 @@
           "guid": "67834313",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Executive Order (EO), \u201cEnding Certain Tariff Actions,\u201d that terminates the collection of the additional ad valorem duties imposed pursuant to the International Emergency Economic Powers Act (IEEPA). GUIDANCE ENDING IEEPA TARIFF COLLECTION Duties imposed pursuant to IEEPA under the following presidential actions, including all modifications and amendments, will no longer be in effect and will no longer be collected for goods entered for consumption or withdrawn from warehouse for consumption"
-        },
-        {
-          "title": "CSMS # 67823350 - Supreme Court of the United States (SCOTUS) Judgment - International Emergency Economic Powers Act (IEEPA) Tariffs",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ae6f6",
-          "pub_date": "Fri, 20 Feb 2026 23:38:57 -0500",
-          "guid": "67823350",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67823350 - Supreme Court of the United States (SCOTUS) Judgment - International Emergency Economic Powers Act (IEEPA) Tariffs The U.S. Supreme Court (SCOTUS) has issued its decision regarding the President\u2019s use of the International Emergency Economic Powers Act (IEEPA) to impose tariffs [ 24-1287 Learning Resources, Inc. et al v. Trump et al (02/20/2026) ]. CBP is working with other government agencies to fully examine the implications of the SCOTUS decision. CBP will provide additional information and technical guidance for ACE filers as soon as it becomes available. Questions regarding this message may be directed to CBP\u2019s Office of Trade Relations a"
-        },
-        {
-          "title": "CSMS # 67806718 - Electronic Export Manifest (EEM) \u2013 Ocean 350 Implementation Guide Update",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40aa5fe",
-          "pub_date": "Thu, 19 Feb 2026 15:06:42 -0500",
-          "guid": "67806718",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67806718 - Electronic Export Manifest (EEM) \u2013 Ocean 350 Implementation Guide Update U.S. Customs and Border Protection has updated the Electronic Export Manifest (EEM) ACE Exports Ocean X12- 350 Customs Status Information Implementation Guide. Change: The requirement for M7A02 (Seal Number) in the M7 Segment \u2013 Seal Number Replacement has been changed from Mandatory to Optional. The change is now available in PROD. For questions: Technical inquiries should be directed to your assigned CBP Client Representative. Policy inquiries may be submitted to cbpexportmanifest@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 67803561 - Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) X.12 and UNEDIFACT Standard (version 1.0)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40a99a9",
-          "pub_date": "Thu, 19 Feb 2026 11:29:11 -0500",
-          "guid": "67803561",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67803561 - Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) X.12 and UNEDIFACT Standard (version 1.0) U.S. Customs and Border Protection (CBP) has posted the Truck Manifest implementation guides for the Automated Commercial Environment (ACE) Electronic Export Manifest (EEM) system. Implementation guides for the X.12 and UNEDIFACT standards are now available here: ACE Electronic Export Manifest Information and Requirements . New X.12 implementation guides include: Truck X12 - 309 Message Truck X12 - 350 Message Truck X12 - 353 Message Truck X12 - 355 Message Truck X12 - 358 Message New Truck UNEDIFACT implementation guides incl"
         }
       ],
       "errors": []
