@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T06:46:25+00:00",
+  "generated_at": "2026-04-05T06:48:44+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,87 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06665",
+          "publication_date": "2026-04-06",
+          "title": "Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06649",
+          "publication_date": "2026-04-06",
+          "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06647",
+          "publication_date": "2026-04-06",
+          "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06580",
+          "publication_date": "2026-04-06",
+          "title": "Certain Display Devices, Streaming Players, and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06580/certain-display-devices-streaming-players-and-components-thereof-notice-of-institution-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06576",
+          "publication_date": "2026-04-06",
+          "title": "Non-Oriented Electrical Steel From China, Germany, Japan, South Korea, Sweden, and Taiwan; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06576/non-oriented-electrical-steel-from-china-germany-japan-south-korea-sweden-and-taiwan-scheduling-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06562",
+          "publication_date": "2026-04-06",
+          "title": "Foreign-Trade Zone (FTZ) 21, Notification of Proposed Production Activity; Turbocam Inc.; (Turbine System Components); Ladson, South Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06562/foreign-trade-zone-ftz-21-notification-of-proposed-production-activity-turbocam-inc-turbine-system",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06561",
+          "publication_date": "2026-04-06",
+          "title": "Sodium Nitrite From India: Final Results of Countervailing Duty Administrative Review; 2022-2023; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06561/sodium-nitrite-from-india-final-results-of-countervailing-duty-administrative-review-2022-2023",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06560",
+          "publication_date": "2026-04-06",
+          "title": "Polyethylene Retail Carrier Bags From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06560/polyethylene-retail-carrier-bags-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06559",
+          "publication_date": "2026-04-06",
+          "title": "Steel Concrete Reinforcing Bar From the Republic of T\u00fcrkiye: Final Results of the Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06559/steel-concrete-reinforcing-bar-from-the-republic-of-trkiye-final-results-of-the-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06529",
           "publication_date": "2026-04-03",
@@ -660,87 +741,6 @@
           "title": "Alloy and Certain Carbon Steel Threaded Rod From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05444/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-preliminary-results",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05443",
-          "publication_date": "2026-03-19",
-          "title": "Certain Steel Wheels From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05443/certain-steel-wheels-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiries-on-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05441",
-          "publication_date": "2026-03-19",
-          "title": "Certain Uncoated Paper From Portugal: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05441/certain-uncoated-paper-from-portugal-final-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05440",
-          "publication_date": "2026-03-19",
-          "title": "Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05439",
-          "publication_date": "2026-03-19",
-          "title": "Utility Scale Wind Towers From Canada, the Socialist Republic of Vietnam, Indonesia, and the Republic of Korea: Continuation of Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05439/utility-scale-wind-towers-from-canada-the-socialist-republic-of-vietnam-indonesia-and-the-republic",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05411",
-          "publication_date": "2026-03-19",
-          "title": "Tetrahydrofurfuryl Alcohol From China; Scheduling of an Expedited Five-Year Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05411/tetrahydrofurfuryl-alcohol-from-china-scheduling-of-an-expedited-five-year-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05352",
-          "publication_date": "2026-03-19",
-          "title": "Large Diameter Welded Pipe From Canada: Notice of Initiation of Antidumping Duty Changed Circumstances Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05352/large-diameter-welded-pipe-from-canada-notice-of-initiation-of-antidumping-duty-changed",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05331",
-          "publication_date": "2026-03-19",
-          "title": "Forged Steel Fittings From India and South Korea; Notice of Commission Determination To Conduct Full Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05331/forged-steel-fittings-from-india-and-south-korea-notice-of-commission-determination-to-conduct-full",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05310",
-          "publication_date": "2026-03-18",
-          "title": "Certain Chocolate Milk Powder and Packaging Thereof; Issuance of Civil Penalties and Termination of Enforcement Proceeding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/18/2026-05310/certain-chocolate-milk-powder-and-packaging-thereof-issuance-of-civil-penalties-and-termination-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05214",
-          "publication_date": "2026-03-17",
-          "title": "Initiation of Section 301 Investigations: Acts, Policies, and Practices of Certain Economies Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
