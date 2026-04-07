@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T07:04:09+00:00",
+  "generated_at": "2026-04-07T06:56:00+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411c66b",
+          "pub_date": "Mon, 06 Apr 2026 16:46:55 -0400",
+          "guid": "68273771",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting Electronic Export Manifest (EEM) will be implementing an update to the Appendix U list to allow the following HTS Codes for Used Vehicles: 8705.90.0010 8705.90.0020 8705.90.0080 Technical questions can be submitted to your assigned CBP Client Representative. Policy questions can be submitted to cbpvehicleexports@cbp.dhs.gov ."
+        },
+        {
           "title": "CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4117593",
           "pub_date": "Fri, 03 Apr 2026 18:32:28 -0400",
@@ -1062,14 +1070,6 @@
           "guid": "67844987",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67844987 - Imposing Temporary Section 122 Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Presidential Proclamation, \u201cImposing a Temporary Import Surcharge to Address Fundamental International Payments Problems,\u201d issued pursuant to Section 122 of the Trade Act of 1974 (Section 122), which imposed an additional 10% ad valorem duty on imported articles of every country for a period of 150 days, unless specifically exempt. GUIDANCE APPLICATION OF ADDITIONAL DUTY RATES UNDER SECTION 122 For articles that are the product of any country entered for consumption, or withdrawn from warehouse for consumption, on or after "
-        },
-        {
-          "title": "CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b11c9",
-          "pub_date": "Sun, 22 Feb 2026 21:57:11 -0500",
-          "guid": "67834313",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Executive Order (EO), \u201cEnding Certain Tariff Actions,\u201d that terminates the collection of the additional ad valorem duties imposed pursuant to the International Emergency Economic Powers Act (IEEPA). GUIDANCE ENDING IEEPA TARIFF COLLECTION Duties imposed pursuant to IEEPA under the following presidential actions, including all modifications and amendments, will no longer be in effect and will no longer be collected for goods entered for consumption or withdrawn from warehouse for consumption"
         }
       ],
       "errors": []
