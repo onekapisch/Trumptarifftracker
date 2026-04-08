@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T06:56:00+00:00",
+  "generated_at": "2026-04-08T06:57:13+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,33 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06728",
+          "publication_date": "2026-04-07",
+          "title": "World Trade Center Health Program; Petitions 029, 034, 035, and 062-Hepatic Steatosis; Finding of Insufficient Evidence",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06728/world-trade-center-health-program-petitions-029-034-035-and-062-hepatic-steatosis-finding-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06689",
+          "publication_date": "2026-04-07",
+          "title": "Oil Country Tubular Goods From Austria, Taiwan, and United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06678",
+          "publication_date": "2026-04-07",
+          "title": "Carbon and Alloy Steel Wire Rod From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06678/carbon-and-alloy-steel-wire-rod-from-the-republic-of-korea-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06665",
           "publication_date": "2026-04-06",
@@ -565,15 +592,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-05847",
-          "publication_date": "2026-03-26",
-          "title": "Aluminum Lithographic Printing Plates From China and Japan",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05847/aluminum-lithographic-printing-plates-from-china-and-japan",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05834",
           "publication_date": "2026-03-25",
           "title": "Electric Quarterly Reports; TrueLight Energy, LLC, TrueLight Commodities, LLC, Neighborhood Sun Benefit Corp: Notice of Revocation of Market-Based Rate Authority and Termination of Electric Market-Based Rate Tariff",
@@ -725,24 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05466/pentafluoroethane-r-125-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05445",
-          "publication_date": "2026-03-19",
-          "title": "Certain Steel Wheels From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05445/certain-steel-wheels-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiries-on-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05444",
-          "publication_date": "2026-03-19",
-          "title": "Alloy and Certain Carbon Steel Threaded Rod From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05444/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-preliminary-results",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411e742",
+          "pub_date": "Tue, 07 Apr 2026 13:41:07 -0400",
+          "guid": "68282178",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement Quota Bulletin 26-103 2026 Australia Free Trade Agreement has been published on CBP.gov at the following link: https://www.cbp.gov/trade/quota/bulletins/qb-26-103-2026 Commodity: Agricultural products described in Chapter 98 subheadings of the Harmonized Tariff Schedule of the United States (HTSUS), Additional United States Notes (AUSN) 8 through 19. Quota Period: January 1, 2026 - December 31, 2026 Opening Date: Friday, January 2, 2026 All entries submitted after 12:01 a.m. local port time and prior to 8:30 a.m. Eastern Time (ET) and on the opening date will receive an en"
+        },
         {
           "title": "CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411c66b",
@@ -1062,14 +1070,6 @@
           "guid": "67845486",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries Pursuant to the proclamation issued by the President on February 20, 2026, Imposing a Temporary Import Surcharge to Address Fundamental International Payment Problems , effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. eastern standard time on February 24, 2026, all goods entering the United States regardless of country of origin are subject to an additional 10% import surcharge, unless specifically exempt. Additionally, pursuant to the Executive Order, Continuing the Suspension of Duty-Free "
-        },
-        {
-          "title": "CSMS # 67844987 - Imposing Temporary Section 122 Duties",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b3b7b",
-          "pub_date": "Mon, 23 Feb 2026 19:32:21 -0500",
-          "guid": "67844987",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67844987 - Imposing Temporary Section 122 Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Presidential Proclamation, \u201cImposing a Temporary Import Surcharge to Address Fundamental International Payments Problems,\u201d issued pursuant to Section 122 of the Trade Act of 1974 (Section 122), which imposed an additional 10% ad valorem duty on imported articles of every country for a period of 150 days, unless specifically exempt. GUIDANCE APPLICATION OF ADDITIONAL DUTY RATES UNDER SECTION 122 For articles that are the product of any country entered for consumption, or withdrawn from warehouse for consumption, on or after "
         }
       ],
       "errors": []
@@ -1080,12 +1080,52 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Speech by President von der Leyen on the occasion of the award of the Lower Saxony Land Medal",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_777",
+            "pub_date": "Tue, 07 Apr 2026 10:05:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_777",
+            "category": "POLICY_AREA=HREXTRELS,PRESIDENCY",
+            "description": "European Commission Speech Hanover, 07 Apr 2026 \u201cSpeech as prepared\u201c Dear Minister-President, Mr Lies, many thanks for those wonderful words. Dear family, dear friends and companions, Ladies and Gentlemen, ..."
+          },
+          {
+            "title": "Commission announces new global health commitments at One Health Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_776",
+            "pub_date": "Tue, 07 Apr 2026 09:38:34 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_776",
+            "category": "POLICY_AREA=DEVEL,HEALTHPOL",
+            "description": "European Commission Press release Lyon, 07 Apr 2026 The European Commission intends to pledge \u20ac700 million to the Global Fund to defeat HIV, tuberculosis and malaria. It will also invest \u20ac46.5 million to strength..."
+          },
+          {
+            "title": "Daily News 07 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_775",
+            "pub_date": "Tue, 07 Apr 2026 09:33:34 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_775",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 07 Apr 2026 Commission greenlights Finland's fourth payment request for \u20ac267.1 million under NextGenerationEU Today, the European Commission positively assessed Finland's f..."
+          },
+          {
+            "title": "Statement by Executive Vice-President M\u00eenzatu, Commissioners Lahbib and Kos ahead of International Roma Day",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_772",
+            "pub_date": "Mon, 06 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_772",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Statement Brussels, 07 Apr 2026 Romani heritage, language and art are integral parts of our continent's history and cultural richness. Ahead of International Roma Day, we celebrate the long-standing presence of Roma people in Europe and their key contribution to our societies."
+          },
+          {
+            "title": "Commission greenlights Finland's fourth payment request for \u20ac267.1 million under NextGenerationEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_773",
+            "pub_date": "Mon, 06 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_773",
+            "category": "POLICY_AREA=RECOVERY",
+            "description": "European Commission Press release Brussels, 07 Apr 2026 Today, the European Commission positively assessed Finland's fourth payment request for \u20ac267.1 million under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU."
+          },
+          {
             "title": "Commission evaluation of the EU tobacco control framework highlights progress and emerging public health challenges",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771",
             "pub_date": "Wed, 01 Apr 2026 22:00:00 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771",
             "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Press release Brussels, 02 Apr 2026 The European Commission has today published its evaluation of the EU tobacco control framework. It assesses the effectiveness, efficiency and relevance of the Tobacco Products Directive and Tobacco Advertising Directive in protecting public health and ensuring the smooth functioning of the internal market."
+            "description": "European Commission Press release Brussels, 07 Apr 2026 The European Commission has today published its evaluation of the EU tobacco control framework. It assesses the effectiveness, efficiency and relevance of the Tobacco Products Directive and Tobacco Advertising Directive in protecting public health and ensuring the smooth functioning of the internal market."
           },
           {
             "title": "Daily News 01 / 04 / 2026",
@@ -1118,46 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_764",
             "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,DEFENCE",
             "description": "European Commission Press release Brussels, 01 Apr 2026 Today, the European Commission took preparatory steps for the implementation of the \u20ac90 billion Ukraine Support Loan, aimed at securing necessary budgetary support and accelerating urgent defence procurement for Ukraine in 2026 and 2027."
-          },
-          {
-            "title": "EU reinforces the stability and predictability of its carbon market",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_666",
-            "pub_date": "Tue, 31 Mar 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_666",
-            "category": "POLICY_AREA=CLIMACTION",
-            "description": "European Commission Press release Brussels, 01 Apr 2026 The Commission has today announced a first concrete measure to reinforce the European Union Emissions Trading System (EU ETS)."
-          },
-          {
-            "title": "Press remarks by Commissioner J\u00f8rgensen at the informal meeting of EU Energy Ministers",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_767",
-            "pub_date": "Tue, 31 Mar 2026 16:43:52 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_767",
-            "category": "POLICY_AREA=ENERGY",
-            "description": "European Commission Speech Brussels, 31 Mar 2026 First of all let me thank the Cypriot Presidency and thank you Minister personally, thank you for agreeing to convene this extraordinary meeting. Now more than ..."
-          },
-          {
-            "title": "Keynote speech by Commissioner Hoekstra at a Parliamentary Hearing at the Italian Senate and the Chamber of Deputies",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_766",
-            "pub_date": "Tue, 31 Mar 2026 15:32:30 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_766",
-            "category": "POLICY_AREA=CLIMACTION,COMPETITIVE",
-            "description": "European Commission Speech Rome, 31 Mar 2026 Gentili Onorevoli, Sono molto felice di essere nuovamente in Italia. Come alcuni di voi gi\u00e0 sanno, ho un amore infinito per il vostro paese \u2013 specialmente per l..."
-          },
-          {
-            "title": "Opening Remarks by Commissioner Kadis at the First Meeting of the High-Level Expert Group \u201cEuropean Ocean Board\u201d",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_765",
-            "pub_date": "Tue, 31 Mar 2026 14:05:36 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_765",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 31 Mar 2026 Distinguished members of the European Ocean Board, observers, and colleagues from the Commission, It is my great honour to welcome you to this inaugural meeting..."
-          },
-          {
-            "title": "Daily News 31 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_763",
-            "pub_date": "Tue, 31 Mar 2026 08:58:26 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_763",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 31 Mar 2026 Commission allocates \u20ac21.5 million in emergency support to farmers in Bulgaria, Estonia and Hungary Yesterday, Member States endorsed the Commission's proposal ..."
           }
         ],
         "errors": []
@@ -1213,12 +1213,6 @@
             "link": "https://www.gov.uk/government/news/uk-steel-industry-backed-by-major-new-trade-measure-and-strategy",
             "updated": "2026-03-19T11:03:00+00:00",
             "summary": "UK steel producers and thousands of steel workers to benefit from a new landmark Steel Strategy and robust <mark>trade</mark> measure."
-          },
-          {
-            "title": "Update following Round 4 of negotiations on an enhanced Free Trade Agreement with Turkey",
-            "link": "https://www.gov.uk/government/news/update-following-round-4-of-negotiations-on-an-enhanced-free-trade-agreement-with-turkey",
-            "updated": "2026-03-18T11:59:01+00:00",
-            "summary": "An update following the fourth round of UK-Turkey FTA negotiations."
           }
         ],
         "errors": []
