@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:13:35+00:00",
+  "generated_at": "2026-04-08T07:16:03+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,366 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06728",
+          "publication_date": "2026-04-07",
+          "title": "World Trade Center Health Program; Petitions 029, 034, 035, and 062-Hepatic Steatosis; Finding of Insufficient Evidence",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06728/world-trade-center-health-program-petitions-029-034-035-and-062-hepatic-steatosis-finding-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06689",
+          "publication_date": "2026-04-07",
+          "title": "Oil Country Tubular Goods From Austria, Taiwan, and United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06678",
+          "publication_date": "2026-04-07",
+          "title": "Carbon and Alloy Steel Wire Rod From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06678/carbon-and-alloy-steel-wire-rod-from-the-republic-of-korea-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06665",
+          "publication_date": "2026-04-06",
+          "title": "Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06649",
+          "publication_date": "2026-04-06",
+          "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06647",
+          "publication_date": "2026-04-06",
+          "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06580",
+          "publication_date": "2026-04-06",
+          "title": "Certain Display Devices, Streaming Players, and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06580/certain-display-devices-streaming-players-and-components-thereof-notice-of-institution-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06576",
+          "publication_date": "2026-04-06",
+          "title": "Non-Oriented Electrical Steel From China, Germany, Japan, South Korea, Sweden, and Taiwan; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06576/non-oriented-electrical-steel-from-china-germany-japan-south-korea-sweden-and-taiwan-scheduling-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06562",
+          "publication_date": "2026-04-06",
+          "title": "Foreign-Trade Zone (FTZ) 21, Notification of Proposed Production Activity; Turbocam Inc.; (Turbine System Components); Ladson, South Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06562/foreign-trade-zone-ftz-21-notification-of-proposed-production-activity-turbocam-inc-turbine-system",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06561",
+          "publication_date": "2026-04-06",
+          "title": "Sodium Nitrite From India: Final Results of Countervailing Duty Administrative Review; 2022-2023; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06561/sodium-nitrite-from-india-final-results-of-countervailing-duty-administrative-review-2022-2023",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06560",
+          "publication_date": "2026-04-06",
+          "title": "Polyethylene Retail Carrier Bags From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06560/polyethylene-retail-carrier-bags-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06559",
+          "publication_date": "2026-04-06",
+          "title": "Steel Concrete Reinforcing Bar From the Republic of T\u00fcrkiye: Final Results of the Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06559/steel-concrete-reinforcing-bar-from-the-republic-of-trkiye-final-results-of-the-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06529",
+          "publication_date": "2026-04-03",
+          "title": "L-Lysine From China; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/03/2026-06529/l-lysine-from-china-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06449",
+          "publication_date": "2026-04-02",
+          "title": "Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06448",
+          "publication_date": "2026-04-02",
+          "title": "1,1,1,2-Tetrafluoroethane (R-134a) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/02/2026-06448/1112-tetrafluoroethane-r-134a-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06447",
+          "publication_date": "2026-04-02",
+          "title": "Granular Polytetrafluoroethylene Resin From India: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/02/2026-06447/granular-polytetrafluoroethylene-resin-from-india-amended-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06420",
+          "publication_date": "2026-04-02",
+          "title": "Fresh Tomatoes From Mexico: Extension of Deadline To Certify",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/02/2026-06420/fresh-tomatoes-from-mexico-extension-of-deadline-to-certify",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06418",
+          "publication_date": "2026-04-02",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/02/2026-06418/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06387",
+          "publication_date": "2026-04-02",
+          "title": "Certain Video-Capable Electronic Devices, Including Smart Televisions, Monitors, and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/02/2026-06387/certain-video-capable-electronic-devices-including-smart-televisions-monitors-and-components-thereof",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06327",
+          "publication_date": "2026-04-01",
+          "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06327/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06326",
+          "publication_date": "2026-04-01",
+          "title": "Initiation of Five-Year (Sunset) Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06326/initiation-of-five-year-sunset-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06325",
+          "publication_date": "2026-04-01",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06325/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06293",
+          "publication_date": "2026-04-01",
+          "title": "Non-Refillable Steel Cylinders From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06293/non-refillable-steel-cylinders-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06292",
+          "publication_date": "2026-04-01",
+          "title": "Chassis and Subassemblies From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06292/chassis-and-subassemblies-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06290",
+          "publication_date": "2026-04-01",
+          "title": "Mattresses From Cambodia, China, Malaysia, Serbia, Thailand, Turkey, and Vietnam; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06290/mattresses-from-cambodia-china-malaysia-serbia-thailand-turkey-and-vietnam-institution-of-five-year",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06289",
+          "publication_date": "2026-04-01",
+          "title": "Small Vertical Shaft Engines From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06289/small-vertical-shaft-engines-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06288",
+          "publication_date": "2026-04-01",
+          "title": "Prestressed Concrete Steel Wire Strand From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06288/prestressed-concrete-steel-wire-strand-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06287",
+          "publication_date": "2026-04-01",
+          "title": "Boltless Steel Shelving Units Prepackaged for Sale From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06287/boltless-steel-shelving-units-prepackaged-for-sale-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06285",
+          "publication_date": "2026-04-01",
+          "title": "Committee Member Nominations Sought Notice; Advisory Committee on Veterans Business Affairs",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06285/committee-member-nominations-sought-notice-advisory-committee-on-veterans-business-affairs",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06276",
+          "publication_date": "2026-04-01",
+          "title": "Agency Information Collection Activities; Renewal of an Approved Information Collection: Commercial Driver's License Drug and Alcohol Clearinghouse",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06276/agency-information-collection-activities-renewal-of-an-approved-information-collection-commercial",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06271",
+          "publication_date": "2026-04-01",
+          "title": "Whistleblower Incentives and Protections",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06271/whistleblower-incentives-and-protections",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06265",
+          "publication_date": "2026-04-01",
+          "title": "Steel Concrete Reinforcing Bar From Algeria: Final Affirmative Countervailing Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06265/steel-concrete-reinforcing-bar-from-algeria-final-affirmative-countervailing-duty-determination",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06264",
+          "publication_date": "2026-04-01",
+          "title": "Foreign-Trade Zone (FTZ) 83, Notification of Proposed Production Activity; Adtran, Inc.; (Telecommunications Equipment); Huntsville, Alabama",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06264/foreign-trade-zone-ftz-83-notification-of-proposed-production-activity-adtran-inc-telecommunications",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06263",
+          "publication_date": "2026-04-01",
+          "title": "Foreign-Trade Zone (FTZ) 266, Notification of Proposed Production Activity; Tekni-Plex Flexibles, LLC; (Coated Nonwoven Materials for Healthcare Applications); Madison, Wisconsin",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/01/2026-06263/foreign-trade-zone-ftz-266-notification-of-proposed-production-activity-tekni-plex-flexibles-llc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06207",
+          "publication_date": "2026-03-31",
+          "title": "Publication of 2026 Tariff-Rate Quota Quantitative Limits Under the United States-Australia Free Trade Agreement",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06207/publication-of-2026-tariff-rate-quota-quantitative-limits-under-the-united-states-australia-free",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06194",
+          "publication_date": "2026-03-31",
+          "title": "Foreign-Trade Zone (FTZ) 30, Notification of Proposed Production Activity; Stadler US Inc; (Passenger Rolling Stock); Salt Lake City, Utah",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06194/foreign-trade-zone-ftz-30-notification-of-proposed-production-activity-stadler-us-inc-passenger",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06178",
+          "publication_date": "2026-03-31",
+          "title": "Fiduciary Duties in Selecting Designated Investment Alternatives",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-06143",
+          "publication_date": "2026-03-31",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06143/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06128",
+          "publication_date": "2026-03-31",
+          "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Lithium Hexafluorophosphate From the People's Republic of China",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06128/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06127",
+          "publication_date": "2026-03-31",
+          "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/03/31/2026-06127/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06133",
           "publication_date": "2026-03-30",
@@ -232,15 +592,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-05847",
-          "publication_date": "2026-03-26",
-          "title": "Aluminum Lithographic Printing Plates From China and Japan",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05847/aluminum-lithographic-printing-plates-from-china-and-japan",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05834",
           "publication_date": "2026-03-25",
           "title": "Electric Quarterly Reports; TrueLight Energy, LLC, TrueLight Commodities, LLC, Neighborhood Sun Benefit Corp: Notice of Revocation of Market-Based Rate Authority and Termination of Electric Market-Based Rate Tariff",
@@ -331,15 +682,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-05688",
-          "publication_date": "2026-03-24",
-          "title": "Request for Information for 2028 Department of War (DoW) State Priorities Impacting Service Members and Their Families",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05688/request-for-information-for-2028-department-of-war-dow-state-priorities-impacting-service-members",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05681",
           "publication_date": "2026-03-24",
           "title": "Notice of the Opening of the Inclusions Window for the Section 232 Automobile Parts Tariff Inclusions Process",
@@ -356,15 +698,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05675/oil-country-tubular-goods-from-india-south-korea-turkey-ukraine-and-vietnam-scheduling-of-full",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05564",
-          "publication_date": "2026-03-20",
-          "title": "Required Use by Foreign Applicants and Patent Owners of a Patent Practitioner",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05564/required-use-by-foreign-applicants-and-patent-owners-of-a-patent-practitioner",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-05536",
@@ -410,339 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05466/pentafluoroethane-r-125-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05445",
-          "publication_date": "2026-03-19",
-          "title": "Certain Steel Wheels From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05445/certain-steel-wheels-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiries-on-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05444",
-          "publication_date": "2026-03-19",
-          "title": "Alloy and Certain Carbon Steel Threaded Rod From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05444/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-preliminary-results",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05443",
-          "publication_date": "2026-03-19",
-          "title": "Certain Steel Wheels From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05443/certain-steel-wheels-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiries-on-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05441",
-          "publication_date": "2026-03-19",
-          "title": "Certain Uncoated Paper From Portugal: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05441/certain-uncoated-paper-from-portugal-final-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05440",
-          "publication_date": "2026-03-19",
-          "title": "Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05439",
-          "publication_date": "2026-03-19",
-          "title": "Utility Scale Wind Towers From Canada, the Socialist Republic of Vietnam, Indonesia, and the Republic of Korea: Continuation of Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05439/utility-scale-wind-towers-from-canada-the-socialist-republic-of-vietnam-indonesia-and-the-republic",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05411",
-          "publication_date": "2026-03-19",
-          "title": "Tetrahydrofurfuryl Alcohol From China; Scheduling of an Expedited Five-Year Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05411/tetrahydrofurfuryl-alcohol-from-china-scheduling-of-an-expedited-five-year-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05408",
-          "publication_date": "2026-03-19",
-          "title": "Defense Trade Advisory Group; Notice of Membership",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05408/defense-trade-advisory-group-notice-of-membership",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-05352",
-          "publication_date": "2026-03-19",
-          "title": "Large Diameter Welded Pipe From Canada: Notice of Initiation of Antidumping Duty Changed Circumstances Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05352/large-diameter-welded-pipe-from-canada-notice-of-initiation-of-antidumping-duty-changed",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05331",
-          "publication_date": "2026-03-19",
-          "title": "Forged Steel Fittings From India and South Korea; Notice of Commission Determination To Conduct Full Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05331/forged-steel-fittings-from-india-and-south-korea-notice-of-commission-determination-to-conduct-full",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05310",
-          "publication_date": "2026-03-18",
-          "title": "Certain Chocolate Milk Powder and Packaging Thereof; Issuance of Civil Penalties and Termination of Enforcement Proceeding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/18/2026-05310/certain-chocolate-milk-powder-and-packaging-thereof-issuance-of-civil-penalties-and-termination-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05214",
-          "publication_date": "2026-03-17",
-          "title": "Initiation of Section 301 Investigations: Acts, Policies, and Practices of Certain Economies Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05206",
-          "publication_date": "2026-03-17",
-          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Administrative Review; Notice of Amended Final Results",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05206/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-notice-of-court",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05170",
-          "publication_date": "2026-03-17",
-          "title": "Crystalline Silicon Photovoltaic Cells Whether or Not Partially or Fully Assembled Into Other Products: Evaluation of the Effectiveness of Import Relief",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05170/crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05162",
-          "publication_date": "2026-03-17",
-          "title": "Tariff of Tolls",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05162/tariff-of-tolls",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05149",
-          "publication_date": "2026-03-17",
-          "title": "Foreign-Trade Zone (FTZ) 84, Notification of Proposed Production Activity; AuroraTe LLC; (Galvanized Steel Pipes); Houston, Texas",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05149/foreign-trade-zone-ftz-84-notification-of-proposed-production-activity-aurorate-llc-galvanized-steel",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-05124",
-          "publication_date": "2026-03-17",
-          "title": "Certain Urine Splash Guards and Components Thereof; Notice of Commission Final Determination Finding a Violation of Section 337; Issuance of a General Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/17/2026-05124/certain-urine-splash-guards-and-components-thereof-notice-of-commission-final-determination-finding",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05101",
-          "publication_date": "2026-03-16",
-          "title": "Steel Concrete Reinforcing Bar From the Republic of T\u00fcrkiye: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05101/steel-concrete-reinforcing-bar-from-the-republic-of-trkiye-final-results-of-the-expedited-second",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05099",
-          "publication_date": "2026-03-16",
-          "title": "Certain Pasta From Italy: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05099/certain-pasta-from-italy-final-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05005",
-          "publication_date": "2026-03-16",
-          "title": "Temporary Steel Fencing From the People's Republic of China: Final Affirmative Countervailing Duy Determination and Final Affirmative Determination of Critical Circumstances, in Part",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05005/temporary-steel-fencing-from-the-peoples-republic-of-china-final-affirmative-countervailing-duy",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05003",
-          "publication_date": "2026-03-16",
-          "title": "Polypropylene Corrugated Boxes From the People's Republic of China: Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05003/polypropylene-corrugated-boxes-from-the-peoples-republic-of-china-antidumping-duty-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05001",
-          "publication_date": "2026-03-16",
-          "title": "Certain Oil Country Tubular Goods From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05001/certain-oil-country-tubular-goods-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05000",
-          "publication_date": "2026-03-16",
-          "title": "Tow-Behind Lawn Groomers and Certain Parts Thereof From the People's Republic of China: Continuation of Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-05000/tow-behind-lawn-groomers-and-certain-parts-thereof-from-the-peoples-republic-of-china-continuation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04995",
-          "publication_date": "2026-03-16",
-          "title": "Oil Country Tubular Goods From Socialist Republic of Vietnam: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/16/2026-04995/oil-country-tubular-goods-from-socialist-republic-of-vietnam-preliminary-results-and-rescission-in",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04951",
-          "publication_date": "2026-03-13",
-          "title": "Certain Freight Rail Couplers and Parts Thereof From the People's Republic of China: Rescission of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04951/certain-freight-rail-couplers-and-parts-thereof-from-the-peoples-republic-of-china-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04950",
-          "publication_date": "2026-03-13",
-          "title": "Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; The Premcor Refining Group; (Renewable Fuels); Port Arthur, Texas",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04950/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-the-premcor-refining-group",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-04945",
-          "publication_date": "2026-03-13",
-          "title": "Certain Fatty Acids From Indonesia and Malaysia: Initiation of Countervailing Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04945/certain-fatty-acids-from-indonesia-and-malaysia-initiation-of-countervailing-duty-investigations",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04943",
-          "publication_date": "2026-03-13",
-          "title": "Wooden Cabinets and Vanities and Components Thereof From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04943/wooden-cabinets-and-vanities-and-components-thereof-from-the-peoples-republic-of-china-final-results",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04929",
-          "publication_date": "2026-03-13",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04929/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04928",
-          "publication_date": "2026-03-13",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04928/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04908",
-          "publication_date": "2026-03-13",
-          "title": "Certain Disposable Vaporizer Devices; Notice of Final Commission Determination of No Violation; Termination of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04908/certain-disposable-vaporizer-devices-notice-of-final-commission-determination-of-no-violation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04884",
-          "publication_date": "2026-03-12",
-          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Reviews of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04884/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04883",
-          "publication_date": "2026-03-12",
-          "title": "Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04881",
-          "publication_date": "2026-03-12",
-          "title": "Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04879",
-          "publication_date": "2026-03-12",
-          "title": "Methionine From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04879/methionine-from-spain-preliminary-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04878",
-          "publication_date": "2026-03-12",
-          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04878/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-04877",
-          "publication_date": "2026-03-12",
-          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/12/2026-04877/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,86 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411e742",
+          "pub_date": "Tue, 07 Apr 2026 13:41:07 -0400",
+          "guid": "68282178",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement Quota Bulletin 26-103 2026 Australia Free Trade Agreement has been published on CBP.gov at the following link: https://www.cbp.gov/trade/quota/bulletins/qb-26-103-2026 Commodity: Agricultural products described in Chapter 98 subheadings of the Harmonized Tariff Schedule of the United States (HTSUS), Additional United States Notes (AUSN) 8 through 19. Quota Period: January 1, 2026 - December 31, 2026 Opening Date: Friday, January 2, 2026 All entries submitted after 12:01 a.m. local port time and prior to 8:30 a.m. Eastern Time (ET) and on the opening date will receive an en"
+        },
+        {
+          "title": "CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411c66b",
+          "pub_date": "Mon, 06 Apr 2026 16:46:55 -0400",
+          "guid": "68273771",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting Electronic Export Manifest (EEM) will be implementing an update to the Appendix U list to allow the following HTS Codes for Used Vehicles: 8705.90.0010 8705.90.0020 8705.90.0080 Technical questions can be submitted to your assigned CBP Client Representative. Policy questions can be submitted to cbpvehicleexports@cbp.dhs.gov ."
+        },
+        {
+          "title": "CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4117593",
+          "pub_date": "Fri, 03 Apr 2026 18:32:28 -0400",
+          "guid": "68253075",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper The purpose of this message is to provide guidance on the implementation of the April 2, 2026, Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States.\u201d BACKGROUND In April 2, 2026, the President issued a Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States,\u201d under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862). This proclamation imposes 10-50% additional duties on the full customs value of certain imports of steel, aluminum,"
+        },
+        {
+          "title": "CSMS # 68251354 - U.S. Drug Enforcement Agency Implementation Guide Moved from Draft Section of CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4116eda",
+          "pub_date": "Fri, 03 Apr 2026 15:14:48 -0400",
+          "guid": "68251354",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68251354 - U.S. Drug Enforcement Agency Implementation Guide Moved from Draft Section of CBP.gov The U.S. Drug Enforcement Agency (DEA) Implementation Guide (IG) can now be found in the \u201cImplementation Guidelines: Ready for Coding\u201d section of CBP.gov: https://www.cbp.gov/trade/automated/catair The DEA message set was deployed to Customs and Border Protection\u2019s Automated Commercial Environment (ACE) Production Environment on March 21, 2026. The new DE3 flag is being enforced with a WARNING severity (see CSMS 67396599 ). NOTE: The enforcement of the DE3 flag will change to a REJECT severity on May 4, 2026 (this date is a change from the date given in CSMS"
+        },
+        {
+          "title": "CSMS # 68247148 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 UPDATED Trade Information Notice Now Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4115e6c",
+          "pub_date": "Fri, 03 Apr 2026 09:28:46 -0400",
+          "guid": "68247148",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68247148 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 UPDATED Trade Information Notice Now Available U.S. Customs and Border Protection (CBP) published an update d version of the Automated Transmission of Container Seal Changes to ACE Manifest Trade Information Notice here . The updated notice includes an additional feature t o be deployed to the Automated Commercial Environment (ACE) production (PROD) environment to notify trade users when CBP personnel add or remove container for ocean and rail shipments . The deployment will include : N ew disposition codes to enable ACE to automatically notify car"
+        },
+        {
+          "title": "CSMS # 68237853 - Changes to Stow Plan Processing",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4113a1d",
+          "pub_date": "Thu, 02 Apr 2026 12:21:59 -0400",
+          "guid": "68237853",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68237853 - Changes to Stow Plan Processing On May 14, 2026, CBP plans to deploy several changes to Stow Plan processing to the Automated Commercial Environment (ACE) certification environment. These changes will impact error conditions for vessel arrival and departure ports and date. These changes will be available to trade for testing, and CBP encourages participation. On June 25, 2026, CBP will push these changes to the ACE production environment. Please review the attachment for complete details. Any questions regarding this message can be sent to OFO-MANIFESTBRANCH@cbp.dhs.gov . CSMS Attachment-Changes to Stow Plan Processing-TTOedits.docx"
+        },
+        {
+          "title": "CSMS # 68235445 - CBP Cancels NCSD Webinars Scheduled for April 7 and 9, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41130b5",
+          "pub_date": "Thu, 02 Apr 2026 09:18:39 -0400",
+          "guid": "68235445",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68235445 - CBP Cancels NCSD Webinars Scheduled for April 7 and 9, 2026 Due to the partial Department of Homeland Security (DHS) lapse in funding, U.S. Customs and Border Protection (CBP) has canceled its free monthly National Commodity Specialist Division (NCSD) commodity webinars that were originally scheduled for April 7 and April 9. The sessions focused on \"The Classification of Steel Bars and Rods in Chapter 72\" and \"Plates, Sheets, Film, Foil & Strip, of Plastics.\" Both webinars, \"The Classification of Steel Bars and Rods in Chapter 72\" and \"Plates, Sheets, Film, Foil & Strip, of Plastics,\" will be rescheduled after the end of the lapse in funding."
+        },
+        {
+          "title": "CSMS # 68228015 - New ACE Portal Account Application Now Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41113af",
+          "pub_date": "Wed, 01 Apr 2026 15:14:43 -0400",
+          "guid": "68228015",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68228015 - New ACE Portal Account Application Now Available On April 1, 2026, U.S. Customs and Border Protection (CBP) released a modernized ACE Secure Data Portal (ACE Portal) account application for the trade community. The new digital web form facilitates: Submission of information to CBP when applying for a new ACE Portal top account Requests to update Account Owner information Communication with CBP on the account setup process The modernized tool also adds enhanced processing features for CBP personnel. Below is an overview of the ACE Portal trade account application options. These options only apply to companies who do not have existing ACE Porta"
+        },
+        {
+          "title": "CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410d758",
+          "pub_date": "Tue, 31 Mar 2026 11:14:25 -0400",
+          "guid": "68212568",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today On March 24, 2026, U.S. Customs and Border Protection (CBP) enhanced the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. CBP will hold a user readiness support call today at 1:00 p.m. ET to address trade community questions related to this system enhancement. ACE User Readiness Support Call Tuesday, March 31, 2026 1:00 p.m. - 2:00 p.m. ET Call Link: Join via Microsoft Teams For more information on these changes, review the trade user information "
+        },
+        {
+          "title": "CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410a75b",
+          "pub_date": "Mon, 30 Mar 2026 10:50:56 -0400",
+          "guid": "68200283",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg Electronic Export Manifest (EEM) will be implementing an update to the CBP Export Manifest Appendix O \u2013 Schedule K. The update implemented is the inclusion of Port of Unlading Code: 42876 \u2013 Hamburg Technical inquiries should be directed to your assigned CBP Client Representative. Policy inquiries may be submitted to cbpexportmanifest@cbp.dhs.gov ."
+        },
         {
           "title": "CSMS # 68180454 - Updated Guidance: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41059e6",
@@ -990,86 +1070,6 @@
           "guid": "67845486",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries Pursuant to the proclamation issued by the President on February 20, 2026, Imposing a Temporary Import Surcharge to Address Fundamental International Payment Problems , effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. eastern standard time on February 24, 2026, all goods entering the United States regardless of country of origin are subject to an additional 10% import surcharge, unless specifically exempt. Additionally, pursuant to the Executive Order, Continuing the Suspension of Duty-Free "
-        },
-        {
-          "title": "CSMS # 67844987 - Imposing Temporary Section 122 Duties",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b3b7b",
-          "pub_date": "Mon, 23 Feb 2026 19:32:21 -0500",
-          "guid": "67844987",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67844987 - Imposing Temporary Section 122 Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Presidential Proclamation, \u201cImposing a Temporary Import Surcharge to Address Fundamental International Payments Problems,\u201d issued pursuant to Section 122 of the Trade Act of 1974 (Section 122), which imposed an additional 10% ad valorem duty on imported articles of every country for a period of 150 days, unless specifically exempt. GUIDANCE APPLICATION OF ADDITIONAL DUTY RATES UNDER SECTION 122 For articles that are the product of any country entered for consumption, or withdrawn from warehouse for consumption, on or after "
-        },
-        {
-          "title": "CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b11c9",
-          "pub_date": "Sun, 22 Feb 2026 21:57:11 -0500",
-          "guid": "67834313",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67834313 - Ending Collection of International Emergency Economic Powers Act Duties The purpose of this message is to provide guidance regarding the February 20, 2026 Executive Order (EO), \u201cEnding Certain Tariff Actions,\u201d that terminates the collection of the additional ad valorem duties imposed pursuant to the International Emergency Economic Powers Act (IEEPA). GUIDANCE ENDING IEEPA TARIFF COLLECTION Duties imposed pursuant to IEEPA under the following presidential actions, including all modifications and amendments, will no longer be in effect and will no longer be collected for goods entered for consumption or withdrawn from warehouse for consumption"
-        },
-        {
-          "title": "CSMS # 67823350 - Supreme Court of the United States (SCOTUS) Judgment - International Emergency Economic Powers Act (IEEPA) Tariffs",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ae6f6",
-          "pub_date": "Fri, 20 Feb 2026 23:38:57 -0500",
-          "guid": "67823350",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67823350 - Supreme Court of the United States (SCOTUS) Judgment - International Emergency Economic Powers Act (IEEPA) Tariffs The U.S. Supreme Court (SCOTUS) has issued its decision regarding the President\u2019s use of the International Emergency Economic Powers Act (IEEPA) to impose tariffs [ 24-1287 Learning Resources, Inc. et al v. Trump et al (02/20/2026) ]. CBP is working with other government agencies to fully examine the implications of the SCOTUS decision. CBP will provide additional information and technical guidance for ACE filers as soon as it becomes available. Questions regarding this message may be directed to CBP\u2019s Office of Trade Relations a"
-        },
-        {
-          "title": "CSMS # 67806718 - Electronic Export Manifest (EEM) \u2013 Ocean 350 Implementation Guide Update",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40aa5fe",
-          "pub_date": "Thu, 19 Feb 2026 15:06:42 -0500",
-          "guid": "67806718",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67806718 - Electronic Export Manifest (EEM) \u2013 Ocean 350 Implementation Guide Update U.S. Customs and Border Protection has updated the Electronic Export Manifest (EEM) ACE Exports Ocean X12- 350 Customs Status Information Implementation Guide. Change: The requirement for M7A02 (Seal Number) in the M7 Segment \u2013 Seal Number Replacement has been changed from Mandatory to Optional. The change is now available in PROD. For questions: Technical inquiries should be directed to your assigned CBP Client Representative. Policy inquiries may be submitted to cbpexportmanifest@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 67803561 - Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) X.12 and UNEDIFACT Standard (version 1.0)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40a99a9",
-          "pub_date": "Thu, 19 Feb 2026 11:29:11 -0500",
-          "guid": "67803561",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67803561 - Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) X.12 and UNEDIFACT Standard (version 1.0) U.S. Customs and Border Protection (CBP) has posted the Truck Manifest implementation guides for the Automated Commercial Environment (ACE) Electronic Export Manifest (EEM) system. Implementation guides for the X.12 and UNEDIFACT standards are now available here: ACE Electronic Export Manifest Information and Requirements . New X.12 implementation guides include: Truck X12 - 309 Message Truck X12 - 350 Message Truck X12 - 353 Message Truck X12 - 355 Message Truck X12 - 358 Message New Truck UNEDIFACT implementation guides incl"
-        },
-        {
-          "title": "CSMS # 67792422 - Update - Information: Quota Bulletin 26-223 2026 Argentina Beef Tranche 1",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40a6e26",
-          "pub_date": "Wed, 18 Feb 2026 13:41:48 -0500",
-          "guid": "67792422",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67792422 - Update - Information: Quota Bulletin 26-223 2026 Argentina Beef Tranche 1 Update to CSMS # 67740694 - Information: Quota Bulletin 26-223 2026 Argentina Beef Tranche 1 Quota Bulletin 26-223 2026 Argentina Beef has been published on our webpage at the following link. Quota Bulletin 26-223 2026 Argentina Beef Quota Bulletin 26-223 2026 Argentina Beef Tranche 1 | U.S. Customs and Border Protection Commodity: Beef as provided for in the Harmonized Tariff Schedule of the United States (HTSUS) Chapter 2 subheadings Additional United States Note (AUSN) 3(b) and addressed in Presidential Proclamation and Annex \u201cEnsuring Affordable Beef for the America"
-        },
-        {
-          "title": "CSMS # 67750523 - Harmonized System Update (HSU) 2604",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/409ca7b",
-          "pub_date": "Fri, 13 Feb 2026 16:34:48 -0500",
-          "guid": "67750523",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67750523 - Harmonized System Update (HSU) 2604 Harmonized System Update (HSU) 2604 was created on February 13, 2026, and contains 27 harmonized tariff records and 143 ABI records. HSU 2604 contains the USDA Agricultural Marketing Service (AMS) National Organic Program (NOP) HTS code flag changes and the Argentina Beef Quota HTS updates. For guidance on the AMS NOP HTS code flag changes, please see CSMS # 67645994 . For more information on the Argentina Beef Quota updates, please see https://www.whitehouse.gov/presidential-actions/2026/02/ensuring-affordable-beef-for-the-american-consumer/ . Questions regarding HTS flag updates should be directed to itds"
-        },
-        {
-          "title": "CSMS # 67749745 - CBP Issues Proposed Rule to Require Electronic Export Manifest (EEM) for Vessel (Ocean) Mode of Transportation",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/409c771",
-          "pub_date": "Fri, 13 Feb 2026 15:23:13 -0500",
-          "guid": "67749745",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67749745 - CBP Issues Proposed Rule to Require Electronic Export Manifest (EEM) for Vessel (Ocean) Mode of Transportation On February 10, 2026, U.S. Customs and Border Protection (CBP) published the Electronic Export Manifest for Vessel Cargo Proposed Rule to require the trade community to use the Automated Commercial Environment\u2019s (ACE) Electronic Export Manifest (EEM) system for filing outbound vessel cargo transactions. Mandatory EEM use for electronic export vessel manifests will enhance visibility of outbound vessel cargo by requiring outbound vessel manifest submission prior to cargo departure from the United States. Learn more about the EEM syste"
-        },
-        {
-          "title": "CSMS # 67747060 - ACE Duty Calculations for up to 32 Harmonized Tariff Schedule (HTS) Codes Set to Deploy February 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/409bcf4",
-          "pub_date": "Fri, 13 Feb 2026 11:45:55 -0500",
-          "guid": "67747060",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67747060 - ACE Duty Calculations for up to 32 Harmonized Tariff Schedule (HTS) Codes Set to Deploy February 17, 2026 On February 17, 2026, U.S. Customs and Border Protection (CBP) will deploy the ACE Duty Calculation for up to 32 HTS Codes (CBP-127) enhancement to the Automated Commercial Environment (ACE) in response to requests from the trade community. Following the deployment, ACE will validate filer-provided duty amounts on entry summary lines that have up to 32 Harmonized Tariff System (HTS) codes. When the provided duty value is incorrect, filers will see the following condition codes: 624 \u2013 EST DUTY/CALC\u2019D DUTY MISMATCH - LINE 627 \u2013 Est Duty/Cal"
-        },
-        {
-          "title": "CSMS # 67739659 - U.S. Customs and Border Protection Releases FY 2026 Webinar Schedule: Learn to Report Trade Violations & File Enforce and Protect Act Allegations",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/409a00b",
-          "pub_date": "Fri, 13 Feb 2026 11:00:45 -0500",
-          "guid": "67739659",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67739659 - U.S. Customs and Border Protection Releases FY 2026 Webinar Schedule: Learn to Report Trade Violations & File Enforce and Protect Act Allegations U.S. Customs and Border Protection (CBP) is offering free quarterly webinars throughout Fiscal Year 2026 (FY 2026) on how to report suspected trade violations online. These webinars will cover using the Trade Violations Reporting tool and filing Enforce and Protect Act allegations with CBP. Registration is free and open to everyone, but you must register to attend. Registration forms will be available one month prior to each webinar at https://go.dhs.gov/4i4 . The remaining FY 2026 webinar schedule "
         }
       ],
       "errors": []
@@ -1080,84 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Commission responds to cyber-attack on its Europa web platform",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748",
-            "pub_date": "Fri, 27 Mar 2026 15:12:48 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748",
-            "category": "POLICY_AREA=DIGAG,CYBER",
-            "description": "European Commission Press release Brussels, 27 Mar 2026 On 24 March, the European Commission discovered a cyber-attack, which affected its cloud infrastructure hosting the Commission's web presence on the Europa.eu p..."
+            "title": "Speech by President von der Leyen on the occasion of the award of the Lower Saxony Land Medal",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_777",
+            "pub_date": "Tue, 07 Apr 2026 10:05:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_777",
+            "category": "POLICY_AREA=HREXTRELS,PRESIDENCY",
+            "description": "European Commission Speech Hanover, 07 Apr 2026 \u201cSpeech as prepared\u201c Dear Minister-President, Mr Lies, many thanks for those wonderful words. Dear family, dear friends and companions, Ladies and Gentlemen, ..."
           },
           {
-            "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_743",
-            "pub_date": "Fri, 27 Mar 2026 11:29:53 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_743",
-            "category": "POLICY_AREA=ECOMONAFF,BUDFINPROG",
-            "description": "European Commission Speech Brussels, 27 Mar 2026 Thank you, Kyriakos. Good afternoon, everyone. The fact that we met today virtually reflects how Cyprus has been directly impacted by the war in the Middle East..."
+            "title": "Commission announces new global health commitments at One Health Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_776",
+            "pub_date": "Tue, 07 Apr 2026 09:38:34 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_776",
+            "category": "POLICY_AREA=DEVEL,HEALTHPOL",
+            "description": "European Commission Press release Lyon, 07 Apr 2026 The European Commission intends to pledge \u20ac700 million to the Global Fund to defeat HIV, tuberculosis and malaria. It will also invest \u20ac46.5 million to strength..."
           },
           {
-            "title": "Keynote speech by Commissioner Serafin at Warsaw European Conversation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_742",
-            "pub_date": "Fri, 27 Mar 2026 10:46:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_742",
-            "category": "POLICY_AREA=BUDFINPROG",
-            "description": "European Commission Speech Warsaw, 27 Mar 2026 Szanowni Pa\u0144stwo, Przez stulecia europejskie mocarstwa rozszerza\u0142y swoje wp\u0142ywy na r\u00f3\u017cne sposoby: poprzez wojny lub poprzez sojusze przypiecz\u0119towane ma\u0142\u017ce\u0144stwam..."
-          },
-          {
-            "title": "Daily News 27 / 03 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_741",
-            "pub_date": "Fri, 27 Mar 2026 10:40:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_741",
+            "title": "Daily News 07 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_775",
+            "pub_date": "Tue, 07 Apr 2026 09:33:34 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_775",
             "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 27 Mar 2026 Commission takes action to ensure complete and timely transposition of EU directive The European Commission is taking action against several EU Member States th..."
+            "description": "European Commission Daily news Brussels, 07 Apr 2026 Commission greenlights Finland's fourth payment request for \u20ac267.1 million under NextGenerationEU Today, the European Commission positively assessed Finland's f..."
           },
           {
-            "title": "Speech by Commissioner Kadis via pre-recorded message at the International Session of the European Youth Parliament - General Assembly",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_618",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_618",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 27 Mar 2026 Dear delegates, Dear friends, It is a real pleasure to address you at the International Session of the European Youth Parliament in the vibrant Italian city of ..."
+            "title": "Statement by Executive Vice-President M\u00eenzatu, Commissioners Lahbib and Kos ahead of International Roma Day",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_772",
+            "pub_date": "Mon, 06 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_772",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Statement Brussels, 07 Apr 2026 Romani heritage, language and art are integral parts of our continent's history and cultural richness. Ahead of International Roma Day, we celebrate the long-standing presence of Roma people in Europe and their key contribution to our societies."
           },
           {
-            "title": "Commission approves \u20ac144 million French State aid to support HyforSeeds in the production of hydrogen",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_718",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_718",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 27 Mar 2026 The European Commission has approved, under EU State aid rules, a \u20ac144 million French measure to support HyforSeeds to produce renewable and low-carbon hydrogen..."
+            "title": "Commission greenlights Finland's fourth payment request for \u20ac267.1 million under NextGenerationEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_773",
+            "pub_date": "Mon, 06 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_773",
+            "category": "POLICY_AREA=RECOVERY",
+            "description": "European Commission Press release Brussels, 07 Apr 2026 Today, the European Commission positively assessed Finland's fourth payment request for \u20ac267.1 million under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU."
           },
           {
-            "title": "Commission takes action to ensure complete and timely transposition of EU directives",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_679",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_679",
-            "category": "POLICY_AREA=INTRELADM",
-            "description": "European Commission Infringement decisions Brussels, 27 Mar 2026 The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose E..."
+            "title": "Commission evaluation of the EU tobacco control framework highlights progress and emerging public health challenges",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771",
+            "pub_date": "Wed, 01 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Press release Brussels, 07 Apr 2026 The European Commission has today published its evaluation of the EU tobacco control framework. It assesses the effectiveness, efficiency and relevance of the Tobacco Products Directive and Tobacco Advertising Directive in protecting public health and ensuring the smooth functioning of the internal market."
           },
           {
-            "title": "Commission approves \u20ac500 million Luxembourgish cleantech manufacturing capacity State aid scheme",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_719",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_719",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 27 Mar 2026 The European Commission has approved a \u20ac500 million Luxembourgish scheme to support strategic investments that add clean technology (cleantech) manufacturing ca..."
+            "title": "Daily News 01 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_769",
+            "pub_date": "Wed, 01 Apr 2026 09:19:11 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_769",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 01 Apr 2026 EU reinforces the stability and predictability of its carbon market The Commission has today announced a first concrete measure to reinforce the European Union ..."
           },
           {
-            "title": "Commissioner Tzitzitzikostas delivers a video address at the Mobility Innovation Summit 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_566",
-            "pub_date": "Thu, 26 Mar 2026 23:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_566",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 27 Mar 2026 Ladies and gentlemen, Thank you for the opportunity to speak to you today, on what the European Commission is doing to support Europe's automotive sector in t..."
+            "title": "EU to deliver \u20ac1.4 billion in revenue from immobilised Russian assets to be used for support to Ukraine",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_768",
+            "pub_date": "Wed, 01 Apr 2026 07:54:31 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_768",
+            "category": "POLICY_AREA=ECOMONAFF,BUDFINPROG,UKRAINE",
+            "description": "European Commission Press release Brussels, 01 Apr 2026 Yesterday, the European Union received \u20ac1.4 billion in windfall profits generated by the interest on the cash balances originating from immobilised assets of the Russian Central Bank (RSB), held by central securities depositories (CSDs)."
           },
           {
-            "title": "Remarks by Commissioner Dombrovskis at Eurofi High Level Seminar",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_740",
-            "pub_date": "Thu, 26 Mar 2026 15:48:47 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_740",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Speech Brussels, 26 Mar 2026 Good afternoon, ladies and gentlemen. Thank you for the invitation to join you. Eurofi remains a crucial forum to exchange on the financial and economic develop..."
+            "title": "Questions and answers on the EU ETS Market Stability Reserve",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_667",
+            "pub_date": "Tue, 31 Mar 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_667",
+            "category": "POLICY_AREA=CLIMACTION",
+            "description": "European Commission Questions and answers Brussels, 01 Apr 2026 What is the Commission proposing to change in the EU ETS Market Stability Reserve? The Commission is proposing to stop the automatic invalidation of ETS allow..."
+          },
+          {
+            "title": "Commission takes preparatory steps on financial support for Ukraine and boosting drone production",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_764",
+            "pub_date": "Tue, 31 Mar 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_764",
+            "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,DEFENCE",
+            "description": "European Commission Press release Brussels, 01 Apr 2026 Today, the European Commission took preparatory steps for the implementation of the \u20ac90 billion Ukraine Support Loan, aimed at securing necessary budgetary support and accelerating urgent defence procurement for Ukraine in 2026 and 2027."
           }
         ],
         "errors": []
@@ -1213,24 +1213,6 @@
             "link": "https://www.gov.uk/government/news/uk-steel-industry-backed-by-major-new-trade-measure-and-strategy",
             "updated": "2026-03-19T11:03:00+00:00",
             "summary": "UK steel producers and thousands of steel workers to benefit from a new landmark Steel Strategy and robust <mark>trade</mark> measure."
-          },
-          {
-            "title": "Update following Round 4 of negotiations on an enhanced Free Trade Agreement with Turkey",
-            "link": "https://www.gov.uk/government/news/update-following-round-4-of-negotiations-on-an-enhanced-free-trade-agreement-with-turkey",
-            "updated": "2026-03-18T11:59:01+00:00",
-            "summary": "An update following the fourth round of UK-Turkey FTA negotiations."
-          },
-          {
-            "title": "UK manufacturers to save millions of pounds a year as government removes offshore wind energy tariffs",
-            "link": "https://www.gov.uk/government/news/uk-manufacturers-to-save-millions-of-pounds-a-year-as-government-removes-offshore-wind-energy-tariffs",
-            "updated": "2026-03-10T15:59:44+00:00",
-            "summary": "British manufacturers will save millions of pounds a year as the Government removes <mark>tariffs</mark> on offshore wind energy components from 1 April."
-          },
-          {
-            "title": "Businesses urged to take simple steps for smoother trade with the EU",
-            "link": "https://www.gov.uk/government/news/businesses-urged-to-take-simple-steps-for-smoother-trade-with-the-eu",
-            "updated": "2026-03-09T00:01:00+00:00",
-            "summary": "Businesses are being urged to take simple steps to prepare for the landmark EU agri-food deal, that will cut costs, slash red tape and open up opportunities for exporters and importers."
           }
         ],
         "errors": []
