@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:16:03+00:00",
+  "generated_at": "2026-04-09T06:58:23+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-06784",
+          "publication_date": "2026-04-08",
+          "title": "Citric Acid and Certain Citrate Salts From Colombia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06784/citric-acid-and-certain-citrate-salts-from-colombia-final-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06783",
+          "publication_date": "2026-04-08",
+          "title": "Rescission of Antidumping and Countervailing Duty Administrative Reviews; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06783/rescission-of-antidumping-and-countervailing-duty-administrative-reviews-correction",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06782",
+          "publication_date": "2026-04-08",
+          "title": "Certain Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel From Switzerland: Rescission of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06782/certain-cold-drawn-mechanical-tubing-of-carbon-and-alloy-steel-from-switzerland-rescission-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06738",
+          "publication_date": "2026-04-08",
+          "title": "Forged Steel Fluid End Blocks: Preliminary Results of Antidumping Duty Administrative Review; 2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06738/forged-steel-fluid-end-blocks-preliminary-results-of-antidumping-duty-administrative-review-2024",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-06728",
           "publication_date": "2026-04-07",
@@ -538,22 +574,13 @@
           "term_hit": "duty"
         },
         {
-          "document_number": "2026-05931",
-          "publication_date": "2026-03-27",
-          "title": "Privacy Act of 1974; System of Records",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-05931/privacy-act-of-1974-system-of-records",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-05880",
           "publication_date": "2026-03-26",
           "title": "Foreign-Trade Zone (FTZ) 81, Notification of Proposed Production Activity; Hypertherm Inc; (Plasma Cutting Equipment and Components); Hanover and Lebanon, New Hampshire",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05880/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-hypertherm-inc-plasma-cutting",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-05879",
@@ -562,7 +589,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05879/foreign-trade-zone-ftz-164-notification-of-proposed-production-activity-webco-industries-inc-steel",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-05853",
@@ -709,40 +736,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-05508",
-          "publication_date": "2026-03-20",
-          "title": "Prestressed Concrete Steel Wire Strand From Brazil, India, Japan, Mexico, South Korea, and Thailand; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05508/prestressed-concrete-steel-wire-strand-from-brazil-india-japan-mexico-south-korea-and-thailand",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05496",
-          "publication_date": "2026-03-20",
-          "title": "Large Diameter Graphite Electrodes From the People's Republic of China and India: Initiation of Countervailing Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05496/large-diameter-graphite-electrodes-from-the-peoples-republic-of-china-and-india-initiation-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-05467",
           "publication_date": "2026-03-20",
           "title": "Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05467/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-the-republic-of-korea-preliminary",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05466",
-          "publication_date": "2026-03-20",
-          "title": "Pentafluoroethane (R-125) From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05466/pentafluoroethane-r-125-from-the-peoples-republic-of-china-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68290408 - Harmonized System Update (HSU) 2607",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4120768",
+          "pub_date": "Wed, 08 Apr 2026 09:36:22 -0400",
+          "guid": "68290408",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68290408 - Harmonized System Update (HSU) 2607 Harmonized System Update (HSU) 2607 was created on April 5, 2026, and contains 116 harmonized tariff records and 519 Automated Broker Interface (ABI) records. This HSU contains updates pertaining to the Section 232 duties on imports of aluminum, steel, and copper effective April 6, 2026. For more information or guidance, please see proclamation Strengthening Actions Taken to Adjust Imports of Aluminum, Steel and Copper into the United States and CSMS # 68253075 . Additionally, this HSU includes updates that the Environmental Protection Agency (EPA) and the Food and Drug Administration (FDA) have each made t"
+        },
+        {
+          "title": "CSMS # 68290359 - The Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4120737",
+          "pub_date": "Wed, 08 Apr 2026 09:32:25 -0400",
+          "guid": "68290359",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68290359 - The Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available The Consumer Product Safety Commission (CPSC) Message Implementation Guide (IG) is now available on CBP.gov. The IG can be found on CBP.gov in the Draft Chapters: Future Capabilities section: ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) The related CPSC Message Set is scheduled to deploy to CBP\u2019s test and production environments on the following dates: April 15 \u2013 CERTIFICATION July 8 \u2013 PRODUCTION If you have any questions about the CPSC IG or message set, please reach out to the CPSC eFiling Support team "
+        },
         {
           "title": "CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411e742",
@@ -1054,22 +1070,6 @@
           "guid": "67853680",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67853680 - Truck Manifest - Transition to Fast and Secure Trade (FAST) IDs as the Standard Identifier for FAST ID via Automated Commercial Environment (ACE) Electronic Data Interchange (EDI) Effective February 24, 2026, the Automated Commercial Environment (ACE) Truck environment will transition to utilizing Fast and Secure Trade (FAST) IDs as the standard identifier for FAST ID via ACE Electronic Data Interchange (EDI). Usage of the ACE ID for this purpose is retired, and moving forward, all users will need to use a FAST ID. For FAST ID services, please visit the Trusted Traveler Program (TPP) website . Questions regarding this informational note can d"
-        },
-        {
-          "title": "CSMS # 67852800 - Harmonized System Update (HSU) 2605",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b5a00",
-          "pub_date": "Tue, 24 Feb 2026 12:27:00 -0500",
-          "guid": "67852800",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67852800 - Harmonized System Update (HSU) 2605 Harmonized System Update (HSU) 2605 was created on February 23, 2026, and contains 169 harmonized tariff records and 512 Automated Broker Interface (ABI) records. HSU 2605 includes updates regarding the ending of certain tariff actions under the International Emergency Economic Powers Act (IEEPA) and updates to Section 122 of the Trade Act of 1974. For guidance on Section 122 duties, please see Executive Order Imposing a Temporary Import Surcharge to Address Fundamental International Payments Problems and CSMS 67844987 . For more information on the International Emergency Economic Powers Act (IEEPA) updates"
-        },
-        {
-          "title": "CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b3d6e",
-          "pub_date": "Mon, 23 Feb 2026 19:38:19 -0500",
-          "guid": "67845486",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67845486 - Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries Pursuant to the proclamation issued by the President on February 20, 2026, Imposing a Temporary Import Surcharge to Address Fundamental International Payment Problems , effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. eastern standard time on February 24, 2026, all goods entering the United States regardless of country of origin are subject to an additional 10% import surcharge, unless specifically exempt. Additionally, pursuant to the Executive Order, Continuing the Suspension of Duty-Free "
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Speech by President von der Leyen on the occasion of the award of the Lower Saxony Land Medal",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_777",
-            "pub_date": "Tue, 07 Apr 2026 10:05:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_777",
-            "category": "POLICY_AREA=HREXTRELS,PRESIDENCY",
-            "description": "European Commission Speech Hanover, 07 Apr 2026 \u201cSpeech as prepared\u201c Dear Minister-President, Mr Lies, many thanks for those wonderful words. Dear family, dear friends and companions, Ladies and Gentlemen, ..."
-          },
-          {
-            "title": "Commission announces new global health commitments at One Health Summit",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_776",
-            "pub_date": "Tue, 07 Apr 2026 09:38:34 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_776",
-            "category": "POLICY_AREA=DEVEL,HEALTHPOL",
-            "description": "European Commission Press release Lyon, 07 Apr 2026 The European Commission intends to pledge \u20ac700 million to the Global Fund to defeat HIV, tuberculosis and malaria. It will also invest \u20ac46.5 million to strength..."
-          },
-          {
-            "title": "Daily News 07 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_775",
-            "pub_date": "Tue, 07 Apr 2026 09:33:34 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_775",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 07 Apr 2026 Commission greenlights Finland's fourth payment request for \u20ac267.1 million under NextGenerationEU Today, the European Commission positively assessed Finland's f..."
-          },
-          {
-            "title": "Statement by Executive Vice-President M\u00eenzatu, Commissioners Lahbib and Kos ahead of International Roma Day",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_772",
-            "pub_date": "Mon, 06 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_772",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Statement Brussels, 07 Apr 2026 Romani heritage, language and art are integral parts of our continent's history and cultural richness. Ahead of International Roma Day, we celebrate the long-standing presence of Roma people in Europe and their key contribution to our societies."
-          },
-          {
-            "title": "Commission greenlights Finland's fourth payment request for \u20ac267.1 million under NextGenerationEU",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_773",
-            "pub_date": "Mon, 06 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_773",
-            "category": "POLICY_AREA=RECOVERY",
-            "description": "European Commission Press release Brussels, 07 Apr 2026 Today, the European Commission positively assessed Finland's fourth payment request for \u20ac267.1 million under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU."
-          },
-          {
-            "title": "Commission evaluation of the EU tobacco control framework highlights progress and emerging public health challenges",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771",
-            "pub_date": "Wed, 01 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Press release Brussels, 07 Apr 2026 The European Commission has today published its evaluation of the EU tobacco control framework. It assesses the effectiveness, efficiency and relevance of the Tobacco Products Directive and Tobacco Advertising Directive in protecting public health and ensuring the smooth functioning of the internal market."
-          },
-          {
-            "title": "Daily News 01 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_769",
-            "pub_date": "Wed, 01 Apr 2026 09:19:11 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_769",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 01 Apr 2026 EU reinforces the stability and predictability of its carbon market The Commission has today announced a first concrete measure to reinforce the European Union ..."
-          },
-          {
-            "title": "EU to deliver \u20ac1.4 billion in revenue from immobilised Russian assets to be used for support to Ukraine",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_768",
-            "pub_date": "Wed, 01 Apr 2026 07:54:31 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_768",
-            "category": "POLICY_AREA=ECOMONAFF,BUDFINPROG,UKRAINE",
-            "description": "European Commission Press release Brussels, 01 Apr 2026 Yesterday, the European Union received \u20ac1.4 billion in windfall profits generated by the interest on the cash balances originating from immobilised assets of the Russian Central Bank (RSB), held by central securities depositories (CSDs)."
-          },
-          {
-            "title": "Questions and answers on the EU ETS Market Stability Reserve",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_667",
-            "pub_date": "Tue, 31 Mar 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_667",
-            "category": "POLICY_AREA=CLIMACTION",
-            "description": "European Commission Questions and answers Brussels, 01 Apr 2026 What is the Commission proposing to change in the EU ETS Market Stability Reserve? The Commission is proposing to stop the automatic invalidation of ETS allow..."
-          },
-          {
-            "title": "Commission takes preparatory steps on financial support for Ukraine and boosting drone production",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_764",
-            "pub_date": "Tue, 31 Mar 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_764",
-            "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,DEFENCE",
-            "description": "European Commission Press release Brussels, 01 Apr 2026 Today, the European Commission took preparatory steps for the implementation of the \u20ac90 billion Ukraine Support Loan, aimed at securing necessary budgetary support and accelerating urgent defence procurement for Ukraine in 2026 and 2027."
+            "title": "Statement by President Macron, Prime Minister Meloni, Chancellor Merz, Prime Minister Starmer, Prime Minister Carney, Prime Minister Frederiksen, Prime Minister Jetten, Prime Minister Sanchez, President of the European Commission von der Leyen, President of the European Council Costa",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_784",
+            "pub_date": "Wed, 08 Apr 2026 11:11:45 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_784",
+            "category": "POLICY_AREA=HREXTRELS",
+            "description": "European Commission Statement Brussels, 08 Apr 2026 We welcome the two-week ceasefire concluded between the United States and Iran today. We thank Pakistan and all partners involved for facilitating this importa..."
           }
         ],
         "errors": []
