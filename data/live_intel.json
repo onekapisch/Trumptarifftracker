@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T06:58:23+00:00",
+  "generated_at": "2026-04-10T07:03:16+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,69 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "R1-2026-03829",
+          "publication_date": "2026-04-09",
+          "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/R1-2026-03829/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06960",
+          "publication_date": "2026-04-09",
+          "title": "Strengthening Actions Taken To Adjust Imports of Aluminum, Steel, and Copper Into the United States",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06960/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06956",
+          "publication_date": "2026-04-09",
+          "title": "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06956/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06878",
+          "publication_date": "2026-04-09",
+          "title": "Common Alloy Aluminum Sheet From the Republic of T\u00fcrkiye: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06878/common-alloy-aluminum-sheet-from-the-republic-of-trkiye-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06873",
+          "publication_date": "2026-04-09",
+          "title": "Dairy Tariff-Rate Quota Import Licensing Program",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06873/dairy-tariff-rate-quota-import-licensing-program",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06857",
+          "publication_date": "2026-04-09",
+          "title": "Rescission of Antidumping and Countervailing Duty Administrative Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06857/rescission-of-antidumping-and-countervailing-duty-administrative-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-06843",
+          "publication_date": "2026-04-09",
+          "title": "Oil Country Tubular Goods (\u201cOCTG\u201d) From China; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06843/oil-country-tubular-goods-octg-from-china-scheduling-of-expedited-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-06784",
           "publication_date": "2026-04-08",
@@ -511,15 +574,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-06012",
-          "publication_date": "2026-03-27",
-          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Procedures for Importation of Supplies for Use in Emergency Relief Work",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-06012/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-06008",
           "publication_date": "2026-03-27",
           "title": "Erythritol From the People's Republic of China: Antidumping Duty and Countervailing Duty Orders",
@@ -563,15 +617,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-05950/certain-portable-power-stations-and-packaging-therefor-certain-radio-control-hobby-transmitters-and",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05932",
-          "publication_date": "2026-03-27",
-          "title": "Privacy Act of 1974; System of Records",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-05932/privacy-act-of-1974-system-of-records",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-05880",
@@ -698,51 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05731/establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area",
           "raw_text_url": null,
           "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-05727",
-          "publication_date": "2026-03-24",
-          "title": "Reforming Legacy Rules for an All-IP Future; Accelerating Network Modernization",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05727/reforming-legacy-rules-for-an-all-ip-future-accelerating-network-modernization",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05681",
-          "publication_date": "2026-03-24",
-          "title": "Notice of the Opening of the Inclusions Window for the Section 232 Automobile Parts Tariff Inclusions Process",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05681/notice-of-the-opening-of-the-inclusions-window-for-the-section-232-automobile-parts-tariff",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05675",
-          "publication_date": "2026-03-24",
-          "title": "Oil Country Tubular Goods From India, South Korea, Turkey, Ukraine, and Vietnam; Scheduling of Full Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/24/2026-05675/oil-country-tubular-goods-from-india-south-korea-turkey-ukraine-and-vietnam-scheduling-of-full",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05536",
-          "publication_date": "2026-03-20",
-          "title": "Truck Bed Covers From the People's Republic of China: Initiation of Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05536/truck-bed-covers-from-the-peoples-republic-of-china-initiation-of-countervailing-duty-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05467",
-          "publication_date": "2026-03-20",
-          "title": "Heavy Walled Rectangular Welded Carbon Steel Pipes and Tubes From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/20/2026-05467/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-the-republic-of-korea-preliminary",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President Macron, Prime Minister Meloni, Chancellor Merz, Prime Minister Starmer, Prime Minister Carney, Prime Minister Frederiksen, Prime Minister Jetten, Prime Minister Sanchez, President of the European Commission von der Leyen, President of the European Council Costa",
+            "title": "Remarks by Commissioner Dombrovskis at the dialogue on fiscal rules at the European Parliament's ECON Committee",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_788",
+            "pub_date": "Thu, 09 Apr 2026 09:17:13 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_788",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Speech Brussels, 09 Apr 2026 Thank you Chair, honourable Members. Good morning everyone. It's good to return to this House for today's exchange. It comes at an opportune moment, when the..."
+          },
+          {
+            "title": "Daily News 09 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_787",
+            "pub_date": "Thu, 09 Apr 2026 08:39:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_787",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 09 Apr 2026 Commission invests close to \u20ac400 million for postdoctoral researchers Today, the European Commission opens the 2026 call for the Marie Sk\u0142odowska-Curie Actions ..."
+          },
+          {
+            "title": "Commission invests close to \u20ac400 million for postdoctoral researchers",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_785",
+            "pub_date": "Wed, 08 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_785",
+            "category": "POLICY_AREA=ECMY,RESINSC,YOUTH",
+            "description": "European Commission Press release Brussels, 09 Apr 2026 Today, the European Commission opens the 2026 call for the Marie Sk\u0142odowska-Curie Actions (MSCA) Postdoctoral Fellowships, with a budget of \u20ac399.05 million. These fellowships support researchers holding a PhD to carry out their research activities abroad and acquire new skills in different disciplines and sectors. Researchers will benefit by working with leading scientific teams, contributing to the EU's competitiveness through their cutting-edge research."
+          },
+          {
+            "title": "Speech by Commissioner Kadis at the \u201cClimate Action in the Eastern Mediterranean and Middle East: Regional Cooperation Empowered by Science and Innovation\u201d Conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_786",
+            "pub_date": "Wed, 08 Apr 2026 13:22:03 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_786",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Nicosia, 08 Apr 2026 Excellencies, Distinguished guests, Ladies and gentlemen, First, I would like to congratulate the Cyprus Institute, the EMME Secretariat and the Deputy Ministry..."
+          },
+          {
+            "title": "Leaders' statement on the two-week ceasefire concluded between the United States and Iran*",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_784",
             "pub_date": "Wed, 08 Apr 2026 11:11:45 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_784",
             "category": "POLICY_AREA=HREXTRELS",
-            "description": "European Commission Statement Brussels, 08 Apr 2026 We welcome the two-week ceasefire concluded between the United States and Iran today. We thank Pakistan and all partners involved for facilitating this importa..."
+            "description": "European Commission Statement Brussels, 09 Apr 2026 This statement has been endorsed by President Macron, Prime Minister Meloni, Chancellor Merz, Prime Minister Starmer, Prime Minister Albanese, Prime Minister Ca..."
+          },
+          {
+            "title": "Commission offers 40,000 DiscoverEU free travel passes to young people",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_783",
+            "pub_date": "Wed, 08 Apr 2026 07:49:27 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_783",
+            "category": "POLICY_AREA=TRANSPORT,CULTMED,YOUTH",
+            "description": "European Commission Press release Brussels, 08 Apr 2026 Today, the European Commission opens applications for a new DiscoverEU round, offering thousands of young people aged 18 the chance to explore Europe by train and for free. The call opens today at 12:00 CET and closes on 22 April 2026 at 12:00 CET, leading up to the launch of the European Youth Week 2026."
+          },
+          {
+            "title": "Daily News 08 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_782",
+            "pub_date": "Wed, 08 Apr 2026 07:39:16 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_782",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 08 Apr 2026 Commission offers 40,000 DiscoverEU free travel passes to young people Today, the European Commission opens applications for a new DiscoverEU round, offering th..."
+          },
+          {
+            "title": "Joint press release by the Commission and the Kingdom of Morocco on the launch of a Digital Dialogue to strengthen strategic cooperation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_781",
+            "pub_date": "Tue, 07 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_781",
+            "category": "POLICY_AREA=DIGAG,TECH",
+            "description": "European Commission Press release Brussels, 08 Apr 2026 Today, the EU and the Kingdom of Morocco strengthened their relationship as strategic partners in the digital field by launching the EU-Morocco Digital Dialogue."
+          },
+          {
+            "title": "Video message by Commissioner \u0160uica at the Cyprus Institute Conference on \"Climate Action in the Eastern Mediterranean and Middle East: Regional Cooperation Empowered by Science and Innovation\"",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_789",
+            "pub_date": "Tue, 07 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_789",
+            "category": "POLICY_AREA=CLIMACTION,MED",
+            "description": "European Commission Speech Nicosia, 09 Apr 2026 Dear friends, I want to thank the Cypriot Presidency of the Council for this very timely conference on climate action. Our whole region \u2013 from Europe to the Mid..."
+          },
+          {
+            "title": "Commission greenlights Ireland's fourth payment request for \u20ac249 million under NextGenerationEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_780",
+            "pub_date": "Tue, 07 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_780",
+            "category": "POLICY_AREA=STRUREF,RECOVERY,NGEU",
+            "description": "European Commission Press release Brussels, 08 Apr 2026 Today, the European Commission positively assessed Ireland's fourth payment request for \u20ac249 million under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU."
           }
         ],
         "errors": []
@@ -1094,6 +1166,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "\u2018Greater Together LA\u2019, the largest ever UK trade mission to the US, attracts major corporate sponsors",
+            "link": "https://www.gov.uk/government/news/greater-together-la-the-largest-ever-uk-trade-mission-to-the-us-attracts-major-corporate-sponsors",
+            "updated": "2026-04-09T09:48:00+01:00",
+            "summary": "In partnership with world-leading financial, tech and cultural organisations, the UK Government\u2019s GREAT Britain &amp; Northern Ireland Campaign is holding a major expo in Los Angeles, California from 18th - 22nd May, 2026."
+          },
           {
             "title": "David Reed appointed HMTC for Eastern Europe and Central Asia",
             "link": "https://www.gov.uk/government/news/david-reed-appointed-trade-commissioner-for-eastern-europe",
