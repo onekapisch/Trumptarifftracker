@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T06:46:41+00:00",
+  "generated_at": "2026-04-12T06:55:19+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,87 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-07114",
+          "publication_date": "2026-04-13",
+          "title": "Wooden Bedroom Furniture From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07114/wooden-bedroom-furniture-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07109",
+          "publication_date": "2026-04-13",
+          "title": "Steel Concrete Reinforcing Bar From Mexico and the Republic of T\u00fcrkiye: Continuation of Antidumping Duty Order and Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07109/steel-concrete-reinforcing-bar-from-mexico-and-the-republic-of-trkiye-continuation-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07107",
+          "publication_date": "2026-04-13",
+          "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Continuation of Antidumping Duty Order and Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07107/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-continuation-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07091",
+          "publication_date": "2026-04-13",
+          "title": "Certain Processed Slabs and Methods for Making Same; Notice of a Commission Determination Not To Review an Initial Determination Granting a Motion To Intervene",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07091/certain-processed-slabs-and-methods-for-making-same-notice-of-a-commission-determination-not-to",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07074",
+          "publication_date": "2026-04-13",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07074/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07073",
+          "publication_date": "2026-04-13",
+          "title": "Certain Screen Protectors, Application Systems for Use Therewith, and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07073/certain-screen-protectors-application-systems-for-use-therewith-and-components-thereof-notice-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07072",
+          "publication_date": "2026-04-13",
+          "title": "Polytetramethylene Ether Glycol (PTMEG) From China, South Korea, Taiwan, and Vietnam; Institution of Antidumping Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07072/polytetramethylene-ether-glycol-ptmeg-from-china-south-korea-taiwan-and-vietnam-institution-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07057",
+          "publication_date": "2026-04-13",
+          "title": "Prestressed Concrete Steel Wire Strand From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07057/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07054",
+          "publication_date": "2026-04-13",
+          "title": "Polyethylene Terephthalate Film, Sheet, and Strip From Taiwan: Final Results and Rescission of Antidumping Duty Administrative Review, In Part; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07054/polyethylene-terephthalate-film-sheet-and-strip-from-taiwan-final-results-and-rescission-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-07012",
           "publication_date": "2026-04-10",
@@ -662,87 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06057/agency-information-collection-activities-proposed-collection-comment-request-extension",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-06056",
-          "publication_date": "2026-03-30",
-          "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06056/agency-information-collection-activities-proposed-collection-comment-request-extension",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-06033",
-          "publication_date": "2026-03-30",
-          "title": "Certain Dental Burs and Kits Thereof; Notice of a Commission Determination Not To Review an Initial Determination Amending the Complaint and Notice of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/30/2026-06033/certain-dental-burs-and-kits-thereof-notice-of-a-commission-determination-not-to-review-an-initial",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06016",
-          "publication_date": "2026-03-27",
-          "title": "Thermal Paper From Germany: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-06016/thermal-paper-from-germany-preliminary-results-and-rescission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06008",
-          "publication_date": "2026-03-27",
-          "title": "Erythritol From the People's Republic of China: Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-06008/erythritol-from-the-peoples-republic-of-china-antidumping-duty-and-countervailing-duty-orders",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06007",
-          "publication_date": "2026-03-27",
-          "title": "Polyethylene Terephthalate Film, Sheet, and Strip from India, Taiwan, the People's Republic of China, and the United Arab Emirates: Continuation of Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-06007/polyethylene-terephthalate-film-sheet-and-strip-from-india-taiwan-the-peoples-republic-of-china-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06006",
-          "publication_date": "2026-03-27",
-          "title": "Steel Concrete Reinforcing Bar From Algeria: Final Affirmative Countervailing Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-06006/steel-concrete-reinforcing-bar-from-algeria-final-affirmative-countervailing-duty-determination",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05951",
-          "publication_date": "2026-03-27",
-          "title": "Monosodium Glutamate From China and Indonesia; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-05951/monosodium-glutamate-from-china-and-indonesia-scheduling-of-expedited-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05950",
-          "publication_date": "2026-03-27",
-          "title": "Certain Portable Power Stations and Packaging Therefor; Certain Radio Control Hobby Transmitters and Receivers and Products Containing Same; Certain Computer Cables, Chargers, Adapters, Peripheral Devices and Packaging Containing the Same; Certain Arrowheads With Deploying Blades and Components Thereof; Certain Portable Battery Jump Starters and Components Thereof; Notice of Request for Written Submissions on Whether Certain Commission Exclusion Orders Should Be Modified or Rescinded, in Whole or in Part, Based on Changed Conditions of Fact or Law or the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/27/2026-05950/certain-portable-power-stations-and-packaging-therefor-certain-radio-control-hobby-transmitters-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-05880",
-          "publication_date": "2026-03-26",
-          "title": "Foreign-Trade Zone (FTZ) 81, Notification of Proposed Production Activity; Hypertherm Inc; (Plasma Cutting Equipment and Components); Hanover and Lebanon, New Hampshire",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/03/26/2026-05880/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-hypertherm-inc-plasma-cutting",
-          "raw_text_url": null,
-          "term_hit": "section 232"
         }
       ],
       "errors": []
