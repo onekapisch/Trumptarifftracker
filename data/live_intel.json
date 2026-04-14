@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T07:14:18+00:00",
+  "generated_at": "2026-04-14T07:03:13+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,22 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68340863 - UPDATE - Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds, April 20, 2026, Deployment",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/412cc7f",
+          "pub_date": "Mon, 13 Apr 2026 17:48:46 -0400",
+          "guid": "68340863",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68340863 - UPDATE - Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds, April 20, 2026, Deployment On March 2, 2026, the Court of Appeals for the Federal Circuit (CAFC) issued its formal mandate to the Court of International Trade (CIT) with respect to duties collected pursuant to the International Emergency Economic Powers Act (IEEPA). On March 4, 2026, in Atmus Filtration, Inc. v. United States , the CIT ordered \u201cthat, with respect to any and all unliquidated entries that were entered subject to the IEEPA duties, U.S. Customs and Border Protection (CBP) is hereby directed to liquidate those entries without regard to the IEE"
+        },
+        {
+          "title": "CSMS # 68334623 - Reminder: Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 Deployed to ACE PROD Environment, April 9, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/412b41f",
+          "pub_date": "Mon, 13 Apr 2026 09:45:22 -0400",
+          "guid": "68334623",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68334623 - Reminder: Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 Deployed to ACE PROD Environment, April 9, 2026 REMINDER: U.S. Customs and Border Protection (CBP) deployed updates to the Automated Commercial Environment (ACE) Production (PROD) environment to enable the automated transmission of container seal changes for ocean and rail shipments on April 9, 2026. Using new disposition codes, ACE automatically notifies carriers via EDI when CBP personnel add or remove container seals for ocean and rail shipments. Automated Broker Interface (ABI) filers can query a record of D2/D3 notifications for a bi"
+        },
+        {
           "title": "CSMS # 68315804 - Introduction - Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds, April 20, 2026 Deployment",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4126a9c",
           "pub_date": "Fri, 10 Apr 2026 14:49:05 -0400",
@@ -1054,22 +1070,6 @@
           "guid": "67893165",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 67893165 - Harmonized System Update (HSU) 2606 The Agricultural Marketing Service (AMS), Department of Agriculture (USDA) is withdrawing the direct final rule, \u201cCotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2025 Amendments),\u201d that published on December 31, 2025, due to receipt of a significant adverse comment. The Withdrawal of direct final rule is currently on public inspection and will be published on March 2, 2026; however the withdrawal is effective February 26, 2026. This action confirms that the decreased assessment rate proposed for March 1, 2026, will not take effect, and the assessment will revert to the prev"
-        },
-        {
-          "title": "CSMS # 67890700 - GUIDANCE: Mandatory Electronic Submission of Ocean Cargo Manifests via ACE for U.S. Virgin Islands Ports of Entry (Additional Information for TIN # 67154332)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40bee0c",
-          "pub_date": "Fri, 27 Feb 2026 14:00:21 -0500",
-          "guid": "67890700",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67890700 - GUIDANCE: Mandatory Electronic Submission of Ocean Cargo Manifests via ACE for U.S. Virgin Islands Ports of Entry (Additional Information for TIN # 67154332) On March 7, 2026, U.S. Customs and Border Protection (CBP), U.S. Virgin Islands (U.S.V.I.) St. Thomas Area Port will implement mandatory electronic submission of Ocean cargo manifests through the Automated Commercial Environment (ACE) at all U.S.V.I. ports of entry: St. Thomas, St. Croix, and St. John. This requirement applies to carriers, importing carriers, vessel agents, brokers, importers, freight forwarders, and other interested trade parties. CBP has successfully completed testing "
-        },
-        {
-          "title": "CSMS # 67856863 - ACE Foreign Trade Zone (FTZ) CATAIR Document Updated on CBP.gov: FT40 (Record Processing)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40b69df",
-          "pub_date": "Tue, 24 Feb 2026 17:53:19 -0500",
-          "guid": "67856863",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67856863 - ACE Foreign Trade Zone (FTZ) CATAIR Document Updated on CBP.gov: FT40 (Record Processing) U.S. Customs and Border Protection (CBP) has updated the Foreign Trade Zone CATAIR document in the \u201cChapters: Current Capabilities\u201d section in CBP\u2019s CATAIR webpage . Change: FT40 (Record Processing) Updated the FT record number for Country of Export and Foreign Load Port descriptions For questions, please email crem@cbp.dhs.gov ."
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Daily News 10 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_793",
-            "pub_date": "Fri, 10 Apr 2026 09:39:56 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_793",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 10 Apr 2026 Commission welcomes the fully operational Entry/Exit System Today marks a significant milestone in European border security as the Entry/Exit System (EES) becom..."
-          },
-          {
-            "title": "Speech by Commissioner Albuquerque at Financial and Capital Market Competitiveness Seminar, in Helsinki",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_792",
-            "pub_date": "Fri, 10 Apr 2026 09:03:22 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_792",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Speech Helsinki, 10 Apr 2026 Good morning, distinguished ministers, ladies and gentlemen. First of all, I would like to thank Jyrki and his team at Nordea for bringing us together today. ..."
-          },
-          {
-            "title": "Remarks by Commissioner Dombrovskis at the dialogue on fiscal rules at the European Parliament's ECON Committee",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_788",
-            "pub_date": "Thu, 09 Apr 2026 09:17:13 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_788",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Speech Brussels, 09 Apr 2026 Thank you Chair, honourable Members. Good morning everyone. It's good to return to this House for today's exchange. It comes at an opportune moment, when the..."
-          },
-          {
-            "title": "Daily News 09 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_787",
-            "pub_date": "Thu, 09 Apr 2026 08:39:23 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_787",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 09 Apr 2026 Commission invests close to \u20ac400 million for postdoctoral researchers Today, the European Commission opens the 2026 call for the Marie Sk\u0142odowska-Curie Actions ..."
-          },
-          {
-            "title": "Commission invests close to \u20ac400 million for postdoctoral researchers",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_785",
-            "pub_date": "Wed, 08 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_785",
-            "category": "POLICY_AREA=ECMY,RESINSC,YOUTH",
-            "description": "European Commission Press release Brussels, 09 Apr 2026 Today, the European Commission opens the 2026 call for the Marie Sk\u0142odowska-Curie Actions (MSCA) Postdoctoral Fellowships, with a budget of \u20ac399.05 million. These fellowships support researchers holding a PhD to carry out their research activities abroad and acquire new skills in different disciplines and sectors. Researchers will benefit by working with leading scientific teams, contributing to the EU's competitiveness through their cutting-edge research."
-          },
-          {
-            "title": "Speech by Commissioner Kadis at the \u201cClimate Action in the Eastern Mediterranean and Middle East: Regional Cooperation Empowered by Science and Innovation\u201d Conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_786",
-            "pub_date": "Wed, 08 Apr 2026 13:22:03 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_786",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Nicosia, 08 Apr 2026 Excellencies, Distinguished guests, Ladies and gentlemen, First, I would like to congratulate the Cyprus Institute, the EMME Secretariat and the Deputy Ministry..."
-          },
-          {
-            "title": "Leaders' statement on the two-week ceasefire concluded between the United States and Iran*",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_784",
-            "pub_date": "Wed, 08 Apr 2026 11:11:45 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_784",
-            "category": "POLICY_AREA=HREXTRELS",
-            "description": "European Commission Statement Brussels, 09 Apr 2026 This statement has been endorsed by President Macron, Prime Minister Meloni, Chancellor Merz, Prime Minister Starmer, Prime Minister Albanese, Prime Minister Ca..."
-          },
-          {
-            "title": "Commission offers 40,000 DiscoverEU free travel passes to young people",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_783",
-            "pub_date": "Wed, 08 Apr 2026 07:49:27 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_783",
-            "category": "POLICY_AREA=TRANSPORT,CULTMED,YOUTH",
-            "description": "European Commission Press release Brussels, 08 Apr 2026 Today, the European Commission opens applications for a new DiscoverEU round, offering thousands of young people aged 18 the chance to explore Europe by train and for free. The call opens today at 12:00 CET and closes on 22 April 2026 at 12:00 CET, leading up to the launch of the European Youth Week 2026."
-          },
-          {
-            "title": "Daily News 08 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_782",
-            "pub_date": "Wed, 08 Apr 2026 07:39:16 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_782",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 08 Apr 2026 Commission offers 40,000 DiscoverEU free travel passes to young people Today, the European Commission opens applications for a new DiscoverEU round, offering th..."
-          },
-          {
-            "title": "Joint press release by the Commission and the Kingdom of Morocco on the launch of a Digital Dialogue to strengthen strategic cooperation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_781",
-            "pub_date": "Tue, 07 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_781",
-            "category": "POLICY_AREA=DIGAG,TECH",
-            "description": "European Commission Press release Brussels, 08 Apr 2026 Today, the EU and the Kingdom of Morocco strengthened their relationship as strategic partners in the digital field by launching the EU-Morocco Digital Dialogue."
+            "title": "Commission welcomes political agreement on new EU steel measure",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_803",
+            "pub_date": "Mon, 13 Apr 2026 13:23:32 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_803",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Press release Brussels, 13 Apr 2026 The European Commission welcomes the political agreement reached today between the European Parliament and Council on the measure to protect the EU steelmaking sector against global overcapacity."
           }
         ],
         "errors": []
