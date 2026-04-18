@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T07:05:03+00:00",
+  "generated_at": "2026-04-18T06:50:05+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-07660",
+          "publication_date": "2026-04-20",
+          "title": "Disposable Aluminum Containers, Pans, Trays, and Lids From the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07660/disposable-aluminum-containers-pans-trays-and-lids-from-the-peoples-republic-of-china-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07659",
+          "publication_date": "2026-04-20",
+          "title": "Disposable Aluminum Containers, Pans, Trays, and Lids From the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07659/disposable-aluminum-containers-pans-trays-and-lids-from-the-peoples-republic-of-china-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07627",
+          "publication_date": "2026-04-20",
+          "title": "Agency Information Collection Activities; Approval of a New Information Collection Request: Crash Risks by Commercial Motor Vehicle (CMV) Driver Schedules",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07627/agency-information-collection-activities-approval-of-a-new-information-collection-request-crash",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-07611",
+          "publication_date": "2026-04-20",
+          "title": "Oleoresin Paprika From India; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07611/oleoresin-paprika-from-india-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-07536",
           "publication_date": "2026-04-17",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06678",
-          "publication_date": "2026-04-07",
-          "title": "Carbon and Alloy Steel Wire Rod From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06678/carbon-and-alloy-steel-wire-rod-from-the-republic-of-korea-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06649",
-          "publication_date": "2026-04-06",
-          "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06647",
-          "publication_date": "2026-04-06",
-          "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06580",
-          "publication_date": "2026-04-06",
-          "title": "Certain Display Devices, Streaming Players, and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/06/2026-06580/certain-display-devices-streaming-players-and-components-thereof-notice-of-institution-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Commission awards \u20ac180 million tender for sovereign cloud to four European providers",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_833",
-            "pub_date": "Thu, 16 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_833",
-            "category": "POLICY_AREA=DIGAG,TECH",
-            "description": "European Commission Press release Brussels, 17 Apr 2026 The European Commission is strengthening the European Union's digital sovereignty by awarding a tender that allows EU institutions, bodies, offices and agencies (Union entities) to procure sovereign cloud services for up to \u20ac180 million over 6 years."
-          },
-          {
-            "title": "Opening speech by Commissioner Hansen at the 20 Years Anniversary Conference of the European State Forest Association",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_835",
-            "pub_date": "Thu, 16 Apr 2026 15:04:30 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_835",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Speech Brussels, 16 Apr 2026 I am pleased to be here today with you to celebrate our beautiful European forests. For the past 20 years, I see EUSTAFOR's valuable work in actively contributi..."
-          },
-          {
-            "title": "Speech by Commissioner Micallef at the EU Sport Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_832",
-            "pub_date": "Thu, 16 Apr 2026 10:55:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_832",
-            "category": "POLICY_AREA=SPORT",
-            "description": "European Commission Speech Paphos, 16 Apr 2026 Dear friends of sport, sport organisations, federations, coaches, athletes, and public authorities, Good morning. It is a pleasure to open this second day of th..."
-          },
-          {
-            "title": "Second meeting of Special Panel to advise President von der Leyen on child online safety",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_831",
-            "pub_date": "Thu, 16 Apr 2026 10:17:18 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_831",
-            "category": "POLICY_AREA=DIGAG,TECH",
-            "description": "European Commission Press release Brussels, 16 Apr 2026 Today, the Special Panel on child online safety advising President von der Leyen on child online safety, convened for a second meeting."
-          },
-          {
-            "title": "Introductory remarks by Commissioner Hoekstra at an exchange of views in the Chamber of Deputies of Luxembourg",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_830",
-            "pub_date": "Thu, 16 Apr 2026 10:01:41 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_830",
-            "category": "POLICY_AREA=CLIMACTION",
-            "description": "European Commission Speech Luxembourg, 16 Apr 2026 Thank you very much for your kind words, dear Chair, Honorables Deput\u00e9s, Ladies and Gentlemen, Thank you for having the opportunity to be here with you today. I..."
-          },
-          {
-            "title": "Over 10 million workers trained under the Pact for Skills",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_829",
-            "pub_date": "Thu, 16 Apr 2026 08:18:16 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_829",
-            "category": "POLICY_AREA=ESAI",
-            "description": "European Commission Press release Brussels, 16 Apr 2026 Over 10 million people, including 3.9 million in 2025 alone, have benefited from upskilling initiatives under the Pact for Skills since its launch in 2020, according to the European Commission annual survey."
-          },
-          {
-            "title": "Daily News 16 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_828",
-            "pub_date": "Thu, 16 Apr 2026 07:57:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_828",
+            "title": "Daily News 17 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_840",
+            "pub_date": "Fri, 17 Apr 2026 08:25:28 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_840",
             "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 16 Apr 2026 Commission proposes measures to Google on sharing search engine data with third parties under Digital Markets Act The European Commission has sent preliminary f..."
-          },
-          {
-            "title": "Commission approves Bulgarian, German and Slovenian State aid schemes providing temporary electricity price relief for energy-intensive companies",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_815",
-            "pub_date": "Wed, 15 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_815",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 16 Apr 2026 The European Commission has approved State aid schemes to provide temporary electricity price relief for energy-intensive companies in Bulgaria, Germany and Slo..."
-          },
-          {
-            "title": "Commission updates EU competition rules for technology licensing agreements",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_809",
-            "pub_date": "Wed, 15 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_809",
-            "category": "POLICY_AREA=COMPETY,TECH",
-            "description": "European Commission Press release Brussels, 16 Apr 2026 The European Commission has today adopted the revised Technology Transfer Block Exemption Regulation ('TTBER') and Guidelines on the application of Article 101 ..."
-          },
-          {
-            "title": "Welcome speech by Commissioner Kubilius at the Conference \"Europe and Central Europe at a global turning point\" (recorded)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_811",
-            "pub_date": "Wed, 15 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_811",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Tallinn, 16 Apr 2026 Dear Friends from Estonia, Saxony and Central Europe. Central Europe is the heart of Europe. Geographically, and Politically and Metaphorically. Once cut off fr..."
+            "description": "European Commission Daily news Brussels, 17 Apr 2026 EU and South Korea strengthen trade and technology cooperation Today, European Commissioner for Trade and Economic Security Maro\u0161 \u0160ef\u010dovi\u010d and South Korean Mini..."
           }
         ],
         "errors": []
