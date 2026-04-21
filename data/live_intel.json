@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T07:14:46+00:00",
+  "generated_at": "2026-04-21T07:06:13+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-07753",
+          "publication_date": "2026-04-21",
+          "title": "Recommended Modifications in the Harmonized Tariff Schedule",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/21/2026-07753/recommended-modifications-in-the-harmonized-tariff-schedule",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07748",
+          "publication_date": "2026-04-21",
+          "title": "Importation of Fresh Leaves and Stems of Glasswort From Israel Into the United States",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/21/2026-07748/importation-of-fresh-leaves-and-stems-of-glasswort-from-israel-into-the-united-states",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07693",
+          "publication_date": "2026-04-21",
+          "title": "Passenger Vehicle and Light Truck (PVLT) Tires From China; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/21/2026-07693/passenger-vehicle-and-light-truck-pvlt-tires-from-china-scheduling-of-expedited-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-07684",
+          "publication_date": "2026-04-21",
+          "title": "Wood Mouldings and Millwork Products From China, Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/21/2026-07684/wood-mouldings-and-millwork-products-from-china-scheduling-of-expedited-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-07660",
           "publication_date": "2026-04-20",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06784/citric-acid-and-certain-citrate-salts-from-colombia-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06783",
-          "publication_date": "2026-04-08",
-          "title": "Rescission of Antidumping and Countervailing Duty Administrative Reviews; Correction",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06783/rescission-of-antidumping-and-countervailing-duty-administrative-reviews-correction",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06782",
-          "publication_date": "2026-04-08",
-          "title": "Certain Cold-Drawn Mechanical Tubing of Carbon and Alloy Steel From Switzerland: Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06782/certain-cold-drawn-mechanical-tubing-of-carbon-and-alloy-steel-from-switzerland-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06738",
-          "publication_date": "2026-04-08",
-          "title": "Forged Steel Fluid End Blocks: Preliminary Results of Antidumping Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06738/forged-steel-fluid-end-blocks-preliminary-results-of-antidumping-duty-administrative-review-2024",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-06689",
-          "publication_date": "2026-04-07",
-          "title": "Oil Country Tubular Goods From Austria, Taiwan, and United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/07/2026-06689/oil-country-tubular-goods-from-austria-taiwan-and-united-arab-emirates-institution-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,30 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68401616 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413b9d0",
+          "pub_date": "Mon, 20 Apr 2026 10:31:40 -0400",
+          "guid": "68401616",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68401616 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov U.S. Customs and Border Protection (CBP) has published an updated ACE Entry Summary Error Dictionary. The updated version includes a new validation error that occurs when a filer attempts to file a post-summary correction (PSC) for an entry for which a Consolidated Administration and Processing of Entries (CAPE) declaration has been submitted. Below are additional details about the new error: Condition Code : 864 Narrative Text : PSC NOT ALLOWED \u2013 REFUND REQUESTED Explanation : PSC is not allowed due to a CAPE Refund in process The updated error dictionary is available in the"
+        },
+        {
+          "title": "CSMS # 68397097 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413a829",
+          "pub_date": "Mon, 20 Apr 2026 09:39:35 -0400",
+          "guid": "68397097",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68397097 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov U.S. Customs and Border Protection (CBP) has published an updated ACE Entry Summary Error Dictionary. The updated version includes a new validation error that occurs when a filer attempts to file a post-summary correction (PSC) for an entry for which a Consolidated Administration and Processing of Entries (CAPE) declaration has been submitted. Below are additional details about the new error: Condition Code : 864 Narrative Text : PSC NOT ALLOWED \u2013 REFUND REQUESTED Explanation : PSC is not allowed due to a CAPE Refund in process The updated error dictionary is available in the"
+        },
+        {
+          "title": "CSMS # 68396594 - AVAILABLE NOW \u2013 Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413a632",
+          "pub_date": "Mon, 20 Apr 2026 07:18:51 -0400",
+          "guid": "68396594",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68396594 - AVAILABLE NOW \u2013 Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds U.S. Customs and Border Protection (CBP) has activate d the first phase of the Consolidated Administration and Processing of Entries (CAPE) tool in the Automated Commercial Environment Secure Data Portal (ACE Portal) . Importers and authorized customs broker s can now file their CAPE Declarations through their ACE Portal accounts. CAPE is designed to consolidate refunds of IEEPA duties including interest rather than processing refunds on an entry-by-entry basis. CAPE Phase 1 is limited to certain unliquidated entries and certain entries within 80 da"
+        },
         {
           "title": "CSMS # 68370692 - Updated Guidance #2: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4134104",
@@ -1046,30 +1070,6 @@
           "guid": "68020465",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68020465 - REMINDER: Production Deployment Date for FDA Supplemental Guide v. 2.6 was March 10, 2026 On Tuesday, March 10, 2026, the changes related to the U.S. Food and Drug Administration (FDA) ACE Supplemental Guide (SG) Version 2.6 were deployed to the CBP PRODUCTION environment. The SG 2.6 was moved from the DRAFT CHAPTERS: Future Capabilities section to the Implementation Guide Ready for Coding section in the PGA documents section on CBP.gov: ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) Refer to the Change Log in the document for all changes. The following FDA documents associated with this deploymen"
-        },
-        {
-          "title": "CSMS # 68000541 - NCSD March and April 2026 Webinars",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d9b1d",
-          "pub_date": "Tue, 10 Mar 2026 15:22:21 -0400",
-          "guid": "68000541",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68000541 - NCSD March and April 2026 Webinars The National Commodity Specialist Division, Office of Trade, is excited to present the next round of approximately 30+ commodity-specific, educational webinars to support our internal and external stakeholders. This year, we intend to focus our webinars on the FUTURE OF TRADE: INNOVATION AND EMERGING TECHNOLOGY --dedicated to rapidly changing technology in addition to providing general classification guidance to facilitate legitimate trade. Beginning March through September 2026, the webinars will commence at 1:30pm Eastern time for approximately one hour, except for Sept 3rd, scheduled at 11:30am Eastern. W"
-        },
-        {
-          "title": "CSMS # 67987839 - ACE Appendix Partner Government Agency (PGA) Document Updated on CBP.gov",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d697f",
-          "pub_date": "Mon, 09 Mar 2026 14:00:02 -0400",
-          "guid": "67987839",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67987839 - ACE Appendix Partner Government Agency (PGA) Document Updated on CBP.gov U.S. Customs and Border Protection (CBP) has updated the Appendix Partner Government Agency (PGA) document in the \u201cPGA Message Set Documents\u201d section in CBP\u2019s CATAIR webpag e. CBP has updated the following sections: For FDA - PG23 Affirmation of Compliance Codes (updated for Tobacco) For DEA - PG01 Agency Program Code (added for encapsulating machines) Corrected PG01 Agency Programs for NHTSA/NMFS Please review the Appendix PGA table of changes for details. For questions, please email crem@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 67986568 - Electronic Export Manifest (EEM) \u2013 Implementation Guide (IG) Updates",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40d6488",
-          "pub_date": "Mon, 09 Mar 2026 12:38:55 -0400",
-          "guid": "67986568",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 67986568 - Electronic Export Manifest (EEM) \u2013 Implementation Guide (IG) Updates Electronic Export Manifest (EEM) will be implementing an update to the ACE CATAIR - Appendix B (Import) and ACE AESTIR \u2013 Appendix C (Export), removing Burma (BU) as a valid Country Code and retaining Myanmar (MM) as a valid Country Code."
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Daily News 17 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_840",
-            "pub_date": "Fri, 17 Apr 2026 08:25:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_840",
+            "title": "Speaking notes by Commissioner Kubilius in the structured dialogue with the European Parliament ITRE Committee",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_851",
+            "pub_date": "Mon, 20 Apr 2026 14:25:53 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_851",
+            "category": "POLICY_AREA=SPACE,DEFENCE",
+            "description": "European Commission Speech Brussels, 20 Apr 2026 Honourable Members, This is a very timely dialogue. We are living in a very rapidly changing geopolitical environment, with new threats and challenges coming ea..."
+          },
+          {
+            "title": "Speech by Commissioner Kos at the Structured Dialogue with the European Parliament",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_850",
+            "pub_date": "Mon, 20 Apr 2026 14:23:06 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_850",
+            "category": "POLICY_AREA=ENLNEIG",
+            "description": "European Commission Speech Brussels, 20 Apr 2026 Dear Members of the European Parliament, Thank you for this opportunity to exchange views today. I would like to take this opportunity to take stock of where we..."
+          },
+          {
+            "title": "Keynote speech by Commissioner Kubilius to the General Assembly of the Alliance for zero-emission aviation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_848",
+            "pub_date": "Mon, 20 Apr 2026 12:05:08 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_848",
+            "category": "POLICY_AREA=SPACE,DEFENCE",
+            "description": "European Commission Speech Brussels, 20 Apr 2026 Good Afternoon, I want to start with some inspiration from history. In Lithuania we have two historical national heroes, two famous pilots Steponas Darius and S..."
+          },
+          {
+            "title": "Daily News 20 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_847",
+            "pub_date": "Mon, 20 Apr 2026 09:40:38 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_847",
             "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 17 Apr 2026 EU and South Korea strengthen trade and technology cooperation Today, European Commissioner for Trade and Economic Security Maro\u0161 \u0160ef\u010dovi\u010d and South Korean Mini..."
+            "description": "European Commission Daily news Brussels, 20 Apr 2026 EU and Bangladesh pave the way for a closer partnership and more cooperation Today, High Representative for Foreign Affairs and Security Policy and Vice-Preside..."
+          },
+          {
+            "title": "Joint statement by Commission, WHO Regional Office for Europe, and UNICEF Regional Office for Europe and Central Asia, celebrating the progress vaccination has made to protect public health for the past two decades",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_846",
+            "pub_date": "Mon, 20 Apr 2026 07:40:56 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_846",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Statement Brussels, 20 Apr 2026 As the 20th European Immunisation Week kicks off today, we celebrate the incredible progress vaccination has made to protect people's health over the past two decades and call for bold leadership and enhanced commitment to sustain this progress in the years to come."
+          },
+          {
+            "title": "Commission approves \u20ac411 million Croatian capital injection into development bank HBOR",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_778",
+            "pub_date": "Sun, 19 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_778",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Press release Brussels, 20 Apr 2026 The European Commission has approved, under EU State aid rules, a \u20ac411 million capital injection by Croatia's government into the national development bank Hrva..."
+          },
+          {
+            "title": "Commissioner Kadis delivers a speech via video message at the Global Sustainable Islands Summit 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_843",
+            "pub_date": "Sun, 19 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_843",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Gran Canaria, 20 Apr 2026 Ladies and gentlemen, distinguished guests, dear friends Even though I cannot join you in person, I am honoured to address the 2026 edition of the Global Sustai..."
+          },
+          {
+            "title": "Keynote speech by Commissioner Dombrovskis at Economic Forum in Hanover",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_845",
+            "pub_date": "Sun, 19 Apr 2026 14:04:22 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_845",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Speech Hannover, 19 Apr 2026 Meine Damen und Herren, Thank you for the invitation to join you today. It is a pleasure to be here in Hannover, a city that, in many ways, represents the best ..."
+          },
+          {
+            "title": "Commission statement on technical meetings with the incoming Hungarian Government",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_844",
+            "pub_date": "Sat, 18 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_844",
+            "category": "POLICY_AREA=BUDFINPROG,JFRC,REGIONAL,STRUREF,RECOVERY,NGEU,DEMOCRACY",
+            "description": "European Commission Statement Brussels, 19 Apr 2026 On 17 and 18 April, a European Commission high-level delegation held technical meetings in Budapest with senior representatives from the incoming Hungarian Gove..."
+          },
+          {
+            "title": "Speech by Commissioner Kubilius at the Annual Conference of the Commission Legal Service: \"Towards a Genuine European Defence Union: the legal landscape of EU defence policy\"",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_841",
+            "pub_date": "Fri, 17 Apr 2026 08:47:07 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_841",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Brussels, 17 Apr 2026 Towards a Genuine European Defence Union: the legal landscape of EU defence policy As a still young but experienced politician, I'm excited to see so many lawye..."
           }
         ],
         "errors": []
