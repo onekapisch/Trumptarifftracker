@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T07:06:13+00:00",
+  "generated_at": "2026-04-22T07:06:08+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68402148 - New ACE Drawback Error Validations Set to Deploy to PROD April 21, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413bbe4",
+          "pub_date": "Tue, 21 Apr 2026 10:00:53 -0400",
+          "guid": "68402148",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68402148 - New ACE Drawback Error Validations Set to Deploy to PROD April 21, 2026 U.S. Customs and Border Protection will deploy two new error messages for Drawback to the Automated Commercial Environment (ACE) Production (PROD) environment on Tuesday, April 21, 2026. These new validations for FD12 and FD13 support proclamations related to Medium- and Heavy-Duty Vehicle Parts (MHDVPs) and Automobile Parts (products of South Korea) applicable to drawback claims Direct Identification Manufacturing Drawback under 19 U.S.C. 1313(a) and Substitution Manufacturing Drawback Claims under 19 U.S.C. 1313(b). The filer will receive the error code FD12 232 CLM NOT"
+        },
+        {
           "title": "CSMS # 68401616 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413b9d0",
           "pub_date": "Mon, 20 Apr 2026 10:31:40 -0400",
@@ -1062,14 +1070,6 @@
           "guid": "68034342",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68034342 - An updated Drug Enforcement Agency (DEA) DRAFT Implementation Guide (IG) is now available The Drug Enforcement Agency (DEA) has updated its DRAFT implementation guide. The version 2.7 dated January 14, 2026, replaces version 2.7 dated January 5, 2026, and can be found in the \"Draft Chapters: Future Capabilities\" section of CBP.gov: https://www.cbp.gov/trade/automated/catair The updates made in the January 14, 2026, version reflect clarification language made based on feedback from the trade community. For questions about the implementation guide, please reach out to DEA at: DRI@dea.gov Related Message Number(s): 67396599"
-        },
-        {
-          "title": "CSMS # 68020465 - REMINDER: Production Deployment Date for FDA Supplemental Guide v. 2.6 was March 10, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40de8f1",
-          "pub_date": "Thu, 12 Mar 2026 09:57:14 -0400",
-          "guid": "68020465",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68020465 - REMINDER: Production Deployment Date for FDA Supplemental Guide v. 2.6 was March 10, 2026 On Tuesday, March 10, 2026, the changes related to the U.S. Food and Drug Administration (FDA) ACE Supplemental Guide (SG) Version 2.6 were deployed to the CBP PRODUCTION environment. The SG 2.6 was moved from the DRAFT CHAPTERS: Future Capabilities section to the Implementation Guide Ready for Coding section in the PGA documents section on CBP.gov: ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) Refer to the Change Log in the document for all changes. The following FDA documents associated with this deploymen"
         }
       ],
       "errors": []
@@ -1079,6 +1079,46 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Press Conference following the Informal Conference of Transport Ministers on energy crisis",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_858",
+            "pub_date": "Tue, 21 Apr 2026 13:30:42 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_858",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 21 Apr 2026 Ladies and gentlemen, This morning, we held constructive discussions,on the ongoing crisis in the Middle East, and its impact on transport across Europe, affect..."
+          },
+          {
+            "title": "Commission announces winners of 2026 European Capitals of Inclusion and Diversity Award",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_857",
+            "pub_date": "Tue, 21 Apr 2026 12:45:19 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_857",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Press release Brussels, 21 Apr 2026 Ahead of the kick-off of EU Diversity Month tomorrow, the European Commission has announced the winners of the fifth edition of the European Capitals of Inclusion and Diversity Award. As a key action of the Union of Equality, the Award celebrates towns, cities, and regions across the EU that lead by example in fostering inclusive policies and driving diversity."
+          },
+          {
+            "title": "EU, Ukraine and Canada to co-host high-level meeting on returning Ukrainian children",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_856",
+            "pub_date": "Tue, 21 Apr 2026 12:12:46 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_856",
+            "category": "POLICY_AREA=ENLNEIG,HREXTRELS",
+            "description": "European Commission Press release Brussels, 21 Apr 2026 The EU, together with Ukraine and Canada will co-host a high-level meeting of the International Coalition for the Return of Ukrainian Children on 11 May in Brussels."
+          },
+          {
+            "title": "Daily News 21 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_854",
+            "pub_date": "Tue, 21 Apr 2026 09:18:21 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_854",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 21 Apr 2026 Commission clears Lisbon railway line bid under Foreign Subsidies Regulation, subject to conditions The European Commission has authorised Metropolitano de Lisb..."
+          },
+          {
+            "title": "Commission clears Lisbon railway line bid under Foreign Subsidies Regulation, subject to conditions",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_853",
+            "pub_date": "Tue, 21 Apr 2026 06:56:24 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_853",
+            "category": "POLICY_AREA=COMPETY,BUSINDUS",
+            "description": "European Commission Press release Brussels, 21 Apr 2026 The European Commission has authorised Metropolitano de Lisboa to move forward with awarding the contract for the construction and design of the Lisbon \u201cViolet\u201d metro line, subject to conditions under the Foreign Subsidies Regulation (FSR), following a change by the consortium that avoids any distortion caused by foreign subsidies."
+          },
           {
             "title": "Speaking notes by Commissioner Kubilius in the structured dialogue with the European Parliament ITRE Committee",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_851",
@@ -1118,46 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_846",
             "category": "POLICY_AREA=HEALTHPOL",
             "description": "European Commission Statement Brussels, 20 Apr 2026 As the 20th European Immunisation Week kicks off today, we celebrate the incredible progress vaccination has made to protect people's health over the past two decades and call for bold leadership and enhanced commitment to sustain this progress in the years to come."
-          },
-          {
-            "title": "Commission approves \u20ac411 million Croatian capital injection into development bank HBOR",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_778",
-            "pub_date": "Sun, 19 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_778",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 20 Apr 2026 The European Commission has approved, under EU State aid rules, a \u20ac411 million capital injection by Croatia's government into the national development bank Hrva..."
-          },
-          {
-            "title": "Commissioner Kadis delivers a speech via video message at the Global Sustainable Islands Summit 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_843",
-            "pub_date": "Sun, 19 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_843",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Gran Canaria, 20 Apr 2026 Ladies and gentlemen, distinguished guests, dear friends Even though I cannot join you in person, I am honoured to address the 2026 edition of the Global Sustai..."
-          },
-          {
-            "title": "Keynote speech by Commissioner Dombrovskis at Economic Forum in Hanover",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_845",
-            "pub_date": "Sun, 19 Apr 2026 14:04:22 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_845",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Speech Hannover, 19 Apr 2026 Meine Damen und Herren, Thank you for the invitation to join you today. It is a pleasure to be here in Hannover, a city that, in many ways, represents the best ..."
-          },
-          {
-            "title": "Commission statement on technical meetings with the incoming Hungarian Government",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_844",
-            "pub_date": "Sat, 18 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_844",
-            "category": "POLICY_AREA=BUDFINPROG,JFRC,REGIONAL,STRUREF,RECOVERY,NGEU,DEMOCRACY",
-            "description": "European Commission Statement Brussels, 19 Apr 2026 On 17 and 18 April, a European Commission high-level delegation held technical meetings in Budapest with senior representatives from the incoming Hungarian Gove..."
-          },
-          {
-            "title": "Speech by Commissioner Kubilius at the Annual Conference of the Commission Legal Service: \"Towards a Genuine European Defence Union: the legal landscape of EU defence policy\"",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_841",
-            "pub_date": "Fri, 17 Apr 2026 08:47:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_841",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Brussels, 17 Apr 2026 Towards a Genuine European Defence Union: the legal landscape of EU defence policy As a still young but experienced politician, I'm excited to see so many lawye..."
           }
         ],
         "errors": []
@@ -1201,12 +1201,6 @@
             "link": "https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy",
             "updated": "2026-03-23T16:29:25+00:00",
             "summary": "UK steel producers and thousands of steel workers in Wales will benefit from a landmark Steel Strategy."
-          },
-          {
-            "title": "Trade Minister Speech at Chatham House",
-            "link": "https://www.gov.uk/government/speeches/trade-minister-speech-at-chatham-house",
-            "updated": "2026-03-19T16:21:17+00:00",
-            "summary": "UK <mark>Trade</mark> Minister Chris Bryant gives a speech at the Chatham House Global <mark>Trade</mark> Conference.\u2026"
           }
         ],
         "errors": []
