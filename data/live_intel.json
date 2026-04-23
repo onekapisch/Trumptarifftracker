@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T07:06:08+00:00",
+  "generated_at": "2026-04-23T07:07:52+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,33 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-07838",
+          "publication_date": "2026-04-22",
+          "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Sparrows Point Container Terminal Project in Baltimore County, Maryland",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/22/2026-07838/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-07820",
+          "publication_date": "2026-04-22",
+          "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/22/2026-07820/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-07779",
+          "publication_date": "2026-04-22",
+          "title": "Certain Light-Based Physiological Measurement Devices and Components Thereof; Notice of a Commission Determination Not To Review a Combined Recommended Determination on Modification and Enforcement Initial Determination; Termination of Proceeding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/22/2026-07779/certain-light-based-physiological-measurement-devices-and-components-thereof-notice-of-a-commission",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-07753",
           "publication_date": "2026-04-21",
@@ -529,15 +556,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-07012",
-          "publication_date": "2026-04-10",
-          "title": "Privacy Act of 1974: System of Records",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07012/privacy-act-of-1974-system-of-records",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-07008",
           "publication_date": "2026-04-10",
           "title": "Certain Hot-Rolled Steel Flat Products From Japan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
@@ -599,15 +617,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06998/prestressed-concrete-steel-wire-strand-from-india-final-results-of-the-expedited-fourth-sunset",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06976",
-          "publication_date": "2026-04-10",
-          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Request for Duty-Free Entry of Scientific Instrument or Apparatus",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06976/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-06945",
@@ -734,15 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06843/oil-country-tubular-goods-octg-from-china-scheduling-of-expedited-five-year-reviews",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-06784",
-          "publication_date": "2026-04-08",
-          "title": "Citric Acid and Certain Citrate Salts From Colombia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/08/2026-06784/citric-acid-and-certain-citrate-salts-from-colombia-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68427066 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) 309 Truck Export Customs Manifest, and CUSREP Conveyance Report",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4141d3a",
+          "pub_date": "Wed, 22 Apr 2026 14:55:19 -0400",
+          "guid": "68427066",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68427066 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) 309 Truck Export Customs Manifest, and CUSREP Conveyance Report U.S. Customs and Border Protection has updated the Electronic Export Manifest (EEM) Automated Commercial Environment (ACE) Exports Truck 309 Customs Manifest, and CUSREP Conveyance Report. Updates implemented: 309 Customs Manifest - Updated VID09 in Data Element Summary to \u201cNot Used\u201d CUSREP Conveyance Report - Removed Code 1: Cancellation code in Segment BGM Update language from \u201864\u2019 Verification to \u201864\u2019 Enroute/Departure in Segment LOC Updated Code 22 and Code 23 description in Data Element Sum"
+        },
         {
           "title": "CSMS # 68402148 - New ACE Drawback Error Validations Set to Deploy to PROD April 21, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413bbe4",
@@ -1062,14 +1070,6 @@
           "guid": "68076304",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68076304 - REMINDER: New Carnet Data Elements Set to Deploy in ACE Truck Manifest on March 24 On March 24, 2026, U.S. Customs and Border Protection (CBP) will enhance the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. This update includes electronic data interchange (EDI) impacts. For more information on these changes, review the trade user information notice, available here: ACE Truck Manifest Enhancements - New Carnet Data Elements"
-        },
-        {
-          "title": "CSMS # 68034342 - An updated Drug Enforcement Agency (DEA) DRAFT Implementation Guide (IG) is now available",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40e1f26",
-          "pub_date": "Fri, 13 Mar 2026 11:14:48 -0400",
-          "guid": "68034342",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68034342 - An updated Drug Enforcement Agency (DEA) DRAFT Implementation Guide (IG) is now available The Drug Enforcement Agency (DEA) has updated its DRAFT implementation guide. The version 2.7 dated January 14, 2026, replaces version 2.7 dated January 5, 2026, and can be found in the \"Draft Chapters: Future Capabilities\" section of CBP.gov: https://www.cbp.gov/trade/automated/catair The updates made in the January 14, 2026, version reflect clarification language made based on feedback from the trade community. For questions about the implementation guide, please reach out to DEA at: DRI@dea.gov Related Message Number(s): 67396599"
         }
       ],
       "errors": []
@@ -1080,84 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Press Conference following the Informal Conference of Transport Ministers on energy crisis",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_858",
-            "pub_date": "Tue, 21 Apr 2026 13:30:42 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_858",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 21 Apr 2026 Ladies and gentlemen, This morning, we held constructive discussions,on the ongoing crisis in the Middle East, and its impact on transport across Europe, affect..."
+            "title": "Remarks by Executive Vice-President Ribera and Commissioner J\u00f8rgensen at the press conference on AccelerateEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_863",
+            "pub_date": "Wed, 22 Apr 2026 09:34:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_863",
+            "category": "POLICY_AREA=ENERGY,COMPETITIVE",
+            "description": "European Commission Speech Brussels, 22 Apr 2026 Executive Vice-President Ribera Allow me to start with a smart and short reminder. Today it is Earth Day. It is a day where we remind ourselves of the importanc..."
           },
           {
-            "title": "Commission announces winners of 2026 European Capitals of Inclusion and Diversity Award",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_857",
-            "pub_date": "Tue, 21 Apr 2026 12:45:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_857",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Press release Brussels, 21 Apr 2026 Ahead of the kick-off of EU Diversity Month tomorrow, the European Commission has announced the winners of the fifth edition of the European Capitals of Inclusion and Diversity Award. As a key action of the Union of Equality, the Award celebrates towns, cities, and regions across the EU that lead by example in fostering inclusive policies and driving diversity."
-          },
-          {
-            "title": "EU, Ukraine and Canada to co-host high-level meeting on returning Ukrainian children",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_856",
-            "pub_date": "Tue, 21 Apr 2026 12:12:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_856",
-            "category": "POLICY_AREA=ENLNEIG,HREXTRELS",
-            "description": "European Commission Press release Brussels, 21 Apr 2026 The EU, together with Ukraine and Canada will co-host a high-level meeting of the International Coalition for the Return of Ukrainian Children on 11 May in Brussels."
-          },
-          {
-            "title": "Daily News 21 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_854",
-            "pub_date": "Tue, 21 Apr 2026 09:18:21 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_854",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 21 Apr 2026 Commission clears Lisbon railway line bid under Foreign Subsidies Regulation, subject to conditions The European Commission has authorised Metropolitano de Lisb..."
-          },
-          {
-            "title": "Commission clears Lisbon railway line bid under Foreign Subsidies Regulation, subject to conditions",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_853",
-            "pub_date": "Tue, 21 Apr 2026 06:56:24 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_853",
-            "category": "POLICY_AREA=COMPETY,BUSINDUS",
-            "description": "European Commission Press release Brussels, 21 Apr 2026 The European Commission has authorised Metropolitano de Lisboa to move forward with awarding the contract for the construction and design of the Lisbon \u201cViolet\u201d metro line, subject to conditions under the Foreign Subsidies Regulation (FSR), following a change by the consortium that avoids any distortion caused by foreign subsidies."
-          },
-          {
-            "title": "Speaking notes by Commissioner Kubilius in the structured dialogue with the European Parliament ITRE Committee",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_851",
-            "pub_date": "Mon, 20 Apr 2026 14:25:53 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_851",
-            "category": "POLICY_AREA=SPACE,DEFENCE",
-            "description": "European Commission Speech Brussels, 20 Apr 2026 Honourable Members, This is a very timely dialogue. We are living in a very rapidly changing geopolitical environment, with new threats and challenges coming ea..."
-          },
-          {
-            "title": "Speech by Commissioner Kos at the Structured Dialogue with the European Parliament",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_850",
-            "pub_date": "Mon, 20 Apr 2026 14:23:06 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_850",
-            "category": "POLICY_AREA=ENLNEIG",
-            "description": "European Commission Speech Brussels, 20 Apr 2026 Dear Members of the European Parliament, Thank you for this opportunity to exchange views today. I would like to take this opportunity to take stock of where we..."
-          },
-          {
-            "title": "Keynote speech by Commissioner Kubilius to the General Assembly of the Alliance for zero-emission aviation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_848",
-            "pub_date": "Mon, 20 Apr 2026 12:05:08 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_848",
-            "category": "POLICY_AREA=SPACE,DEFENCE",
-            "description": "European Commission Speech Brussels, 20 Apr 2026 Good Afternoon, I want to start with some inspiration from history. In Lithuania we have two historical national heroes, two famous pilots Steponas Darius and S..."
-          },
-          {
-            "title": "Daily News 20 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_847",
-            "pub_date": "Mon, 20 Apr 2026 09:40:38 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_847",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 20 Apr 2026 EU and Bangladesh pave the way for a closer partnership and more cooperation Today, High Representative for Foreign Affairs and Security Policy and Vice-Preside..."
-          },
-          {
-            "title": "Joint statement by Commission, WHO Regional Office for Europe, and UNICEF Regional Office for Europe and Central Asia, celebrating the progress vaccination has made to protect public health for the past two decades",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_846",
-            "pub_date": "Mon, 20 Apr 2026 07:40:56 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_846",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Statement Brussels, 20 Apr 2026 As the 20th European Immunisation Week kicks off today, we celebrate the incredible progress vaccination has made to protect people's health over the past two decades and call for bold leadership and enhanced commitment to sustain this progress in the years to come."
+            "title": "Commission proposes actions to protect Europeans from the fossil energy crisis and accelerate the shift to clean, homegrown energy",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_629",
+            "pub_date": "Tue, 21 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_629",
+            "category": "POLICY_AREA=ENERGY,COMPETITIVE",
+            "description": "European Commission Press release Brussels, 22 Apr 2026 For the second time in less than five years, Europeans are paying the price of Europe's dependency on imported fossil fuels."
           }
         ],
         "errors": []
