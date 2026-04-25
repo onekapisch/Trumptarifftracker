@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T07:09:41+00:00",
+  "generated_at": "2026-04-25T06:54:34+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,33 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-08130",
+          "publication_date": "2026-04-27",
+          "title": "Certain Chassis and Subassemblies Thereof From the People's Republic of China: Final Determination of Covered Merchandise Inquiry",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/27/2026-08130/certain-chassis-and-subassemblies-thereof-from-the-peoples-republic-of-china-final-determination-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08129",
+          "publication_date": "2026-04-27",
+          "title": "Oil Country Tubular Goods From the People's Republic of China: Final Determination of Covered Merchandise Inquiry",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/27/2026-08129/oil-country-tubular-goods-from-the-peoples-republic-of-china-final-determination-of-covered",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08128",
+          "publication_date": "2026-04-27",
+          "title": "Circular Welded Carbon Steel Pipes and Tubes From Thailand: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/27/2026-08128/circular-welded-carbon-steel-pipes-and-tubes-from-thailand-preliminary-results-and-rescission-in",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "C2-2026-06647",
           "publication_date": "2026-04-24",
@@ -706,7 +733,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07008/certain-hot-rolled-steel-flat-products-from-japan-preliminary-results-and-rescission-in-part-of",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07005",
@@ -715,34 +742,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07005/certain-frozen-warmwater-shrimp-from-india-rescission-of-antidumping-duty-administrative-review-in",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07004",
-          "publication_date": "2026-04-10",
-          "title": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07004/carbon-and-alloy-steel-threaded-rod-from-india-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07001",
-          "publication_date": "2026-04-10",
-          "title": "Certain Hot-Rolled Steel Flat Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07001/certain-hot-rolled-steel-flat-products-from-the-republic-of-korea-preliminary-results-and-rescission",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-06925",
-          "publication_date": "2026-04-10",
-          "title": "Common Alloy Aluminum Sheet From the Republic of T\u00fcrkiye: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06925/common-alloy-aluminum-sheet-from-the-republic-of-trkiye-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
+          "term_hit": "section 232"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68448732 - Updated Guidance #3: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41471dc",
+          "pub_date": "Fri, 24 Apr 2026 14:09:25 -0400",
+          "guid": "68448732",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68448732 - Updated Guidance #3: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026 U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS #68096516, CSMS #68180454, and CSMS #68370692. This guidance serves as notice that the Department of Homeland Security (DHS) has approved an extension of the waiver, dated March 17, 2026, at the request of the Department of War (DOW). The waiver will be extended for a period of 90-days commencing on May 18, 2026 at 12 a.m. Thus, CBP has determined that to be compliant with the extended waiver, any covered product must be loaded onboard the relevant vessel b"
+        },
         {
           "title": "CSMS # 68439049 - Harmonized System Update (HSU) 2608",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4144c09",
@@ -1062,14 +1070,6 @@
           "guid": "68085169",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68085169 - ACE Manifest Modernization Release 1 (INT-060) is in Certification Environment for Testing and Scheduled to Deploy to Production on April 25, 2026 U.S. Customs and Border Protection is modernizing the Automated Commercial Environment (ACE) ocean, rail, and air manifest systems over several releases. The first release of this enhancement (INT-060) is a technical migration of back-end functionality. It will not directly affect the ACE user experience or Electronic Data Interchange (EDI) behavior. This first release of the manifest modernization enhancement is currently in the ACE certification environment (CERT). Trade software developers may s"
-        },
-        {
-          "title": "CSMS # 68083213 - Updated Document Image System (DIS) Implementation Guide is Available",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ede0d",
-          "pub_date": "Wed, 18 Mar 2026 10:21:35 -0400",
-          "guid": "68083213",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68083213 - Updated Document Image System (DIS) Implementation Guide is Available U.S. Customs and Border Protection (CBP) has updated the Automated Commercial Environment (ACE) Document Image System (DIS) Implementation Guide. The updated guide is available here: ACE DIS Implementation Guide . Two Document Label Codes were added for CBP related to the reauthorization of Preferential Trade Legislative (PTL) programs: African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP). One Document Label is for AGOA and the other is for Haiti. Please see the change l"
         }
       ],
       "errors": []
@@ -1079,6 +1079,22 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the press conference following the signing of a Memorandum of Understanding with the U.S. on critical minerals",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_886",
+            "pub_date": "Fri, 24 Apr 2026 12:55:18 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_886",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Speech Washington, DC, 24 Apr 2026 Good afternoon. I am glad to be back in Washington. With so much happening, it was the right moment to be here in person \u2013 even with our constant contact. I am ..."
+          },
+          {
+            "title": "EU and US launch strategic partnership on critical minerals",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_862",
+            "pub_date": "Thu, 23 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_862",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Press release Washington, DC, 24 Apr 2026 Today, the EU and US signed a Memorandum of Understanding (MoU) on a strategic partnership on critical minerals and agreed an EU-US Critical Minerals Action Plan."
+          },
           {
             "title": "Keynote speech by Commissioner Kubilius at the Conference \"Strengthening Resilience of the EU Eastern Border\"",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_870",
