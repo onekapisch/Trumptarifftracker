@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T06:54:34+00:00",
+  "generated_at": "2026-04-26T07:04:51+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1094,14 +1094,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_862",
             "category": "POLICY_AREA=TRADEPOL",
             "description": "European Commission Press release Washington, DC, 24 Apr 2026 Today, the EU and US signed a Memorandum of Understanding (MoU) on a strategic partnership on critical minerals and agreed an EU-US Critical Minerals Action Plan."
-          },
-          {
-            "title": "Keynote speech by Commissioner Kubilius at the Conference \"Strengthening Resilience of the EU Eastern Border\"",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_870",
-            "pub_date": "Thu, 23 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_870",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Vilnius, 24 Apr 2026 Thank you minister Vaitiek\u016bnas, for your words of welcome. But especially for making this very important conference possible. Dear friends, Welcome to my home c..."
           }
         ],
         "errors": []
