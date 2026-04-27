@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T07:22:26+00:00",
+  "generated_at": "2026-04-27T12:12:37+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,20 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Erkl\u00e4rung von Pr\u00e4sidentin von der Leyen bei der Sitzung des Vorstands der CDU/CSU-Fraktion im Deutschen Bundestag",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_891",
+            "pub_date": "Mon, 27 Apr 2026 08:21:44 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_891",
+            "category": "POLICY_AREA=ENERGY,GROWTH,PRESIDENCY,TRADEPOL,DEFENCE,COMPETITIVE",
+            "description": "European Commission Erkl\u00e4rung Berlin, 27 Apr 2026 Lieber Jens Spahn, Lieber Alexander Hoffmann, Ich freue mich sehr heute mit Euch und dem Fraktionsvorstand diskutieren zu k\u00f6nnen. Wettbewerbsf\u00e4higkeit ist das K..."
+          },
+          {
             "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the press conference following the signing of a Memorandum of Understanding with the U.S. on critical minerals",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_886",
             "pub_date": "Fri, 24 Apr 2026 12:55:18 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_886",
             "category": "POLICY_AREA=TRADEPOL",
             "description": "European Commission Speech Washington, DC, 24 Apr 2026 Good afternoon. I am glad to be back in Washington. With so much happening, it was the right moment to be here in person \u2013 even with our constant contact. I am ..."
-          },
-          {
-            "title": "EU and US launch strategic partnership on critical minerals",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_862",
-            "pub_date": "Thu, 23 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_862",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Press release Washington, DC, 24 Apr 2026 Today, the EU and US signed a Memorandum of Understanding (MoU) on a strategic partnership on critical minerals and agreed an EU-US Critical Minerals Action Plan."
           }
         ],
         "errors": []
@@ -1153,7 +1153,7 @@
           }
         ],
         "errors": [
-          "<urlopen error [Errno 104] Connection reset by peer>"
+          "<urlopen error [Errno 54] Connection reset by peer>"
         ]
       },
       "canada_finance": {
