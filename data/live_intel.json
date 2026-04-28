@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T12:12:37+00:00",
+  "generated_at": "2026-04-28T07:19:42+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68468385 - PGA Flag Enforcement Table Updated on CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/414bea1",
+          "pub_date": "Mon, 27 Apr 2026 12:19:44 -0400",
+          "guid": "68468385",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68468385 - PGA Flag Enforcement Table Updated on CBP.gov U.S. Customs and Border Protection (CBP) has updated the Partner Government Agency (PGA) Flag Enforcement Table and is now available in the Draft Chapters section online: https://www.cbp.gov/trade/automated/catair The flagging enforcement for the Consumer Product Safety Commission (CPSC) was added. For questions about the CPSC flagging, please reach out to the CPSC eFiling Support team at eFilingSupport@cpsc.gov . Related Message Number(s): 68290359"
+        },
+        {
           "title": "CSMS # 68448732 - Updated Guidance #3: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41471dc",
           "pub_date": "Fri, 24 Apr 2026 14:09:25 -0400",
@@ -1062,14 +1070,6 @@
           "guid": "68087488",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68087488 - New ACE Drawback Error Validations Deployed to ACE CERT Environment March 17, 2026 Two new Drawback error messages deployed to the Automated Commercial Environment (ACE) Certification (CERT) environment on Tuesday, March 17, 2026. This update supports Proclamation 10984 Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses into the United States. ( Federal Register: Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses Into the United States ) With this change, new ACE validations allow claimants to file drawback claims for the specific eligible Se"
-        },
-        {
-          "title": "CSMS # 68085169 - ACE Manifest Modernization Release 1 (INT-060) is in Certification Environment for Testing and Scheduled to Deploy to Production on April 25, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40ee5b1",
-          "pub_date": "Wed, 18 Mar 2026 12:58:26 -0400",
-          "guid": "68085169",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68085169 - ACE Manifest Modernization Release 1 (INT-060) is in Certification Environment for Testing and Scheduled to Deploy to Production on April 25, 2026 U.S. Customs and Border Protection is modernizing the Automated Commercial Environment (ACE) ocean, rail, and air manifest systems over several releases. The first release of this enhancement (INT-060) is a technical migration of back-end functionality. It will not directly affect the ACE user experience or Electronic Data Interchange (EDI) behavior. This first release of the manifest modernization enhancement is currently in the ACE certification environment (CERT). Trade software developers may s"
         }
       ],
       "errors": []
@@ -1080,12 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Erkl\u00e4rung von Pr\u00e4sidentin von der Leyen bei der Sitzung des Vorstands der CDU/CSU-Fraktion im Deutschen Bundestag",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_891",
+            "title": "Statement by President von der Leyen at the meeting of the board of the CDU/CSU group in the German Bundestag",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_891",
             "pub_date": "Mon, 27 Apr 2026 08:21:44 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_891",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_891",
             "category": "POLICY_AREA=ENERGY,GROWTH,PRESIDENCY,TRADEPOL,DEFENCE,COMPETITIVE",
-            "description": "European Commission Erkl\u00e4rung Berlin, 27 Apr 2026 Lieber Jens Spahn, Lieber Alexander Hoffmann, Ich freue mich sehr heute mit Euch und dem Fraktionsvorstand diskutieren zu k\u00f6nnen. Wettbewerbsf\u00e4higkeit ist das K..."
+            "description": "European Commission Statement Berlin, 27 Apr 2026 Dear Jens Spahn, Dear Alexander Hoffmann, I am very pleased to be here with you today to discuss with you and the group executive committee. Competitiveness is ..."
           },
           {
             "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the press conference following the signing of a Memorandum of Understanding with the U.S. on critical minerals",
@@ -1153,7 +1153,7 @@
           }
         ],
         "errors": [
-          "<urlopen error [Errno 54] Connection reset by peer>"
+          "<urlopen error [Errno 104] Connection reset by peer>"
         ]
       },
       "canada_finance": {
