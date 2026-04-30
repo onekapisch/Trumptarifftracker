@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T07:16:21+00:00",
+  "generated_at": "2026-04-30T07:18:10+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-08445",
+          "publication_date": "2026-04-30",
+          "title": "Section 337 Adjudication and Enforcement",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/30/2026-08445/section-337-adjudication-and-enforcement",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08439",
+          "publication_date": "2026-04-30",
+          "title": "Certain Semiconductor Devices, Products Containing Same, and Components Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/30/2026-08439/certain-semiconductor-devices-products-containing-same-and-components-thereof-notice-of-institution",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08401",
+          "publication_date": "2026-04-30",
+          "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Flight and Duty Limitations and Rest Requirements-Flightcrew Members",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/30/2026-08401/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-08384",
+          "publication_date": "2026-04-30",
+          "title": "Certain Semiconductor Devices, Computing Products Containing the Same, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation in Its Entirety; Termination of the Investigation in Its Entirety",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/04/30/2026-08384/certain-semiconductor-devices-computing-products-containing-the-same-and-components-thereof-notice",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-08347",
           "publication_date": "2026-04-29",
@@ -628,15 +664,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-07303",
-          "publication_date": "2026-04-15",
-          "title": "Aluminum Extrusions From the People's Republic of China: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07303/aluminum-extrusions-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-07231",
           "publication_date": "2026-04-14",
           "title": "Forged Steel Fluid End Blocks: Preliminary Results of Antidumping Duty Administrative Review; 2024",
@@ -652,7 +679,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07229/aluminum-extrusions-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07228",
@@ -661,7 +688,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07228/forged-steel-fluid-end-blocks-from-italy-preliminary-results-and-rescission-in-part-of-the",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07227",
@@ -670,16 +697,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07227/forged-steel-fluid-end-blocks-from-italy-preliminary-results-and-partial-rescission-of",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07215",
-          "publication_date": "2026-04-14",
-          "title": "Frozen Fish Fillets From Vietnam; Scheduling of an Expedited Five-Year Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07215/frozen-fish-fillets-from-vietnam-scheduling-of-an-expedited-five-year-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07198",
@@ -725,24 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07054/polyethylene-terephthalate-film-sheet-and-strip-from-taiwan-final-results-and-rescission-of",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07008",
-          "publication_date": "2026-04-10",
-          "title": "Certain Hot-Rolled Steel Flat Products From Japan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07008/certain-hot-rolled-steel-flat-products-from-japan-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07005",
-          "publication_date": "2026-04-10",
-          "title": "Certain Frozen Warmwater Shrimp From India: Rescission of Antidumping Duty Administrative Review, In Part; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/10/2026-07005/certain-frozen-warmwater-shrimp-from-india-rescission-of-antidumping-duty-administrative-review-in",
-          "raw_text_url": null,
-          "term_hit": "section 232"
         }
       ],
       "errors": []
@@ -1080,12 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Remarks by Commissioner Serafin at European Parliament Plenary debate on the interim report on the proposal for the MFF 2028-2034",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_922",
-            "pub_date": "Tue, 28 Apr 2026 15:48:44 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_922",
-            "category": "POLICY_AREA=BUDFINPROG",
-            "description": "European Commission Speech Strasbourg, 28 Apr 2026 Honourable Members, I would like to thank both rapporteurs \u2013 Mme Tavares and Mr Mure\u0219an \u2013 for their important and timely work. And I would like to stress the wo..."
+            "title": "Commission welcomes important step to modernise EU social security coordination rules and strengthen fair labour mobility*",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_929",
+            "pub_date": "Wed, 29 Apr 2026 11:46:22 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_929",
+            "category": "POLICY_AREA=ESAI",
+            "description": "European Commission Press release Brussels, 29 Apr 2026 The European Commission welcomes the approval by EU Member States of the revision of the social security coordination rules."
+          },
+          {
+            "title": "Commissioner Roswall's keynote address at the LOOP Forum 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_926",
+            "pub_date": "Wed, 29 Apr 2026 11:01:08 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_926",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Speech Copenhagen, 29 Apr 2026 Ladies and Gentlemen, I am delighted to be part of this important event. I am also very happy to be back in a Nordic context. As some of you may know, I was the..."
           }
         ],
         "errors": []
