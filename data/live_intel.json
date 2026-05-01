@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T07:18:10+00:00",
+  "generated_at": "2026-05-01T07:17:49+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,114 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-08561",
+          "publication_date": "2026-05-01",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08561/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08560",
+          "publication_date": "2026-05-01",
+          "title": "Initiation of Five-Year (Sunset) Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08560/initiation-of-five-year-sunset-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08539",
+          "publication_date": "2026-05-01",
+          "title": "Agency Information Collection Activities; Extension; Record Keeping Requirements",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08539/agency-information-collection-activities-extension-record-keeping-requirements",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08538",
+          "publication_date": "2026-05-01",
+          "title": "Agency Information Collection Activities; Extension; Record of Vessel Foreign Repair or Equipment Purchase",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08538/agency-information-collection-activities-extension-record-of-vessel-foreign-repair-or-equipment",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-08514",
+          "publication_date": "2026-05-01",
+          "title": "Welded Line Pipe From South Korea and Turkey; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08514/welded-line-pipe-from-south-korea-and-turkey-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08510",
+          "publication_date": "2026-05-01",
+          "title": "Steel Grating From China; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08510/steel-grating-from-china-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08509",
+          "publication_date": "2026-05-01",
+          "title": "Steel Nails From Malaysia, Oman, South Korea, Taiwan, and Vietnam; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08509/steel-nails-from-malaysia-oman-south-korea-taiwan-and-vietnam-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08508",
+          "publication_date": "2026-05-01",
+          "title": "Carbazole Violet Pigment 23 From China and India; Institution of Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08508/carbazole-violet-pigment-23-from-china-and-india-institution-of-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08489",
+          "publication_date": "2026-05-01",
+          "title": "Large Diameter Welded Pipe From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08489/large-diameter-welded-pipe-from-the-republic-of-korea-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08488",
+          "publication_date": "2026-05-01",
+          "title": "Carbon and Alloy Steel Wire Rod From Algeria: Initiation of Countervailing Duty Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08488/carbon-and-alloy-steel-wire-rod-from-algeria-initiation-of-countervailing-duty-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08486",
+          "publication_date": "2026-05-01",
+          "title": "Quarterly Update to Annual Listing of Foreign Government Subsidies on Articles of Cheese Subject to an In-Quota Rate of Duty",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08486/quarterly-update-to-annual-listing-of-foreign-government-subsidies-on-articles-of-cheese-subject-to",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-08485",
+          "publication_date": "2026-05-01",
+          "title": "Large Diameter Welded Pipe From Canada: Final Results of Antidumping Duty Administrative Review and Final Determination of No Shipments; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08485/large-diameter-welded-pipe-from-canada-final-results-of-antidumping-duty-administrative-review-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-08445",
           "publication_date": "2026-04-30",
@@ -349,24 +457,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-07838",
-          "publication_date": "2026-04-22",
-          "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Sparrows Point Container Terminal Project in Baltimore County, Maryland",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/22/2026-07838/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-07820",
-          "publication_date": "2026-04-22",
-          "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/22/2026-07820/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-07779",
           "publication_date": "2026-04-22",
           "title": "Certain Light-Based Physiological Measurement Devices and Components Thereof; Notice of a Commission Determination Not To Review a Combined Recommended Determination on Modification and Enforcement Initial Determination; Termination of Proceeding",
@@ -583,87 +673,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-07316",
-          "publication_date": "2026-04-15",
-          "title": "Certain Oil Country Tubular Goods From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07316/certain-oil-country-tubular-goods-from-the-peoples-republic-of-china-final-results-of-the-expedited",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07315",
-          "publication_date": "2026-04-15",
-          "title": "Forged Steel Fluid End Blocks From the People's Republic of China, the Federal Republic of Germany, India, and Italy: Final Results of the Expedited First Sunset Reviews of the Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07315/forged-steel-fluid-end-blocks-from-the-peoples-republic-of-china-the-federal-republic-of-germany",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07314",
-          "publication_date": "2026-04-15",
-          "title": "Forged Steel Fittings From India and the Republic of Korea: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07314/forged-steel-fittings-from-india-and-the-republic-of-korea-final-results-of-the-expedited-first",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07313",
-          "publication_date": "2026-04-15",
-          "title": "Forged Steel Fluid End Blocks From the Federal Republic of Germany and Italy: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07313/forged-steel-fluid-end-blocks-from-the-federal-republic-of-germany-and-italy-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07312",
-          "publication_date": "2026-04-15",
-          "title": "Forged Steel Fittings From India: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07312/forged-steel-fittings-from-india-final-results-of-the-expedited-first-sunset-review-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07311",
-          "publication_date": "2026-04-15",
-          "title": "Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07311/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07310",
-          "publication_date": "2026-04-15",
-          "title": "Oil Country Tubular Goods From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07310/oil-country-tubular-goods-from-the-peoples-republic-of-china-final-results-of-the-expedited-third",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07309",
-          "publication_date": "2026-04-15",
-          "title": "Certain Frozen Fish Fillets From the Socialist Republic of Vietnam: Final Results of the Expedited Fourth Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07309/certain-frozen-fish-fillets-from-the-socialist-republic-of-vietnam-final-results-of-the-expedited",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07308",
-          "publication_date": "2026-04-15",
-          "title": "Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/15/2026-07308/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-07231",
           "publication_date": "2026-04-14",
           "title": "Forged Steel Fluid End Blocks: Preliminary Results of Antidumping Duty Administrative Review; 2024",
@@ -734,15 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07057/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07054",
-          "publication_date": "2026-04-13",
-          "title": "Polyethylene Terephthalate Film, Sheet, and Strip From Taiwan: Final Results and Rescission of Antidumping Duty Administrative Review, In Part; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07054/polyethylene-terephthalate-film-sheet-and-strip-from-taiwan-final-results-and-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68504361 - Harmonized System Update (HSU) 2609",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4154b29",
+          "pub_date": "Thu, 30 Apr 2026 15:52:25 -0400",
+          "guid": "68504361",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68504361 - Harmonized System Update (HSU) 2609 Harmonized System Update (HSU) 2609 was created on April 29, 2026, and contains six Harmonized Tariff Records and 19 Automated Broker Interface (ABI) records. This HSU contains updates to the Harmonized Tariff Schedule of the United States (HTSUS) for duties imposed by presidential proclamation 11021. For more information on this, please see published inspection document: Harmonized Tariff Schedule of the United States for Duties Imposed by Presidential Proclamation; Technical Corrections . For filing questions related to this presidential proclamation, please contact the Trade Remedy Branch at traderemedy@"
+        },
         {
           "title": "CSMS # 68468385 - PGA Flag Enforcement Table Updated on CBP.gov",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/414bea1",
@@ -1062,14 +1070,6 @@
           "guid": "68095227",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68095227 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Grenada, Ireland, and New Caledonia On March 16, 2026, The National Marine Fisheries Service (NOAA Fisheries) issued comparability findings for the fisheries of Grenada, Ireland, and New Caledonia. This action lifts the seafood import restrictions on these nations under the Marine Mammal Protection Act (MMPA) Import Provisions. As a result, effective March 16, 2026, NOAA Fisheries no longer requires a Certification of Admissibility (COA) to accompany imports from these previously restricted fisheries. However, a COA may still be required if the produc"
-        },
-        {
-          "title": "CSMS # 68087488 - New ACE Drawback Error Validations Deployed to ACE CERT Environment March 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40eeec0",
-          "pub_date": "Wed, 18 Mar 2026 15:38:06 -0400",
-          "guid": "68087488",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68087488 - New ACE Drawback Error Validations Deployed to ACE CERT Environment March 17, 2026 Two new Drawback error messages deployed to the Automated Commercial Environment (ACE) Certification (CERT) environment on Tuesday, March 17, 2026. This update supports Proclamation 10984 Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses into the United States. ( Federal Register: Adjusting Imports of Medium- and Heavy-Duty Vehicles, Medium- and Heavy-Duty Vehicle Parts, and Buses Into the United States ) With this change, new ACE validations allow claimants to file drawback claims for the specific eligible Se"
         }
       ],
       "errors": []
@@ -1085,7 +1085,7 @@
             "pub_date": "Wed, 29 Apr 2026 11:46:22 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_929",
             "category": "POLICY_AREA=ESAI",
-            "description": "European Commission Press release Brussels, 29 Apr 2026 The European Commission welcomes the approval by EU Member States of the revision of the social security coordination rules."
+            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission welcomes the approval by EU Member States of the revision of the social security coordination rules."
           },
           {
             "title": "Commissioner Roswall's keynote address at the LOOP Forum 2026",
