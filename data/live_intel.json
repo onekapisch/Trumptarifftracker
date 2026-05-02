@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T07:17:49+00:00",
+  "generated_at": "2026-05-02T07:07:08+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-08640",
+          "publication_date": "2026-05-04",
+          "title": "Common Alloy Aluminum Sheet From the Republic of T\u00fcrkiye: Final Results of Countervailing Duty Administrative Review; 2023; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08640/common-alloy-aluminum-sheet-from-the-republic-of-trkiye-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08639",
+          "publication_date": "2026-05-04",
+          "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08639/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08637",
+          "publication_date": "2026-05-04",
+          "title": "Prestressed Concrete Steel Wire Strand From the Republic of T\u00fcrkiye: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08637/prestressed-concrete-steel-wire-strand-from-the-republic-of-trkiye-final-results-of-the-expedited",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08636",
+          "publication_date": "2026-05-04",
+          "title": "Prestressed Concrete Steel Wire Strand From Argentina, Colombia, Egypt, Indonesia, Italy, Malaysia, the Netherlands, Saudi Arabia, the Republic of South Africa, Spain, Taiwan, Tunisia, the Republic of T\u00fcrkiye, Ukraine, and the United Arab Emirates: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08636/prestressed-concrete-steel-wire-strand-from-argentina-colombia-egypt-indonesia-italy-malaysia-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08635",
+          "publication_date": "2026-05-04",
+          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08635/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08634",
+          "publication_date": "2026-05-04",
+          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08634/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08633",
+          "publication_date": "2026-05-04",
+          "title": "Certain Frozen Warmwater Shrimp From India: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08633/certain-frozen-warmwater-shrimp-from-india-preliminary-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08616",
+          "publication_date": "2026-05-04",
+          "title": "Certain Active Electrical Cables and Components Thereof; Notice of Commission Determination Not To Review Two Initial Determinations Terminating the Investigation as to the Remaining Respondents Based on Settlement; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08616/certain-active-electrical-cables-and-components-thereof-notice-of-commission-determination-not-to",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08576",
+          "publication_date": "2026-05-04",
+          "title": "Certain Screen Protectors, Screen Protector Systems, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination To Amend the Complaint and Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08576/certain-screen-protectors-screen-protector-systems-and-components-thereof-notice-of-a-commission",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08559",
+          "publication_date": "2026-05-04",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08559/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-08561",
           "publication_date": "2026-05-01",
@@ -574,22 +664,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-07502",
-          "publication_date": "2026-04-17",
-          "title": "Certain Cold-Rolled Steel Flat Products From the United Kingdom: Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/17/2026-07502/certain-cold-rolled-steel-flat-products-from-the-united-kingdom-rescission-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-07468",
           "publication_date": "2026-04-16",
           "title": "Certain Aluminum Foil From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07468/certain-aluminum-foil-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07467",
@@ -598,43 +679,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07467/carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-final-results-of-antidumping",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07466",
-          "publication_date": "2026-04-16",
-          "title": "Silicon Metal From the Lao People's Democratic Republic: Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07466/silicon-metal-from-the-lao-peoples-democratic-republic-countervailing-duty-order",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07465",
-          "publication_date": "2026-04-16",
-          "title": "Silicon Metal From Angola and the Lao People's Democratic Republic: Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07465/silicon-metal-from-angola-and-the-lao-peoples-democratic-republic-antidumping-duty-orders",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07464",
-          "publication_date": "2026-04-16",
-          "title": "Non-Oriented Electrical Steel From Sweden, Germany, the People's Republic of China, the Republic of Korea, Taiwan and Japan: Final Results of the Expedited Second Sunset Reviews of the Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07464/non-oriented-electrical-steel-from-sweden-germany-the-peoples-republic-of-china-the-republic-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07463",
-          "publication_date": "2026-04-16",
-          "title": "Non-Oriented Electrical Steel From the People's Republic of China and Taiwan: Final Results of the Expedited Second Sunset Reviews of the Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07463/non-oriented-electrical-steel-from-the-peoples-republic-of-china-and-taiwan-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07462",
@@ -643,7 +688,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07462/certain-mobile-access-equipment-and-subassemblies-thereof-from-the-peoples-republic-of-china-final",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07461",
@@ -652,7 +697,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07461/common-alloy-aluminum-sheet-from-taiwan-final-results-of-antidumping-duty-administrative-review",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07460",
@@ -661,16 +706,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07460/common-alloy-aluminum-sheet-from-the-sultanate-of-oman-final-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07449",
-          "publication_date": "2026-04-16",
-          "title": "Commodity Matchbooks From India; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/16/2026-07449/commodity-matchbooks-from-india-scheduling-of-expedited-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-07231",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07227/forged-steel-fluid-end-blocks-from-italy-preliminary-results-and-partial-rescission-of",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07198",
-          "publication_date": "2026-04-14",
-          "title": "Differential Pay for Prescribed Wildland Fire Activities",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07198/differential-pay-for-prescribed-wildland-fire-activities",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07154",
-          "publication_date": "2026-04-14",
-          "title": "Certain Softwood Lumber Products From Canada: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07154/certain-softwood-lumber-products-from-canada-preliminary-results-and-partial-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07153",
-          "publication_date": "2026-04-14",
-          "title": "Certain Softwood Lumber From Canada: Preliminary Results and Intent To Rescind, in Part, of Antidumping Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07153/certain-softwood-lumber-from-canada-preliminary-results-and-intent-to-rescind-in-part-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07057",
-          "publication_date": "2026-04-13",
-          "title": "Prestressed Concrete Steel Wire Strand From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07057/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68510928 - REMINDER \u2013 ACE Portal Account Owners Can Reactivate Account Users",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41564d0",
+          "pub_date": "Fri, 01 May 2026 09:41:36 -0400",
+          "guid": "68510928",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68510928 - REMINDER \u2013 ACE Portal Account Owners Can Reactivate Account Users U.S. Customs and Border Protection (CBP) reminds Automated Commercial Environment Secure Data Portal (ACE Portal) Trade Account Owners (TAO) that TAOs can self-manage access for Proxy Trade Account Owners (PTAO) and Trade Account Users (TAU), including access reactivation. Below is an overview of the steps for reactivating account users: Log in to the ACE Portal as the TAO Select the \u201cTools\u201d tab Select the hyperlinked name of the applicable PTAO/TAU user Click the \u201cReactivate\u201d button TIP: After reactivating a user, direct the user to log in to the ACE Portal to confirm access. "
+        },
+        {
+          "title": "CSMS # 68510400 - PGA Flag Enforcement Table \u2013 Footnote Update",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41562c0",
+          "pub_date": "Fri, 01 May 2026 08:50:42 -0400",
+          "guid": "68510400",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68510400 - PGA Flag Enforcement Table \u2013 Footnote Update The April 27, 2026 version of the PGA Flag Enforcement table reinserts footnote #4. The updated document can be found in the Draft Chapters section: https://www.cbp.gov/trade/automated/catair For questions about this CSMS, please contact CREM@cbp.dhs.gov. Related message: CSMS # 68468385"
+        },
         {
           "title": "CSMS # 68504361 - Harmonized System Update (HSU) 2609",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4154b29",
@@ -1054,22 +1070,6 @@
           "guid": "68105981",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68105981 - CBP Cancels Trade Violations Webinars Scheduled for March 31 and April 2 Due to the partial Department of Homeland Security (DHS) shutdown, U.S. Customs and Border Protection (CBP) has canceled its free quarterly webinars that were originally scheduled for March 31 and April 2. The sessions focused on using the Trade Violations Reporting (TVR) tool and filing Enforce and Protect Act (EAPA) allegations with CBP. Please stay tuned for CBP\u2019s next round of webinars in the upcoming months."
-        },
-        {
-          "title": "CSMS # 68096516 - Implementation of Jones Act Waiver Issued to the Department of War, Dated March 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f1204",
-          "pub_date": "Thu, 19 Mar 2026 12:13:50 -0400",
-          "guid": "68096516",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68096516 - Implementation of Jones Act Waiver Issued to the Department of War, Dated March 17, 2026 On March 17, 2026, the Department of Homeland Security (DHS) issued a limited waiver of 46 U.S. C. \u00a7 55102 (the \"Jones Act\") pursuant to 46 U.S.C. \u00a7 501(a), at the request of the Department of War. The approved waiver covers a 60-day period that expires at 11:59 p.m. Eastern Daylight Time on Sunday, May 17, 2026. U.S. Customs and Border Protection (CBP) requests that any member of the trade community who intends to conduct transportation of commodities listed in the attachment on a foreign-flag vessel, authorized by and within the parameters of the March "
-        },
-        {
-          "title": "CSMS # 68095227 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Grenada, Ireland, and New Caledonia",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f0cfb",
-          "pub_date": "Thu, 19 Mar 2026 10:51:28 -0400",
-          "guid": "68095227",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68095227 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Grenada, Ireland, and New Caledonia On March 16, 2026, The National Marine Fisheries Service (NOAA Fisheries) issued comparability findings for the fisheries of Grenada, Ireland, and New Caledonia. This action lifts the seafood import restrictions on these nations under the Marine Mammal Protection Act (MMPA) Import Provisions. As a result, effective March 16, 2026, NOAA Fisheries no longer requires a Certification of Admissibility (COA) to accompany imports from these previously restricted fisheries. However, a COA may still be required if the produc"
         }
       ],
       "errors": []
@@ -1086,14 +1086,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_929",
             "category": "POLICY_AREA=ESAI",
             "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission welcomes the approval by EU Member States of the revision of the social security coordination rules."
-          },
-          {
-            "title": "Commissioner Roswall's keynote address at the LOOP Forum 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_926",
-            "pub_date": "Wed, 29 Apr 2026 11:01:08 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_926",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Speech Copenhagen, 29 Apr 2026 Ladies and Gentlemen, I am delighted to be part of this important event. I am also very happy to be back in a Nordic context. As some of you may know, I was the..."
           }
         ],
         "errors": []
