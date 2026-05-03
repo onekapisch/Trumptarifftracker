@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T07:07:08+00:00",
+  "generated_at": "2026-05-03T07:15:13+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1095,6 +1095,12 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
+            "title": "All eyes on LA ahead of largest ever UK trade mission to the US",
+            "link": "https://www.gov.uk/government/news/all-eyes-on-la-ahead-of-largest-ever-uk-trade-mission-to-the-us",
+            "updated": "2026-05-02T11:23:33+01:00",
+            "summary": "Hundreds of UK business leaders will travel to the US later this month as part of the largest ever UK <mark>trade</mark> mission to the country, building on the success of the State Visit of Their Majesties the King and Queen."
+          },
+          {
             "title": "Letter from the Secretary of State for Business and Trade to the Business and Trade Committee: 2 April 2026",
             "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-business-and-trade-to-the-business-and-trade-committee-2-april-2026",
             "updated": "2026-04-15T16:53:09+01:00",
@@ -1123,12 +1129,6 @@
             "link": "https://www.gov.uk/government/news/trade-envoy-appointed-to-japan",
             "updated": "2026-03-24T09:59:24+00:00",
             "summary": "The Business and <mark>Trade</mark> Secretary has appointed David Taylor MP as <mark>Trade</mark> Envoy to Japan."
-          },
-          {
-            "title": "Welsh steel industry backed with new trade measure and strategy",
-            "link": "https://www.gov.uk/government/news/welsh-steel-industry-backed-with-new-trade-measure-and-strategy",
-            "updated": "2026-03-23T16:29:25+00:00",
-            "summary": "UK steel producers and thousands of steel workers in Wales will benefit from a landmark Steel Strategy."
           }
         ],
         "errors": []
