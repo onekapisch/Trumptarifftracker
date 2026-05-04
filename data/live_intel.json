@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T07:15:13+00:00",
+  "generated_at": "2026-05-04T07:30:58+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Commission welcomes important step to modernise EU social security coordination rules and strengthen fair labour mobility*",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_929",
-            "pub_date": "Wed, 29 Apr 2026 11:46:22 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_929",
+            "title": "Doorstep by President von der Leyen ahead of the meeting of the European Political Community",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_944",
+            "pub_date": "Sun, 03 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_944",
+            "category": "POLICY_AREA=SECU,DEVEL,ENERGY,DEFENCE",
+            "description": "European Commission Statement Yerevan, 04 May 2026 I am very glad to be here in Armenia. It is the eighth EPC. We will mainly discuss the topic of an independent Europe. We have to reduce our overdependencies in..."
+          },
+          {
+            "title": "EU leaders reaffirm solidarity with Middle East partners and double down on support to Ukraine",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_943",
+            "pub_date": "Fri, 01 May 2026 16:45:21 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_943",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 01 May 2026 President Ursula von der Leyen was in Cyprus last week to attend the informal meeting of European Heads of State and Government and meet with Middle Eastern pa..."
+          },
+          {
+            "title": "EU and Armenia deepen their relations in a first Summit in Yerevan",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_942",
+            "pub_date": "Thu, 30 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_942",
+            "category": "POLICY_AREA=HREXTRELS",
+            "description": "European Commission Press release Brussels, 01 May 2026 The first-ever EU-Armenia Summit will take place on 4-5 May, in Yerevan. This marks a significant step forward in their relations, reaffirming the European Union's strong commitment to Armenia's sovereignty, resilience and reform agenda."
+          },
+          {
+            "title": "Commission evaluation shows slow progress in fishing sustainability and ongoing challenges for EU fishers",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_938",
+            "pub_date": "Thu, 30 Apr 2026 08:30:57 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_938",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission today published its evaluation of the Common Fisheries Policy (CFP) Regulation, covering the decade from 2014 to 2024."
+          },
+          {
+            "title": "Speech by Commissioner Albuquerque at the 605th plenary session of the European Economic and Social Committee (EESC) at the high-level debate on supplementary pensions for a Savings and Investments Union",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_937",
+            "pub_date": "Thu, 30 Apr 2026 08:22:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_937",
+            "category": "POLICY_AREA=FINSTAB",
+            "description": "European Commission Speech Brussels, 30 Apr 2026 Ladies and gentlemen, good morning, Our discussion today is not just about pension frameworks or policy tools. This is about people. About financial security in..."
+          },
+          {
+            "title": "Opening remarks by Commissioner Hansen at the European Parliament plenary debate on \"How to secure a sustainable future for the EU livestock sector\"",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_936",
+            "pub_date": "Thu, 30 Apr 2026 07:57:41 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_936",
+            "category": "POLICY_AREA=AGRURAL",
+            "description": "European Commission Speech Strasbourg, 30 Apr 2026 Honourable Members of the Parliament, dear colleagues, I very much welcome the opportunity of discussing with you a topic that the Commission has identified as ..."
+          },
+          {
+            "title": "Daily News 30 / 04 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_935",
+            "pub_date": "Thu, 30 Apr 2026 07:39:35 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_935",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 30 Apr 2026 Commission issues recommendations to protect vulnerable consumers from high energy prices The European Commission has today issued a set of recommendations to h..."
+          },
+          {
+            "title": "Commission proposes \u20ac2 million to help over 800 workers dismissed in Belgium",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_933",
+            "pub_date": "Thu, 30 Apr 2026 07:33:49 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_933",
             "category": "POLICY_AREA=ESAI",
-            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission welcomes the approval by EU Member States of the revision of the social security coordination rules."
+            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission has proposed to mobilise \u20ac2 million from the European Globalisation Adjustment Fund for Displaced Workers (EGF) to support 803 workers dismissed after the bankruptcy of Belgian high-tech car glass manufacturer Soliver."
+          },
+          {
+            "title": "Commission opens consultation on draft of new Merger Guidelines",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_918",
+            "pub_date": "Wed, 29 Apr 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_918",
+            "category": "POLICY_AREA=COMPETY,MERGERS",
+            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission has launched today a public consultation inviting comments on the draft of the new EU Merger Guidelines. These will replace the current Horizontal Merger Guidelines and the Non-Horizontal Merger Guidelines. This marks the most significant reform in EU merger control of the past two decades."
+          },
+          {
+            "title": "Remarks by Executive Vice-President Ribera at the press conference on the Middle East crisis Temporary State aid Framework",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_931",
+            "pub_date": "Wed, 29 Apr 2026 12:39:46 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_931",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Speech Brussels, 29 Apr 2026 Good afternoon. It has been two months since the conflict in the Middle East drew us to the biggest disruption to oil and gas supply. How and when this conflic..."
           }
         ],
         "errors": []
