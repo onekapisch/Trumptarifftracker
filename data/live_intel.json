@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T07:30:58+00:00",
+  "generated_at": "2026-05-05T07:14:44+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-08744",
+          "publication_date": "2026-05-05",
+          "title": "Tin Mill Products From the People's Republic of China: Initiation of Countervailing Duty Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08744/tin-mill-products-from-the-peoples-republic-of-china-initiation-of-countervailing-duty-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08739",
+          "publication_date": "2026-05-05",
+          "title": "Tetrahydrofurfuryl Alcohol From the People's Republic of China: Continuation of Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08739/tetrahydrofurfuryl-alcohol-from-the-peoples-republic-of-china-continuation-of-antidumping-duty-order",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08737",
+          "publication_date": "2026-05-05",
+          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08737/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08736",
+          "publication_date": "2026-05-05",
+          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08736/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-08686",
+          "publication_date": "2026-05-05",
+          "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08686/agency-information-collection-activities-proposed-collection-comment-request-extension",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-08683",
+          "publication_date": "2026-05-05",
+          "title": "Air Compressors From China, Malaysia, and Vietnam; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08683/air-compressors-from-china-malaysia-and-vietnam-institution-of-antidumping-and-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-08640",
           "publication_date": "2026-05-04",
@@ -601,24 +655,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-07659",
-          "publication_date": "2026-04-20",
-          "title": "Disposable Aluminum Containers, Pans, Trays, and Lids From the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07659/disposable-aluminum-containers-pans-trays-and-lids-from-the-peoples-republic-of-china-preliminary",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-07611",
-          "publication_date": "2026-04-20",
-          "title": "Oleoresin Paprika From India; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/20/2026-07611/oleoresin-paprika-from-india-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-07536",
           "publication_date": "2026-04-17",
           "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys in the Gulf of America",
@@ -637,15 +673,6 @@
           "term_hit": "de minimis"
         },
         {
-          "document_number": "2026-07511",
-          "publication_date": "2026-04-17",
-          "title": "Certain Crafting Machines and Components Thereof; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on Remedy, the Public Interest, and Bonding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/17/2026-07511/certain-crafting-machines-and-components-thereof-notice-of-a-commission-determination-to-review-in",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-07505",
           "publication_date": "2026-04-17",
           "title": "Low Melt Polyester Staple Fiber From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
@@ -653,15 +680,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/17/2026-07505/low-melt-polyester-staple-fiber-from-the-republic-of-korea-final-results-of-antidumping-duty",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07503",
-          "publication_date": "2026-04-17",
-          "title": "Phosphate Fertilizers From the Russian Federation: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/17/2026-07503/phosphate-fertilizers-from-the-russian-federation-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         },
         {
           "document_number": "2026-07468",
@@ -725,24 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07229/aluminum-extrusions-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07228",
-          "publication_date": "2026-04-14",
-          "title": "Forged Steel Fluid End Blocks From Italy: Preliminary Results and Rescission, in Part, of the Administrative Review of the Antidumping Duty Order; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07228/forged-steel-fluid-end-blocks-from-italy-preliminary-results-and-rescission-in-part-of-the",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-07227",
-          "publication_date": "2026-04-14",
-          "title": "Forged Steel Fluid End Blocks From Italy: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/14/2026-07227/forged-steel-fluid-end-blocks-from-italy-preliminary-results-and-partial-rescission-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68536553 - CBP Offers Multiple ACE Reports for Monitoring CAPE Refund Claims",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/415c8e9",
+          "pub_date": "Mon, 04 May 2026 15:52:07 -0400",
+          "guid": "68536553",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68536553 - CBP Offers Multiple ACE Reports for Monitoring CAPE Refund Claims On April 20, 2026, U.S. Customs and Border Protection (CBP) release d the Consolidated Administration and Processing of Entries (CAPE) tool in the Automated Commercial Environment (ACE) Portal to streamline the submission and processing of valid refund requests for duties imposed under the International Emergency Economic Powers Act (IEEPA) . After CBP review, the U.S. Department of Treasury (Treasury) will issue refunds via Automated Clearing House (ACH). IEEPA refund ACH transactions will begin a s early as May 12, 2026. For more information on submitting CAPE Declarations , "
+        },
         {
           "title": "CSMS # 68510928 - REMINDER \u2013 ACE Portal Account Owners Can Reactivate Account Users",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41564d0",
@@ -1062,14 +1070,6 @@
           "guid": "68109215",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68109215 - CBP Cancels NCSD Webinars Scheduled for March 2026 Due to the partial Department of Homeland Security (DHS) lapse in funding, U.S. Customs and Border Protection (CBP) has canceled its free monthly National Commodity Specialist Division (NCSD) commodity webinars that were originally scheduled for March 24 and March 26. The sessions focused on \"Parts of General Use\" and \"Stepping Forward in Smart Kicks.\" Both webinars will be rescheduled once the lapse in funding has ended. Please stay tuned to the NCSD's next round of webinars in the upcoming months."
-        },
-        {
-          "title": "CSMS # 68105981 - CBP Cancels Trade Violations Webinars Scheduled for March 31 and April 2",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/40f36fd",
-          "pub_date": "Fri, 20 Mar 2026 09:59:48 -0400",
-          "guid": "68105981",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68105981 - CBP Cancels Trade Violations Webinars Scheduled for March 31 and April 2 Due to the partial Department of Homeland Security (DHS) shutdown, U.S. Customs and Border Protection (CBP) has canceled its free quarterly webinars that were originally scheduled for March 31 and April 2. The sessions focused on using the Trade Violations Reporting (TVR) tool and filing Enforce and Protect Act (EAPA) allegations with CBP. Please stay tuned for CBP\u2019s next round of webinars in the upcoming months."
         }
       ],
       "errors": []
@@ -1080,84 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Doorstep by President von der Leyen ahead of the meeting of the European Political Community",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_944",
-            "pub_date": "Sun, 03 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_944",
-            "category": "POLICY_AREA=SECU,DEVEL,ENERGY,DEFENCE",
-            "description": "European Commission Statement Yerevan, 04 May 2026 I am very glad to be here in Armenia. It is the eighth EPC. We will mainly discuss the topic of an independent Europe. We have to reduce our overdependencies in..."
+            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
           },
           {
-            "title": "EU leaders reaffirm solidarity with Middle East partners and double down on support to Ukraine",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_943",
-            "pub_date": "Fri, 01 May 2026 16:45:21 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_943",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission News Brussels, 01 May 2026 President Ursula von der Leyen was in Cyprus last week to attend the informal meeting of European Heads of State and Government and meet with Middle Eastern pa..."
+            "title": "Video Statement for Travel West Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975",
+            "pub_date": "Thu, 07 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 04 May 2026 \u039a\u03c5\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03cd\u03c1\u03b9\u03bf\u03b9, \u0395\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c4\u03b9\u03bc\u03ae \u03c7\u03b1\u03c1\u03ac \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9 \u03ad\u03c3\u03c4\u03c9 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf, \u03c3\u03c4\u03bf Travel West Forum, \u03bc\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ad\u03c7\u03b5\u03b9 \u03be\u03b5\u03c7..."
           },
           {
-            "title": "EU and Armenia deepen their relations in a first Summit in Yerevan",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_942",
-            "pub_date": "Thu, 30 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_942",
-            "category": "POLICY_AREA=HREXTRELS",
-            "description": "European Commission Press release Brussels, 01 May 2026 The first-ever EU-Armenia Summit will take place on 4-5 May, in Yerevan. This marks a significant step forward in their relations, reaffirming the European Union's strong commitment to Armenia's sovereignty, resilience and reform agenda."
+            "title": "Speech by Commissioner J\u00f8rgensen at the French G7 Presidency's International High-Level Multi-Stakeholder Event on Methane Action",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_987",
+            "pub_date": "Mon, 04 May 2026 18:11:45 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_987",
+            "category": "POLICY_AREA=ENERGY",
+            "description": "European Commission Speech Paris, 04 May 2026 Minister. Excellencies. Distinguished guests. Friends: My deep thanks to the French G7 Presidency for hosting this event. The current energy crisis is a stark r..."
           },
           {
-            "title": "Commission evaluation shows slow progress in fishing sustainability and ongoing challenges for EU fishers",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_938",
-            "pub_date": "Thu, 30 Apr 2026 08:30:57 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_938",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission today published its evaluation of the Common Fisheries Policy (CFP) Regulation, covering the decade from 2014 to 2024."
+            "title": "Introductory remarks by Commissioner Hoekstra at the Structured Dialogue in the European Parliament's Committee on Environment, Climate and Food Safety (ENVI)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_986",
+            "pub_date": "Mon, 04 May 2026 17:49:43 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_986",
+            "category": "POLICY_AREA=CLIMACTION",
+            "description": "European Commission Speech Brussels, 04 May 2026 Thank you very much Chair, Honourable Members, Very good to see you. Thank you for inviting me to take part in today's exchange. If you look at the world, if yo..."
           },
           {
-            "title": "Speech by Commissioner Albuquerque at the 605th plenary session of the European Economic and Social Committee (EESC) at the high-level debate on supplementary pensions for a Savings and Investments Union",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_937",
-            "pub_date": "Thu, 30 Apr 2026 08:22:30 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_937",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Speech Brussels, 30 Apr 2026 Ladies and gentlemen, good morning, Our discussion today is not just about pension frameworks or policy tools. This is about people. About financial security in..."
+            "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_985",
+            "pub_date": "Mon, 04 May 2026 16:12:57 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_985",
+            "category": "POLICY_AREA=ECOMONAFF,BUDFINPROG",
+            "description": "European Commission Statement Brussels, 04 May 2026 Thank you, Kyriakos. Good evening, everyone. Let me begin with the European Commission's assessment of the economic outlook. As a result of the war in the Middl..."
           },
           {
-            "title": "Opening remarks by Commissioner Hansen at the European Parliament plenary debate on \"How to secure a sustainable future for the EU livestock sector\"",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_936",
-            "pub_date": "Thu, 30 Apr 2026 07:57:41 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_936",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Speech Strasbourg, 30 Apr 2026 Honourable Members of the Parliament, dear colleagues, I very much welcome the opportunity of discussing with you a topic that the Commission has identified as ..."
+            "title": "Speech by Commissioner Lahbib at the European Parliament on the Recent Mission to the Great Lakes Region",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_973",
+            "pub_date": "Mon, 04 May 2026 14:16:01 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_973",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech Brussels, 04 May 2026 Speech by Commissioner Lahbib at the European Parliament on the Recent Mission to the Great Lakes Region Let me start with what I saw in Goma. I toured hospital..."
           },
           {
-            "title": "Daily News 30 / 04 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_935",
-            "pub_date": "Thu, 30 Apr 2026 07:39:35 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_935",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 30 Apr 2026 Commission issues recommendations to protect vulnerable consumers from high energy prices The European Commission has today issued a set of recommendations to h..."
+            "title": "Opening Statement by Commissioner Kubilius at the Hearing before the Greek Parliament Foreign Affairs and Defence Committees",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_972",
+            "pub_date": "Mon, 04 May 2026 14:12:40 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_972",
+            "category": "POLICY_AREA=SPACE,DEFENCE",
+            "description": "European Commission Speech Athens, 04 May 2026 Honourable members, Ladies and Gentlemen, I am honoured to be with you this afternoon. This is the cradle of democracy. Greece invented democracy. I find my i..."
           },
           {
-            "title": "Commission proposes \u20ac2 million to help over 800 workers dismissed in Belgium",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_933",
-            "pub_date": "Thu, 30 Apr 2026 07:33:49 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_933",
-            "category": "POLICY_AREA=ESAI",
-            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission has proposed to mobilise \u20ac2 million from the European Globalisation Adjustment Fund for Displaced Workers (EGF) to support 803 workers dismissed after the bankruptcy of Belgian high-tech car glass manufacturer Soliver."
+            "title": "Discours S\u00e9nat \u2013 colloque leadership f\u00e9minin",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_971",
+            "pub_date": "Mon, 04 May 2026 14:11:37 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_971",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Discours Paris, 04 May 2026 C'est un honneur pour moi que d'\u00eatre parmi vous aujourd'hui. Et je veux remercier Myriam Allouche pour avoir pris le temps de m'envoyer une invitation si person..."
           },
           {
-            "title": "Commission opens consultation on draft of new Merger Guidelines",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_918",
-            "pub_date": "Wed, 29 Apr 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_918",
-            "category": "POLICY_AREA=COMPETY,MERGERS",
-            "description": "European Commission Press release Brussels, 30 Apr 2026 The European Commission has launched today a public consultation inviting comments on the draft of the new EU Merger Guidelines. These will replace the current Horizontal Merger Guidelines and the Non-Horizontal Merger Guidelines. This marks the most significant reform in EU merger control of the past two decades."
+            "title": "Commissioner Roswall's keynote address at \u2018Europe-week' hosted by the Technical University of Munich (TUM)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_964",
+            "pub_date": "Mon, 04 May 2026 12:51:04 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_964",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Speech Munich, 04 May 2026 Professor Henkel, Professor Peus, Ladies and Gentlemen, At its very core, the European project is about securing peace and prosperity through collaboration. \u2018Ei..."
           },
           {
-            "title": "Remarks by Executive Vice-President Ribera at the press conference on the Middle East crisis Temporary State aid Framework",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_931",
-            "pub_date": "Wed, 29 Apr 2026 12:39:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_931",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Speech Brussels, 29 Apr 2026 Good afternoon. It has been two months since the conflict in the Middle East drew us to the biggest disruption to oil and gas supply. How and when this conflic..."
+            "title": "Commissioner Roswall's opening address at IFAT Munich 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_959",
+            "pub_date": "Mon, 04 May 2026 12:35:40 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_959",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Speech Munich, 04 May 2026 Ladies and gentlemen, I am delighted to be here for the opening of IFAT Munich 2026. This event brings together the very best and most creative solutions for a ..."
           }
         ],
         "errors": []
