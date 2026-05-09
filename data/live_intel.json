@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:01:30+00:00",
+  "generated_at": "2026-05-09T07:13:07+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-09245",
+          "publication_date": "2026-05-11",
+          "title": "World Trade Center Health Program; Petitions 032, 033, and 068-Peripheral Neuropathy; Finding of Insufficient Evidence",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09245/world-trade-center-health-program-petitions-032-033-and-068-peripheral-neuropathy-finding-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09243",
+          "publication_date": "2026-05-11",
+          "title": "Certain Photodynamic Therapy Systems, Components Thereof, and Pharmaceutical Products Used in Combination With the Same; Notice of the Commission's Final Determination Finding a Violation of Section 337; Issuance of a Limited Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09243/certain-photodynamic-therapy-systems-components-thereof-and-pharmaceutical-products-used-in",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09241",
+          "publication_date": "2026-05-11",
+          "title": "Notice of Receipt of Amended Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09241/notice-of-receipt-of-amended-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09240",
+          "publication_date": "2026-05-11",
+          "title": "Coated Paper Suitable for High-Quality Print Graphics Using Sheet-Fed Presses From Indonesia; Denial of Request To Institute a Section 751(b) Review Concerning the Commission's Affirmative Determinations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09240/coated-paper-suitable-for-high-quality-print-graphics-using-sheet-fed-presses-from-indonesia-denial",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-09222",
           "publication_date": "2026-05-08",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/04/28/2026-08213/certain-wireless-front-end-modules-and-devices-containing-the-same-notice-of-a-commission",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08207",
-          "publication_date": "2026-04-28",
-          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/28/2026-08207/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-military-readiness",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-08195",
-          "publication_date": "2026-04-28",
-          "title": "Certain Oil Country Tubular Goods From Austria: Initiation of Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/28/2026-08195/certain-oil-country-tubular-goods-from-austria-initiation-of-countervailing-duty-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08130",
-          "publication_date": "2026-04-27",
-          "title": "Certain Chassis and Subassemblies Thereof From the People's Republic of China: Final Determination of Covered Merchandise Inquiry",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/27/2026-08130/certain-chassis-and-subassemblies-thereof-from-the-peoples-republic-of-china-final-determination-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08129",
-          "publication_date": "2026-04-27",
-          "title": "Oil Country Tubular Goods From the People's Republic of China: Final Determination of Covered Merchandise Inquiry",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/04/27/2026-08129/oil-country-tubular-goods-from-the-peoples-republic-of-china-final-determination-of-covered",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68577428 - Drawback Transition to the Petroleum, Natural Gas, and Minerals Center",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4166894",
+          "pub_date": "Fri, 08 May 2026 09:59:36 -0400",
+          "guid": "68577428",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68577428 - Drawback Transition to the Petroleum, Natural Gas, and Minerals Center On October 6, 2025, t he drawback program and Drawback Specialists were consolidated under the P e troleum, Natural Gas and Mineral s Center of Excellence and Expertise (PNGM Center) . Effective April 2 2 , 2026, drawback claims transmitted in ACE will be routed directly to the P etroleum, N atural G as, and M inerals Center for more effective and efficient workload processing. Filers should continue to transmit drawback claims via ACE and in accordance with the CBP and Trade Automated Interface Requirements (CATAIR). Drawback claims will be assigned to Team FDK and routed"
+        },
         {
           "title": "CSMS # 68570342 - Reminder \u2013 CSMS User Satisfaction Survey",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4164ce6",
@@ -1062,14 +1070,6 @@
           "guid": "68168194",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68168194 - Information: Quota Bulletin 26-224 2026 Argentina Beef Tranche 2 Quota Bulletin 26-224 2026 Argentina Beef Tranche 2 has been published on our webpage at the following link: Quota Bulletin 26-224 2026 Argentina Beef Tranche 2 Commodity: Beef as provided for in the Harmonized Tariff Schedule of the United States (HTSUS) Chapter 2 subheadings Additional United States Note (AUSN) 3(b) and addressed in Presidential Proclamation and Annex \u201cEnsuring Affordable Beef for the American Consumer\u201d and published on February 6, 2026. In addition to the aggregate quantity of beef of Argentina specified in AUSN 3(a) to chapter 2 of the tariff schedule for an"
-        },
-        {
-          "title": "CSMS # 68163805 - Information: Quota Bulletin 26-210 2026 Peanuts",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41018dd",
-          "pub_date": "Thu, 26 Mar 2026 09:58:04 -0400",
-          "guid": "68163805",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68163805 - Information: Quota Bulletin 26-210 2026 Peanuts Quota Bulletin 26-210 2026 Peanuts has been published on our webpage at the following link: https://www.cbp.gov/trade/quota/bulletins/qb-26-210-2026 Commodity: Peanuts provided for in the Harmonized Tariff Schedule of the United States (HTSUS) Chapter 12, Additional United States Note (AUSN) 2. Quota Period: April 1, 2026, through March 31, 2027 Opening Date: Wednesday, April 1, 2026 All entries submitted after 12:01 a.m. local port time and prior to 8:30 a.m. Eastern Time (ET) and on the opening date will receive an entry time of 8:30 a.m. for quota qualification purposes. If the total for any "
         }
       ],
       "errors": []
@@ -1080,20 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Read-out by President von der Leyen following her phone call with US President Trump",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1036",
-            "pub_date": "Thu, 07 May 2026 20:34:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1036",
-            "category": "POLICY_AREA=TRADEPOL,HREXTRELS",
-            "description": "European Commission Read-out Brussels, 07 May 2026 I had a very good call with President Trump. We discussed the situation in the Middle East and our close coordination with regional partners. We are united..."
+            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
           },
           {
-            "title": "Video message by President von der Leyen opening the European University Institute's 50th Anniversary Celebrations",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1029",
-            "pub_date": "Thu, 07 May 2026 09:13:31 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1029",
-            "category": "POLICY_AREA=ECMY,RESINSC",
-            "description": "European Commission Speech Brussels, 07 May 2026 Thank you, Professor Patrizia Nanz, for the invitation. President Costa, dear Antonio, President Metsola, dear Roberta, Distinguished guests, But most important..."
+            "title": "EU leaders discuss peace and stability at 8th EPC Summit and take EU-Armenia partnership to a whole new level",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1046",
+            "pub_date": "Fri, 08 May 2026 14:37:03 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1046",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 08 May 2026 The President of the Commission, Ursula von der Leyen, was in Yerevan on the 4 and 5 May to attend the eighth Summit of the European Political Community as w..."
+          },
+          {
+            "title": "Statement by Commissioner Lahbib following meeting with Lebanese President Aoun",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/statement_26_1043",
+            "pub_date": "Fri, 08 May 2026 10:15:42 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/statement_26_1043",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission D\u00e9claration Beirut, 08 May 2026 Sabah el kheir ya Beyrouth. Je voudrais commencer par remercier le Pr\u00e9sident Aoun pour son accueil et pour la qualit\u00e9 de nos \u00e9changes. Je suis venue \u00e0 Beyrouth,..."
+          },
+          {
+            "title": "Daily News 08 / 05 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1042",
+            "pub_date": "Fri, 08 May 2026 08:51:35 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1042",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 08 May 2026 Commission issues guidance for EU transport sector affected by Middle East crisis Today, the European Commission has adopted guidance to the EU transport and to..."
+          },
+          {
+            "title": "Eurobarometer shows great majority of Europeans see benefits from EU membership and the EU as a pillar of stability and security",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1041",
+            "pub_date": "Fri, 08 May 2026 07:48:01 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1041",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Press release Brussels, 08 May 2026 Published ahead of Europe Day, the new Eurobarometer survey shows nearly three quarters of Europeans believe their country has benefited from being a member of the EU. In a challenging global context, Europeans increasingly see the EU as a source of stability, alongside record-high backing for a common defence and security policy. Three quarters of respondents (75%) say they feel they are citizens of the EU, matching the highest level ever recorded in spring 2025."
+          },
+          {
+            "title": "Eiropas komis\u0101ra Valda Dombrovska runa Latvijas Atvese\u013co\u0161anas fonda ceturt\u0101 maks\u0101juma sa\u0146em\u0161anas pas\u0101kum\u0101",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/lv/speech_26_1038",
+            "pub_date": "Fri, 08 May 2026 06:50:09 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/lv/speech_26_1038",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Runa Riga, 08 May 2026 \u013boti cien\u012bjam\u0101 Ministru prezidente, finan\u0161u ministra kungs, cien\u012bjamie kl\u0101teso\u0161ie! M\u0113s tiekamies \u012bsi pirms Eiropas dienas. Tas ir piem\u0113rots br\u012bdis, lai izv\u0113rt\u0113t..."
+          },
+          {
+            "title": "Speech by Commissioner Kubilius at the signature ceremony for SAFE Agreement with Poland",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1037",
+            "pub_date": "Fri, 08 May 2026 05:40:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1037",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Warsaw, 08 May 2026 Dear friends, It's a great pleasure for me to be here at this monumental occasion. Today we sign the first SAFE loan agreement in European Union. To make all..."
+          },
+          {
+            "title": "Video Statement for Travel West Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975",
+            "pub_date": "Thu, 07 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 04 May 2026 \u039a\u03c5\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03cd\u03c1\u03b9\u03bf\u03b9, \u0395\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c4\u03b9\u03bc\u03ae \u03c7\u03b1\u03c1\u03ac \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9 \u03ad\u03c3\u03c4\u03c9 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf, \u03c3\u03c4\u03bf Travel West Forum, \u03bc\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ad\u03c7\u03b5\u03b9 \u03be\u03b5\u03c7..."
+          },
+          {
+            "title": "Commission reports on progress in implementing Pact on Migration and Asylum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1011",
+            "pub_date": "Thu, 07 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1011",
+            "category": "POLICY_AREA=HOMEAFF,MIGR",
+            "description": "European Commission Press release Brussels, 08 May 2026 Today, the European Commission reports on the state of play on the Pact on Migration and Asylum's implementation."
+          },
+          {
+            "title": "Europeans celebrate unity, values and democracy on Europe Day 2026*",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1009",
+            "pub_date": "Thu, 07 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1009",
+            "category": "POLICY_AREA=INRELATION",
+            "description": "European Commission Press release Brussels, 08 May 2026 On 9 May, Europeans will celebrate Europe Day."
           }
         ],
         "errors": []
