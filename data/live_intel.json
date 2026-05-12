@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T07:44:02+00:00",
+  "generated_at": "2026-05-12T07:25:34+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
-            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
-          },
-          {
-            "title": "Discurso da Comiss\u00e1ria Albuquerque nas comemora\u00e7\u00f5es do Dia da Europa",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/pt/speech_26_1012",
-            "pub_date": "Fri, 08 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/pt/speech_26_1012",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Discurso Porto, 09 May 2026 Senhor Presidente da C\u00e2mara do Porto, Pedro Duarte, Senhora Secret\u00e1ria de Estado dos Assuntos Europeus, In\u00eas Domingos, Minhas Senhoras e Meus Senhores, \u00c9 um gra..."
-          },
-          {
-            "title": "EU leaders discuss peace and stability at 8th EPC Summit and take EU-Armenia partnership to a whole new level",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1046",
-            "pub_date": "Fri, 08 May 2026 14:37:03 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1046",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission News Brussels, 08 May 2026 The President of the Commission, Ursula von der Leyen, was in Yerevan on the 4 and 5 May to attend the eighth Summit of the European Political Community as w..."
-          },
-          {
-            "title": "Statement by Commissioner Lahbib following meeting with Lebanese President Aoun",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/statement_26_1043",
-            "pub_date": "Fri, 08 May 2026 10:15:42 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/statement_26_1043",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission D\u00e9claration Beirut, 08 May 2026 Sabah el kheir ya Beyrouth. Je voudrais commencer par remercier le Pr\u00e9sident Aoun pour son accueil et pour la qualit\u00e9 de nos \u00e9changes. Je suis venue \u00e0 Beyrouth,..."
-          },
-          {
-            "title": "Daily News 08 / 05 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1042",
-            "pub_date": "Fri, 08 May 2026 08:51:35 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1042",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 08 May 2026 Commission issues guidance for EU transport sector affected by Middle East crisis Today, the European Commission has adopted guidance to the EU transport and to..."
-          },
-          {
-            "title": "Eurobarometer shows great majority of Europeans see benefits from EU membership and the EU as a pillar of stability and security",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1041",
-            "pub_date": "Fri, 08 May 2026 07:48:01 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1041",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Press release Brussels, 08 May 2026 Published ahead of Europe Day, the new Eurobarometer survey shows nearly three quarters of Europeans believe their country has benefited from being a member of the EU. In a challenging global context, Europeans increasingly see the EU as a source of stability, alongside record-high backing for a common defence and security policy. Three quarters of respondents (75%) say they feel they are citizens of the EU, matching the highest level ever recorded in spring 2025."
-          },
-          {
-            "title": "Eiropas komis\u0101ra Valda Dombrovska runa Latvijas Atvese\u013co\u0161anas fonda ceturt\u0101 maks\u0101juma sa\u0146em\u0161anas pas\u0101kum\u0101",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/lv/speech_26_1038",
-            "pub_date": "Fri, 08 May 2026 06:50:09 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/lv/speech_26_1038",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Runa Riga, 08 May 2026 \u013boti cien\u012bjam\u0101 Ministru prezidente, finan\u0161u ministra kungs, cien\u012bjamie kl\u0101teso\u0161ie! M\u0113s tiekamies \u012bsi pirms Eiropas dienas. Tas ir piem\u0113rots br\u012bdis, lai izv\u0113rt\u0113t..."
-          },
-          {
-            "title": "Speech by Commissioner Kubilius at the signature ceremony for SAFE Agreement with Poland",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1037",
-            "pub_date": "Fri, 08 May 2026 05:40:23 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1037",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Warsaw, 08 May 2026 Dear friends, It's a great pleasure for me to be here at this monumental occasion. Today we sign the first SAFE loan agreement in European Union. To make all..."
-          },
-          {
-            "title": "Video Statement for Travel West Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975",
-            "pub_date": "Thu, 07 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 04 May 2026 \u039a\u03c5\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03cd\u03c1\u03b9\u03bf\u03b9, \u0395\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c4\u03b9\u03bc\u03ae \u03c7\u03b1\u03c1\u03ac \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9 \u03ad\u03c3\u03c4\u03c9 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf, \u03c3\u03c4\u03bf Travel West Forum, \u03bc\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ad\u03c7\u03b5\u03b9 \u03be\u03b5\u03c7..."
-          },
-          {
-            "title": "Commission reports on progress in implementing Pact on Migration and Asylum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1011",
-            "pub_date": "Thu, 07 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1011",
-            "category": "POLICY_AREA=HOMEAFF,MIGR",
-            "description": "European Commission Press release Brussels, 08 May 2026 Today, the European Commission reports on the state of play on the Pact on Migration and Asylum's implementation."
+            "title": "Commission welcomes political agreement on Critical Medicines Act",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1017",
+            "pub_date": "Mon, 11 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1017",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Press release Brussels, 12 May 2026 The European Commission welcomes the landmark political agreement on the Critical Medicines Act (CMA), last night by the Council and the European Parliament. This marks an important milestone in strengthening the resilience of Europe's health sector by preventing medicine shortages and improving the security of supply of critical medicines across the EU."
           }
         ],
         "errors": []
