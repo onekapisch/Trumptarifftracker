@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T07:32:20+00:00",
+  "generated_at": "2026-05-14T07:28:51+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68625750 - National Commodity Specialist Division (NCSD) May 2026 Webinars",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4172556",
+          "pub_date": "Wed, 13 May 2026 14:23:50 -0400",
+          "guid": "68625750",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68625750 - National Commodity Specialist Division (NCSD) May 2026 Webinars The National Commodity Specialist Division NCSD) , Office of Trade, is excited to present the next round of 30+ commodity-specific, educational webinars to support our internal and external stakeholders. This year, we intend to focus our webinars on the FUTURE OF TRADE: INNOVATION AND EMERGING TECHNOLOG Y - dedicated to rapidly changing technology , in addition to providing general classification guidance to facilitate legitimate trade. Beginning May through September 2026, the webinars will commence at 1:30 p . m . Eastern time for approximately one hour, except for May 20, May "
+        },
+        {
           "title": "CSMS # 68609998 - Harmonized System Update (HSU) 2610",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/416e7ce",
           "pub_date": "Tue, 12 May 2026 09:30:17 -0400",
@@ -1062,14 +1070,6 @@
           "guid": "68179721",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68179721 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) CUSCAR Cargo Report Message, CUSRES Accept-Reject, CUSREP Conveyance Report, 309, and PAXLST U.S. Customs and Border Protection has updated the Electronic Export Manifest (EEM) Automated Commercial Environment (ACE) Exports Truck UNEDIFACT CUSCAR Cargo Report Message, CUSRES Accept-Reject, CUSREP Conveyance Report, X12 309, and Crew and Passenger PAXLST Implementation Guides (IG). Updates implemented: CUSCAR Cargo Report Message - Added Post Departure Filing (PDF) codes and Document Identifier requirements for Post Departure Filing \u2013 Segment DOC Document/Mes"
-        },
-        {
-          "title": "CSMS # 68179006 - REMINDER: ACE Portal Access and ACH Set-Up Required to Receive CBP Refunds",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410543e",
-          "pub_date": "Fri, 27 Mar 2026 14:14:32 -0400",
-          "guid": "68179006",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68179006 - REMINDER: ACE Portal Access and ACH Set-Up Required to Receive CBP Refunds On February 6, 2026, U.S. Customs and Border Protection (CBP) transitioned to electronic-only refunds, as announced in the Electronic Refunds Interim Final Rule published January 2, 2026, in the Federal Register (91 FR 21 ). This change was necessitated by 31 U.S.C. \u00a7 3332 and President Trump\u2019s March 25, 2025, Executive Order 14247 , Modernizing Payments To and From America's Bank Account, 90 FR 14001 . Since February 6, 2026, CBP has had over 12,300 certified refunds rejected because the recipient party did not provide CBP the necessary banking information. If a refun"
         }
       ],
       "errors": []
@@ -1080,20 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Daily News 12 / 05 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1063",
-            "pub_date": "Tue, 12 May 2026 08:15:37 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1063",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 12 May 2026 EU steps up fight against antimicrobial resistance with updated list of countries authorised to export food-producing animals and animal products to the EU The ..."
+            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
           },
           {
-            "title": "Commission welcomes political agreement on Critical Medicines Act",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1017",
-            "pub_date": "Mon, 11 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1017",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Press release Brussels, 12 May 2026 The European Commission welcomes the landmark political agreement on the Critical Medicines Act (CMA), last night by the Council and the European Parliament. This marks an important milestone in strengthening the resilience of Europe's health sector by preventing medicine shortages and improving the security of supply of critical medicines across the EU."
+            "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1083",
+            "pub_date": "Wed, 13 May 2026 13:38:43 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1083",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Discours Brussels, 13 May 2026 En d\u00e9cembre, ici \u00e0 Berlaymont, j'ai rencontr\u00e9 des victimes de pratiques de conversion. Je n'oublierai jamais ce que j'ai entendu. Appelons-la Sarah. Elle m'a ra..."
+          },
+          {
+            "title": "Remarks by Commissioner S\u00edkela at the press conference on the Global Health Resilience Initiative",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1079",
+            "pub_date": "Wed, 13 May 2026 11:16:19 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1079",
+            "category": "POLICY_AREA=DEVEL",
+            "description": "European Commission Speech Brussels, 13 May 2026 Good afternoon to all of you. I am very pleased to be in the press room today to present the Global Health Resilience Initiative. It was announced by the Presid..."
+          },
+          {
+            "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1078",
+            "pub_date": "Wed, 13 May 2026 09:30:19 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1078",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 13 May 2026 Executive Vice-President Fitto Good afternoon, Today, the College of Commissioners adopted the Passenger Mobility Package. This package includes three legislati..."
+          },
+          {
+            "title": "Remarks by Commissioner Lahbib on the European Citizens' Initiative \u2018Ban on conversion practices in the European Union'",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1077",
+            "pub_date": "Wed, 13 May 2026 09:29:17 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1077",
+            "category": "POLICY_AREA=JFRC,EQUALITY",
+            "description": "European Commission Speech Brussels, 13 May 2026 En d\u00e9cembre, ici \u00e0 Berlaymont, j'ai rencontr\u00e9 des victimes de pratiques de conversion. Je n'oublierai jamais ce que j'ai entendu. Appelons-la Sarah. Elle m'a ra..."
+          },
+          {
+            "title": "Daily News 13 / 05 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1076",
+            "pub_date": "Wed, 13 May 2026 09:05:19 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1076",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 13 May 2026 Commission welcomes political agreement on the rights of adults in need of protection in cross-border situations The European Commission welcomes the political ..."
+          },
+          {
+            "title": "Commission strengthens global health security with new Global Health Resilience Initiative",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1074",
+            "pub_date": "Wed, 13 May 2026 07:58:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1074",
+            "category": "POLICY_AREA=DEVEL,HREXTRELS,HEALTHPOL",
+            "description": "European Commission Press release Brussels, 13 May 2026 Today, the European Commission adopted a Global Health Resilience Initiative. This strategy positions the EU as a reliable and frontline actor in global health by scaling up global prevention, preparedness and response to future health threats and addressing resilience gaps in health systems."
+          },
+          {
+            "title": "Keynote speech by Commissioner Kubilius at the event \"European Union Defence Initiatives: The Eastern Flank within a 360\u00b0 Security Approach\"",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1073",
+            "pub_date": "Wed, 13 May 2026 07:24:13 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1073",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Brussels, 13 May 2026 Good morning, Thank you Ambassador, We are living in the real environment of 360 degrees of challenges to our security. The Iran war brings real threats to our ..."
+          },
+          {
+            "title": "Factsheet - Passenger Package",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1058",
+            "pub_date": "Tue, 12 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1058",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Factsheet Brussels, 13 May 2026 Factsheet - Passenger Package Factsheet - Passenger Package"
+          },
+          {
+            "title": "Commission replies to the European Citizens Initiative to ban conversion practices",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1070",
+            "pub_date": "Tue, 12 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1070",
+            "category": "POLICY_AREA=JFRC,EQUALITY",
+            "description": "European Commission Press release Brussels, 13 May 2026 Today, the European Commission adopted a Communication responding to the European Citizens' Initiative (ECI) \u2018Ban on conversion practices in the European Union'."
           }
         ],
         "errors": []
