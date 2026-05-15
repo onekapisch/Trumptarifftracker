@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T07:28:51+00:00",
+  "generated_at": "2026-05-15T07:34:24+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,195 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-09715",
+          "publication_date": "2026-05-14",
+          "title": "Glycine From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09715/glycine-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09714",
+          "publication_date": "2026-05-14",
+          "title": "Circular Welded Carbon Steel Standard Pipe and Tube Products From the Republic of T\u00fcrkiye: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09714/circular-welded-carbon-steel-standard-pipe-and-tube-products-from-the-republic-of-trkiye-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09713",
+          "publication_date": "2026-05-14",
+          "title": "Certain Frozen Warmwater Shrimp From Thailand: Preliminary Results of Antidumping Duty Administrative Review; Rescission of Review, in Part, and Preliminary Determination of No Shipments; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09713/certain-frozen-warmwater-shrimp-from-thailand-preliminary-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09712",
+          "publication_date": "2026-05-14",
+          "title": "Certain Quartz Surface Products From the People's Republic of China: Rescission of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09712/certain-quartz-surface-products-from-the-peoples-republic-of-china-rescission-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09711",
+          "publication_date": "2026-05-14",
+          "title": "Polytetramethylene Ether Glycol From the People's Republic of China, the Republic of Korea, Taiwan, and the Socialist Republic of Vietnam: Initiation of Less-Than-Fair-Value Investigations; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09711/polytetramethylene-ether-glycol-from-the-peoples-republic-of-china-the-republic-of-korea-taiwan-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09709",
+          "publication_date": "2026-05-14",
+          "title": "Certain Steel Nails From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09709/certain-steel-nails-from-malaysia-final-results-of-antidumping-duty-administrative-review-2023-2024",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09708",
+          "publication_date": "2026-05-14",
+          "title": "Large Diameter Welded Pipe From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09708/large-diameter-welded-pipe-from-the-republic-of-korea-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09707",
+          "publication_date": "2026-05-14",
+          "title": "Certain Hot-Rolled Steel Flat Products From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09707/certain-hot-rolled-steel-flat-products-from-the-republic-of-korea-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09692",
+          "publication_date": "2026-05-14",
+          "title": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09692/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-final-results-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09691",
+          "publication_date": "2026-05-14",
+          "title": "Certain Corrosion-Resistant Steel Products From the Republic of Korea: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09691/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-final-results-and-rescission",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09690",
+          "publication_date": "2026-05-14",
+          "title": "Chromium Trioxide From India: Preliminary Affirmative Countervailing Duty Determination, and Alignment of Final Determination With Final Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09690/chromium-trioxide-from-india-preliminary-affirmative-countervailing-duty-determination-and-alignment",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09689",
+          "publication_date": "2026-05-14",
+          "title": "Certain Cold Drawn Mechanical Tubing of Carbon and Alloy Steel From Italy: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09689/certain-cold-drawn-mechanical-tubing-of-carbon-and-alloy-steel-from-italy-preliminary-results-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09688",
+          "publication_date": "2026-05-14",
+          "title": "Common Alloy Aluminum Sheet From Taiwan: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09688/common-alloy-aluminum-sheet-from-taiwan-preliminary-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09683",
+          "publication_date": "2026-05-14",
+          "title": "Certain Integrated Circuits, Electronic Devices Containing the Same, and Components Thereof; Notice of Commission Determination Not To Review Two Initial Determinations Terminating the Investigation With Respect to the Remaining Respondents; Termination of the Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09683/certain-integrated-circuits-electronic-devices-containing-the-same-and-components-thereof-notice-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09680",
+          "publication_date": "2026-05-14",
+          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to U.S. Marine Corps Training Activities at Cherry Point Range Complex, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09680/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-us-marine-corps-training",
+          "raw_text_url": null,
+          "term_hit": "section 232"
+        },
+        {
+          "document_number": "2026-09674",
+          "publication_date": "2026-05-14",
+          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09674/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09673",
+          "publication_date": "2026-05-14",
+          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0129",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09673/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09670",
+          "publication_date": "2026-05-14",
+          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0038",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09670/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09668",
+          "publication_date": "2026-05-14",
+          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0119",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09668/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09664",
+          "publication_date": "2026-05-14",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09664/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09580",
+          "publication_date": "2026-05-14",
+          "title": "Emerging Technology Technical Advisory Committee",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09580/emerging-technology-technical-advisory-committee",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-09575",
           "publication_date": "2026-05-13",
@@ -484,15 +673,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-08976",
-          "publication_date": "2026-05-06",
-          "title": "Agency Information Collection Activities; Extension; African Growth and Opportunity Act (AGOA) Textile Certificate of Origin",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08976/agency-information-collection-activities-extension-african-growth-and-opportunity-act-agoa-textile",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-08970",
           "publication_date": "2026-05-06",
           "title": "Agency Information Collection Activities; Revision; Customs Declaration (CBP Form 6059B)",
@@ -500,24 +680,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08970/agency-information-collection-activities-revision-customs-declaration-cbp-form-6059b",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08959",
-          "publication_date": "2026-05-06",
-          "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection: LEO Certification Letter for Official-Duty Firearm Purchase",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08959/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-08958",
-          "publication_date": "2026-05-06",
-          "title": "Foreign-Trade Zone (FTZ) 288, Notification of Proposed Production Activity; Coilcraft, Inc.; (Ferrous Iron Pre-Fabrication Material); Hawarden, Iowa",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08958/foreign-trade-zone-ftz-288-notification-of-proposed-production-activity-coilcraft-inc-ferrous-iron",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-08957",
@@ -581,168 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08806/initiation-of-second-four-year-review-process-chinas-acts-policies-and-practices-related-to",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08805",
-          "publication_date": "2026-05-06",
-          "title": "Certain Photovoltaic Trunk Bus Cable Assemblies and Components Thereof; Notice of Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on Remedy, the Public Interest, and Bonding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08805/certain-photovoltaic-trunk-bus-cable-assemblies-and-components-thereof-notice-of-commission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08780",
-          "publication_date": "2026-05-06",
-          "title": "Certain Aluminum Foil From the Sultanate of Oman: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08780/certain-aluminum-foil-from-the-sultanate-of-oman-preliminary-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08744",
-          "publication_date": "2026-05-05",
-          "title": "Tin Mill Products From the People's Republic of China: Initiation of Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08744/tin-mill-products-from-the-peoples-republic-of-china-initiation-of-countervailing-duty-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08739",
-          "publication_date": "2026-05-05",
-          "title": "Tetrahydrofurfuryl Alcohol From the People's Republic of China: Continuation of Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08739/tetrahydrofurfuryl-alcohol-from-the-peoples-republic-of-china-continuation-of-antidumping-duty-order",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08737",
-          "publication_date": "2026-05-05",
-          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08737/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08736",
-          "publication_date": "2026-05-05",
-          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08736/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08686",
-          "publication_date": "2026-05-05",
-          "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08686/agency-information-collection-activities-proposed-collection-comment-request-extension",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-08683",
-          "publication_date": "2026-05-05",
-          "title": "Air Compressors From China, Malaysia, and Vietnam; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/05/2026-08683/air-compressors-from-china-malaysia-and-vietnam-institution-of-antidumping-and-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08640",
-          "publication_date": "2026-05-04",
-          "title": "Common Alloy Aluminum Sheet From the Republic of T\u00fcrkiye: Final Results of Countervailing Duty Administrative Review; 2023; Correction",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08640/common-alloy-aluminum-sheet-from-the-republic-of-trkiye-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08639",
-          "publication_date": "2026-05-04",
-          "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08639/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08637",
-          "publication_date": "2026-05-04",
-          "title": "Prestressed Concrete Steel Wire Strand From the Republic of T\u00fcrkiye: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08637/prestressed-concrete-steel-wire-strand-from-the-republic-of-trkiye-final-results-of-the-expedited",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08636",
-          "publication_date": "2026-05-04",
-          "title": "Prestressed Concrete Steel Wire Strand From Argentina, Colombia, Egypt, Indonesia, Italy, Malaysia, the Netherlands, Saudi Arabia, the Republic of South Africa, Spain, Taiwan, Tunisia, the Republic of T\u00fcrkiye, Ukraine, and the United Arab Emirates: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08636/prestressed-concrete-steel-wire-strand-from-argentina-colombia-egypt-indonesia-italy-malaysia-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08635",
-          "publication_date": "2026-05-04",
-          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08635/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08634",
-          "publication_date": "2026-05-04",
-          "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08634/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08633",
-          "publication_date": "2026-05-04",
-          "title": "Certain Frozen Warmwater Shrimp From India: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08633/certain-frozen-warmwater-shrimp-from-india-preliminary-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08616",
-          "publication_date": "2026-05-04",
-          "title": "Certain Active Electrical Cables and Components Thereof; Notice of Commission Determination Not To Review Two Initial Determinations Terminating the Investigation as to the Remaining Respondents Based on Settlement; Termination of the Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08616/certain-active-electrical-cables-and-components-thereof-notice-of-commission-determination-not-to",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08576",
-          "publication_date": "2026-05-04",
-          "title": "Certain Screen Protectors, Screen Protector Systems, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination To Amend the Complaint and Notice of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08576/certain-screen-protectors-screen-protector-systems-and-components-thereof-notice-of-a-commission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08559",
-          "publication_date": "2026-05-04",
-          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/04/2026-08559/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68634647 - Updated Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4174817",
+          "pub_date": "Thu, 14 May 2026 10:52:33 -0400",
+          "guid": "68634647",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68634647 - Updated Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available An updated version of the Consumer Product Safety Commission (CPSC) Message Implementation Guide (IG) is now available and can be found in the Draft Chapters: Future Capabilities section of the CATAIR website : ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) This update includes: Updated language related to the OI record to note that \u201cOnly one OI record is allowed per HTS code.\u201d Added language clarifying the Intended Use Code restriction that applies to d isclaims of type B. If you have any questions abo"
+        },
         {
           "title": "CSMS # 68625750 - National Commodity Specialist Division (NCSD) May 2026 Webinars",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4172556",
@@ -1062,14 +1070,6 @@
           "guid": "68180454",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68180454 - Updated Guidance: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026 U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS 68096516 - Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026. This guidance includes an updated list of potentially covered products (attached) as of March 27, 2026. In addition, CBP clarifies its interpretation of the applicability of the waiver deadline. Specifically, CBP has determined that to be compliant with the waiver, any covered product must be loaded onboard the relevant vessel before the deadline expires at 11:"
-        },
-        {
-          "title": "CSMS # 68179721 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) CUSCAR Cargo Report Message, CUSRES Accept-Reject, CUSREP Conveyance Report, 309, and PAXLST",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4105709",
-          "pub_date": "Fri, 27 Mar 2026 14:43:51 -0400",
-          "guid": "68179721",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68179721 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) CUSCAR Cargo Report Message, CUSRES Accept-Reject, CUSREP Conveyance Report, 309, and PAXLST U.S. Customs and Border Protection has updated the Electronic Export Manifest (EEM) Automated Commercial Environment (ACE) Exports Truck UNEDIFACT CUSCAR Cargo Report Message, CUSRES Accept-Reject, CUSREP Conveyance Report, X12 309, and Crew and Passenger PAXLST Implementation Guides (IG). Updates implemented: CUSCAR Cargo Report Message - Added Post Departure Filing (PDF) codes and Document Identifier requirements for Post Departure Filing \u2013 Segment DOC Document/Mes"
         }
       ],
       "errors": []
@@ -1086,6 +1086,22 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
             "category": "POLICY_AREA=TRANSPORT",
             "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
+          },
+          {
+            "title": "\u039f\u03bc\u03b9\u03bb\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u03c0\u03b9\u03c4\u03c1\u03cc\u03c0\u03bf\u03c5 \u039a\u03b1\u03b4\u03ae \u03c3\u03b5 \u03ba\u03bf\u03b9\u03bd\u03ae \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1 \u03c4\u03b7\u03c2 \u0394\u03b9\u03b1\u03c1\u03ba\u03bf\u03cd\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd, \u03c4\u03b7\u03c2 \u0394\u03b9\u03b1\u03c1\u03ba\u03bf\u03cd\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2 \u03ba\u03b1\u03b9 \u0395\u03bc\u03c0\u03bf\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0395\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2 \u039c\u03cc\u03bd\u03b9\u03bc\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 \u03a0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0392\u03bf\u03c5\u03bb\u03ae\u03c2 \u03c4\u03c9\u03bd \u0395\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/el/speech_26_1088",
+            "pub_date": "Thu, 14 May 2026 10:00:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/el/speech_26_1088",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission \u039f\u03bc\u03b9\u03bb\u03af\u03b1 Athens, 14 May 2026 \u039a\u03c5\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03cd\u03c1\u03b9\u03bf\u03b9 \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ad\u03c2, \u0395\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c4\u03b9\u03bc\u03ae \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bc\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7 \u0392\u03bf\u03c5\u03bb\u03ae \u03c4\u03c9\u03bd \u0395\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c3\u03ac\u03c2, \u03c9\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03af\u03bf\u03c2 \u0395\u03c0\u03af\u03c4\u03c1\u03bf\u03c0\u03bf\u03c2 \u03b1\u03c1\u03bc\u03cc\u03b4\u03b9\u03bf\u03c2..."
+          },
+          {
+            "title": "Commission greenlights Romania's fourth payment request for \u20ac2.62 billion under NextGenerationEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1075",
+            "pub_date": "Wed, 13 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1075",
+            "category": "POLICY_AREA=RECOVERY",
+            "description": "European Commission Press release Brussels, 14 May 2026 Today, the European Commission issued a positive preliminary assessment of Romania's fourth payment request for \u20ac2.62 billion under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU."
           },
           {
             "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
@@ -1142,22 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1073",
             "category": "POLICY_AREA=DEFENCE",
             "description": "European Commission Speech Brussels, 13 May 2026 Good morning, Thank you Ambassador, We are living in the real environment of 360 degrees of challenges to our security. The Iran war brings real threats to our ..."
-          },
-          {
-            "title": "Factsheet - Passenger Package",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1058",
-            "pub_date": "Tue, 12 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1058",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Factsheet Brussels, 13 May 2026 Factsheet - Passenger Package Factsheet - Passenger Package"
-          },
-          {
-            "title": "Commission replies to the European Citizens Initiative to ban conversion practices",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1070",
-            "pub_date": "Tue, 12 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1070",
-            "category": "POLICY_AREA=JFRC,EQUALITY",
-            "description": "European Commission Press release Brussels, 13 May 2026 Today, the European Commission adopted a Communication responding to the European Citizens' Initiative (ECI) \u2018Ban on conversion practices in the European Union'."
           }
         ],
         "errors": []
