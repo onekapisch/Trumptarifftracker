@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:34:24+00:00",
+  "generated_at": "2026-05-16T07:14:46+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-09822",
+          "publication_date": "2026-05-15",
+          "title": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09822/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09809",
+          "publication_date": "2026-05-15",
+          "title": "Request for Comments and Public Hearing About the Administration's Action Following a Determination of Import Injury With Regard to Quartz Surface Products (QSP)",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09809/request-for-comments-and-public-hearing-about-the-administrations-action-following-a-determination",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09782",
+          "publication_date": "2026-05-15",
+          "title": "Amending the Procedures To Administer Import Adjustment Offset Amounts for Certain Imports of Automobile Parts Under Proclamation 10908 To Include Medium- and Heavy-Duty Vehicle Parts",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09782/amending-the-procedures-to-administer-import-adjustment-offset-amounts-for-certain-imports-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09757",
+          "publication_date": "2026-05-15",
+          "title": "Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; Golden Pass LNG Terminal LLC; (Natural Gas Terminal); Port Arthur, Texas",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09757/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-golden-pass-lng-terminal-llc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09756",
+          "publication_date": "2026-05-15",
+          "title": "Tapered Roller Bearings and Parts Thereof, Finished or Unfinished From the People's Republic of China: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09756/tapered-roller-bearings-and-parts-thereof-finished-or-unfinished-from-the-peoples-republic-of-china",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09755",
+          "publication_date": "2026-05-15",
+          "title": "Non-Refillable Steel Cylinders from the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09755/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09754",
+          "publication_date": "2026-05-15",
+          "title": "Notice of Rescission of Antidumping and Countervailing Duty Administrative Reviews; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09754/notice-of-rescission-of-antidumping-and-countervailing-duty-administrative-reviews-correction",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09753",
+          "publication_date": "2026-05-15",
+          "title": "Certain Carbon and Alloy Steel Cut-To-Length Plate From Belgium: Final Results of Antidumping Duty Administrative Review and Final Determination of No Shipments; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09753/certain-carbon-and-alloy-steel-cut-to-length-plate-from-belgium-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-09715",
           "publication_date": "2026-05-14",
@@ -466,15 +538,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09245",
-          "publication_date": "2026-05-11",
-          "title": "World Trade Center Health Program; Petitions 032, 033, and 068-Peripheral Neuropathy; Finding of Insufficient Evidence",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09245/world-trade-center-health-program-petitions-032-033-and-068-peripheral-neuropathy-finding-of",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-09243",
           "publication_date": "2026-05-11",
           "title": "Certain Photodynamic Therapy Systems, Components Thereof, and Pharmaceutical Products Used in Combination With the Same; Notice of the Commission's Final Determination Finding a Violation of Section 337; Issuance of a Limited Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
@@ -508,7 +571,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09222/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-turbocam-inc-turbocharger-and",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-09221",
@@ -556,24 +619,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09215",
-          "publication_date": "2026-05-08",
-          "title": "Agency Information Collection Activities; Reinstatement; Application for Allowance in Duties",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09215/agency-information-collection-activities-reinstatement-application-for-allowance-in-duties",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09214",
-          "publication_date": "2026-05-08",
-          "title": "Agency Information Collection Activities; Extension; Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers (CBP Form 7401)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09214/agency-information-collection-activities-extension-distribution-of-continued-dumping-and-subsidy",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-09204",
           "publication_date": "2026-05-08",
           "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
@@ -581,33 +626,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09204/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09164",
-          "publication_date": "2026-05-08",
-          "title": "Converting Temporary to Permanent Imports for Defense Articles",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09164/converting-temporary-to-permanent-imports-for-defense-articles",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09163",
-          "publication_date": "2026-05-08",
-          "title": "Importing Dual-Use Frames, Receivers, or Barrels",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09163/importing-dual-use-frames-receivers-or-barrels",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09162",
-          "publication_date": "2026-05-08",
-          "title": "Firearm Activities in Foreign Trade Zones, Customs-Bonded Warehouses",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09162/firearm-activities-in-foreign-trade-zones-customs-bonded-warehouses",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-09161",
@@ -723,24 +741,6 @@
           "title": "Truck Bed Covers From the People's Republic of China: Postponement of Preliminary Determination in the Countervailing Duty Investigation",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08949/truck-bed-covers-from-the-peoples-republic-of-china-postponement-of-preliminary-determination-in-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08920",
-          "publication_date": "2026-05-06",
-          "title": "Removing Triplicate Filing Requirement for Importing Plastic Explosives",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08920/removing-triplicate-filing-requirement-for-importing-plastic-explosives",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-08806",
-          "publication_date": "2026-05-06",
-          "title": "Initiation of Second Four-Year Review Process: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08806/initiation-of-second-four-year-review-process-chinas-acts-policies-and-practices-related-to",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
@@ -1080,84 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
-            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
+            "title": "Statement by Commissioner Lahbib on US humanitarian funding commitment",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1089",
+            "pub_date": "Fri, 15 May 2026 10:35:39 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1089",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Statement Brussels, 15 May 2026 I welcome the humanitarian funding commitment announced by the United States. This engagement sends an important signal of solidarity with vulnerable population..."
           },
           {
-            "title": "\u039f\u03bc\u03b9\u03bb\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u03c0\u03b9\u03c4\u03c1\u03cc\u03c0\u03bf\u03c5 \u039a\u03b1\u03b4\u03ae \u03c3\u03b5 \u03ba\u03bf\u03b9\u03bd\u03ae \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1 \u03c4\u03b7\u03c2 \u0394\u03b9\u03b1\u03c1\u03ba\u03bf\u03cd\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd, \u03c4\u03b7\u03c2 \u0394\u03b9\u03b1\u03c1\u03ba\u03bf\u03cd\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u03a0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2 \u03ba\u03b1\u03b9 \u0395\u03bc\u03c0\u03bf\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0395\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2 \u039c\u03cc\u03bd\u03b9\u03bc\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 \u03a0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0392\u03bf\u03c5\u03bb\u03ae\u03c2 \u03c4\u03c9\u03bd \u0395\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/el/speech_26_1088",
-            "pub_date": "Thu, 14 May 2026 10:00:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/el/speech_26_1088",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission \u039f\u03bc\u03b9\u03bb\u03af\u03b1 Athens, 14 May 2026 \u039a\u03c5\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03cd\u03c1\u03b9\u03bf\u03b9 \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ad\u03c2, \u0395\u03af\u03bd\u03b1\u03b9 \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c4\u03b9\u03bc\u03ae \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1 \u03bd\u03b1 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bc\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7 \u0392\u03bf\u03c5\u03bb\u03ae \u03c4\u03c9\u03bd \u0395\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03c5\u03b8\u03cd\u03bd\u03bf\u03bc\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c3\u03ac\u03c2, \u03c9\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03af\u03bf\u03c2 \u0395\u03c0\u03af\u03c4\u03c1\u03bf\u03c0\u03bf\u03c2 \u03b1\u03c1\u03bc\u03cc\u03b4\u03b9\u03bf\u03c2..."
-          },
-          {
-            "title": "Commission greenlights Romania's fourth payment request for \u20ac2.62 billion under NextGenerationEU",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1075",
-            "pub_date": "Wed, 13 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1075",
-            "category": "POLICY_AREA=RECOVERY",
-            "description": "European Commission Press release Brussels, 14 May 2026 Today, the European Commission issued a positive preliminary assessment of Romania's fourth payment request for \u20ac2.62 billion under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU."
-          },
-          {
-            "title": "Press Remarks by Commissioner Lahbib at the European Citizens' Initiative to Ban Conversion Practices",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1083",
-            "pub_date": "Wed, 13 May 2026 13:38:43 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1083",
-            "category": "POLICY_AREA=EQUALITY",
-            "description": "European Commission Discours Brussels, 13 May 2026 En d\u00e9cembre, ici \u00e0 Berlaymont, j'ai rencontr\u00e9 des victimes de pratiques de conversion. Je n'oublierai jamais ce que j'ai entendu. Appelons-la Sarah. Elle m'a ra..."
-          },
-          {
-            "title": "Remarks by Commissioner S\u00edkela at the press conference on the Global Health Resilience Initiative",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1079",
-            "pub_date": "Wed, 13 May 2026 11:16:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1079",
-            "category": "POLICY_AREA=DEVEL",
-            "description": "European Commission Speech Brussels, 13 May 2026 Good afternoon to all of you. I am very pleased to be in the press room today to present the Global Health Resilience Initiative. It was announced by the Presid..."
-          },
-          {
-            "title": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the Passenger Package",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1078",
-            "pub_date": "Wed, 13 May 2026 09:30:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1078",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 13 May 2026 Executive Vice-President Fitto Good afternoon, Today, the College of Commissioners adopted the Passenger Mobility Package. This package includes three legislati..."
-          },
-          {
-            "title": "Remarks by Commissioner Lahbib on the European Citizens' Initiative \u2018Ban on conversion practices in the European Union'",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1077",
-            "pub_date": "Wed, 13 May 2026 09:29:17 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1077",
-            "category": "POLICY_AREA=JFRC,EQUALITY",
-            "description": "European Commission Speech Brussels, 13 May 2026 En d\u00e9cembre, ici \u00e0 Berlaymont, j'ai rencontr\u00e9 des victimes de pratiques de conversion. Je n'oublierai jamais ce que j'ai entendu. Appelons-la Sarah. Elle m'a ra..."
-          },
-          {
-            "title": "Daily News 13 / 05 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1076",
-            "pub_date": "Wed, 13 May 2026 09:05:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1076",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 13 May 2026 Commission welcomes political agreement on the rights of adults in need of protection in cross-border situations The European Commission welcomes the political ..."
-          },
-          {
-            "title": "Commission strengthens global health security with new Global Health Resilience Initiative",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1074",
-            "pub_date": "Wed, 13 May 2026 07:58:30 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1074",
-            "category": "POLICY_AREA=DEVEL,HREXTRELS,HEALTHPOL",
-            "description": "European Commission Press release Brussels, 13 May 2026 Today, the European Commission adopted a Global Health Resilience Initiative. This strategy positions the EU as a reliable and frontline actor in global health by scaling up global prevention, preparedness and response to future health threats and addressing resilience gaps in health systems."
-          },
-          {
-            "title": "Keynote speech by Commissioner Kubilius at the event \"European Union Defence Initiatives: The Eastern Flank within a 360\u00b0 Security Approach\"",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1073",
-            "pub_date": "Wed, 13 May 2026 07:24:13 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1073",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Brussels, 13 May 2026 Good morning, Thank you Ambassador, We are living in the real environment of 360 degrees of challenges to our security. The Iran war brings real threats to our ..."
+            "title": "Commission welcomes the Council of Europe declaration on migration",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1085",
+            "pub_date": "Thu, 14 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1085",
+            "category": "POLICY_AREA=HOMEAFF,MIGR",
+            "description": "European Commission Press release Brussels, 15 May 2026 The European Commission welcomes the political declaration on migration adopted today by the Council of Europe, at the Ministerial conference in Chi\u0219in\u0103u. The declaration highlights the importance of the European Convention on Human Rights and the values underpinning the Council of Europe, which are shared values in the EU."
           }
         ],
         "errors": []
