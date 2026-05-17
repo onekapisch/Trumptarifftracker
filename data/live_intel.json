@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T07:14:46+00:00",
+  "generated_at": "2026-05-17T07:23:48+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-09912",
+          "publication_date": "2026-05-18",
+          "title": "Certain Aluminum Foil from the Republic of T\u00fcrkiye: Notice of Court Decision Not in Harmony with the Final Determination of Antidumping Investigation; Notice of Amended Final Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09912/certain-aluminum-foil-from-the-republic-of-trkiye-notice-of-court-decision-not-in-harmony-with-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09911",
+          "publication_date": "2026-05-18",
+          "title": "Certain Vertical Shaft Engines Between 99cc and 225cc, and Parts Thereof, From the People's Republic of China: Affirmative Preliminary Determination of Circumvention of the Antidumping and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09911/certain-vertical-shaft-engines-between-99cc-and-225cc-and-parts-thereof-from-the-peoples-republic-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09910",
+          "publication_date": "2026-05-18",
+          "title": "Fresh Mushrooms From Canada: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09910/fresh-mushrooms-from-canada-preliminary-affirmative-countervailing-duty-determination-and-alignment",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09905",
+          "publication_date": "2026-05-18",
+          "title": "Revision of Tier 4 Criteria Pollutant Standards, Part 1: Amendments to Phase-In Schedule for Light-Duty and Medium-Duty Vehicles",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09905/revision-of-tier-4-criteria-pollutant-standards-part-1-amendments-to-phase-in-schedule-for",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09903",
+          "publication_date": "2026-05-18",
+          "title": "Certain Corrosion-Resistant Steel Products From Taiwan: Final Results of the Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09903/certain-corrosion-resistant-steel-products-from-taiwan-final-results-of-the-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09902",
+          "publication_date": "2026-05-18",
+          "title": "Silicomanganese From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09902/silicomanganese-from-india-final-results-of-antidumping-duty-administrative-review-2023-2024",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09871",
+          "publication_date": "2026-05-18",
+          "title": "Quarterly IRS Interest Rates Used in Calculating Interest on Overdue Accounts and Refunds of Customs Duties",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09871/quarterly-irs-interest-rates-used-in-calculating-interest-on-overdue-accounts-and-refunds-of-customs",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-09831",
+          "publication_date": "2026-05-18",
+          "title": "Tris(hydroxymethyl)aminomethane From the People's Republic of China: Initiation of Countervailing Duty Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09831/trishydroxymethylaminomethane-from-the-peoples-republic-of-china-initiation-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09828",
+          "publication_date": "2026-05-18",
+          "title": "Polyethylene Terephthalate Resin From the Sultanate of Oman: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09828/polyethylene-terephthalate-resin-from-the-sultanate-of-oman-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09826",
+          "publication_date": "2026-05-18",
+          "title": "Non-Oriented Electrical Steel From Sweden, Germany, the People's Republic of China, the Republic of Korea, Taiwan and Japan: Continuation of Antidumping Duty Orders and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09826/non-oriented-electrical-steel-from-sweden-germany-the-peoples-republic-of-china-the-republic-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-09822",
           "publication_date": "2026-05-15",
@@ -651,96 +741,6 @@
           "title": "Certain Cut-to-Length Carbon-Quality Steel Plate Products From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2024-2025",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09131/certain-cut-to-length-carbon-quality-steel-plate-products-from-the-republic-of-korea-final-results",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09104",
-          "publication_date": "2026-05-07",
-          "title": "Agency Information Collection Activities; Reinstatement; Petition for Remission or Mitigation of Forfeitures and Penalties Incurred",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/07/2026-09104/agency-information-collection-activities-reinstatement-petition-for-remission-or-mitigation-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09103",
-          "publication_date": "2026-05-07",
-          "title": "Agency Information Collection Activities; Extension; Application To Establish a Centralized Examination Station (CES)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/07/2026-09103/agency-information-collection-activities-extension-application-to-establish-a-centralized",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09102",
-          "publication_date": "2026-05-07",
-          "title": "Agency Information Collection Activities; Extension; Free Trade Agreements (FTAs)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/07/2026-09102/agency-information-collection-activities-extension-free-trade-agreements-ftas",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09017",
-          "publication_date": "2026-05-07",
-          "title": "Certain Aluminum Foil From Brazil: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/07/2026-09017/certain-aluminum-foil-from-brazil-preliminary-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08970",
-          "publication_date": "2026-05-06",
-          "title": "Agency Information Collection Activities; Revision; Customs Declaration (CBP Form 6059B)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08970/agency-information-collection-activities-revision-customs-declaration-cbp-form-6059b",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08957",
-          "publication_date": "2026-05-06",
-          "title": "Certain Stilbenic Optical Brightening Agents From Taiwan: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08957/certain-stilbenic-optical-brightening-agents-from-taiwan-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08953",
-          "publication_date": "2026-05-06",
-          "title": "Welded Stainless Pressure Pipe From India: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08953/welded-stainless-pressure-pipe-from-india-preliminary-results-and-partial-rescission-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08952",
-          "publication_date": "2026-05-06",
-          "title": "Large Diameter Graphite Electrodes From the People's Republic of China and India: Postponement of Preliminary Determinations in the Countervailing Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08952/large-diameter-graphite-electrodes-from-the-peoples-republic-of-china-and-india-postponement-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08951",
-          "publication_date": "2026-05-06",
-          "title": "Certain Aluminum Foil From the Republic of T\u00fcrkiye: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08951/certain-aluminum-foil-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-08949",
-          "publication_date": "2026-05-06",
-          "title": "Truck Bed Covers From the People's Republic of China: Postponement of Preliminary Determination in the Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/06/2026-08949/truck-bed-covers-from-the-peoples-republic-of-china-postponement-of-preliminary-determination-in-the",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
