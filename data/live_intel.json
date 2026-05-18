@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T07:23:48+00:00",
+  "generated_at": "2026-05-18T07:49:16+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1079,6 +1079,14 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Statement by President von der Leyen with Swedish Prime Minister Kristersson and Indian Prime Minister Modi",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1090",
+            "pub_date": "Sun, 17 May 2026 16:44:11 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1090",
+            "category": "POLICY_AREA=DEVEL,ECOMONAFF,TRADEPOL,SPACE,TECH",
+            "description": "European Commission Statement Gothenburg, 17 May 2026 Dear Prime Minister Kristersson, dear Ulf, Thank you for inviting me to join you here in beautiful G\u00f6teborg \u2013 one of the Nordic region's great trading and indus..."
+          },
           {
             "title": "Statement by Commissioner Lahbib on US humanitarian funding commitment",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1089",
