@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T07:49:16+00:00",
+  "generated_at": "2026-05-19T07:44:39+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10012",
+          "publication_date": "2026-05-19",
+          "title": "Advisory Committee on Immunization Practices (ACIP); Notice of Charter Re-Establishment",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10012/advisory-committee-on-immunization-practices-acip-notice-of-charter-re-establishment",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10010",
+          "publication_date": "2026-05-19",
+          "title": "Certain Drug Products Containing C-Type Natriuretic Peptide Variants, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Amending the Complaint and Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10010/certain-drug-products-containing-c-type-natriuretic-peptide-variants-and-components-thereof-notice",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10007",
+          "publication_date": "2026-05-19",
+          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10007/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-the-expedited-first",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10006",
+          "publication_date": "2026-05-19",
+          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10006/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-the-expedited-first",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10004",
+          "publication_date": "2026-05-19",
+          "title": "Certain Steel Nails From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10004/certain-steel-nails-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-09984",
+          "publication_date": "2026-05-19",
+          "title": "Certain Preserved Mushrooms from Chile, China, India, and Indonesia; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-09984/certain-preserved-mushrooms-from-chile-china-india-and-indonesia-scheduling-of-expedited-five-year",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-09912",
           "publication_date": "2026-05-18",
@@ -689,60 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09219/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09218",
-          "publication_date": "2026-05-08",
-          "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09218/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-preliminary-results-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09217",
-          "publication_date": "2026-05-08",
-          "title": "Agency Information Collection Activities; Extension; Country of Origin Marking Requirements for Containers or Holders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09217/agency-information-collection-activities-extension-country-of-origin-marking-requirements-for",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09204",
-          "publication_date": "2026-05-08",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09204/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09161",
-          "publication_date": "2026-05-08",
-          "title": "Interstate Transport and Temporary Export of National Firearms Act Firearms",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09161/interstate-transport-and-temporary-export-of-national-firearms-act-firearms",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09132",
-          "publication_date": "2026-05-08",
-          "title": "Thermal Paper From the Republic of Korea: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09132/thermal-paper-from-the-republic-of-korea-final-results-and-rescission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09131",
-          "publication_date": "2026-05-08",
-          "title": "Certain Cut-to-Length Carbon-Quality Steel Plate Products From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09131/certain-cut-to-length-carbon-quality-steel-plate-products-from-the-republic-of-korea-final-results",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68674922 - ACE CATAIR AD/CVD Case Information Query Updated: Manufacturer Details and Foreign Exporter Details Can Return an Unlimited Number of Records",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/417e56a",
+          "pub_date": "Mon, 18 May 2026 16:00:24 -0400",
+          "guid": "68674922",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68674922 - ACE CATAIR AD/CVD Case Information Query Updated: Manufacturer Details and Foreign Exporter Details Can Return an Unlimited Number of Records Please be advised that an updated version of the ACE CATAIR AD/CVD Case Information Query V11 has been posted under Draft Chapters: Future Capabilities section on CBP.gov . The updated version includes the following: \u00b7 Manufacturer Details (Output RC-Record) - has been amended to now return an unlimited number of records returning all Manufacturer Names \u00b7 Foreign Exporter Details (Output RD-Record) - has been amended to now return an unlimited number of records returning all Foreign Exporter Names This "
+        },
+        {
+          "title": "CSMS # 68674937 - Update to ACE CATAIR Error Dictionary: F865 HTS NOT ALLOWED FOR IMPORTER",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/417e579",
+          "pub_date": "Mon, 18 May 2026 15:58:05 -0400",
+          "guid": "68674937",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68674937 - Update to ACE CATAIR Error Dictionary: F865 HTS NOT ALLOWED FOR IMPORTER Please be advised that an updated version of the ACE CATAIR Error Dictionary V46 has been posted under Draft Chapters: Future Capabilities section on CBP.gov . This update includes the following: \u00b7 F865: HTS NOT ALLOWED FOR IMPORTER One or more tariff numbers transmitted in the AE is not eligible for the submitted Importer of Record. This update is scheduled to deploy in the CERTIFICATION (CERT) environment on May 19, 2026, and deploy to the PRODUCTION (PROD) environment on June 02, 2026. For any technical questions regarding this update, please contact your assigned Cli"
+        },
         {
           "title": "CSMS # 68634647 - Updated Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4174817",
@@ -1054,22 +1070,6 @@
           "guid": "68212568",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today On March 24, 2026, U.S. Customs and Border Protection (CBP) enhanced the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. CBP will hold a user readiness support call today at 1:00 p.m. ET to address trade community questions related to this system enhancement. ACE User Readiness Support Call Tuesday, March 31, 2026 1:00 p.m. - 2:00 p.m. ET Call Link: Join via Microsoft Teams For more information on these changes, review the trade user information "
-        },
-        {
-          "title": "CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410a75b",
-          "pub_date": "Mon, 30 Mar 2026 10:50:56 -0400",
-          "guid": "68200283",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68200283 - Electronic Export Manifest (EEM) \u2013 Appendix O \u2013 Schedule K Implementation Guide (IG) Update \u2013 Port of Unlading Code 42876-Hamburg Electronic Export Manifest (EEM) will be implementing an update to the CBP Export Manifest Appendix O \u2013 Schedule K. The update implemented is the inclusion of Port of Unlading Code: 42876 \u2013 Hamburg Technical inquiries should be directed to your assigned CBP Client Representative. Policy inquiries may be submitted to cbpexportmanifest@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 68180454 - Updated Guidance: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41059e6",
-          "pub_date": "Fri, 27 Mar 2026 15:49:11 -0400",
-          "guid": "68180454",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68180454 - Updated Guidance: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026 U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS 68096516 - Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026. This guidance includes an updated list of potentially covered products (attached) as of March 27, 2026. In addition, CBP clarifies its interpretation of the applicability of the waiver deadline. Specifically, CBP has determined that to be compliant with the waiver, any covered product must be loaded onboard the relevant vessel before the deadline expires at 11:"
         }
       ],
       "errors": []
@@ -1079,6 +1079,22 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "Speech by Commissioner Kadis at the European Parliament plenary debate on the Isabella L\u00f6vin Report: Implementation of the Multiannual Plan for the Baltic Sea",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1105",
+            "pub_date": "Mon, 18 May 2026 17:49:28 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1105",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Strasbourg, 18 May 2026 President, Honourable Members, The Commission welcomes this timely and important report. The situation of the Baltic Sea ecosystem has been difficult for far to..."
+          },
+          {
+            "title": "Speech by Commissioner Kadis at the European Parliament plenary debate on the report by St\u00e9phanie Yon-Courtin on the implementation of the Maritime Spatial Planning Directive",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1104",
+            "pub_date": "Mon, 18 May 2026 17:23:28 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1104",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Strasbourg, 18 May 2026 President, Honourable Members, Let me start by sincerely congratulating Ms Yon-Courtin as well as the shadow rapporteurs for their excellent work on this import..."
+          },
           {
             "title": "Statement by President von der Leyen with Swedish Prime Minister Kristersson and Indian Prime Minister Modi",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1090",
@@ -1094,14 +1110,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1089",
             "category": "POLICY_AREA=ICHACR",
             "description": "European Commission Statement Brussels, 15 May 2026 I welcome the humanitarian funding commitment announced by the United States. This engagement sends an important signal of solidarity with vulnerable population..."
-          },
-          {
-            "title": "Commission welcomes the Council of Europe declaration on migration",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1085",
-            "pub_date": "Thu, 14 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1085",
-            "category": "POLICY_AREA=HOMEAFF,MIGR",
-            "description": "European Commission Press release Brussels, 15 May 2026 The European Commission welcomes the political declaration on migration adopted today by the Council of Europe, at the Ministerial conference in Chi\u0219in\u0103u. The declaration highlights the importance of the European Convention on Human Rights and the values underpinning the Council of Europe, which are shared values in the EU."
           }
         ],
         "errors": []
@@ -1133,12 +1141,6 @@
             "link": "https://www.gov.uk/government/news/greater-together-la-the-largest-ever-uk-trade-mission-to-the-us-attracts-major-corporate-sponsors",
             "updated": "2026-04-09T09:48:00+01:00",
             "summary": "In partnership with world-leading financial, tech and cultural organisations, the UK Government\u2019s GREAT Britain &amp; Northern Ireland Campaign is holding a major expo in Los Angeles, California from 18th - 22nd May, 2026."
-          },
-          {
-            "title": "David Reed appointed HMTC for Eastern Europe and Central Asia",
-            "link": "https://www.gov.uk/government/news/david-reed-appointed-trade-commissioner-for-eastern-europe",
-            "updated": "2026-03-26T00:01:00+00:00",
-            "summary": "David Reed MBE appointed His Majesty\u2019s <mark>Trade</mark> Commissioner for Eastern Europe and Central Asia, and His Majesty\u2019s Consul General to Istanbul."
           }
         ],
         "errors": []
