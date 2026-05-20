@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T07:44:39+00:00",
+  "generated_at": "2026-05-20T07:44:13+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10112",
+          "publication_date": "2026-05-20",
+          "title": "Certain Crepe Paper Products From the People's Republic of China: Final Results of the Expedited Fourth Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10112/certain-crepe-paper-products-from-the-peoples-republic-of-china-final-results-of-the-expedited",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10111",
+          "publication_date": "2026-05-20",
+          "title": "Certain Freight Rail Couplers and Parts Thereof From the People's Republic of China: Rescission of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10111/certain-freight-rail-couplers-and-parts-thereof-from-the-peoples-republic-of-china-rescission-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10080",
+          "publication_date": "2026-05-20",
+          "title": "Steel Concrete Reinforcing Bar From Algeria; Closure of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10080/steel-concrete-reinforcing-bar-from-algeria-closure-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10052",
+          "publication_date": "2026-05-20",
+          "title": "Welded Stainless Steel Pressure Pipe From the Socialist Republic of Vietnam: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10052/welded-stainless-steel-pressure-pipe-from-the-socialist-republic-of-vietnam-final-results-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10051",
+          "publication_date": "2026-05-20",
+          "title": "Certain Steel Nails From the United Arab Emirates: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10051/certain-steel-nails-from-the-united-arab-emirates-final-results-of-antidumping-duty-administrative",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10046",
+          "publication_date": "2026-05-20",
+          "title": "Foreign-Trade Zone (FTZ) 214, Notification of Proposed Production Activity; Patheon Manufacturing Services LLC; (Opdualag); Greenville, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10046/foreign-trade-zone-ftz-214-notification-of-proposed-production-activity-patheon-manufacturing",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-10012",
           "publication_date": "2026-05-19",
@@ -421,15 +475,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09580",
-          "publication_date": "2026-05-14",
-          "title": "Emerging Technology Technical Advisory Committee",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09580/emerging-technology-technical-advisory-committee",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-09575",
           "publication_date": "2026-05-13",
           "title": "Extension of Import Restrictions Imposed on Categories of Archaeological and Ethnological Material of T\u00fcrkiye",
@@ -455,24 +500,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09531/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-india-indonesia",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09522",
-          "publication_date": "2026-05-13",
-          "title": "Privacy Act of 1974; Systems of Records",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09522/privacy-act-of-1974-systems-of-records",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09513",
-          "publication_date": "2026-05-13",
-          "title": "Foreign-Trade Zone (FTZ) 21 Notification of Proposed Production Activity; Patheon API, Inc.; (Meloxicam, Xeloda, and Tamiflu); Florence, South Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09513/foreign-trade-zone-ftz-21-notification-of-proposed-production-activity-patheon-api-inc-meloxicam",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-09510",
@@ -716,33 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09222/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-turbocam-inc-turbocharger-and",
           "raw_text_url": null,
           "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-09221",
-          "publication_date": "2026-05-08",
-          "title": "Agency Information Collection Activities; Reinstatement; Request for Information (CBP Form 28)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09221/agency-information-collection-activities-reinstatement-request-for-information-cbp-form-28",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09220",
-          "publication_date": "2026-05-08",
-          "title": "Strontium Chromate From France: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09220/strontium-chromate-from-france-preliminary-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09219",
-          "publication_date": "2026-05-08",
-          "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09219/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -1080,36 +1080,28 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Commission welcomes political agreement on implementation of EU-US trade deal",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1103",
+            "pub_date": "Tue, 19 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1103",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Press release Brussels, 20 May 2026 The European Commission welcomes the political agreement reached today between the European Parliament and the Council of the EU on two Regulations eliminating tariffs on all US industrial goods and providing preferential market access for certain US agricultural and seafood products, in line with the EU commitments made in the EU-US Joint Statement of 21 August 2025."
+          },
+          {
+            "title": "Commission presents plan to secure Europe's fertiliser supply and food security",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1099",
+            "pub_date": "Mon, 18 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1099",
+            "category": "POLICY_AREA=AGRURAL",
+            "description": "European Commission Press release Brussels, 20 May 2026 Today, the European Commission adopted the Fertiliser Action Plan: an initiative to support farmers facing rising fertiliser costs and scarcity, reinforce domestic production and reduce Europe's dependency on imports."
+          },
+          {
             "title": "Speech by Commissioner Kadis at the European Parliament plenary debate on the Isabella L\u00f6vin Report: Implementation of the Multiannual Plan for the Baltic Sea",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1105",
             "pub_date": "Mon, 18 May 2026 17:49:28 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1105",
             "category": "POLICY_AREA=MARAFFISH",
             "description": "European Commission Speech Strasbourg, 18 May 2026 President, Honourable Members, The Commission welcomes this timely and important report. The situation of the Baltic Sea ecosystem has been difficult for far to..."
-          },
-          {
-            "title": "Speech by Commissioner Kadis at the European Parliament plenary debate on the report by St\u00e9phanie Yon-Courtin on the implementation of the Maritime Spatial Planning Directive",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1104",
-            "pub_date": "Mon, 18 May 2026 17:23:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1104",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Strasbourg, 18 May 2026 President, Honourable Members, Let me start by sincerely congratulating Ms Yon-Courtin as well as the shadow rapporteurs for their excellent work on this import..."
-          },
-          {
-            "title": "Statement by President von der Leyen with Swedish Prime Minister Kristersson and Indian Prime Minister Modi",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1090",
-            "pub_date": "Sun, 17 May 2026 16:44:11 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1090",
-            "category": "POLICY_AREA=DEVEL,ECOMONAFF,TRADEPOL,SPACE,TECH",
-            "description": "European Commission Statement Gothenburg, 17 May 2026 Dear Prime Minister Kristersson, dear Ulf, Thank you for inviting me to join you here in beautiful G\u00f6teborg \u2013 one of the Nordic region's great trading and indus..."
-          },
-          {
-            "title": "Statement by Commissioner Lahbib on US humanitarian funding commitment",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1089",
-            "pub_date": "Fri, 15 May 2026 10:35:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1089",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Statement Brussels, 15 May 2026 I welcome the humanitarian funding commitment announced by the United States. This engagement sends an important signal of solidarity with vulnerable population..."
           }
         ],
         "errors": []
