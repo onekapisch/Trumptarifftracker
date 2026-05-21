@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T07:44:13+00:00",
+  "generated_at": "2026-05-21T07:45:16+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,28 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Commission welcomes political agreement on implementation of EU-US trade deal",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1103",
-            "pub_date": "Tue, 19 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1103",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Press release Brussels, 20 May 2026 The European Commission welcomes the political agreement reached today between the European Parliament and the Council of the EU on two Regulations eliminating tariffs on all US industrial goods and providing preferential market access for certain US agricultural and seafood products, in line with the EU commitments made in the EU-US Joint Statement of 21 August 2025."
-          },
-          {
-            "title": "Commission presents plan to secure Europe's fertiliser supply and food security",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1099",
-            "pub_date": "Mon, 18 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1099",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Press release Brussels, 20 May 2026 Today, the European Commission adopted the Fertiliser Action Plan: an initiative to support farmers facing rising fertiliser costs and scarcity, reinforce domestic production and reduce Europe's dependency on imports."
-          },
-          {
-            "title": "Speech by Commissioner Kadis at the European Parliament plenary debate on the Isabella L\u00f6vin Report: Implementation of the Multiannual Plan for the Baltic Sea",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1105",
-            "pub_date": "Mon, 18 May 2026 17:49:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1105",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Strasbourg, 18 May 2026 President, Honourable Members, The Commission welcomes this timely and important report. The situation of the Baltic Sea ecosystem has been difficult for far to..."
+            "title": "Daily News 20 / 05 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1114",
+            "pub_date": "Wed, 20 May 2026 09:48:05 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1114",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 20 May 2026 Commission welcomes political agreement on implementation of EU-US trade deal The European Commission welcomes the political agreement reached today between the..."
           }
         ],
         "errors": []
@@ -1110,6 +1094,18 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "UK and Gulf strike historic multi-billion-pound trade deal",
+            "link": "https://www.gov.uk/government/news/uk-and-gulf-strike-historic-multi-billion-pound-trade-deal",
+            "updated": "2026-05-20T17:07:00+01:00",
+            "summary": "Wages and GDP to see boost as UK and Gulf strike historic multi-billion-pound <mark>trade</mark> deal"
+          },
+          {
+            "title": "Top Benefits of the UK-Gulf Cooperation Council (GCC) FTA",
+            "link": "https://www.gov.uk/government/news/top-benefits-of-the-uk-gulf-cooperation-council-gcc-fta",
+            "updated": "2026-05-20T17:00:02+01:00",
+            "summary": "Top Benefits of the UK-Gulf Cooperation Council (GCC) Free <mark>Trade</mark> Agreement \u2026"
+          },
           {
             "title": "Costa Rica to join UK as member of \u00a313 trillion global trade bloc",
             "link": "https://www.gov.uk/government/news/costa-rica-to-join-uk-as-member-of-13-trillion-global-trade-bloc",
