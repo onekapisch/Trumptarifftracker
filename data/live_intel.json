@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T07:45:16+00:00",
+  "generated_at": "2026-05-22T07:44:30+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,51 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10215",
+          "publication_date": "2026-05-21",
+          "title": "Certain Electronic Eyewear Products, Components Thereof, and Related Charging Apparatuses (II); Notice of Commission Determination Not To Review an Initial Determination Finding the Remaining Respondent in Default; Request for Written Submissions on Remedy, the Public Interest, and Bonding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/21/2026-10215/certain-electronic-eyewear-products-components-thereof-and-related-charging-apparatuses-ii-notice-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10203",
+          "publication_date": "2026-05-21",
+          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0040",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/21/2026-10203/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10198",
+          "publication_date": "2026-05-21",
+          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0074",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/21/2026-10198/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10162",
+          "publication_date": "2026-05-21",
+          "title": "International Standard-Setting Activities",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/21/2026-10162/international-standard-setting-activities",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10133",
+          "publication_date": "2026-05-21",
+          "title": "Quartz Surface Products",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/21/2026-10133/quartz-surface-products",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-10112",
           "publication_date": "2026-05-20",
@@ -430,42 +475,6 @@
           "term_hit": "section 232"
         },
         {
-          "document_number": "2026-09674",
-          "publication_date": "2026-05-14",
-          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09674/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09673",
-          "publication_date": "2026-05-14",
-          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0129",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09673/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09670",
-          "publication_date": "2026-05-14",
-          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0038",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09670/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-09668",
-          "publication_date": "2026-05-14",
-          "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0119",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09668/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-09664",
           "publication_date": "2026-05-14",
           "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
@@ -734,15 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09240/coated-paper-suitable-for-high-quality-print-graphics-using-sheet-fed-presses-from-indonesia-denial",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09222",
-          "publication_date": "2026-05-08",
-          "title": "Foreign-Trade Zone (FTZ) 81, Notification of Proposed Production Activity; Turbocam Inc.; (Turbocharger and Aircraft Engine Compressor Components); Barrington, Dover, and Rochester, New Hampshire",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/08/2026-09222/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-turbocam-inc-turbocharger-and",
-          "raw_text_url": null,
-          "term_hit": "section 232"
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Daily News 20 / 05 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1114",
-            "pub_date": "Wed, 20 May 2026 09:48:05 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1114",
+            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
+            "category": "POLICY_AREA=TRANSPORT",
+            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
+          },
+          {
+            "title": "Keynote speech by Commissioner Kubilius at the event of the 25th anniversary of the European Union Military Committee",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1137",
+            "pub_date": "Thu, 21 May 2026 13:38:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1137",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Brussels, 21 May 2026 Good afternoon. The ancient Greeks had a saying about war: War is the father of all things, even of instruments for peace. The EUMC was forged in the dark shado..."
+          },
+          {
+            "title": "Speech by Commissioner Kos on the 20th anniversary of Montenegro's independence",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1133",
+            "pub_date": "Thu, 21 May 2026 10:32:11 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1133",
+            "category": "POLICY_AREA=ENLNEIG",
+            "description": "European Commission Speech Podgorica, 21 May 2026 Dear citizens of Montenegro, Dear President Milatovi\u0107, Dear Speaker of Parliament Mandi\u0107, Dear Prime Minister Spaji\u0107, Twenty years ago, Montenegrins voted to re..."
+          },
+          {
+            "title": "Daily News 21 / 05 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1131",
+            "pub_date": "Thu, 21 May 2026 09:42:59 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1131",
             "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 20 May 2026 Commission welcomes political agreement on implementation of EU-US trade deal The European Commission welcomes the political agreement reached today between the..."
+            "description": "European Commission Daily news Brussels, 21 May 2026 Commission disburses \u20ac249 million to Ireland under NextGenerationEU Today, the European Commission disbursed \u20ac249 million in grants to Ireland, marking the four..."
+          },
+          {
+            "title": "Remarks by Commissioner Dombrovskis at the press conference presenting the Spring 2026 Economic Forecast",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1130",
+            "pub_date": "Thu, 21 May 2026 09:09:53 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1130",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Speech Brussels, 21 May 2026 Good morning. Let me begin right away with the five key messages contained in our Spring 2026 Economic Forecast. First, on the broader context. The conflict in ..."
+          },
+          {
+            "title": "Speech by Commissioner Albuquerque at the European Securities and Markets Authority (ESMA) conference: A new era for EU capital markets",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1128",
+            "pub_date": "Thu, 21 May 2026 08:06:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1128",
+            "category": "POLICY_AREA=FINSTAB",
+            "description": "European Commission Speech Paris, 21 May 2026 Good morning, ladies and gentlemen. Many thanks to Verena for inviting me to take part in today's discussion. It is a pleasure to be back in Paris. I am encoura..."
+          },
+          {
+            "title": "Opening Remarks by Commissioner Kadis at the European Maritime Day 2026 in Limassol, Cyprus",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1127",
+            "pub_date": "Thu, 21 May 2026 07:38:35 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1127",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Limassol, 21 May 2026 Deputy Minister Hadjimanolis, Mayor Armeftis, dear colleagues and friends of the maritime community, ladies and gentlemen, It is an honour to address you today ..."
+          },
+          {
+            "title": "Spring 2026 Economic Forecast shows slowdown in growth as energy shock drives up inflation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1120",
+            "pub_date": "Wed, 20 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1120",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Press release Brussels, 21 May 2026 The Spring 2026 Economic Forecast projects weaker economic activity, as the conflict in the Middle East triggers a new energy shock that reignites inflation and shakes economic sentiment."
+          },
+          {
+            "title": "Commission sends Statements of Objections to several companies concerning synthetic turf cartels",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1123",
+            "pub_date": "Wed, 20 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1123",
+            "category": "POLICY_AREA=COMPETY,ANTITRUST",
+            "description": "European Commission Press release Brussels, 21 May 2026 The European Commission has informed several companies active in the synthetic turf sector of its preliminary view that they have breached EU antitrust rules by colluding to distort competition in synthetic turf for sports pitches in the Netherlands and Germany."
+          },
+          {
+            "title": "Speech by Commissioner Albuquerque at the 6th Annual European Financial Integration Conference, organised by the Association for Financial Markets in Europe (AFME)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1118",
+            "pub_date": "Wed, 20 May 2026 12:15:26 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1118",
+            "category": "POLICY_AREA=FINSTAB",
+            "description": "European Commission Speech Frankfurt, 20 May 2026 Good afternoon, ladies and gentlemen. Thanks to Adam and the team at AFME for inviting me to speak today. Many of you represent financial intermediaries at the ..."
           }
         ],
         "errors": []
@@ -1095,16 +1167,16 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
+            "title": "Top Benefits of the UK-Gulf Cooperation Council (GCC) FTA",
+            "link": "https://www.gov.uk/government/news/top-benefits-of-the-uk-gulf-cooperation-council-gcc-fta",
+            "updated": "2026-05-21T10:33:45+01:00",
+            "summary": "Top Benefits of the UK-Gulf Cooperation Council (GCC) Free <mark>Trade</mark> Agreement \u2026"
+          },
+          {
             "title": "UK and Gulf strike historic multi-billion-pound trade deal",
             "link": "https://www.gov.uk/government/news/uk-and-gulf-strike-historic-multi-billion-pound-trade-deal",
             "updated": "2026-05-20T17:07:00+01:00",
             "summary": "Wages and GDP to see boost as UK and Gulf strike historic multi-billion-pound <mark>trade</mark> deal"
-          },
-          {
-            "title": "Top Benefits of the UK-Gulf Cooperation Council (GCC) FTA",
-            "link": "https://www.gov.uk/government/news/top-benefits-of-the-uk-gulf-cooperation-council-gcc-fta",
-            "updated": "2026-05-20T17:00:02+01:00",
-            "summary": "Top Benefits of the UK-Gulf Cooperation Council (GCC) Free <mark>Trade</mark> Agreement \u2026"
           },
           {
             "title": "Costa Rica to join UK as member of \u00a313 trillion global trade bloc",
