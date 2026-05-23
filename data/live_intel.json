@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T07:44:30+00:00",
+  "generated_at": "2026-05-23T07:19:50+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,51 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10344",
+          "publication_date": "2026-05-22",
+          "title": "Certain Superabsorbent Polymers From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10344/certain-superabsorbent-polymers-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10343",
+          "publication_date": "2026-05-22",
+          "title": "Certain Preserved Mushrooms From Poland: Final Results of Antidumping Duty Administrative Review; 2022-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10343/certain-preserved-mushrooms-from-poland-final-results-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10342",
+          "publication_date": "2026-05-22",
+          "title": "Unwrought Palladium from the Russian Federation: Final Affirmative Countervailing Duy Determination",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10342/unwrought-palladium-from-the-russian-federation-final-affirmative-countervailing-duy-determination",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10340",
+          "publication_date": "2026-05-22",
+          "title": "Foreign-Trade Zone (FTZ) 75, Notification of Proposed Production Activity; Essai, Inc.; (Semiconductor Test Equipment); Chandler, Arizona",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10340/foreign-trade-zone-ftz-75-notification-of-proposed-production-activity-essai-inc-semiconductor-test",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10311",
+          "publication_date": "2026-05-22",
+          "title": "Agency Information Collection Activities; Extension; International Mail Duty Worksheet (IMDW)",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10311/agency-information-collection-activities-extension-international-mail-duty-worksheet-imdw",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-10215",
           "publication_date": "2026-05-21",
@@ -445,7 +490,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09689/certain-cold-drawn-mechanical-tubing-of-carbon-and-alloy-steel-from-italy-preliminary-results-of",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-09688",
@@ -696,51 +741,6 @@
           "title": "Steel Concrete Reinforcing Bar From Mexico: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09321/steel-concrete-reinforcing-bar-from-mexico-preliminary-results-and-rescission-in-part-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09320",
-          "publication_date": "2026-05-12",
-          "title": "Certain Aluminum Foil From the Republic of T\u00fcrkiye: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09320/certain-aluminum-foil-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09318",
-          "publication_date": "2026-05-12",
-          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Parts Tariff Offset Program for Motor Vehicles and Motor Vehicle Parts",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09318/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09243",
-          "publication_date": "2026-05-11",
-          "title": "Certain Photodynamic Therapy Systems, Components Thereof, and Pharmaceutical Products Used in Combination With the Same; Notice of the Commission's Final Determination Finding a Violation of Section 337; Issuance of a Limited Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09243/certain-photodynamic-therapy-systems-components-thereof-and-pharmaceutical-products-used-in",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09241",
-          "publication_date": "2026-05-11",
-          "title": "Notice of Receipt of Amended Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09241/notice-of-receipt-of-amended-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09240",
-          "publication_date": "2026-05-11",
-          "title": "Coated Paper Suitable for High-Quality Print Graphics Using Sheet-Fed Presses From Indonesia; Denial of Request To Institute a Section 751(b) Review Concerning the Commission's Affirmative Determinations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/11/2026-09240/coated-paper-suitable-for-high-quality-print-graphics-using-sheet-fed-presses-from-indonesia-denial",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
@@ -1080,84 +1080,60 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Video message for roundtable discussion on LNG & Shipping organised by CBS Alumni Club and Columbia Global Energy Centre",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
-            "pub_date": "Wed, 27 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977",
-            "category": "POLICY_AREA=TRANSPORT",
-            "description": "European Commission Speech Brussels, 04 May 2026 Ladies and gentlemen, I have been asked to present the EU perspective on the closure of the Strait of Hormuz. But first, allow me to welcome that finally after ..."
+            "title": "Statement by President von der Leyen at the press conference following the EU-Mexico Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1150",
+            "pub_date": "Fri, 22 May 2026 13:03:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1150",
+            "category": "POLICY_AREA=DEVEL,TRADEPOL",
+            "description": "European Commission Statement Mexico City, 22 May 2026 President Sheinbaum, Dear Claudia, Yesterday, I had the privilege of sharing a deeply enriching exchange with a group of Indigenous women at the Museum of Anthr..."
           },
           {
-            "title": "Keynote speech by Commissioner Kubilius at the event of the 25th anniversary of the European Union Military Committee",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1137",
-            "pub_date": "Thu, 21 May 2026 13:38:23 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1137",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Brussels, 21 May 2026 Good afternoon. The ancient Greeks had a saying about war: War is the father of all things, even of instruments for peace. The EUMC was forged in the dark shado..."
+            "title": "Remarks by President von der Leyen at the meeting with the business delegation at the EU-Mexico summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1149",
+            "pub_date": "Fri, 22 May 2026 13:01:46 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1149",
+            "category": "POLICY_AREA=DEVEL,PRESIDENCY,TRADEPOL",
+            "description": "European Commission Statement Mexico City, 22 May 2026 Opening remarks President Sheinbaum, President Costa, Dear business leaders from Mexico and Europe, Thank you for joining us today. I look forward to hearing yo..."
           },
           {
-            "title": "Speech by Commissioner Kos on the 20th anniversary of Montenegro's independence",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1133",
-            "pub_date": "Thu, 21 May 2026 10:32:11 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1133",
-            "category": "POLICY_AREA=ENLNEIG",
-            "description": "European Commission Speech Podgorica, 21 May 2026 Dear citizens of Montenegro, Dear President Milatovi\u0107, Dear Speaker of Parliament Mandi\u0107, Dear Prime Minister Spaji\u0107, Twenty years ago, Montenegrins voted to re..."
+            "title": "Opening remarks by President von der Leyen at the EU-Mexico Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1148",
+            "pub_date": "Fri, 22 May 2026 12:57:51 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1148",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission Statement Mexico City, 22 May 2026 Thank you, President Sheinbaum, for hosting us at the 8th EU-Mexico Summit. It is an important moment, a moment of renewal for our partnership. As we entered th..."
           },
           {
-            "title": "Daily News 21 / 05 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1131",
-            "pub_date": "Thu, 21 May 2026 09:42:59 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1131",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 21 May 2026 Commission disburses \u20ac249 million to Ireland under NextGenerationEU Today, the European Commission disbursed \u20ac249 million in grants to Ireland, marking the four..."
+            "title": "Joint Statement of the European Union - Mexico Summit 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1147",
+            "pub_date": "Fri, 22 May 2026 12:57:04 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1147",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Statement Brussels, 22 May 2026 We, the leaders of the European Union and the United Mexican States, met in Mexico City, Mexico, on 22 May 2026 for the 8th European Union - Mexico Summit and c..."
           },
           {
-            "title": "Remarks by Commissioner Dombrovskis at the press conference presenting the Spring 2026 Economic Forecast",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1130",
-            "pub_date": "Thu, 21 May 2026 09:09:53 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1130",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Speech Brussels, 21 May 2026 Good morning. Let me begin right away with the five key messages contained in our Spring 2026 Economic Forecast. First, on the broader context. The conflict in ..."
+            "title": "Questions and answers on the EU's Global Agreement with Mexico",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_249",
+            "pub_date": "Thu, 21 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_249",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Questions and answers Brussels, 22 May 2026 Why did the EU update its agreement with Mexico? In 1997, the EU and Mexico signed an Economic Partnership, Political Coordination and Cooperation Agreement. It..."
           },
           {
-            "title": "Speech by Commissioner Albuquerque at the European Securities and Markets Authority (ESMA) conference: A new era for EU capital markets",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1128",
-            "pub_date": "Thu, 21 May 2026 08:06:23 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1128",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Speech Paris, 21 May 2026 Good morning, ladies and gentlemen. Many thanks to Verena for inviting me to take part in today's discussion. It is a pleasure to be back in Paris. I am encoura..."
+            "title": "Factsheet EU-Mexico on Infographic *",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_276",
+            "pub_date": "Thu, 21 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_276",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Factsheet Mexico City, 03 Sep 2025 Factsheet EU-Mexico on Infographic * Factsheet EU-Mexico on Infographic"
           },
           {
-            "title": "Opening Remarks by Commissioner Kadis at the European Maritime Day 2026 in Limassol, Cyprus",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1127",
-            "pub_date": "Thu, 21 May 2026 07:38:35 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1127",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Limassol, 21 May 2026 Deputy Minister Hadjimanolis, Mayor Armeftis, dear colleagues and friends of the maritime community, ladies and gentlemen, It is an honour to address you today ..."
-          },
-          {
-            "title": "Spring 2026 Economic Forecast shows slowdown in growth as energy shock drives up inflation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1120",
-            "pub_date": "Wed, 20 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1120",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Press release Brussels, 21 May 2026 The Spring 2026 Economic Forecast projects weaker economic activity, as the conflict in the Middle East triggers a new energy shock that reignites inflation and shakes economic sentiment."
-          },
-          {
-            "title": "Commission sends Statements of Objections to several companies concerning synthetic turf cartels",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1123",
-            "pub_date": "Wed, 20 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1123",
-            "category": "POLICY_AREA=COMPETY,ANTITRUST",
-            "description": "European Commission Press release Brussels, 21 May 2026 The European Commission has informed several companies active in the synthetic turf sector of its preliminary view that they have breached EU antitrust rules by colluding to distort competition in synthetic turf for sports pitches in the Netherlands and Germany."
-          },
-          {
-            "title": "Speech by Commissioner Albuquerque at the 6th Annual European Financial Integration Conference, organised by the Association for Financial Markets in Europe (AFME)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1118",
-            "pub_date": "Wed, 20 May 2026 12:15:26 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1118",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Speech Frankfurt, 20 May 2026 Good afternoon, ladies and gentlemen. Thanks to Adam and the team at AFME for inviting me to speak today. Many of you represent financial intermediaries at the ..."
+            "title": "EU and Mexico deepen long-term ties at a historic summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1136",
+            "pub_date": "Thu, 21 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1136",
+            "category": "POLICY_AREA=HREXTRELS,TRADEPOL",
+            "description": "European Commission Press release Mexico City, 22 May 2026 Today, the EU and Mexico have taken a major step forward in their partnership by signing the Modernised Global Agreement (MGA) and interim Trade Agreement (iTA). At the 8th EU-Mexico Summit in Mexico City, both sides agreed to deepen their political and economic cooperation at a time of growing global uncertainty."
           }
         ],
         "errors": []
