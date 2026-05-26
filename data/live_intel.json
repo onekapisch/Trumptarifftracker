@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T08:01:12+00:00",
+  "generated_at": "2026-05-26T07:44:40+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10424",
+          "publication_date": "2026-05-26",
+          "title": "Difluoromethane (R-32) From China; Scheduling of an Expedited Five-Year Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10424/difluoromethane-r-32-from-china-scheduling-of-an-expedited-five-year-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10418",
+          "publication_date": "2026-05-26",
+          "title": "Foreign-Trade Zone (FTZ) 138, Notification of Proposed Production Activity; Shiseido Americas Corporation; (Cosmetic and Beauty Products); Groveport, Ohio",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10418/foreign-trade-zone-ftz-138-notification-of-proposed-production-activity-shiseido-americas",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10414",
+          "publication_date": "2026-05-26",
+          "title": "Foreign-Trade Zone (FTZ) 200, Notification of Proposed Production Activity; Shiseido America, Inc.; (Cosmetic and Beauty Products); East Windsor and Cranbury, New Jersey",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10414/foreign-trade-zone-ftz-200-notification-of-proposed-production-activity-shiseido-america-inc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10403",
+          "publication_date": "2026-05-26",
+          "title": "Foreign-Trade Zone (FTZ) 297, Notification of Proposed Production Activity; Twin Disc, Inc.; (Marine and Heavy Duty Off Highway Power Transmission Equipment); Lufkin, Texas",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10403/foreign-trade-zone-ftz-297-notification-of-proposed-production-activity-twin-disc-inc-marine-and",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10402",
+          "publication_date": "2026-05-26",
+          "title": "Certain Paper Shopping Bags From Colombia: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10402/certain-paper-shopping-bags-from-colombia-notice-of-court-decision-not-in-harmony-with-the-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10387",
+          "publication_date": "2026-05-26",
+          "title": "Phasedown of Hydrofluorocarbons: Reconsideration of Certain Regulatory Requirements Promulgated Under the Technology Transitions Provisions of the American Innovation and Manufacturing Act of 2020",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10387/phasedown-of-hydrofluorocarbons-reconsideration-of-certain-regulatory-requirements-promulgated-under",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10370",
+          "publication_date": "2026-05-26",
+          "title": "Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10370/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10357",
+          "publication_date": "2026-05-26",
+          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10357/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-preliminary-results-and-rescission",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10351",
+          "publication_date": "2026-05-26",
+          "title": "Foreign-Trade Zone (FTZ) 45, Notification of Proposed Production Activity; JAE Oregon Inc.; (Automotive Electrical Connectors and Components); Tualatin, Oregon",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10351/foreign-trade-zone-ftz-45-notification-of-proposed-production-activity-jae-oregon-inc-automotive",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-10350",
+          "publication_date": "2026-05-26",
+          "title": "Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10350/distribution-of-continued-dumping-and-subsidy-offset-to-affected-domestic-producers",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-10344",
           "publication_date": "2026-05-22",
@@ -346,7 +436,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09757/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-golden-pass-lng-terminal-llc",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-09756",
@@ -651,96 +741,6 @@
           "title": "Temporary Steel Fencing From the People's Republic of China: Antidumping Duty Order and Countervailing Duty Order",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09460/temporary-steel-fencing-from-the-peoples-republic-of-china-antidumping-duty-order-and-countervailing",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09459",
-          "publication_date": "2026-05-13",
-          "title": "Oil Country Tubular Goods From the Republic of Korea: Preliminary Results, Intent To Rescind, in Part, and Rescission, in Part, of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09459/oil-country-tubular-goods-from-the-republic-of-korea-preliminary-results-intent-to-rescind-in-part",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09458",
-          "publication_date": "2026-05-13",
-          "title": "Certain Aluminum Foil From the Sultanate of Oman: Preliminary Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09458/certain-aluminum-foil-from-the-sultanate-of-oman-preliminary-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09457",
-          "publication_date": "2026-05-13",
-          "title": "Certain Cut-To-Length Carbon-Quality Steel Plate From the Republic of Korea: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09457/certain-cut-to-length-carbon-quality-steel-plate-from-the-republic-of-korea-preliminary-results-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09455",
-          "publication_date": "2026-05-13",
-          "title": "Paper File Folders From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09455/paper-file-folders-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09454",
-          "publication_date": "2026-05-13",
-          "title": "Sodium Nitrite From India: Preliminary Results and Intent To Rescind, in Part, of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09454/sodium-nitrite-from-india-preliminary-results-and-intent-to-rescind-in-part-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09439",
-          "publication_date": "2026-05-12",
-          "title": "Certain Ink Cartridges and Components Thereof II; Notice of a Commission Determination To Review in Part an Initial Determination Granting Complainants' Motion for Summary Determination of Violation; Request for Written Submissions on the Issues Under Review and on Remedy, the Public Interest, and Bonding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09439/certain-ink-cartridges-and-components-thereof-ii-notice-of-a-commission-determination-to-review-in",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09338",
-          "publication_date": "2026-05-12",
-          "title": "Certain Semiconductor Devices and Products Containing the Same; Notice of the Commission's Final Determination Finding a Violation of Section 337; Issuance of a Limited Exclusion Order and Cease and Desist Orders; Termination of the Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09338/certain-semiconductor-devices-and-products-containing-the-same-notice-of-the-commissions-final",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09337",
-          "publication_date": "2026-05-12",
-          "title": "N-Cyclohexylbenzothiazole-2-sulfenamide From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09337/n-cyclohexylbenzothiazole-2-sulfenamide-from-china-institution-of-antidumping-and-countervailing",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09322",
-          "publication_date": "2026-05-12",
-          "title": "Certain Crystalline Silicon Photovoltaic Products From Taiwan: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09322/certain-crystalline-silicon-photovoltaic-products-from-taiwan-preliminary-results-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09321",
-          "publication_date": "2026-05-12",
-          "title": "Steel Concrete Reinforcing Bar From Mexico: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/12/2026-09321/steel-concrete-reinforcing-bar-from-mexico-preliminary-results-and-rescission-in-part-of-antidumping",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
@@ -1118,14 +1118,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_249",
             "category": "POLICY_AREA=TRADEPOL",
             "description": "European Commission Questions and answers Brussels, 22 May 2026 Why did the EU update its agreement with Mexico? In 1997, the EU and Mexico signed an Economic Partnership, Political Coordination and Cooperation Agreement. It..."
-          },
-          {
-            "title": "Factsheet EU-Mexico on Infographic *",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_276",
-            "pub_date": "Thu, 21 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_276",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Factsheet Mexico City, 03 Sep 2025 Factsheet EU-Mexico on Infographic * Factsheet EU-Mexico on Infographic"
           }
         ],
         "errors": []
