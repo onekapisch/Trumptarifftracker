@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T07:44:40+00:00",
+  "generated_at": "2026-05-27T07:50:36+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10526",
+          "publication_date": "2026-05-27",
+          "title": "Stationary and Portable Air Compressors From the People's Republic of China, Malaysia, and the Socialist Republic of Vietnam: Initiation of Countervailing Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10526/stationary-and-portable-air-compressors-from-the-peoples-republic-of-china-malaysia-and-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10525",
+          "publication_date": "2026-05-27",
+          "title": "Certain Aluminum Foil From the People's Republic of China: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10525/certain-aluminum-foil-from-the-peoples-republic-of-china-amended-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10522",
+          "publication_date": "2026-05-27",
+          "title": "Large Diameter Welded Pipe From the Republic of T\u00fcrkiye: Preliminary Results and Rescission, In Part, of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10522/large-diameter-welded-pipe-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10471",
+          "publication_date": "2026-05-27",
+          "title": "Confidential Government Information Nondisclosure Agreement",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10471/confidential-government-information-nondisclosure-agreement",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-10424",
           "publication_date": "2026-05-26",
@@ -367,15 +403,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09871",
-          "publication_date": "2026-05-18",
-          "title": "Quarterly IRS Interest Rates Used in Calculating Interest on Overdue Accounts and Refunds of Customs Duties",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09871/quarterly-irs-interest-rates-used-in-calculating-interest-on-overdue-accounts-and-refunds-of-customs",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-09831",
           "publication_date": "2026-05-18",
           "title": "Tris(hydroxymethyl)aminomethane From the People's Republic of China: Initiation of Countervailing Duty Investigation",
@@ -401,15 +428,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09826/non-oriented-electrical-steel-from-sweden-germany-the-peoples-republic-of-china-the-republic-of",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09822",
-          "publication_date": "2026-05-15",
-          "title": "Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09822/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-09809",
@@ -723,24 +741,6 @@
           "title": "Thermal Paper From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09462/thermal-paper-from-spain-preliminary-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09461",
-          "publication_date": "2026-05-13",
-          "title": "Chlorinated Isocyanurates From the People's Republic of China: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09461/chlorinated-isocyanurates-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09460",
-          "publication_date": "2026-05-13",
-          "title": "Temporary Steel Fencing From the People's Republic of China: Antidumping Duty Order and Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09460/temporary-steel-fencing-from-the-peoples-republic-of-china-antidumping-duty-order-and-countervailing",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
@@ -1094,30 +1094,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1149",
             "category": "POLICY_AREA=DEVEL,PRESIDENCY,TRADEPOL",
             "description": "European Commission Statement Mexico City, 22 May 2026 Opening remarks President Sheinbaum, President Costa, Dear business leaders from Mexico and Europe, Thank you for joining us today. I look forward to hearing yo..."
-          },
-          {
-            "title": "Opening remarks by President von der Leyen at the EU-Mexico Summit",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1148",
-            "pub_date": "Fri, 22 May 2026 12:57:51 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1148",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission Statement Mexico City, 22 May 2026 Thank you, President Sheinbaum, for hosting us at the 8th EU-Mexico Summit. It is an important moment, a moment of renewal for our partnership. As we entered th..."
-          },
-          {
-            "title": "Joint Statement of the European Union - Mexico Summit 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1147",
-            "pub_date": "Fri, 22 May 2026 12:57:04 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1147",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Statement Brussels, 22 May 2026 We, the leaders of the European Union and the United Mexican States, met in Mexico City, Mexico, on 22 May 2026 for the 8th European Union - Mexico Summit and c..."
-          },
-          {
-            "title": "Questions and answers on the EU's Global Agreement with Mexico",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_249",
-            "pub_date": "Thu, 21 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_25_249",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Questions and answers Brussels, 22 May 2026 Why did the EU update its agreement with Mexico? In 1997, the EU and Mexico signed an Economic Partnership, Political Coordination and Cooperation Agreement. It..."
           }
         ],
         "errors": []
