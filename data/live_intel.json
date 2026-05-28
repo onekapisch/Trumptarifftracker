@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T07:50:36+00:00",
+  "generated_at": "2026-05-28T07:46:20+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-10627",
+          "publication_date": "2026-05-28",
+          "title": "Xanthan Gum From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Duty Administrative Review; Notice of Amended Final Results",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10627/xanthan-gum-from-the-peoples-republic-of-china-notice-of-court-decision-not-in-harmony-with-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10625",
+          "publication_date": "2026-05-28",
+          "title": "Certain Large Vertical Shaft Engines Between 225cc and 999cc, and Parts Thereof From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10625/certain-large-vertical-shaft-engines-between-225cc-and-999cc-and-parts-thereof-from-the-peoples",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10624",
+          "publication_date": "2026-05-28",
+          "title": "Difluoromethane (R-32) From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10624/difluoromethane-r-32-from-the-peoples-republic-of-china-final-results-of-the-expedited-first-sunset",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10571",
+          "publication_date": "2026-05-28",
+          "title": "Implementing Certain Tariff-Related Elements of a Trade and Security Agreement Between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10571/implementing-certain-tariff-related-elements-of-a-trade-and-security-agreement-between-the-american",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10549",
+          "publication_date": "2026-05-28",
+          "title": "Certain Medical Imaging Devices; Notice of Commission Determination Not To Review an Initial Determination Granting Complainants' Motion To Amend the Complaint and Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10549/certain-medical-imaging-devices-notice-of-commission-determination-not-to-review-an-initial",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10545",
+          "publication_date": "2026-05-28",
+          "title": "Fine Denier Polyester Staple Fiber: Monitoring Developments in the Domestic Industry; Institution and Scheduling Notice for the Subject Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10545/fine-denier-polyester-staple-fiber-monitoring-developments-in-the-domestic-industry-institution-and",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-10526",
           "publication_date": "2026-05-27",
@@ -376,15 +430,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09905",
-          "publication_date": "2026-05-18",
-          "title": "Revision of Tier 4 Criteria Pollutant Standards, Part 1: Amendments to Phase-In Schedule for Light-Duty and Medium-Duty Vehicles",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09905/revision-of-tier-4-criteria-pollutant-standards-part-1-amendments-to-phase-in-schedule-for",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-09903",
           "publication_date": "2026-05-18",
           "title": "Certain Corrosion-Resistant Steel Products From Taiwan: Final Results of the Antidumping Duty Administrative Review; 2023-2024",
@@ -688,7 +733,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09489/procedures-to-apply-for-company-specific-onshoring-agreements-to-obtain-tariff-adjustments-for",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-09468",
@@ -697,52 +742,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09468/strontium-chromate-from-austria-preliminary-results-of-antidumping-duty-administrative-review",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09467",
-          "publication_date": "2026-05-13",
-          "title": "Circular Welded Non-Alloy Steel Pipe From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09467/circular-welded-non-alloy-steel-pipe-from-the-republic-of-korea-preliminary-results-and-rescission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09465",
-          "publication_date": "2026-05-13",
-          "title": "Certain Frozen Warmwater Shrimp From the Socialist Republic of Vietnam: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09465/certain-frozen-warmwater-shrimp-from-the-socialist-republic-of-vietnam-preliminary-results-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09464",
-          "publication_date": "2026-05-13",
-          "title": "Certain Oil Country Tubular Goods From Mexico: Preliminary Results and Recission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09464/certain-oil-country-tubular-goods-from-mexico-preliminary-results-and-recission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09463",
-          "publication_date": "2026-05-13",
-          "title": "Stainless Steel Bar From India: Preliminary Results and Rescission of Antidumping Duty Administrative Review, in Part; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09463/stainless-steel-bar-from-india-preliminary-results-and-rescission-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09462",
-          "publication_date": "2026-05-13",
-          "title": "Thermal Paper From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09462/thermal-paper-from-spain-preliminary-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68762890 - GUIDANCE: Implementation of Certain Tariff-Related Elements of the Trade and Security Agreement Between the Taipei Economic and Cultural Representative Office and the American Institute in Taiwan",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4193d0a",
+          "pub_date": "Wed, 27 May 2026 17:16:54 -0400",
+          "guid": "68762890",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68762890 - GUIDANCE: Implementation of Certain Tariff-Related Elements of the Trade and Security Agreement Between the Taipei Economic and Cultural Representative Office and the American Institute in Taiwan The purpose of this message is to provide guidance on the modification of certain Section 232 tariffs applied to aircraft components, automobile parts and wood products of Taiwan . BACKGROUND On May 28 , 2026 , the Secretary of Commerce (Secretary) and the United States Trade Representative (USTR) will publish a Federal Register Notice (FRN) \u201c Implementing Certain Tariff-Related Elements of a Trade and Security Agreement Between the American Institut"
+        },
         {
           "title": "CSMS # 68674922 - ACE CATAIR AD/CVD Case Information Query Updated: Manufacturer Details and Foreign Exporter Details Can Return an Unlimited Number of Records",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/417e56a",
@@ -1062,14 +1070,6 @@
           "guid": "68228015",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68228015 - New ACE Portal Account Application Now Available On April 1, 2026, U.S. Customs and Border Protection (CBP) released a modernized ACE Secure Data Portal (ACE Portal) account application for the trade community. The new digital web form facilitates: Submission of information to CBP when applying for a new ACE Portal top account Requests to update Account Owner information Communication with CBP on the account setup process The modernized tool also adds enhanced processing features for CBP personnel. Below is an overview of the ACE Portal trade account application options. These options only apply to companies who do not have existing ACE Porta"
-        },
-        {
-          "title": "CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/410d758",
-          "pub_date": "Tue, 31 Mar 2026 11:14:25 -0400",
-          "guid": "68212568",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68212568 - : REMINDER: New Carnet Data Elements Now in ACE Truck Manifest \u2013 Trade User Support Call Happening Today On March 24, 2026, U.S. Customs and Border Protection (CBP) enhanced the Automated Commercial Environment (ACE) to enable trade users to provide ATA Carnet information as part of an electronic truck manifest filing. CBP will hold a user readiness support call today at 1:00 p.m. ET to address trade community questions related to this system enhancement. ACE User Readiness Support Call Tuesday, March 31, 2026 1:00 p.m. - 2:00 p.m. ET Call Link: Join via Microsoft Teams For more information on these changes, review the trade user information "
         }
       ],
       "errors": []
@@ -1080,20 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President von der Leyen at the press conference following the EU-Mexico Summit",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1150",
-            "pub_date": "Fri, 22 May 2026 13:03:30 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1150",
-            "category": "POLICY_AREA=DEVEL,TRADEPOL",
-            "description": "European Commission Statement Mexico City, 22 May 2026 President Sheinbaum, Dear Claudia, Yesterday, I had the privilege of sharing a deeply enriching exchange with a group of Indigenous women at the Museum of Anthr..."
-          },
-          {
-            "title": "Remarks by President von der Leyen at the meeting with the business delegation at the EU-Mexico summit",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1149",
-            "pub_date": "Fri, 22 May 2026 13:01:46 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1149",
-            "category": "POLICY_AREA=DEVEL,PRESIDENCY,TRADEPOL",
-            "description": "European Commission Statement Mexico City, 22 May 2026 Opening remarks President Sheinbaum, President Costa, Dear business leaders from Mexico and Europe, Thank you for joining us today. I look forward to hearing yo..."
+            "title": "Remarks by Executive Vice-President Virkkunen on the proposal on mobile satellite services",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1171",
+            "pub_date": "Tue, 26 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1171",
+            "category": "POLICY_AREA=DIGAG,TECH",
+            "description": "European Commission Speech Brussels, 27 May 2026 Ladies and gentlemen, In 2008, EU Member States made an important decision. To give the European Commission the power to license a specific satellite spectrum b..."
           }
         ],
         "errors": []
