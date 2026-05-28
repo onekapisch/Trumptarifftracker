@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T07:46:20+00:00",
+  "generated_at": "2026-05-28T19:09:57+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,22 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68770785 - National Commodity Specialist Division (NCSD) June 2026 Webinars",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4195be1",
+          "pub_date": "Thu, 28 May 2026 12:34:41 -0400",
+          "guid": "68770785",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68770785 - National Commodity Specialist Division (NCSD) June 2026 Webinars The National Commodity Specialist Division, Office of Trade, is excited to present the next round of 30+ commodity-specific educational webinars to support our internal and external stakeholders. This year we will focus our webinars on the FUTURE OF TRADE: INNOVATION AND EMERGING TECHNOLOGY - dedicated to rapidly changing technology, while providing general classification guidance to facilitate legitimate trade. From May through September 2026, the webinars will commence at 1:30 p.m. ET for approximately one hour, except for September 22, 24, and 25, which are scheduled at 11:00"
+        },
+        {
+          "title": "CSMS # 68769970 - UPDATE: New CERT Date for AD/CVD Case Information Query is June 4, 2026",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41958b2",
+          "pub_date": "Thu, 28 May 2026 11:35:47 -0400",
+          "guid": "68769970",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68769970 - UPDATE: New CERT Date for AD/CVD Case Information Query is June 4, 2026 Please be advised that the update s for the AD/CVD Case Information Query returning an u nlimited n umber of r ecords for Manufacturer Details and Foreign Exporter Details will now deploy to the CERTIFICATION (CERT) environ ment on June 4, 2026 . The ACE CATAIR AD/CVD Case Information Query V11 is currently posted under the Draft Chapters: Future Capabilities section on CBP.gov . This update is scheduled to deploy to the PRODUCTION (PROD) environment on July 9, 2026. For any technical questions regarding this update, please contact your assigned Client Representative. Que"
+        },
+        {
           "title": "CSMS # 68762890 - GUIDANCE: Implementation of Certain Tariff-Related Elements of the Trade and Security Agreement Between the Taipei Economic and Cultural Representative Office and the American Institute in Taiwan",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4193d0a",
           "pub_date": "Wed, 27 May 2026 17:16:54 -0400",
@@ -1054,22 +1070,6 @@
           "guid": "68237853",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68237853 - Changes to Stow Plan Processing On May 14, 2026, CBP plans to deploy several changes to Stow Plan processing to the Automated Commercial Environment (ACE) certification environment. These changes will impact error conditions for vessel arrival and departure ports and date. These changes will be available to trade for testing, and CBP encourages participation. On June 25, 2026, CBP will push these changes to the ACE production environment. Please review the attachment for complete details. Any questions regarding this message can be sent to OFO-MANIFESTBRANCH@cbp.dhs.gov . CSMS Attachment-Changes to Stow Plan Processing-TTOedits.docx"
-        },
-        {
-          "title": "CSMS # 68235445 - CBP Cancels NCSD Webinars Scheduled for April 7 and 9, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41130b5",
-          "pub_date": "Thu, 02 Apr 2026 09:18:39 -0400",
-          "guid": "68235445",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68235445 - CBP Cancels NCSD Webinars Scheduled for April 7 and 9, 2026 Due to the partial Department of Homeland Security (DHS) lapse in funding, U.S. Customs and Border Protection (CBP) has canceled its free monthly National Commodity Specialist Division (NCSD) commodity webinars that were originally scheduled for April 7 and April 9. The sessions focused on \"The Classification of Steel Bars and Rods in Chapter 72\" and \"Plates, Sheets, Film, Foil & Strip, of Plastics.\" Both webinars, \"The Classification of Steel Bars and Rods in Chapter 72\" and \"Plates, Sheets, Film, Foil & Strip, of Plastics,\" will be rescheduled after the end of the lapse in funding."
-        },
-        {
-          "title": "CSMS # 68228015 - New ACE Portal Account Application Now Available",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41113af",
-          "pub_date": "Wed, 01 Apr 2026 15:14:43 -0400",
-          "guid": "68228015",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68228015 - New ACE Portal Account Application Now Available On April 1, 2026, U.S. Customs and Border Protection (CBP) released a modernized ACE Secure Data Portal (ACE Portal) account application for the trade community. The new digital web form facilitates: Submission of information to CBP when applying for a new ACE Portal top account Requests to update Account Owner information Communication with CBP on the account setup process The modernized tool also adds enhanced processing features for CBP personnel. Below is an overview of the ACE Portal trade account application options. These options only apply to companies who do not have existing ACE Porta"
         }
       ],
       "errors": []
@@ -1080,12 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Remarks by Executive Vice-President Virkkunen on the proposal on mobile satellite services",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1171",
-            "pub_date": "Tue, 26 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1171",
-            "category": "POLICY_AREA=DIGAG,TECH",
-            "description": "European Commission Speech Brussels, 27 May 2026 Ladies and gentlemen, In 2008, EU Member States made an important decision. To give the European Commission the power to license a specific satellite spectrum b..."
+            "title": "Statement by President von der Leyen with Bulgarian Prime Minister Radev",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1183",
+            "pub_date": "Thu, 28 May 2026 12:48:50 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1183",
+            "category": "POLICY_AREA=ENERGY,BUDFINPROG,HREXTRELS,PRESIDENCY,DEFENCE,NGEU,SECU",
+            "description": "European Commission Statement Brussels, 28 May 2026 Dear Prime Minister Radev, It is a great pleasure to welcome you again to the Berlaymont today. This has been a very important year for Bulgaria. Since January,..."
           }
         ],
         "errors": []
@@ -1138,15 +1138,19 @@
         "source_url": "https://english.mofcom.gov.cn/",
         "items": [
           {
-            "title": "MOFCOM English feed temporarily unavailable; check source directly.",
-            "link": "https://english.mofcom.gov.cn/",
-            "pub_date": "",
-            "description": "Automated pull failed in this run. Open source URL for latest postings."
+            "title": "MOFCOM Spokesperson\u2019s Remarks on the UK Government\u2019s Intended Nationalization of British Steel",
+            "link": "https://english.mofcom.gov.cn/News/SpokesmansRemarks/art/2026/art_3e4058ecc9e04dfab9286283d7334b00.html",
+            "pub_date": "2026",
+            "description": "MOFCOM spokesperson remarks entry"
+          },
+          {
+            "title": "MOFCOM Spokesperson\u2019s Remarks on the Preliminary Outcomes of China-U.S. Economic and Trade Consultations",
+            "link": "https://english.mofcom.gov.cn/News/SpokesmansRemarks/art/2026/art_5d1f3fbf16354a48918f83ea41d714b4.html",
+            "pub_date": "2026",
+            "description": "MOFCOM spokesperson remarks entry"
           }
         ],
-        "errors": [
-          "<urlopen error [Errno 104] Connection reset by peer>"
-        ]
+        "errors": []
       },
       "canada_finance": {
         "source": "Government of Canada Department of Finance",
