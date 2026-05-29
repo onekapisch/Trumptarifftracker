@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:09:57+00:00",
+  "generated_at": "2026-05-29T07:46:19+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1138,19 +1138,15 @@
         "source_url": "https://english.mofcom.gov.cn/",
         "items": [
           {
-            "title": "MOFCOM Spokesperson\u2019s Remarks on the UK Government\u2019s Intended Nationalization of British Steel",
-            "link": "https://english.mofcom.gov.cn/News/SpokesmansRemarks/art/2026/art_3e4058ecc9e04dfab9286283d7334b00.html",
-            "pub_date": "2026",
-            "description": "MOFCOM spokesperson remarks entry"
-          },
-          {
-            "title": "MOFCOM Spokesperson\u2019s Remarks on the Preliminary Outcomes of China-U.S. Economic and Trade Consultations",
-            "link": "https://english.mofcom.gov.cn/News/SpokesmansRemarks/art/2026/art_5d1f3fbf16354a48918f83ea41d714b4.html",
-            "pub_date": "2026",
-            "description": "MOFCOM spokesperson remarks entry"
+            "title": "MOFCOM English feed temporarily unavailable; check source directly.",
+            "link": "https://english.mofcom.gov.cn/",
+            "pub_date": "",
+            "description": "Automated pull failed in this run. Open source URL for latest postings."
           }
         ],
-        "errors": []
+        "errors": [
+          "<urlopen error [Errno 104] Connection reset by peer>"
+        ]
       },
       "canada_finance": {
         "source": "Government of Canada Department of Finance",
