@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T07:44:45+00:00",
+  "generated_at": "2026-06-01T08:17:09+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President von der Leyen with Bulgarian Prime Minister Radev",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1183",
-            "pub_date": "Thu, 28 May 2026 12:48:50 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1183",
-            "category": "POLICY_AREA=ENERGY,BUDFINPROG,HREXTRELS,PRESIDENCY,DEFENCE,NGEU,SECU",
-            "description": "European Commission Statement Brussels, 28 May 2026 Dear Prime Minister Radev, It is a great pleasure to welcome you again to the Berlaymont today. This has been a very important year for Bulgaria. Since January,..."
+            "title": "Message from Commissioner \u0160uica at the European Heritage Policy Agora 2026 - Heritage as the Soul of the Mare Nostrum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1211",
+            "pub_date": "Thu, 25 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1211",
+            "category": "POLICY_AREA=CULTMED,MED",
+            "description": "European Commission Speech Nicosia, 01 Jun 2026 Excellencies, distinguished guests, dear friends, I would have liked to join you in person at the European Heritage Policy Agora 2026 but due to unavoidable ins..."
+          },
+          {
+            "title": "Speech by Commissioner Kubilius at the NATO Parliamentary Assembly session",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1208",
+            "pub_date": "Sun, 31 May 2026 21:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1208",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Vilnius, 01 Jun 2026 Your Excellency President of Lithuania, Mr President of the NATO Parliamentary Assembly, Mister Speaker of Seimas, Madam Prime Minister of Lithuania, Dear frien..."
+          },
+          {
+            "title": "Statement by Commissioner V\u00e1rhelyi ahead of the World No Tobacco Day",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1197",
+            "pub_date": "Fri, 29 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1197",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Statement Brussels, 30 May 2026 It is fitting that 31 May marks both the last day of the European Week Against Cancer and World No Tobacco Day. Both Europe's Beating Cancer Plan and the Safe H..."
+          },
+          {
+            "title": "President von der Leyen visits Lithuania and reaffirms solidarity with Baltic countries.",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1207",
+            "pub_date": "Fri, 29 May 2026 17:02:07 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1207",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 29 May 2026 Ursula von der Leyen, President of the European Commission, was in Lithuania this week to reaffirm Europe's solidarity with Baltic countries in the face of the..."
+          },
+          {
+            "title": "Speech by Commissioner Ekaterina Zaharieva at the Competitiveness Council (COMPET) - 29.05.2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1202",
+            "pub_date": "Fri, 29 May 2026 13:19:25 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1202",
+            "category": "POLICY_AREA=RESINSC,COMPETITIVE",
+            "description": "European Commission Speech Brussels, 29 May 2026 Thank you very much, Minister Damianou. Today we advanced on two key priorities for Europe's competitiveness and global leadership: the next Horizon Europe prog..."
+          },
+          {
+            "title": "Read-out of the College orientation debate on EU-China relations*",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201",
+            "pub_date": "Fri, 29 May 2026 10:19:17 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201",
+            "category": "POLICY_AREA=HREXTRELS,PRESIDENCY",
+            "description": "European Commission Read-out Brussels, 29 May 2026 Today's orientation debate gave the College of Commissioners an opportunity to take stock of EU-China relations \u2014 covering both the opportunities they present and the challenges they pose."
+          },
+          {
+            "title": "Statement by President von der Leyen with Hungarian Prime Minister Magyar",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1200",
+            "pub_date": "Fri, 29 May 2026 09:48:10 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1200",
+            "category": "POLICY_AREA=ECMY,BUDFINPROG,HREXTRELS,JFRC,PRESIDENCY,REGIONAL,YOUTH,STRUREF,DEFENCE,RECOVERY,NGEU,DEMOCRACY",
+            "description": "European Commission Statement Brussels, 29 May 2026 Prime Minister Magyar, dear P\u00e9ter, A very warm welcome to Brussels. The 12 April will stay in our memory for a very long time. On that day, the Hungarian people..."
+          },
+          {
+            "title": "Daily News 29 / 05 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1198",
+            "pub_date": "Fri, 29 May 2026 09:08:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1198",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 29 May 2026 Poland receives first \u20ac6.6 billion payment under SAFE Today, Poland received its first payment of \u20ac6.6 billion under the Security Action for Europe (SAFE) defen..."
+          },
+          {
+            "title": "New scoreboard shows success of European startup policies",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1196",
+            "pub_date": "Fri, 29 May 2026 07:59:56 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1196",
+            "category": "POLICY_AREA=RESINSC",
+            "description": "European Commission Press release Brussels, 29 May 2026 Europe's startup and scaleup ecosystem has been growing steadily, according to the first-ever European Startup and Scaleup Scoreboard (ESSS) published today by the European Commission."
+          },
+          {
+            "title": "Commission approves \u20ac9 billion Spanish capacity mechanism for security of electricity supply",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163",
+            "pub_date": "Thu, 28 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Press release Brussels, 29 May 2026 The European Commission has approved, under EU State aid rules, a \u20ac9 billion capacity mechanism for electricity supply for Spain. This aid measure aims to ensure that there is sufficient capacity to produce, store or flexibly consume electricity and that electricity production meets the expected demand."
           }
         ],
         "errors": []
