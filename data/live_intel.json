@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T08:17:09+00:00",
+  "generated_at": "2026-06-02T08:06:28+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-11001",
+          "publication_date": "2026-06-02",
+          "title": "N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China: Initiation of Countervailing Duty Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-11001/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-initiation-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10997",
+          "publication_date": "2026-06-02",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-10997/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10979",
+          "publication_date": "2026-06-02",
+          "title": "Announcement of the National Customs Automation Program (NCAP) Test Regarding Pipeline Global Interoperability Standards for Crude Oil",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-10979/announcement-of-the-national-customs-automation-program-ncap-test-regarding-pipeline-global",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10940",
+          "publication_date": "2026-06-02",
+          "title": "Certain Activated Carbon From the People's Republic of China: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-10940/certain-activated-carbon-from-the-peoples-republic-of-china-amended-final-results-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10939",
+          "publication_date": "2026-06-02",
+          "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-10939/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-10938",
+          "publication_date": "2026-06-02",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-10938/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-10942",
           "publication_date": "2026-06-01",
@@ -331,15 +385,6 @@
           "term_hit": "duty"
         },
         {
-          "document_number": "2026-10403",
-          "publication_date": "2026-05-26",
-          "title": "Foreign-Trade Zone (FTZ) 297, Notification of Proposed Production Activity; Twin Disc, Inc.; (Marine and Heavy Duty Off Highway Power Transmission Equipment); Lufkin, Texas",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10403/foreign-trade-zone-ftz-297-notification-of-proposed-production-activity-twin-disc-inc-marine-and",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-10402",
           "publication_date": "2026-05-26",
           "title": "Certain Paper Shopping Bags From Colombia: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part",
@@ -347,15 +392,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10402/certain-paper-shopping-bags-from-colombia-notice-of-court-decision-not-in-harmony-with-the-final",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10387",
-          "publication_date": "2026-05-26",
-          "title": "Phasedown of Hydrofluorocarbons: Reconsideration of Certain Regulatory Requirements Promulgated Under the Technology Transitions Provisions of the American Innovation and Manufacturing Act of 2020",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10387/phasedown-of-hydrofluorocarbons-reconsideration-of-certain-regulatory-requirements-promulgated-under",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-10357",
@@ -583,40 +619,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09831",
-          "publication_date": "2026-05-18",
-          "title": "Tris(hydroxymethyl)aminomethane From the People's Republic of China: Initiation of Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09831/trishydroxymethylaminomethane-from-the-peoples-republic-of-china-initiation-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-09828",
           "publication_date": "2026-05-18",
           "title": "Polyethylene Terephthalate Resin From the Sultanate of Oman: Final Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09828/polyethylene-terephthalate-resin-from-the-sultanate-of-oman-final-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09826",
-          "publication_date": "2026-05-18",
-          "title": "Non-Oriented Electrical Steel From Sweden, Germany, the People's Republic of China, the Republic of Korea, Taiwan and Japan: Continuation of Antidumping Duty Orders and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09826/non-oriented-electrical-steel-from-sweden-germany-the-peoples-republic-of-china-the-republic-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09809",
-          "publication_date": "2026-05-15",
-          "title": "Request for Comments and Public Hearing About the Administration's Action Following a Determination of Import Injury With Regard to Quartz Surface Products (QSP)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09809/request-for-comments-and-public-hearing-about-the-administrations-action-following-a-determination",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-09782",
@@ -625,7 +634,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09782/amending-the-procedures-to-administer-import-adjustment-offset-amounts-for-certain-imports-of",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-09757",
@@ -635,24 +644,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09757/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-golden-pass-lng-terminal-llc",
           "raw_text_url": null,
           "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-09756",
-          "publication_date": "2026-05-15",
-          "title": "Tapered Roller Bearings and Parts Thereof, Finished or Unfinished From the People's Republic of China: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09756/tapered-roller-bearings-and-parts-thereof-finished-or-unfinished-from-the-peoples-republic-of-china",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09755",
-          "publication_date": "2026-05-15",
-          "title": "Non-Refillable Steel Cylinders from the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09755/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         },
         {
           "document_number": "2026-09715",
@@ -743,6 +734,15 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09680/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-us-marine-corps-training",
           "raw_text_url": null,
           "term_hit": "section 232"
+        },
+        {
+          "document_number": "2026-09510",
+          "publication_date": "2026-05-13",
+          "title": "Sodium Nitrite From India: Preliminary Results and Notice of Intent To Rescind, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09510/sodium-nitrite-from-india-preliminary-results-and-notice-of-intent-to-rescind-in-part-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -1088,6 +1088,62 @@
             "description": "European Commission Speech Nicosia, 01 Jun 2026 Excellencies, distinguished guests, dear friends, I would have liked to join you in person at the European Heritage Policy Agora 2026 but due to unavoidable ins..."
           },
           {
+            "title": "Commission welcomes political agreement on the Return Regulation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1222",
+            "pub_date": "Mon, 01 Jun 2026 14:19:07 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1222",
+            "category": "POLICY_AREA=HOMEAFF,MIGR",
+            "description": "European Commission Press release Brussels, 01 Jun 2026 The Commission welcomes today's political agreement between the European Parliament and the Council on the Regulation establishing a new Common European System for Returns."
+          },
+          {
+            "title": "Keynote speech by Commissioner Kubilius at NATO-Ukraine Defence Innovators Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1218",
+            "pub_date": "Mon, 01 Jun 2026 11:48:16 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1218",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Vilnius, 01 Jun 2026 Dear all, I will not surprise you by making the statement, that the Ukrainian army is the best in Europe and, perhaps, in the world. Because I am just repeating..."
+          },
+          {
+            "title": "Opening speech by Commissioner S\u00edkela at the Africa Smart Mobility Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1217",
+            "pub_date": "Mon, 01 Jun 2026 09:55:45 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1217",
+            "category": "POLICY_AREA=DEVEL",
+            "description": "European Commission Speech Prague, 01 Jun 2026 Ministers, Distinguished guests, Thank you for the invitation to this event, here in the beautiful halls of the \u010cern\u00edn Palace, a building that has been walked b..."
+          },
+          {
+            "title": "Daily News 01 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1216",
+            "pub_date": "Mon, 01 Jun 2026 09:38:15 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1216",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 01 Jun 2026 Stronger EU-wide rules to fight corruption take effect More harmonised anti-corruption rules took effect across the EU yesterday under the new Directive on comb..."
+          },
+          {
+            "title": "Keynote speech by Commissioner Kubilius at the European Business Angel Network Congress",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1215",
+            "pub_date": "Mon, 01 Jun 2026 09:34:43 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1215",
+            "category": "POLICY_AREA=SPACE,DEFENCE",
+            "description": "European Commission Speech Vilnius, 01 Jun 2026 Good morning, Welcome, everyone to my home country, Lithuania, and my home town, Vilnius. Happy to speak at a conference of business angels. War and angels - do..."
+          },
+          {
+            "title": "Commission accelerates transition away from animal testing in chemical safety assessments",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1214",
+            "pub_date": "Mon, 01 Jun 2026 09:03:52 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1214",
+            "category": "POLICY_AREA=ANIWELFARE",
+            "description": "European Commission Press release Brussels, 01 Jun 2026 Today, the European Commission presented a roadmap towards phasing out animal testing for chemical safety assessments, which lays out clear, tangible steps to ensure the transition from animal testing methods to innovative non-animal approaches."
+          },
+          {
+            "title": "Eurobarometer highlights perceived obstacles and opportunities for European small and medium companies in recruiting skilled workers outside the EU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1203",
+            "pub_date": "Sun, 31 May 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1203",
+            "category": "POLICY_AREA=ESAI",
+            "description": "European Commission Press release Brussels, 01 Jun 2026 A new Eurobarometer survey shows that nearly half of European small and medium companies (SMEs) (46%) face difficulties in finding workers with the right skills."
+          },
+          {
             "title": "Speech by Commissioner Kubilius at the NATO Parliamentary Assembly session",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1208",
             "pub_date": "Sun, 31 May 2026 21:00:00 GMT",
@@ -1102,62 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1197",
             "category": "POLICY_AREA=HEALTHPOL",
             "description": "European Commission Statement Brussels, 30 May 2026 It is fitting that 31 May marks both the last day of the European Week Against Cancer and World No Tobacco Day. Both Europe's Beating Cancer Plan and the Safe H..."
-          },
-          {
-            "title": "President von der Leyen visits Lithuania and reaffirms solidarity with Baltic countries.",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1207",
-            "pub_date": "Fri, 29 May 2026 17:02:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1207",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission News Brussels, 29 May 2026 Ursula von der Leyen, President of the European Commission, was in Lithuania this week to reaffirm Europe's solidarity with Baltic countries in the face of the..."
-          },
-          {
-            "title": "Speech by Commissioner Ekaterina Zaharieva at the Competitiveness Council (COMPET) - 29.05.2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1202",
-            "pub_date": "Fri, 29 May 2026 13:19:25 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1202",
-            "category": "POLICY_AREA=RESINSC,COMPETITIVE",
-            "description": "European Commission Speech Brussels, 29 May 2026 Thank you very much, Minister Damianou. Today we advanced on two key priorities for Europe's competitiveness and global leadership: the next Horizon Europe prog..."
-          },
-          {
-            "title": "Read-out of the College orientation debate on EU-China relations*",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201",
-            "pub_date": "Fri, 29 May 2026 10:19:17 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201",
-            "category": "POLICY_AREA=HREXTRELS,PRESIDENCY",
-            "description": "European Commission Read-out Brussels, 29 May 2026 Today's orientation debate gave the College of Commissioners an opportunity to take stock of EU-China relations \u2014 covering both the opportunities they present and the challenges they pose."
-          },
-          {
-            "title": "Statement by President von der Leyen with Hungarian Prime Minister Magyar",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1200",
-            "pub_date": "Fri, 29 May 2026 09:48:10 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1200",
-            "category": "POLICY_AREA=ECMY,BUDFINPROG,HREXTRELS,JFRC,PRESIDENCY,REGIONAL,YOUTH,STRUREF,DEFENCE,RECOVERY,NGEU,DEMOCRACY",
-            "description": "European Commission Statement Brussels, 29 May 2026 Prime Minister Magyar, dear P\u00e9ter, A very warm welcome to Brussels. The 12 April will stay in our memory for a very long time. On that day, the Hungarian people..."
-          },
-          {
-            "title": "Daily News 29 / 05 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1198",
-            "pub_date": "Fri, 29 May 2026 09:08:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1198",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 29 May 2026 Poland receives first \u20ac6.6 billion payment under SAFE Today, Poland received its first payment of \u20ac6.6 billion under the Security Action for Europe (SAFE) defen..."
-          },
-          {
-            "title": "New scoreboard shows success of European startup policies",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1196",
-            "pub_date": "Fri, 29 May 2026 07:59:56 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1196",
-            "category": "POLICY_AREA=RESINSC",
-            "description": "European Commission Press release Brussels, 29 May 2026 Europe's startup and scaleup ecosystem has been growing steadily, according to the first-ever European Startup and Scaleup Scoreboard (ESSS) published today by the European Commission."
-          },
-          {
-            "title": "Commission approves \u20ac9 billion Spanish capacity mechanism for security of electricity supply",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163",
-            "pub_date": "Thu, 28 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 29 May 2026 The European Commission has approved, under EU State aid rules, a \u20ac9 billion capacity mechanism for electricity supply for Spain. This aid measure aims to ensure that there is sufficient capacity to produce, store or flexibly consume electricity and that electricity production meets the expected demand."
           }
         ],
         "errors": []
