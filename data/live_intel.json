@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T08:06:28+00:00",
+  "generated_at": "2026-06-03T08:14:57+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-11123",
+          "publication_date": "2026-06-03",
+          "title": "Foreign-Trade Zone (FTZ) 151, Notification of Proposed Production Activity; Callies Performance Products Inc; (Auto Parts); Fostoria, Ohio",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11123/foreign-trade-zone-ftz-151-notification-of-proposed-production-activity-callies-performance-products",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11122",
+          "publication_date": "2026-06-03",
+          "title": "Certain Uncoated Paper From Portugal: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11122/certain-uncoated-paper-from-portugal-preliminary-results-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11121",
+          "publication_date": "2026-06-03",
+          "title": "Raw Honey From Brazil: Final Results of Antidumping Duty Administrative Review, 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11121/raw-honey-from-brazil-final-results-of-antidumping-duty-administrative-review-2023-2024",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11120",
+          "publication_date": "2026-06-03",
+          "title": "Prestressed Concrete Steel Wire Strand From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11120/prestressed-concrete-steel-wire-strand-from-malaysia-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11119",
+          "publication_date": "2026-06-03",
+          "title": "Certain Large Vertical Shaft Engines Between 225cc and 999cc, and Parts Thereof from The People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11119/certain-large-vertical-shaft-engines-between-225cc-and-999cc-and-parts-thereof-from-the-peoples",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11118",
+          "publication_date": "2026-06-03",
+          "title": "Circular Welded Carbon-Quality Steel Pipe From the United Arab Emirates: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11118/circular-welded-carbon-quality-steel-pipe-from-the-united-arab-emirates-preliminary-results-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11113",
+          "publication_date": "2026-06-03",
+          "title": "Tuna Tariff-Rate Quota for Calendar Year 2026 for Tuna Classifiable Under Subheading 1604.14.22, Harmonized Tariff Schedule of the United States (HTSUS)",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11113/tuna-tariff-rate-quota-for-calendar-year-2026-for-tuna-classifiable-under-subheading-16041422",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11043",
+          "publication_date": "2026-06-03",
+          "title": "Initiation of Section 301 Investigation and Request for Public Comments: Vietnam's Acts, Policies, and Practices Related to Intellectual Property Protection and Enforcement",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11043/initiation-of-section-301-investigation-and-request-for-public-comments-vietnams-acts-policies-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-11001",
           "publication_date": "2026-06-02",
@@ -349,15 +421,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-10471",
-          "publication_date": "2026-05-27",
-          "title": "Confidential Government Information Nondisclosure Agreement",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10471/confidential-government-information-nondisclosure-agreement",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-10424",
           "publication_date": "2026-05-26",
           "title": "Difluoromethane (R-32) From China; Scheduling of an Expedited Five-Year Review",
@@ -373,7 +436,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10418/foreign-trade-zone-ftz-138-notification-of-proposed-production-activity-shiseido-americas",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-10414",
@@ -382,7 +445,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10414/foreign-trade-zone-ftz-200-notification-of-proposed-production-activity-shiseido-america-inc",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-10402",
@@ -565,40 +628,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-09984",
-          "publication_date": "2026-05-19",
-          "title": "Certain Preserved Mushrooms from Chile, China, India, and Indonesia; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-09984/certain-preserved-mushrooms-from-chile-china-india-and-indonesia-scheduling-of-expedited-five-year",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09912",
-          "publication_date": "2026-05-18",
-          "title": "Certain Aluminum Foil from the Republic of T\u00fcrkiye: Notice of Court Decision Not in Harmony with the Final Determination of Antidumping Investigation; Notice of Amended Final Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09912/certain-aluminum-foil-from-the-republic-of-trkiye-notice-of-court-decision-not-in-harmony-with-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-09911",
-          "publication_date": "2026-05-18",
-          "title": "Certain Vertical Shaft Engines Between 99cc and 225cc, and Parts Thereof, From the People's Republic of China: Affirmative Preliminary Determination of Circumvention of the Antidumping and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09911/certain-vertical-shaft-engines-between-99cc-and-225cc-and-parts-thereof-from-the-peoples-republic-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-09910",
           "publication_date": "2026-05-18",
           "title": "Fresh Mushrooms From Canada: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09910/fresh-mushrooms-from-canada-preliminary-affirmative-countervailing-duty-determination-and-alignment",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-09903",
@@ -607,7 +643,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09903/certain-corrosion-resistant-steel-products-from-taiwan-final-results-of-the-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-09902",
@@ -616,7 +652,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09902/silicomanganese-from-india-final-results-of-antidumping-duty-administrative-review-2023-2024",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-09828",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09691/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-final-results-and-rescission",
           "raw_text_url": null,
           "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09690",
-          "publication_date": "2026-05-14",
-          "title": "Chromium Trioxide From India: Preliminary Affirmative Countervailing Duty Determination, and Alignment of Final Determination With Final Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09690/chromium-trioxide-from-india-preliminary-affirmative-countervailing-duty-determination-and-alignment",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09689",
-          "publication_date": "2026-05-14",
-          "title": "Certain Cold Drawn Mechanical Tubing of Carbon and Alloy Steel From Italy: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09689/certain-cold-drawn-mechanical-tubing-of-carbon-and-alloy-steel-from-italy-preliminary-results-of",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09680",
-          "publication_date": "2026-05-14",
-          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to U.S. Marine Corps Training Activities at Cherry Point Range Complex, North Carolina",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09680/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-us-marine-corps-training",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-09510",
-          "publication_date": "2026-05-13",
-          "title": "Sodium Nitrite From India: Preliminary Results and Notice of Intent To Rescind, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/13/2026-09510/sodium-nitrite-from-india-preliminary-results-and-notice-of-intent-to-rescind-in-part-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68819425 - Harmonized System Update (HSU) 2612",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41a19e1",
+          "pub_date": "Tue, 02 Jun 2026 13:35:13 -0400",
+          "guid": "68819425",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68819425 - Harmonized System Update (HSU) 2612 Harmonized System Update (HSU) 2 6 1 2 was created on June 1 , 2026 , and contains 69 harmonized tariff records and 412 Automated Broker Interface ( ABI ) records. Th is HSU contains tariff updates related to USDA agricultural license type 14. For more information, please se e CSMS 68780321 . Questions regarding this message should be referred to Headquarters Quota and Agriculture Branch at HQQUOTA@cbp.dhs.gov . Questions or concerns with th is HSU should be directed to the HTS Administrator at HTSAdmin@cbp.dhs.gov ."
+        },
+        {
+          "title": "CSMS # 68816828 - Harmonized System Update (HSU) 2611",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41a0fbc",
+          "pub_date": "Tue, 02 Jun 2026 10:22:57 -0400",
+          "guid": "68816828",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68816828 - Harmonized System Update (HSU) 2611 Harmonized System Update (HSU) 2 6 1 1 was created on May 28 , 2026 , and contains six harmonized tariff records and eighteen automated broker interface ( ABI ) records. Th is HSU contains the Section 232 tariffs applied to certain aircraft components, automobile parts and wood products of Taiwan . For more information, please see CSMS 68762890 . For questions regarding this update , contact the Trade Remedy Branch at TradeRemedy@cbp.dhs.gov . Questions or concerns with th is HSU should be directed to the HTS Administrator at HTSAdmin@cbp.dhs.gov ."
+        },
         {
           "title": "CSMS # 68772822 - U.S. Customs and Border Protection Announces Registration Open for June Trade Enforcement Webinars",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41963d6",
@@ -1054,22 +1070,6 @@
           "guid": "68253075",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper The purpose of this message is to provide guidance on the implementation of the April 2, 2026, Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States.\u201d BACKGROUND In April 2, 2026, the President issued a Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States,\u201d under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862). This proclamation imposes 10-50% additional duties on the full customs value of certain imports of steel, aluminum,"
-        },
-        {
-          "title": "CSMS # 68251354 - U.S. Drug Enforcement Agency Implementation Guide Moved from Draft Section of CBP.gov",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4116eda",
-          "pub_date": "Fri, 03 Apr 2026 15:14:48 -0400",
-          "guid": "68251354",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68251354 - U.S. Drug Enforcement Agency Implementation Guide Moved from Draft Section of CBP.gov The U.S. Drug Enforcement Agency (DEA) Implementation Guide (IG) can now be found in the \u201cImplementation Guidelines: Ready for Coding\u201d section of CBP.gov: https://www.cbp.gov/trade/automated/catair The DEA message set was deployed to Customs and Border Protection\u2019s Automated Commercial Environment (ACE) Production Environment on March 21, 2026. The new DE3 flag is being enforced with a WARNING severity (see CSMS 67396599 ). NOTE: The enforcement of the DE3 flag will change to a REJECT severity on May 4, 2026 (this date is a change from the date given in CSMS"
-        },
-        {
-          "title": "CSMS # 68247148 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 UPDATED Trade Information Notice Now Available",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4115e6c",
-          "pub_date": "Fri, 03 Apr 2026 09:28:46 -0400",
-          "guid": "68247148",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68247148 - Automated Transmission of Container Seal Changes to ACE Manifest for Ocean and Rail Shipments \u2013 UPDATED Trade Information Notice Now Available U.S. Customs and Border Protection (CBP) published an update d version of the Automated Transmission of Container Seal Changes to ACE Manifest Trade Information Notice here . The updated notice includes an additional feature t o be deployed to the Automated Commercial Environment (ACE) production (PROD) environment to notify trade users when CBP personnel add or remove container for ocean and rail shipments . The deployment will include : N ew disposition codes to enable ACE to automatically notify car"
         }
       ],
       "errors": []
@@ -1088,76 +1088,76 @@
             "description": "European Commission Speech Nicosia, 01 Jun 2026 Excellencies, distinguished guests, dear friends, I would have liked to join you in person at the European Heritage Policy Agora 2026 but due to unavoidable ins..."
           },
           {
-            "title": "Commission welcomes political agreement on the Return Regulation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1222",
-            "pub_date": "Mon, 01 Jun 2026 14:19:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1222",
-            "category": "POLICY_AREA=HOMEAFF,MIGR",
-            "description": "European Commission Press release Brussels, 01 Jun 2026 The Commission welcomes today's political agreement between the European Parliament and the Council on the Regulation establishing a new Common European System for Returns."
+            "title": "Commissioner Roswall's address at the event 'Territories in Action: A Sneak Peek into Transformative Innovation'",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1241",
+            "pub_date": "Tue, 02 Jun 2026 18:02:11 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1241",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Speech Brussels, 02 Jun 2026 Dear Vice-President, Honourable Members of the European Parliament, representatives of territories, colleagues, and friends, Today we are not simply presenting ..."
           },
           {
-            "title": "Keynote speech by Commissioner Kubilius at NATO-Ukraine Defence Innovators Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1218",
-            "pub_date": "Mon, 01 Jun 2026 11:48:16 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1218",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Vilnius, 01 Jun 2026 Dear all, I will not surprise you by making the statement, that the Ukrainian army is the best in Europe and, perhaps, in the world. Because I am just repeating..."
+            "title": "Speech by Commissioner Lahbib to the Committee on the Environment, Climate and Food Safety in the European Parliament",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1239",
+            "pub_date": "Tue, 02 Jun 2026 16:34:48 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1239",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech Brussels, 02 Jun 2026 The Ebola outbreak in Uganda and DRC continues to spread at a rate faster than the response. Conflict in the Middle East is hitting the global economy, driving ..."
           },
           {
-            "title": "Opening speech by Commissioner S\u00edkela at the Africa Smart Mobility Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1217",
-            "pub_date": "Mon, 01 Jun 2026 09:55:45 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1217",
-            "category": "POLICY_AREA=DEVEL",
-            "description": "European Commission Speech Prague, 01 Jun 2026 Ministers, Distinguished guests, Thank you for the invitation to this event, here in the beautiful halls of the \u010cern\u00edn Palace, a building that has been walked b..."
+            "title": "Press Remarks by Commissioner Lahbib on the 2026 Wildfire Preparedness Package",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1233",
+            "pub_date": "Tue, 02 Jun 2026 13:21:34 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1233",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Speech Brussels, 02 Jun 2026 A few weeks ago, at the end of April, my phone buzzed. It was a message from my team: \u201cWildfires in Belgium and the Netherlands. ERCC on alert\u201d. This was the en..."
           },
           {
-            "title": "Daily News 01 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1216",
-            "pub_date": "Mon, 01 Jun 2026 09:38:15 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1216",
+            "title": "EU deploys largest ever wildfire response for 2026 summer",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1230",
+            "pub_date": "Tue, 02 Jun 2026 09:53:45 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1230",
+            "category": "POLICY_AREA=ICHACR",
+            "description": "European Commission Press release Brussels, 03 Jun 2026 With wildfire risks rising across Europe, the European Commission is helping finance and coordinate the deployment of a record number of firefighters, aircraft and emergency experts under the Civil Protection Mechanism."
+          },
+          {
+            "title": "Daily News 02 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1229",
+            "pub_date": "Tue, 02 Jun 2026 09:34:43 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1229",
             "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 01 Jun 2026 Stronger EU-wide rules to fight corruption take effect More harmonised anti-corruption rules took effect across the EU yesterday under the new Directive on comb..."
+            "description": "European Commission Daily news Brussels, 02 Jun 2026 Commission disburses \u20ac7.2 billion to Poland under NextGenerationEU Today, the European Commission disbursed \u20ac7.2 billion to Poland, marking the fourth payment u..."
           },
           {
-            "title": "Keynote speech by Commissioner Kubilius at the European Business Angel Network Congress",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1215",
-            "pub_date": "Mon, 01 Jun 2026 09:34:43 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1215",
-            "category": "POLICY_AREA=SPACE,DEFENCE",
-            "description": "European Commission Speech Vilnius, 01 Jun 2026 Good morning, Welcome, everyone to my home country, Lithuania, and my home town, Vilnius. Happy to speak at a conference of business angels. War and angels - do..."
+            "title": "Remarks by Commissioner Dombrovskis to the 2026 Government Borrowers Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1227",
+            "pub_date": "Tue, 02 Jun 2026 09:23:53 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1227",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Speech Brussels, 02 Jun 2026 Labr\u012bt, R\u012bga! Good morning from Brussels. I regret that I am unable to join you in Riga in person. But I'm grateful that I can still contribute to this year's ..."
           },
           {
-            "title": "Commission accelerates transition away from animal testing in chemical safety assessments",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1214",
-            "pub_date": "Mon, 01 Jun 2026 09:03:52 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1214",
-            "category": "POLICY_AREA=ANIWELFARE",
-            "description": "European Commission Press release Brussels, 01 Jun 2026 Today, the European Commission presented a roadmap towards phasing out animal testing for chemical safety assessments, which lays out clear, tangible steps to ensure the transition from animal testing methods to innovative non-animal approaches."
+            "title": "Opening Remarks by Commissioner Kadis at the High-Level Conference: Navigating the RFMO-BBNJ Interface \u2013 Dialogue on Cooperation & Coherence",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1226",
+            "pub_date": "Tue, 02 Jun 2026 08:50:19 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1226",
+            "category": "POLICY_AREA=MARAFFISH",
+            "description": "European Commission Speech Brussels, 02 Jun 2026 Good morning, esteemed colleagues, representatives of Regional Fisheries Management Organisations, and distinguished guests, It is a pleasure to join you today ..."
           },
           {
-            "title": "Eurobarometer highlights perceived obstacles and opportunities for European small and medium companies in recruiting skilled workers outside the EU",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1203",
-            "pub_date": "Sun, 31 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1203",
-            "category": "POLICY_AREA=ESAI",
-            "description": "European Commission Press release Brussels, 01 Jun 2026 A new Eurobarometer survey shows that nearly half of European small and medium companies (SMEs) (46%) face difficulties in finding workers with the right skills."
+            "title": "Commission issues opinions on temporary internal border controls in Schengen Area",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1223",
+            "pub_date": "Tue, 02 Jun 2026 07:14:26 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1223",
+            "category": "POLICY_AREA=HOMEAFF,MIGR",
+            "description": "European Commission Press release Brussels, 02 Jun 2026 Today the Commission issued opinions on the temporary reintroduction of internal border controls by Austria, Denmark, France, Germany, Italy, The Netherlands, Norway, Slovenia and Sweden."
           },
           {
-            "title": "Speech by Commissioner Kubilius at the NATO Parliamentary Assembly session",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1208",
-            "pub_date": "Sun, 31 May 2026 21:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1208",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Vilnius, 01 Jun 2026 Your Excellency President of Lithuania, Mr President of the NATO Parliamentary Assembly, Mister Speaker of Seimas, Madam Prime Minister of Lithuania, Dear frien..."
-          },
-          {
-            "title": "Statement by Commissioner V\u00e1rhelyi ahead of the World No Tobacco Day",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1197",
-            "pub_date": "Fri, 29 May 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1197",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Statement Brussels, 30 May 2026 It is fitting that 31 May marks both the last day of the European Week Against Cancer and World No Tobacco Day. Both Europe's Beating Cancer Plan and the Safe H..."
+            "title": "Commission approves \u20ac54 million Spanish State aid for agricultural companies facing increased fuel prices",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1186",
+            "pub_date": "Mon, 01 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1186",
+            "category": "POLICY_AREA=COMPETY,STATAID",
+            "description": "European Commission Press release Brussels, 02 Jun 2026 The European Commission has approved a \u20ac54 million Spanish State aid scheme to support agricultural companies facing increased fuel prices due to the Middle East crisis."
           }
         ],
         "errors": []
