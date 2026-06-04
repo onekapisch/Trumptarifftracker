@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T08:14:57+00:00",
+  "generated_at": "2026-06-04T08:02:41+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,141 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-11314",
+          "publication_date": "2026-06-04",
+          "title": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11314/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11266",
+          "publication_date": "2026-06-04",
+          "title": "Prestressed Concrete Steel Wire Strand From Brazil, India, Japan, Mexico, the Republic of Korea, and Thailand: Continuation of Antidumping Duty and Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11266/prestressed-concrete-steel-wire-strand-from-brazil-india-japan-mexico-the-republic-of-korea-and",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11265",
+          "publication_date": "2026-06-04",
+          "title": "Certain Oil Country Tubular Goods From Austria: Postponement of Preliminary Determination in the Countervailing Duty Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11265/certain-oil-country-tubular-goods-from-austria-postponement-of-preliminary-determination-in-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11264",
+          "publication_date": "2026-06-04",
+          "title": "Large Diameter Welded Pipe From the Republic of T\u00fcrkiye: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11264/large-diameter-welded-pipe-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11263",
+          "publication_date": "2026-06-04",
+          "title": "Certain Freight Rail Couplers and Parts Thereof From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11263/certain-freight-rail-couplers-and-parts-thereof-from-mexico-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11261",
+          "publication_date": "2026-06-04",
+          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Preliminary Results of the Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11261/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-preliminary-results-of-the",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11260",
+          "publication_date": "2026-06-04",
+          "title": "Chlorinated Isocyanurates From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11260/chlorinated-isocyanurates-from-spain-final-results-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11259",
+          "publication_date": "2026-06-04",
+          "title": "Aluminum Wire and Cable From the People's Republic of China: Rescission of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11259/aluminum-wire-and-cable-from-the-peoples-republic-of-china-rescission-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11258",
+          "publication_date": "2026-06-04",
+          "title": "Aluminum Wire and Cable From the People's Republic of China: Rescission of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11258/aluminum-wire-and-cable-from-the-peoples-republic-of-china-rescission-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11256",
+          "publication_date": "2026-06-04",
+          "title": "Foreign-Trade Zone (FTZ) 129, Notification of Proposed Production Activity; Corvus Energy USA Ltd.; (Maritime Battery Equipment); Bellingham, Washington",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11256/foreign-trade-zone-ftz-129-notification-of-proposed-production-activity-corvus-energy-usa-ltd",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11201",
+          "publication_date": "2026-06-04",
+          "title": "Certain Energy Drinks and Labeling and Packaging Thereof; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11201/certain-energy-drinks-and-labeling-and-packaging-thereof-notice-of-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11199",
+          "publication_date": "2026-06-04",
+          "title": "Proposed Consent Decree, Clean Air Act Citizen Suit",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11199/proposed-consent-decree-clean-air-act-citizen-suit",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11196",
+          "publication_date": "2026-06-04",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11196/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11158",
+          "publication_date": "2026-06-04",
+          "title": "Notice of Determination and Request for Comments Concerning Action Pursuant to Section 301: Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11158/notice-of-determination-and-request-for-comments-concerning-action-pursuant-to-section-301-brazils",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11142",
+          "publication_date": "2026-06-04",
+          "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Provide for a Momentary Handoff, Upon the Exchange Commencing Trading of NMS Stocks and Exchange Traded Products",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11142/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
         {
           "document_number": "2026-11123",
           "publication_date": "2026-06-03",
@@ -385,15 +520,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-10545",
-          "publication_date": "2026-05-28",
-          "title": "Fine Denier Polyester Staple Fiber: Monitoring Developments in the Domestic Industry; Institution and Scheduling Notice for the Subject Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10545/fine-denier-polyester-staple-fiber-monitoring-developments-in-the-domestic-industry-institution-and",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-10526",
           "publication_date": "2026-05-27",
           "title": "Stationary and Portable Air Compressors From the People's Republic of China, Malaysia, and the Socialist Republic of Vietnam: Initiation of Countervailing Duty Investigations",
@@ -565,58 +691,13 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-10080",
-          "publication_date": "2026-05-20",
-          "title": "Steel Concrete Reinforcing Bar From Algeria; Closure of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10080/steel-concrete-reinforcing-bar-from-algeria-closure-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10052",
-          "publication_date": "2026-05-20",
-          "title": "Welded Stainless Steel Pressure Pipe From the Socialist Republic of Vietnam: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10052/welded-stainless-steel-pressure-pipe-from-the-socialist-republic-of-vietnam-final-results-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
           "document_number": "2026-10051",
           "publication_date": "2026-05-20",
           "title": "Certain Steel Nails From the United Arab Emirates: Final Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10051/certain-steel-nails-from-the-united-arab-emirates-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10010",
-          "publication_date": "2026-05-19",
-          "title": "Certain Drug Products Containing C-Type Natriuretic Peptide Variants, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Amending the Complaint and Notice of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10010/certain-drug-products-containing-c-type-natriuretic-peptide-variants-and-components-thereof-notice",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10007",
-          "publication_date": "2026-05-19",
-          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10007/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-the-expedited-first",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10006",
-          "publication_date": "2026-05-19",
-          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10006/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-the-expedited-first",
-          "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-10004",
@@ -625,7 +706,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/19/2026-10004/certain-steel-nails-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
           "raw_text_url": null,
-          "term_hit": "tariff"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-09910",
@@ -660,87 +741,6 @@
           "title": "Polyethylene Terephthalate Resin From the Sultanate of Oman: Final Results of Antidumping Duty Administrative Review; 2023-2024",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/05/18/2026-09828/polyethylene-terephthalate-resin-from-the-sultanate-of-oman-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09782",
-          "publication_date": "2026-05-15",
-          "title": "Amending the Procedures To Administer Import Adjustment Offset Amounts for Certain Imports of Automobile Parts Under Proclamation 10908 To Include Medium- and Heavy-Duty Vehicle Parts",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09782/amending-the-procedures-to-administer-import-adjustment-offset-amounts-for-certain-imports-of",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-09757",
-          "publication_date": "2026-05-15",
-          "title": "Foreign-Trade Zone (FTZ) 116, Notification of Proposed Production Activity; Golden Pass LNG Terminal LLC; (Natural Gas Terminal); Port Arthur, Texas",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/15/2026-09757/foreign-trade-zone-ftz-116-notification-of-proposed-production-activity-golden-pass-lng-terminal-llc",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-09715",
-          "publication_date": "2026-05-14",
-          "title": "Glycine From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09715/glycine-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09714",
-          "publication_date": "2026-05-14",
-          "title": "Circular Welded Carbon Steel Standard Pipe and Tube Products From the Republic of T\u00fcrkiye: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09714/circular-welded-carbon-steel-standard-pipe-and-tube-products-from-the-republic-of-trkiye-final",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09713",
-          "publication_date": "2026-05-14",
-          "title": "Certain Frozen Warmwater Shrimp From Thailand: Preliminary Results of Antidumping Duty Administrative Review; Rescission of Review, in Part, and Preliminary Determination of No Shipments; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09713/certain-frozen-warmwater-shrimp-from-thailand-preliminary-results-of-antidumping-duty-administrative",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09709",
-          "publication_date": "2026-05-14",
-          "title": "Certain Steel Nails From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09709/certain-steel-nails-from-malaysia-final-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09708",
-          "publication_date": "2026-05-14",
-          "title": "Large Diameter Welded Pipe From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09708/large-diameter-welded-pipe-from-the-republic-of-korea-final-results-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09707",
-          "publication_date": "2026-05-14",
-          "title": "Certain Hot-Rolled Steel Flat Products From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09707/certain-hot-rolled-steel-flat-products-from-the-republic-of-korea-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-09691",
-          "publication_date": "2026-05-14",
-          "title": "Certain Corrosion-Resistant Steel Products From the Republic of Korea: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/14/2026-09691/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-final-results-and-rescission",
           "raw_text_url": null,
           "term_hit": "de minimis"
         }
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Message from Commissioner \u0160uica at the European Heritage Policy Agora 2026 - Heritage as the Soul of the Mare Nostrum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1211",
-            "pub_date": "Thu, 25 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1211",
-            "category": "POLICY_AREA=CULTMED,MED",
-            "description": "European Commission Speech Nicosia, 01 Jun 2026 Excellencies, distinguished guests, dear friends, I would have liked to join you in person at the European Heritage Policy Agora 2026 but due to unavoidable ins..."
-          },
-          {
-            "title": "Commissioner Roswall's address at the event 'Territories in Action: A Sneak Peek into Transformative Innovation'",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1241",
-            "pub_date": "Tue, 02 Jun 2026 18:02:11 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1241",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Speech Brussels, 02 Jun 2026 Dear Vice-President, Honourable Members of the European Parliament, representatives of territories, colleagues, and friends, Today we are not simply presenting ..."
-          },
-          {
-            "title": "Speech by Commissioner Lahbib to the Committee on the Environment, Climate and Food Safety in the European Parliament",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1239",
-            "pub_date": "Tue, 02 Jun 2026 16:34:48 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1239",
+            "title": "Speech by Commissioner Lahbib to the Committee on Public Health at the European Parliament",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1257",
+            "pub_date": "Wed, 03 Jun 2026 15:06:58 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1257",
             "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Speech Brussels, 02 Jun 2026 The Ebola outbreak in Uganda and DRC continues to spread at a rate faster than the response. Conflict in the Middle East is hitting the global economy, driving ..."
-          },
-          {
-            "title": "Press Remarks by Commissioner Lahbib on the 2026 Wildfire Preparedness Package",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1233",
-            "pub_date": "Tue, 02 Jun 2026 13:21:34 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1233",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Speech Brussels, 02 Jun 2026 A few weeks ago, at the end of April, my phone buzzed. It was a message from my team: \u201cWildfires in Belgium and the Netherlands. ERCC on alert\u201d. This was the en..."
-          },
-          {
-            "title": "EU deploys largest ever wildfire response for 2026 summer",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1230",
-            "pub_date": "Tue, 02 Jun 2026 09:53:45 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1230",
-            "category": "POLICY_AREA=ICHACR",
-            "description": "European Commission Press release Brussels, 03 Jun 2026 With wildfire risks rising across Europe, the European Commission is helping finance and coordinate the deployment of a record number of firefighters, aircraft and emergency experts under the Civil Protection Mechanism."
-          },
-          {
-            "title": "Daily News 02 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1229",
-            "pub_date": "Tue, 02 Jun 2026 09:34:43 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1229",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 02 Jun 2026 Commission disburses \u20ac7.2 billion to Poland under NextGenerationEU Today, the European Commission disbursed \u20ac7.2 billion to Poland, marking the fourth payment u..."
-          },
-          {
-            "title": "Remarks by Commissioner Dombrovskis to the 2026 Government Borrowers Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1227",
-            "pub_date": "Tue, 02 Jun 2026 09:23:53 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1227",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Speech Brussels, 02 Jun 2026 Labr\u012bt, R\u012bga! Good morning from Brussels. I regret that I am unable to join you in Riga in person. But I'm grateful that I can still contribute to this year's ..."
-          },
-          {
-            "title": "Opening Remarks by Commissioner Kadis at the High-Level Conference: Navigating the RFMO-BBNJ Interface \u2013 Dialogue on Cooperation & Coherence",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1226",
-            "pub_date": "Tue, 02 Jun 2026 08:50:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1226",
-            "category": "POLICY_AREA=MARAFFISH",
-            "description": "European Commission Speech Brussels, 02 Jun 2026 Good morning, esteemed colleagues, representatives of Regional Fisheries Management Organisations, and distinguished guests, It is a pleasure to join you today ..."
-          },
-          {
-            "title": "Commission issues opinions on temporary internal border controls in Schengen Area",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1223",
-            "pub_date": "Tue, 02 Jun 2026 07:14:26 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1223",
-            "category": "POLICY_AREA=HOMEAFF,MIGR",
-            "description": "European Commission Press release Brussels, 02 Jun 2026 Today the Commission issued opinions on the temporary reintroduction of internal border controls by Austria, Denmark, France, Germany, Italy, The Netherlands, Norway, Slovenia and Sweden."
-          },
-          {
-            "title": "Commission approves \u20ac54 million Spanish State aid for agricultural companies facing increased fuel prices",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1186",
-            "pub_date": "Mon, 01 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1186",
-            "category": "POLICY_AREA=COMPETY,STATAID",
-            "description": "European Commission Press release Brussels, 02 Jun 2026 The European Commission has approved a \u20ac54 million Spanish State aid scheme to support agricultural companies facing increased fuel prices due to the Middle East crisis."
+            "description": "European Commission Speech Brussels, 03 Jun 2026 In the past year, health has continued to make headlines, in Europe and around the world. The Hantavirus and Ebola outbreaks are clear reminders of the importan..."
           }
         ],
         "errors": []
