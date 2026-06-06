@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T07:53:31+00:00",
+  "generated_at": "2026-06-06T07:29:51+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -36,6 +36,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68855869 - GUIDANCE: Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41aa83d",
+          "pub_date": "Fri, 05 Jun 2026 15:23:41 -0400",
+          "guid": "68855869",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68855869 - GUIDANCE: Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States The purpose of this message is to provide guidance on the implementation of the June 1 , 2026 , Proclamation, \u201c Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the U nited States.\u201d BACKGROUND On April 2, 2026, the President issued Proclamation 11021, \u201c Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States ,\u201d under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862). This proclamation imposes 10-50% additional duties on the ful"
+        },
+        {
+          "title": "CSMS # 68856484 - National Commodity Specialist Division (NCSD) July 2026 Webinars",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41aaaa4",
+          "pub_date": "Fri, 05 Jun 2026 14:21:43 -0400",
+          "guid": "68856484",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68856484 - National Commodity Specialist Division (NCSD) July 2026 Webinars The National Commodity Specialist Division, Office of Trade, is excited to present the next round of 30+ commodity- specific, educational webinars to support our internal and external stakeholders. This year our webinars will focus on the FUTURE OF TRADE: INNOVATION AND EMERGING TECHNOLOGY - dedicated to rapidly changing technology , in addition to providing general classification guidance to facilitate legitimate trade. From May through September 2026, the webinars will commence at 1:30 p . m . E T for approximately one hour, except for Sept ember 22, 24, and 2 5 , which are sc"
+        },
         {
           "title": "CSMS # 68819425 - Harmonized System Update (HSU) 2612",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41a19e1",
@@ -339,22 +355,6 @@
           "guid": "68282178",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement Quota Bulletin 26-103 2026 Australia Free Trade Agreement has been published on CBP.gov at the following link: https://www.cbp.gov/trade/quota/bulletins/qb-26-103-2026 Commodity: Agricultural products described in Chapter 98 subheadings of the Harmonized Tariff Schedule of the United States (HTSUS), Additional United States Notes (AUSN) 8 through 19. Quota Period: January 1, 2026 - December 31, 2026 Opening Date: Friday, January 2, 2026 All entries submitted after 12:01 a.m. local port time and prior to 8:30 a.m. Eastern Time (ET) and on the opening date will receive an en"
-        },
-        {
-          "title": "CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411c66b",
-          "pub_date": "Mon, 06 Apr 2026 16:46:55 -0400",
-          "guid": "68273771",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68273771 - Electronic Export Manifest (EEM) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting Electronic Export Manifest (EEM) will be implementing an update to the Appendix U list to allow the following HTS Codes for Used Vehicles: 8705.90.0010 8705.90.0020 8705.90.0080 Technical questions can be submitted to your assigned CBP Client Representative. Policy questions can be submitted to cbpvehicleexports@cbp.dhs.gov ."
-        },
-        {
-          "title": "CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4117593",
-          "pub_date": "Fri, 03 Apr 2026 18:32:28 -0400",
-          "guid": "68253075",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68253075 - GUIDANCE: Section 232 Duties on Imports of Aluminum, Steel, and Copper The purpose of this message is to provide guidance on the implementation of the April 2, 2026, Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States.\u201d BACKGROUND In April 2, 2026, the President issued a Proclamation, \u201cStrengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States,\u201d under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862). This proclamation imposes 10-50% additional duties on the full customs value of certain imports of steel, aluminum,"
         }
       ],
       "errors": []
@@ -365,20 +365,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Remarks by Commissioner \u0160ef\u010dovi\u010d at the press conference following the OECD Ministerial Council Meeting",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1268",
-            "pub_date": "Thu, 04 Jun 2026 11:55:26 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1268",
+            "title": "Speech by Commissioner \u0160ef\u010dovi\u010d at the Brussels Economic Security Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1278",
+            "pub_date": "Fri, 05 Jun 2026 12:04:09 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1278",
             "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Speech Paris, 04 Jun 2026 Good afternoon. I am wrapping up two intensive days at the OECD \u2013 back-to-back Ministerial sessions and a packed schedule of bilateral meetings. This year's Min..."
-          },
-          {
-            "title": "2026 Justice Scoreboard highlights importance of effective justice systems for EU competitiveness and Single Market",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1258",
-            "pub_date": "Wed, 03 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1258",
-            "category": "POLICY_AREA=JFRC",
-            "description": "European Commission Press release Brussels, 04 Jun 2026 Today, the European Commission published the fourteenth edition of the EU Justice Scoreboard, an annual report providing comparative data on the efficiency, quality, and independence of the justice systems among EU Member States."
+            "description": "European Commission Speech Brussels, 05 Jun 2026 Ladies and gentlemen, It is a pleasure to return to the Brussels Economic Security Forum, so let me thank the European Policy Centre for the invitation. Twelve ..."
           }
         ],
         "errors": []
