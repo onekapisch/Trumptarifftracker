@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T08:13:30+00:00",
+  "generated_at": "2026-06-09T07:44:43+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,42 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-11549",
+          "publication_date": "2026-06-09",
+          "title": "Acetone From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11549/acetone-from-the-republic-of-korea-final-results-of-antidumping-duty-administrative-review-2024-2025",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11547",
+          "publication_date": "2026-06-09",
+          "title": "Foreign-Trade Zone (FTZ) 218, Notification of Proposed Production Activity; OCULUS Surgical, Inc.; (Ophthalmic Diagnostic Equipment); Port St. Lucie, Florida",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11547/foreign-trade-zone-ftz-218-notification-of-proposed-production-activity-oculus-surgical-inc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11546",
+          "publication_date": "2026-06-09",
+          "title": "Foreign-Trade Zone (FTZ) 52, Notification of Proposed Production Activity; Photonics Industries International, Inc.; (Laser Systems); Ronkonkoma, New York",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11546/foreign-trade-zone-ftz-52-notification-of-proposed-production-activity-photonics-industries",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11507",
+          "publication_date": "2026-06-09",
+          "title": "Dependent Care and Board Member Expense Reimbursement",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11507/dependent-care-and-board-member-expense-reimbursement",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-11465",
           "publication_date": "2026-06-08",
@@ -707,42 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10549/certain-medical-imaging-devices-notice-of-commission-determination-not-to-review-an-initial",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10526",
-          "publication_date": "2026-05-27",
-          "title": "Stationary and Portable Air Compressors From the People's Republic of China, Malaysia, and the Socialist Republic of Vietnam: Initiation of Countervailing Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10526/stationary-and-portable-air-compressors-from-the-peoples-republic-of-china-malaysia-and-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10525",
-          "publication_date": "2026-05-27",
-          "title": "Certain Aluminum Foil From the People's Republic of China: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10525/certain-aluminum-foil-from-the-peoples-republic-of-china-amended-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10522",
-          "publication_date": "2026-05-27",
-          "title": "Large Diameter Welded Pipe From the Republic of T\u00fcrkiye: Preliminary Results and Rescission, In Part, of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/27/2026-10522/large-diameter-welded-pipe-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10424",
-          "publication_date": "2026-05-26",
-          "title": "Difluoromethane (R-32) From China; Scheduling of an Expedited Five-Year Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/26/2026-10424/difluoromethane-r-32-from-china-scheduling-of-an-expedited-five-year-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -1080,12 +1080,20 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Speech by Commissioner \u0160ef\u010dovi\u010d at the Brussels Economic Security Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1278",
-            "pub_date": "Fri, 05 Jun 2026 12:04:09 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1278",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Speech Brussels, 05 Jun 2026 Ladies and gentlemen, It is a pleasure to return to the Brussels Economic Security Forum, so let me thank the European Policy Centre for the invitation. Twelve ..."
+            "title": "Opening speech by President von der Leyen at the conference \u2018Advancing Brain Cancer Research: From policy action to scientific breakthroughs'",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1298",
+            "pub_date": "Mon, 08 Jun 2026 13:00:48 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1298",
+            "category": "POLICY_AREA=HEALTHPOL,PRESIDENCY",
+            "description": "European Commission Speech Brussels, 08 Jun 2026 Thank you so much, dear Sophie. Dear guests, Thank you very much for giving me the opportunity to offer a very brief introduction. It was very important for me ..."
+          },
+          {
+            "title": "EU and Kenya strengthen partnership",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1294",
+            "pub_date": "Mon, 08 Jun 2026 08:58:21 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1294",
+            "category": "POLICY_AREA=DEVEL,DIGAG",
+            "description": "European Commission Press release Brussels, 08 Jun 2026 The European Union and Kenya are deepening their strategic partnership on trade, digital transformation and sustainable investment to drive mutual economic growth for the benefit of businesses and citizens on both sides. This reinforced cooperation reflects Kenya's pivotal role as a key partner for the EU in Africa and at multilateral level."
           }
         ],
         "errors": []
