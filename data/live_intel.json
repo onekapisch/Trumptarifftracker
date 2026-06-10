@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:44:43+00:00",
+  "generated_at": "2026-06-10T07:54:01+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,87 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-11631",
+          "publication_date": "2026-06-10",
+          "title": "Foreign-Trade Zone (FTZ) 26, Notification of Proposed Production Activity; Viasat, Inc.; (Satellite Communications Technology); Lawrenceville, Duluth, and Pendergrass, Georgia",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11631/foreign-trade-zone-ftz-26-notification-of-proposed-production-activity-viasat-inc-satellite",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11630",
+          "publication_date": "2026-06-10",
+          "title": "Certain Pre-Stretched Synthetic Braiding Hair and Packaging Therefor; Notice of Commission Determination Not To Review an Initial Determination Granting Unopposed Motion To Amend the Complaint and Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11630/certain-pre-stretched-synthetic-braiding-hair-and-packaging-therefor-notice-of-commission",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11622",
+          "publication_date": "2026-06-10",
+          "title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11622/corrosion-inhibitors-from-china-scheduling-of-expedited-five-year-reviews",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11617",
+          "publication_date": "2026-06-10",
+          "title": "High Purity Dissolving Pulp From Brazil and Norway; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11617/high-purity-dissolving-pulp-from-brazil-and-norway-scheduling-of-the-final-phase-of-countervailing",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11595",
+          "publication_date": "2026-06-10",
+          "title": "Strengthening Customs Enforcement",
+          "type": "Presidential Document",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11595/strengthening-customs-enforcement",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11591",
+          "publication_date": "2026-06-10",
+          "title": "Certain New Chemicals; Receipt and Status Information for November 2025, January 2026, and February 2026",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11591/certain-new-chemicals-receipt-and-status-information-for-november-2025-january-2026-and-february",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11573",
+          "publication_date": "2026-06-10",
+          "title": "Certain Smart Devices; Notice of Institution of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11573/certain-smart-devices-notice-of-institution-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11565",
+          "publication_date": "2026-06-10",
+          "title": "Notice of Revocation of Customs Brokers' Licenses",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11565/notice-of-revocation-of-customs-brokers-licenses",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11550",
+          "publication_date": "2026-06-10",
+          "title": "Certain Oil Vaporizing Devices, Components Thereof, and Products Containing the Same; Notice of Institution of Formal Enforcement Proceeding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11550/certain-oil-vaporizing-devices-components-thereof-and-products-containing-the-same-notice-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-11549",
           "publication_date": "2026-06-09",
@@ -601,15 +682,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-10868",
-          "publication_date": "2026-06-01",
-          "title": "Designation of New Grantee; Foreign-Trade Zone 181; Akron/Canton, Ohio",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10868/designation-of-new-grantee-foreign-trade-zone-181-akroncanton-ohio",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-10867",
           "publication_date": "2026-06-01",
           "title": "Diffusion-Annealed, Nickel-Plated Flat-Rolled Steel Products From Japan: Notice of Court Decision Not in Harmony With the Results of Antidumping Administrative Review; Notice of Amended Final Results",
@@ -671,78 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10680/certain-preserved-mushrooms-from-chile-the-peoples-republic-of-china-india-and-indonesia-final",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10677",
-          "publication_date": "2026-05-29",
-          "title": "Citric Acid and Certain Citrate Salts From the People's Republic of China: Continuation of Antidumping Duty Order and Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10677/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-continuation-of-antidumping",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10673",
-          "publication_date": "2026-05-29",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10673/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10649",
-          "publication_date": "2026-05-29",
-          "title": "Freight Rail Couplers and Parts Thereof From Czech Republic and India; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10649/freight-rail-couplers-and-parts-thereof-from-czech-republic-and-india-scheduling-of-the-final-phase",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10627",
-          "publication_date": "2026-05-28",
-          "title": "Xanthan Gum From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Duty Administrative Review; Notice of Amended Final Results",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10627/xanthan-gum-from-the-peoples-republic-of-china-notice-of-court-decision-not-in-harmony-with-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10625",
-          "publication_date": "2026-05-28",
-          "title": "Certain Large Vertical Shaft Engines Between 225cc and 999cc, and Parts Thereof From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10625/certain-large-vertical-shaft-engines-between-225cc-and-999cc-and-parts-thereof-from-the-peoples",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10624",
-          "publication_date": "2026-05-28",
-          "title": "Difluoromethane (R-32) From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10624/difluoromethane-r-32-from-the-peoples-republic-of-china-final-results-of-the-expedited-first-sunset",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10571",
-          "publication_date": "2026-05-28",
-          "title": "Implementing Certain Tariff-Related Elements of a Trade and Security Agreement Between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10571/implementing-certain-tariff-related-elements-of-a-trade-and-security-agreement-between-the-american",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10549",
-          "publication_date": "2026-05-28",
-          "title": "Certain Medical Imaging Devices; Notice of Commission Determination Not To Review an Initial Determination Granting Complainants' Motion To Amend the Complaint and Notice of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10549/certain-medical-imaging-devices-notice-of-commission-determination-not-to-review-an-initial",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68888585 - Harmonized System Update (HSU) 2613",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41b2809",
+          "pub_date": "Tue, 09 Jun 2026 09:17:11 -0400",
+          "guid": "68888585",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68888585 - Harmonized System Update (HSU) 2613 Harmonized System Update (HSU) 2 6 1 3 was created on June 7 , 2026, and contains 23 harmonized tariff records and 54 automated broker interface ( ABI ) records. Th is HSU contains the Section 232 tariff adjustments for imports of aluminum, steel and copper into the U.S. For more information, please s ee CSMS # 688 55869 . For questions regarding Section 232 entry filing, contact the Trade Remedy Branch at TradeRemedy@cbp.dhs.gov . Questions or concerns with th is HSU should be directed to the HTS Administrators at HTSAdmin@cbp.dhs.gov ."
+        },
         {
           "title": "CSMS # 68855869 - GUIDANCE: Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41aa83d",
@@ -1062,14 +1070,6 @@
           "guid": "68290359",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68290359 - The Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available The Consumer Product Safety Commission (CPSC) Message Implementation Guide (IG) is now available on CBP.gov. The IG can be found on CBP.gov in the Draft Chapters: Future Capabilities section: ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) The related CPSC Message Set is scheduled to deploy to CBP\u2019s test and production environments on the following dates: April 15 \u2013 CERTIFICATION July 8 \u2013 PRODUCTION If you have any questions about the CPSC IG or message set, please reach out to the CPSC eFiling Support team "
-        },
-        {
-          "title": "CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/411e742",
-          "pub_date": "Tue, 07 Apr 2026 13:41:07 -0400",
-          "guid": "68282178",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68282178 - Information: Quota Bulletin 26-103 2026 Australia Free Trade Agreement Quota Bulletin 26-103 2026 Australia Free Trade Agreement has been published on CBP.gov at the following link: https://www.cbp.gov/trade/quota/bulletins/qb-26-103-2026 Commodity: Agricultural products described in Chapter 98 subheadings of the Harmonized Tariff Schedule of the United States (HTSUS), Additional United States Notes (AUSN) 8 through 19. Quota Period: January 1, 2026 - December 31, 2026 Opening Date: Friday, January 2, 2026 All entries submitted after 12:01 a.m. local port time and prior to 8:30 a.m. Eastern Time (ET) and on the opening date will receive an en"
         }
       ],
       "errors": []
@@ -1080,20 +1080,36 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Opening speech by President von der Leyen at the conference \u2018Advancing Brain Cancer Research: From policy action to scientific breakthroughs'",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1298",
-            "pub_date": "Mon, 08 Jun 2026 13:00:48 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1298",
-            "category": "POLICY_AREA=HEALTHPOL,PRESIDENCY",
-            "description": "European Commission Speech Brussels, 08 Jun 2026 Thank you so much, dear Sophie. Dear guests, Thank you very much for giving me the opportunity to offer a very brief introduction. It was very important for me ..."
+            "title": "Joint Statement on the conclusion of the negotiations to deepen the EU-Eastern and Southern Africa Economic Partnership Agreement",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1327",
+            "pub_date": "Wed, 10 Jun 2026 07:12:22 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1327",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Statement Mauritius , 10 Jun 2026 On 10 June 2026, the European Union (EU) and four States of Eastern and Southern Africa (ESA4) \u2013 the Union of the Comoros, the Republic of Madagascar, the Repub..."
           },
           {
-            "title": "EU and Kenya strengthen partnership",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1294",
-            "pub_date": "Mon, 08 Jun 2026 08:58:21 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1294",
-            "category": "POLICY_AREA=DEVEL,DIGAG",
-            "description": "European Commission Press release Brussels, 08 Jun 2026 The European Union and Kenya are deepening their strategic partnership on trade, digital transformation and sustainable investment to drive mutual economic growth for the benefit of businesses and citizens on both sides. This reinforced cooperation reflects Kenya's pivotal role as a key partner for the EU in Africa and at multilateral level."
+            "title": "EU concludes modernised Economic Partnership Agreement with Sub-Saharan Africa partners",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1315",
+            "pub_date": "Tue, 09 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1315",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Press release Mauritius , 10 Jun 2026 Today, the EU and four Eastern and Southern Africa (ESA) States (Comoros, Madagascar, Mauritius, and Seychelles) concluded negotiations on an enhanced Economic Partnership Agreement (EPA)."
+          },
+          {
+            "title": "Questions and answers on the EU-ESA enhanced Economic Partnership Agreement (EPA)",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1316",
+            "pub_date": "Tue, 09 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1316",
+            "category": "POLICY_AREA=TRADEPOL",
+            "description": "European Commission Questions and answers Mauritius , 10 Jun 2026 GENERAL How large is the ESA4 market? How much trade does the EU conduct with ESA4? The ESA4 States (Comoros, Madagascar, Mauritius, and Seychelles) represent a..."
+          },
+          {
+            "title": "Statement by President von der Leyen on the 21st sanctions package against Russia",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1314",
+            "pub_date": "Tue, 09 Jun 2026 09:32:06 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1314",
+            "category": "POLICY_AREA=ENERGY,ENLNEIG,HREXTRELS,MARAFFISH,PRESIDENCY,TRADEPOL,FINSTAB,DEFENCE,UKRAINE",
+            "description": "European Commission Statement Brussels, 09 Jun 2026 Almost every day now, we wake up to the same kind of news. Another major Russian strike on Ukrainian cities, targeting civilians blindly. We also wake up to the..."
           }
         ],
         "errors": []
@@ -1131,12 +1147,6 @@
             "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-business-and-trade-to-the-business-and-trade-committee-2-april-2026",
             "updated": "2026-04-15T16:53:09+01:00",
             "summary": "Letter from the Rt Hon Peter Kyle MP, the Secretary of State for Business and <mark>Trade</mark>, to the Rt Hon Liam Byrne MP, Chair of the Business and <mark>Trade</mark> Committee."
-          },
-          {
-            "title": "\u2018Greater Together LA\u2019, the largest ever UK trade mission to the US, attracts major corporate sponsors",
-            "link": "https://www.gov.uk/government/news/greater-together-la-the-largest-ever-uk-trade-mission-to-the-us-attracts-major-corporate-sponsors",
-            "updated": "2026-04-09T09:48:00+01:00",
-            "summary": "In partnership with world-leading financial, tech and cultural organisations, the UK Government\u2019s GREAT Britain &amp; Northern Ireland Campaign is holding a major expo in Los Angeles, California from 18th - 22nd May, 2026."
           }
         ],
         "errors": []
