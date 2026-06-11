@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T07:54:01+00:00",
+  "generated_at": "2026-06-11T08:11:05+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,69 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-11776",
+          "publication_date": "2026-06-11",
+          "title": "Foreign-Trade Zone (FTZ) 207, Notification of Proposed Production Activity; Lutron Electronics Co., Inc.; (Window Shades); Ashland, Virginia",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11776/foreign-trade-zone-ftz-207-notification-of-proposed-production-activity-lutron-electronics-co-inc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11775",
+          "publication_date": "2026-06-11",
+          "title": "Foreign-Trade Zone (FTZ) 252, Notification of Proposed Production Activity; Fermi Inc.; (Modular Nuclear Power Plant and Natural Gas Power Plant); Panhandle, Texas",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11775/foreign-trade-zone-ftz-252-notification-of-proposed-production-activity-fermi-inc-modular-nuclear",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11693",
+          "publication_date": "2026-06-11",
+          "title": "Determination Under the Textile and Apparel Commercial Availability Provision of the Dominican Republic-Central America-United States Free Trade Agreement (\u201cCAFTA-DR\u201d)",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11693/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican",
+          "raw_text_url": null,
+          "term_hit": "section 232"
+        },
+        {
+          "document_number": "2026-11689",
+          "publication_date": "2026-06-11",
+          "title": "Certain Paper Shopping Bags From Portugal: Rescission of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11689/certain-paper-shopping-bags-from-portugal-rescission-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11688",
+          "publication_date": "2026-06-11",
+          "title": "Streamlining the Census Bureau's Foreign Trade Regulations; Correction",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11688/streamlining-the-census-bureaus-foreign-trade-regulations-correction",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-11687",
+          "publication_date": "2026-06-11",
+          "title": "Mobile Access Equipment and Subassemblies Thereof From the People's Republic of China: Preliminary Results and Rescission, in Part, of the Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11687/mobile-access-equipment-and-subassemblies-thereof-from-the-peoples-republic-of-china-preliminary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-11686",
+          "publication_date": "2026-06-11",
+          "title": "Certain Glass Substrate for Liquid Crystal Displays, Products Containing the Same, and Methods for Manufacturing II; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on Remedy, the Public Interest, and Bonding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11686/certain-glass-substrate-for-liquid-crystal-displays-products-containing-the-same-and-methods-for",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-11631",
           "publication_date": "2026-06-10",
@@ -680,69 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10910/melamine-from-china-institution-of-five-year-reviews",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10867",
-          "publication_date": "2026-06-01",
-          "title": "Diffusion-Annealed, Nickel-Plated Flat-Rolled Steel Products From Japan: Notice of Court Decision Not in Harmony With the Results of Antidumping Administrative Review; Notice of Amended Final Results",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10867/diffusion-annealed-nickel-plated-flat-rolled-steel-products-from-japan-notice-of-court-decision-not",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10866",
-          "publication_date": "2026-06-01",
-          "title": "Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10866/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10865",
-          "publication_date": "2026-06-01",
-          "title": "Utility Scale Wind Towers From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10865/utility-scale-wind-towers-from-the-republic-of-korea-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10848",
-          "publication_date": "2026-06-01",
-          "title": "Certain TOPCon Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same; Commission Determination Not To Review an Initial Determination Granting a Motion To Intervene",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10848/certain-topcon-solar-cells-modules-panels-components-thereof-and-products-containing-same-commission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10845",
-          "publication_date": "2026-06-01",
-          "title": "Certain Coated Confectionery Products and Components Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/01/2026-10845/certain-coated-confectionery-products-and-components-thereof-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10795",
-          "publication_date": "2026-05-29",
-          "title": "Common Alloy Aluminum Sheet From the Sultanate of Oman: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10795/common-alloy-aluminum-sheet-from-the-sultanate-of-oman-amended-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10680",
-          "publication_date": "2026-05-29",
-          "title": "Certain Preserved Mushrooms From Chile, the People's Republic of China, India, and Indonesia: Final Results of the Expedited Fifth Sunset Reviews of the Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/05/29/2026-10680/certain-preserved-mushrooms-from-chile-the-peoples-republic-of-china-india-and-indonesia-final",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -1086,30 +1086,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1327",
             "category": "POLICY_AREA=TRADEPOL",
             "description": "European Commission Statement Mauritius , 10 Jun 2026 On 10 June 2026, the European Union (EU) and four States of Eastern and Southern Africa (ESA4) \u2013 the Union of the Comoros, the Republic of Madagascar, the Repub..."
-          },
-          {
-            "title": "EU concludes modernised Economic Partnership Agreement with Sub-Saharan Africa partners",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1315",
-            "pub_date": "Tue, 09 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1315",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Press release Mauritius , 10 Jun 2026 Today, the EU and four Eastern and Southern Africa (ESA) States (Comoros, Madagascar, Mauritius, and Seychelles) concluded negotiations on an enhanced Economic Partnership Agreement (EPA)."
-          },
-          {
-            "title": "Questions and answers on the EU-ESA enhanced Economic Partnership Agreement (EPA)",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1316",
-            "pub_date": "Tue, 09 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1316",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Questions and answers Mauritius , 10 Jun 2026 GENERAL How large is the ESA4 market? How much trade does the EU conduct with ESA4? The ESA4 States (Comoros, Madagascar, Mauritius, and Seychelles) represent a..."
-          },
-          {
-            "title": "Statement by President von der Leyen on the 21st sanctions package against Russia",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1314",
-            "pub_date": "Tue, 09 Jun 2026 09:32:06 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1314",
-            "category": "POLICY_AREA=ENERGY,ENLNEIG,HREXTRELS,MARAFFISH,PRESIDENCY,TRADEPOL,FINSTAB,DEFENCE,UKRAINE",
-            "description": "European Commission Statement Brussels, 09 Jun 2026 Almost every day now, we wake up to the same kind of news. Another major Russian strike on Ukrainian cities, targeting civilians blindly. We also wake up to the..."
           }
         ],
         "errors": []
