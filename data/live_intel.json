@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T08:00:16+00:00",
+  "generated_at": "2026-06-15T08:32:57+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,6 +1080,14 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Statement by President von der Leyen on the agreement between the United States and Iran",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1359",
+            "pub_date": "Mon, 15 Jun 2026 05:35:12 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1359",
+            "category": "POLICY_AREA=HREXTRELS",
+            "description": "European Commission Statement Brussels, 15 Jun 2026 I welcome the agreement reached between the US and Iran, following sustained diplomatic efforts by several partners. The priority now is its swift and full impl..."
+          },
+          {
             "title": "Speech of the Executive Vice-President Teresa Ribera at the Politecnico di Torino Foresight & Innovation International Award 2026",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1358",
             "pub_date": "Fri, 12 Jun 2026 16:53:45 GMT",
@@ -1150,14 +1158,6 @@
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1338",
             "category": "POLICY_AREA=COMPETY,MERGERS",
             "description": "European Commission Press release Brussels, 12 Jun 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition of Xella international S.A. ('Xella') by Holcim Ltd ('Holcim'). The approval is conditional upon full compliance with the commitment offered by Holcim, which entails the full divestment of Holcim's AAC blocks plant in Adjud, Romania."
-          },
-          {
-            "title": "Speech by Executive Vice-President Fitto at New European Bauhaus Festival 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1346",
-            "pub_date": "Thu, 11 Jun 2026 14:17:49 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1346",
-            "category": "POLICY_AREA=REGIONAL,STRUREF",
-            "description": "European Commission Speech Brussels, 11 Jun 2026 Ladies and gentlemen, Dear colleagues, It is my great pleasure to welcome you to this third day of the NEB festival. I am delighted to see so many of you here ..."
           }
         ],
         "errors": []
