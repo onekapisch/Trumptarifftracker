@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T08:32:57+00:00",
+  "generated_at": "2026-06-16T08:28:50+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,78 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-12104",
+          "publication_date": "2026-06-16",
+          "title": "Foreign-Trade Zone (FTZ) 207, Notification of Proposed Production Activity; QubicaAMF Worldwide, LLC; (Bowling Equipment); Mechanicsville, Virginia",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12104/foreign-trade-zone-ftz-207-notification-of-proposed-production-activity-qubicaamf-worldwide-llc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12103",
+          "publication_date": "2026-06-16",
+          "title": "Glycine From India: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12103/glycine-from-india-final-results-of-countervailing-duty-administrative-review-2023",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12102",
+          "publication_date": "2026-06-16",
+          "title": "Certain Steel Nails From Taiwan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12102/certain-steel-nails-from-taiwan-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12101",
+          "publication_date": "2026-06-16",
+          "title": "Monosodium Glutamate From the People's Republic China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12101/monosodium-glutamate-from-the-peoples-republic-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12093",
+          "publication_date": "2026-06-16",
+          "title": "Application for Renewal of Authorization To Export Electric Energy; Mercuria Commodities Canada Corporation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12093/application-for-renewal-of-authorization-to-export-electric-energy-mercuria-commodities-canada",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12092",
+          "publication_date": "2026-06-16",
+          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Parts Tariff Offset Program for Automobiles, MHDVs, and Engines",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12092/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12073",
+          "publication_date": "2026-06-16",
+          "title": "Foreign-Trade Zone (FTZ) 230, Notification of Proposed Production Activity; TN Americas LLC; (Nuclear Fuel Containers); Kernersville, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12073/foreign-trade-zone-ftz-230-notification-of-proposed-production-activity-tn-americas-llc-nuclear-fuel",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12066",
+          "publication_date": "2026-06-16",
+          "title": "Assistance to Foreign Atomic Energy Activities",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12066/assistance-to-foreign-atomic-energy-activities",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-12001",
           "publication_date": "2026-06-15",
@@ -671,78 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11122/certain-uncoated-paper-from-portugal-preliminary-results-of-antidumping-duty-administrative-review",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11121",
-          "publication_date": "2026-06-03",
-          "title": "Raw Honey From Brazil: Final Results of Antidumping Duty Administrative Review, 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11121/raw-honey-from-brazil-final-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11120",
-          "publication_date": "2026-06-03",
-          "title": "Prestressed Concrete Steel Wire Strand From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11120/prestressed-concrete-steel-wire-strand-from-malaysia-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11119",
-          "publication_date": "2026-06-03",
-          "title": "Certain Large Vertical Shaft Engines Between 225cc and 999cc, and Parts Thereof from The People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11119/certain-large-vertical-shaft-engines-between-225cc-and-999cc-and-parts-thereof-from-the-peoples",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11118",
-          "publication_date": "2026-06-03",
-          "title": "Circular Welded Carbon-Quality Steel Pipe From the United Arab Emirates: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11118/circular-welded-carbon-quality-steel-pipe-from-the-united-arab-emirates-preliminary-results-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11113",
-          "publication_date": "2026-06-03",
-          "title": "Tuna Tariff-Rate Quota for Calendar Year 2026 for Tuna Classifiable Under Subheading 1604.14.22, Harmonized Tariff Schedule of the United States (HTSUS)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11113/tuna-tariff-rate-quota-for-calendar-year-2026-for-tuna-classifiable-under-subheading-16041422",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11043",
-          "publication_date": "2026-06-03",
-          "title": "Initiation of Section 301 Investigation and Request for Public Comments: Vietnam's Acts, Policies, and Practices Related to Intellectual Property Protection and Enforcement",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11043/initiation-of-section-301-investigation-and-request-for-public-comments-vietnams-acts-policies-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11001",
-          "publication_date": "2026-06-02",
-          "title": "N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China: Initiation of Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-11001/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-initiation-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-10997",
-          "publication_date": "2026-06-02",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/02/2026-10997/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68952537 - ACE Portal Webinar: How to Set Up and Manage an ACE Portal Account on Wednesday, June 17, 2026 at 11:00 a.m. ET",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41c21d9",
+          "pub_date": "Mon, 15 Jun 2026 14:02:07 -0400",
+          "guid": "68952537",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68952537 - ACE Portal Webinar: How to Set Up and Manage an ACE Portal Account on Wednesday, June 17, 2026, at 11:00 a.m. ET U.S. Customs and Border Protection\u2019s (CBP) Office of Trade is hosting a webinar on Wednesday, June 17, 2026, at 11:00 a.m. ET titled How to Set Up and Manage an ACE Portal Account . This webinar will provide an overview o f how to set up an ACE Portal Account, along with information on new w ebforms and Trade Account Owner (TAO) functionality. We will also address common questions and solutions and provide an overview of recent portal improvements . To register for this free webinar , click he r e . All registrants will receive the"
+        },
         {
           "title": "CSMS # 68927213 - Launch of CBP\u2019s Forced Labor Enforcement Operational Guidance for Importers",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41bbeed",
@@ -1062,14 +1070,6 @@
           "guid": "68358746",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68358746 - Automated Export System Trade Interface Requirements (AESTIR) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting Automated Export System Trade Interface Requirements (AESTIR) will be implementing an update to the Appendix U list to allow the following HTS Codes for Used Vehicles: 8705.90.0010 8705.90.0020 8705.90.0080 Technical questions can be submitted to your assigned CBP Client Representative. Policy questions can be submitted to cbpvehicleexports@cbp.dhs.gov . Please note that this message is a correction to CSMS #68273771."
-        },
-        {
-          "title": "CSMS # 68340863 - UPDATE - Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds, April 20, 2026, Deployment",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/412cc7f",
-          "pub_date": "Mon, 13 Apr 2026 17:48:46 -0400",
-          "guid": "68340863",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68340863 - UPDATE - Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds, April 20, 2026, Deployment On March 2, 2026, the Court of Appeals for the Federal Circuit (CAFC) issued its formal mandate to the Court of International Trade (CIT) with respect to duties collected pursuant to the International Emergency Economic Powers Act (IEEPA). On March 4, 2026, in Atmus Filtration, Inc. v. United States , the CIT ordered \u201cthat, with respect to any and all unliquidated entries that were entered subject to the IEEPA duties, U.S. Customs and Border Protection (CBP) is hereby directed to liquidate those entries without regard to the IEE"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President von der Leyen on the agreement between the United States and Iran",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1359",
-            "pub_date": "Mon, 15 Jun 2026 05:35:12 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1359",
-            "category": "POLICY_AREA=HREXTRELS",
-            "description": "European Commission Statement Brussels, 15 Jun 2026 I welcome the agreement reached between the US and Iran, following sustained diplomatic efforts by several partners. The priority now is its swift and full impl..."
-          },
-          {
-            "title": "Speech of the Executive Vice-President Teresa Ribera at the Politecnico di Torino Foresight & Innovation International Award 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1358",
-            "pub_date": "Fri, 12 Jun 2026 16:53:45 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1358",
-            "category": "POLICY_AREA=RESINSC",
-            "description": "European Commission Speech Brussels, 12 Jun 2026 Speech of the Executive Vice-President Teresa Ribera after receiving the PoliTO Foresight & Innovation International Award 2026 in Torino"
-          },
-          {
-            "title": "Statement by President von der Leyen and President Costa on the agreement to open the first accession negotiation cluster with Ukraine and Moldova",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1357",
-            "pub_date": "Fri, 12 Jun 2026 16:28:04 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1357",
-            "category": "POLICY_AREA=NEIGHB,UKRAINE",
-            "description": "European Commission Statement Brussels, 12 Jun 2026 Today, the European Union took a major step forward. All Member States agreed to open the first accession negotiations cluster with Ukraine and Moldova. At the..."
-          },
-          {
-            "title": "Commissioner Roswall's closing speech at the Festival of the New European Bauhaus 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1356",
-            "pub_date": "Fri, 12 Jun 2026 12:51:39 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1356",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Speech Brussels, 12 Jun 2026 Ladies and gentlemen, Dear friends of the New European Bauhaus, Festival visitors. Good afternoon to you all, We're coming to the end of this year's New Europea..."
-          },
-          {
-            "title": "Remarks by Commissioner Dombrovskis at the ECOFIN press conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1355",
-            "pub_date": "Fri, 12 Jun 2026 12:43:35 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1355",
-            "category": "POLICY_AREA=ECOMONAFF",
-            "description": "European Commission Statement Luxembourg, 12 Jun 2026 Thank you, Minister. Good afternoon, everyone. First of all, I would like to thank the Cypriot Presidency and you personally, Makis, for all the work during thi..."
-          },
-          {
-            "title": "Commissioner Roswall's address at a High-Level Stakeholder Dialogue; 'From Strategy to Action: Accelerating Europe's Bioeconomy Revolution' as part of the New European Bauhaus Festival 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1351",
-            "pub_date": "Fri, 12 Jun 2026 09:51:51 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1351",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Speech Brussels, 12 Jun 2026 Thank you all for being here. Thank you also for your great interest in the bioeconomy. Not only as an environmental topic, but as part of the transformation we..."
-          },
-          {
-            "title": "EU and Brazil deepen ties through Digital Partnership",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1350",
-            "pub_date": "Fri, 12 Jun 2026 09:35:40 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1350",
-            "category": "POLICY_AREA=DIGAG,TECH",
-            "description": "European Commission Press release Brussels, 12 Jun 2026 The European Union and Brazil signs a Digital Partnership in Brasilia today, bringing their digital cooperation to a new strategic level."
-          },
-          {
-            "title": "Daily News 12 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1349",
-            "pub_date": "Fri, 12 Jun 2026 08:19:53 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1349",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 12 Jun 2026 EU and Brazil deepen ties through Digital Partnership The European Union and Brazil signed a Digital Partnership in Brasilia today, bringing their digital coope..."
-          },
-          {
-            "title": "Commission proposes \u20ac540 million in financial relief and other supports for farmers facing fertiliser crisis",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1348",
-            "pub_date": "Fri, 12 Jun 2026 07:50:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1348",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Press release Brussels, 12 Jun 2026 Today, the European Commission presents measures to help farmers facing sharply rising fertiliser costs and to support Europe's food security, delivering on the recently announced Fertiliser Action Plan."
-          },
-          {
-            "title": "Commission approves Holcim's acquisition of Xella, subject to conditions",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1338",
-            "pub_date": "Thu, 11 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1338",
-            "category": "POLICY_AREA=COMPETY,MERGERS",
-            "description": "European Commission Press release Brussels, 12 Jun 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition of Xella international S.A. ('Xella') by Holcim Ltd ('Holcim'). The approval is conditional upon full compliance with the commitment offered by Holcim, which entails the full divestment of Holcim's AAC blocks plant in Adjud, Romania."
+            "title": "Statement by President von der Leyen with President Costa at the G7 Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1365",
+            "pub_date": "Mon, 15 Jun 2026 11:42:20 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1365",
+            "category": "POLICY_AREA=DIGAG,ENLNEIG,HREXTRELS,MARAFFISH,PRESIDENCY,TRADEPOL,UKRAINE,MIDDLE,AI",
+            "description": "European Commission Statement \u00c9vian, 15 Jun 2026 Thank you very much. I am looking forward to this G7 in \u00c9vian under the French Presidency. We meet against the backdrop of geopolitical fragmentation, economic ..."
           }
         ],
         "errors": []
