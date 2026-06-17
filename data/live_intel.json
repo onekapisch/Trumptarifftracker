@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T08:28:50+00:00",
+  "generated_at": "2026-06-17T08:16:59+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,87 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-12217",
+          "publication_date": "2026-06-17",
+          "title": "Foreign-Trade Zone (FTZ) 78, Notification of Proposed Production Activity; Petainer Manufacturing USA, Inc.; (Polyethylene Terephthalate Preforms); Columbia, Tennessee",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12217/foreign-trade-zone-ftz-78-notification-of-proposed-production-activity-petainer-manufacturing-usa",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12216",
+          "publication_date": "2026-06-17",
+          "title": "Denial of Production Authority; Foreign-Trade Zone 3; Phillips 66 Company; (Renewable Fuels and By-Products); Rodeo, California",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12216/denial-of-production-authority-foreign-trade-zone-3-phillips-66-company-renewable-fuels-and",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12207",
+          "publication_date": "2026-06-17",
+          "title": "Phosphate Fertilizers From Morocco and Russia; Notice of Commission Determination To Conduct Full Five-Year Reviews",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12207/phosphate-fertilizers-from-morocco-and-russia-notice-of-commission-determination-to-conduct-full",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12206",
+          "publication_date": "2026-06-17",
+          "title": "Van-Type Trailers and Subassemblies From Canada; Termination of investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12206/van-type-trailers-and-subassemblies-from-canada-termination-of-investigation",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12179",
+          "publication_date": "2026-06-17",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12179/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12163",
+          "publication_date": "2026-06-17",
+          "title": "The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12163/the-trade-through-rule-and-locked-and-crossed-markets-provisions-of-regulation-nms",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12151",
+          "publication_date": "2026-06-17",
+          "title": "Van-Type Trailers and Subassemblies From Canada, China, and Mexico; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12151/van-type-trailers-and-subassemblies-from-canada-china-and-mexico-scheduling-of-the-final-phase-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12150",
+          "publication_date": "2026-06-17",
+          "title": "Certain Laptops, Routers and Gateways, and Components Thereof; Notice of a Commission Determination To Review in Part an Initial Determination Granting Complainant's Motion To Amend the Complaint and, on Review, Affirm With Modification To Also Amend the Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12150/certain-laptops-routers-and-gateways-and-components-thereof-notice-of-a-commission-determination-to",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12119",
+          "publication_date": "2026-06-17",
+          "title": "Foreign-Trade Zone (FTZ) 41, Notification of Proposed Production Activity; Dedicated Computing; (Computer Systems); Waukesha, Wisconsin",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12119/foreign-trade-zone-ftz-41-notification-of-proposed-production-activity-dedicated-computing-computer",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-12104",
           "publication_date": "2026-06-16",
@@ -571,7 +652,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11334/foreign-trade-zone-ftz-124-notification-of-proposed-production-activity-onesubsea-subsea-oil",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11333",
@@ -580,7 +661,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11333/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-foxx-development-inc",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11332",
@@ -589,16 +670,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11332/foreign-trade-zone-ftz-213-notification-of-proposed-production-activity-project-and-construction",
           "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-11331",
-          "publication_date": "2026-06-05",
-          "title": "Hand Trucks and Certain Parts Thereof From the People's Republic of China: Final Results of the Expedited Fourth Sunset Review of the Antidumping Duty Order",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11331/hand-trucks-and-certain-parts-thereof-from-the-peoples-republic-of-china-final-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11326",
@@ -671,78 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11263/certain-freight-rail-couplers-and-parts-thereof-from-mexico-final-results-of-antidumping-duty",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11261",
-          "publication_date": "2026-06-04",
-          "title": "Certain Corrosion Inhibitors From the People's Republic of China: Preliminary Results of the Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11261/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-preliminary-results-of-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11260",
-          "publication_date": "2026-06-04",
-          "title": "Chlorinated Isocyanurates From Spain: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11260/chlorinated-isocyanurates-from-spain-final-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11201",
-          "publication_date": "2026-06-04",
-          "title": "Certain Energy Drinks and Labeling and Packaging Thereof; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11201/certain-energy-drinks-and-labeling-and-packaging-thereof-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11196",
-          "publication_date": "2026-06-04",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11196/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11158",
-          "publication_date": "2026-06-04",
-          "title": "Notice of Determination and Request for Comments Concerning Action Pursuant to Section 301: Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11158/notice-of-determination-and-request-for-comments-concerning-action-pursuant-to-section-301-brazils",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11142",
-          "publication_date": "2026-06-04",
-          "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Provide for a Momentary Handoff, Upon the Exchange Commencing Trading of NMS Stocks and Exchange Traded Products",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11142/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate",
-          "raw_text_url": null,
-          "term_hit": "de minimis"
-        },
-        {
-          "document_number": "2026-11123",
-          "publication_date": "2026-06-03",
-          "title": "Foreign-Trade Zone (FTZ) 151, Notification of Proposed Production Activity; Callies Performance Products Inc; (Auto Parts); Fostoria, Ohio",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11123/foreign-trade-zone-ftz-151-notification-of-proposed-production-activity-callies-performance-products",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11122",
-          "publication_date": "2026-06-03",
-          "title": "Certain Uncoated Paper From Portugal: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/03/2026-11122/certain-uncoated-paper-from-portugal-preliminary-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,30 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68966469 - ACE Portal: New Tools and Automation for Account Management",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41c5845",
+          "pub_date": "Tue, 16 Jun 2026 15:26:00 -0400",
+          "guid": "68966469",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68966469 - ACE Portal: New Tools and Automation for Account Management U.S. Customs and Border Protection (CBP) recently introduced tools and automation to streamline aspects of account management for the Automated Commercial Environment Secure Data Portal ( ACE Portal) . T rade A ccount O wner (TAO) Account Reactivation New CBP automation will now automatically reactivate a TAO account when the reactivation request is sent from a n email address associated with a TAO account in ACE. TAO s with inactive accounts should email ACE.Support@cbp.dhs.gov and include \u201c reactivation \u201d in the subject line. The sender will automatically be sent confirmation or fo"
+        },
+        {
+          "title": "CSMS # 68963141 - Withhold Release Order (WRO) on Copper and Copper Products Manufactured in Serbia, by Serbia Zijin Copper D.O.O.",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41c4b45",
+          "pub_date": "Tue, 16 Jun 2026 12:00:33 -0400",
+          "guid": "68963141",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68963141 - Withhold Release Order (WRO) on Copper and Copper Products Manufactured in Serbia, by Serbia Zijin Copper D.O.O. U.S. Customs and Border Protection (CBP) issued a Withhold Release Order (WRO) against copper and copper products manufactured in Serbia by Serbia Zijin Copper D.O.O. (Serbia Zijin). Effective immediately, CBP personnel at all U.S. ports of entry will detain shipments of these copper products due to evidence reasonably indicating the use of forced labor in their production. This WRO, the fourth in Fiscal Year 2026, was issued due to violations of 19 U.S.C. \u00a7 1307, the law prohibiting goods made with forced labor from entering the U"
+        },
+        {
+          "title": "CSMS # 68961636 - Information: Quota Bulletin 26-225 2026 Argentina Beef Tranche 3",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41c4564",
+          "pub_date": "Tue, 16 Jun 2026 09:34:13 -0400",
+          "guid": "68961636",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68961636 - Information: Quota Bulletin 26-225 2026 Argentina Beef Tranche 3 Quota Bulletin 26-22 5 2026 Argentina Beef Tranche 3 has been published on our webpage at the following link : Quota Bulletin 26-225 2026 Argentina Beef Tranche 3 Commodity: Beef as provided for in the Harmonized Tariff Schedule of the United States (HTSUS) Chapter 2 subheadings Additional United States Note (AUSN) 3(b) and addressed in Presidential Proclamation and Annex \u201cEnsuring Affordable Beef for the American Consumer\u201d and published on February 6, 2026. In addition to the aggregate quantity of beef of Argentina specified in AUSN 3(a) to chapter 2 of the tariff schedule for "
+        },
         {
           "title": "CSMS # 68952537 - ACE Portal Webinar: How to Set Up and Manage an ACE Portal Account on Wednesday, June 17, 2026 at 11:00 a.m. ET",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41c21d9",
@@ -1046,30 +1070,6 @@
           "guid": "68370692",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68370692 - Updated Guidance #2: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026 U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS #68096516 and CSMS #68180454. This guidance includes an updated list of potentially covered products (attached) as of April 16, 2026. Original CSMS Messages #68096516 and #68180454 listed below. U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS # 68096516 - Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026. This guidance includes an updated list of potentially covered products (attached) as"
-        },
-        {
-          "title": "CSMS # 68361200 - ACE Collections: Reminder \u2013 Requirement for PMS Test Participants to Electronically Pay Supplemental Duty Bills",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4131bf0",
-          "pub_date": "Thu, 16 Apr 2026 09:10:17 -0400",
-          "guid": "68361200",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68361200 - ACE Collections: Reminder \u2013 Requirement for PMS Test Participants to Electronically Pay Supplemental Duty Bills As a reminder, per CSMS #66599946 issued October 22, 2025, Periodic Monthly Statement (PMS) Test participants must submit electronic payment of supplemental duty bills (SDB) for which the SDB resulted from an entry that was originally paid on a monthly statement via the PMS Test. This requirement was announced via Federal Register Notice 90 FR 48314 on October 16, 2025, with an effective date for the test to become operational as of December 15, 2025. As of December 15, 2025, and moving forward, supplemental duty bills resulting fro"
-        },
-        {
-          "title": "CSMS # 68358699 - National Marine Fisheries Service Lifts Yellowfin Tuna Import Prohibition for Panama under the Tuna Tracking and Verification Program",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413122b",
-          "pub_date": "Wed, 15 Apr 2026 12:59:22 -0400",
-          "guid": "68358699",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68358699 - National Marine Fisheries Service Lifts Yellowfin Tuna Import Prohibition for Panama under the Tuna Tracking and Verification Program The National Marine Fisheries Service (NOAA Fisheries) issued an affirmative finding to Panama for a period of five years, effective April 1, 2026, through March 31, 2031. This affirmative finding lifts the embargo imposed on Panama in 2000 for yellowfin tuna and yellowfin tuna products harvested in the eastern tropical Pacific Ocean by purse seine vessel ( https://www.federalregister.gov/public-inspection/2026-07298/taking-or-importing-of-marine-mammals ). In addition, NOAA Fisheries renewed affirmative findin"
-        },
-        {
-          "title": "CSMS # 68358746 - Automated Export System Trade Interface Requirements (AESTIR) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413125a",
-          "pub_date": "Wed, 15 Apr 2026 11:30:36 -0400",
-          "guid": "68358746",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68358746 - Automated Export System Trade Interface Requirements (AESTIR) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting Automated Export System Trade Interface Requirements (AESTIR) will be implementing an update to the Appendix U list to allow the following HTS Codes for Used Vehicles: 8705.90.0010 8705.90.0020 8705.90.0080 Technical questions can be submitted to your assigned CBP Client Representative. Policy questions can be submitted to cbpvehicleexports@cbp.dhs.gov . Please note that this message is a correction to CSMS #68273771."
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Statement by President von der Leyen with President Costa at the G7 Summit",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1365",
-            "pub_date": "Mon, 15 Jun 2026 11:42:20 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1365",
-            "category": "POLICY_AREA=DIGAG,ENLNEIG,HREXTRELS,MARAFFISH,PRESIDENCY,TRADEPOL,UKRAINE,MIDDLE,AI",
-            "description": "European Commission Statement \u00c9vian, 15 Jun 2026 Thank you very much. I am looking forward to this G7 in \u00c9vian under the French Presidency. We meet against the backdrop of geopolitical fragmentation, economic ..."
+            "title": "G7 Leaders' Joint Statements, 16-17 June 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1377",
+            "pub_date": "Wed, 17 Jun 2026 06:44:37 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1377",
+            "category": "POLICY_AREA=DEVEL,HREXTRELS,HEALTHPOL,HOMEAFF,MIGR,UKRAINE,MIDDLE,TECH",
+            "description": "European Commission Statement \u00c9vian, 17 Jun 2026 At the 2026 G7 Leaders' Summit held in Evian, France, the leaders of the G7 discussed topics that included international peace and security, public health, migr..."
+          },
+          {
+            "title": "Press Remarks by Commissioner V\u00e1rhelyi following the EPSCO Health Council",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1374",
+            "pub_date": "Tue, 16 Jun 2026 18:07:29 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1374",
+            "category": "POLICY_AREA=HEALTHPOL",
+            "description": "European Commission Speech Luxembourg, 16 Jun 2026 Good afternoon. First, I would like to thank Minister Charalambides and the Cyprus Presidency for all the hard work they have done over the past six months. Thi..."
+          },
+          {
+            "title": "Remarks by Commissioner Serafin at the General Affairs Council in Luxembourg",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1371",
+            "pub_date": "Tue, 16 Jun 2026 15:30:12 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1371",
+            "category": "POLICY_AREA=BUDFINPROG",
+            "description": "European Commission Speech Brussels, 16 Jun 2026 Dear Marilena, dear Presidency, dear Ministers, Let me start by thanking the Presidency for having brought us a step closer to reaching a timely agreement on th..."
+          },
+          {
+            "title": "Commission will engage with industry following European Citizens' Initiative on the disabling of videogames by publishers",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1369",
+            "pub_date": "Tue, 16 Jun 2026 09:40:31 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1369",
+            "category": "POLICY_AREA=CONSUMPOL,DIGAG",
+            "description": "European Commission Press release Brussels, 16 Jun 2026 The European Commission will engage with consumers and publishers by the end of 2026 to explore ways to improve industry standards, as a response to the European Citizens' Initiative (ECI) \u2018Stop Destroying Videogames'."
+          },
+          {
+            "title": "Daily News 16 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1368",
+            "pub_date": "Tue, 16 Jun 2026 09:03:51 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1368",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 16 Jun 2026 Commission welcomes political agreement on seeds and other plant reproductive materials The European Commission welcomes the political agreement reached yesterd..."
+          },
+          {
+            "title": "Commission strengthens migration management along the Channel route",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1367",
+            "pub_date": "Tue, 16 Jun 2026 08:41:52 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1367",
+            "category": "POLICY_AREA=HOMEAFF,MIGR",
+            "description": "European Commission Press release Brussels, 16 Jun 2026 Today, the Commission is presenting an EU action plan for the Channel migratory route, setting out a comprehensive European response to the challenges posed by illegal migration along this route."
+          },
+          {
+            "title": "Final meeting of the Special Panel on child safety online as Eurobarometer confirms link between social media use and wellbeing",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1361",
+            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1361",
+            "category": "POLICY_AREA=DIGAG",
+            "description": "European Commission Press release Brussels, 16 Jun 2026 Today, the Special Panel on child safety online met for the third and final time. On 13 July, the Panel's Co-chairs will present recommendations to President Ursula von der Leyen on how to further strengthen the EU's trailblazing framework for the protection of minors online."
+          },
+          {
+            "title": "Europe's bathing waters remain safe to swim",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1352",
+            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1352",
+            "category": "POLICY_AREA=ENVIRO",
+            "description": "European Commission Press release Brussels, 16 Jun 2026 From the Atlantic to the Mediterranean, the vast majority of bathing waters in Europe met the European Union's most stringent \u2018excellent' bathing quality standards in 2025, according to the latest annual Bathing Water report published today."
+          },
+          {
+            "title": "Navigating crises and delivering results with the EU Budget in 2025",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1342",
+            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1342",
+            "category": "POLICY_AREA=BUDFINPROG",
+            "description": "European Commission Press release Brussels, 16 Jun 2026 Today, the College of Commissioners adopted the Annual Management and Performance Report for 2025 (AMPR)."
+          },
+          {
+            "title": "Commission welcomes political agreement on seeds and other plant reproductive materials",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1364",
+            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1364",
+            "category": "POLICY_AREA=HEALTHPOL,FOODSAF",
+            "description": "European Commission Press release Brussels, 16 Jun 2026 The European Commission welcomes the political agreement reached by the Council of the EU and the European Parliament on the revision and simplification of EU rules for plant reproductive material."
           }
         ],
         "errors": []
