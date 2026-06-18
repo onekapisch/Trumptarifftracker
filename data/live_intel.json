@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T08:16:59+00:00",
+  "generated_at": "2026-06-18T08:13:23+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,60 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-12343",
+          "publication_date": "2026-06-18",
+          "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Procedures for Submissions by Certain Steel and Aluminum Producers Committing to New U.S. Steel or Aluminum Production to Obtain Tariff Adjustments Under Proclamation 10984",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12343/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12330",
+          "publication_date": "2026-06-18",
+          "title": "Certain Chassis and Subassemblies Thereof From Mexico, Thailand, and the Socialist Republic of Vietnam: Antidumping Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12330/certain-chassis-and-subassemblies-thereof-from-mexico-thailand-and-the-socialist-republic-of-vietnam",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12329",
+          "publication_date": "2026-06-18",
+          "title": "Certain Chassis and Subassemblies Thereof From Mexico and Thailand: Countervailing Duty Orders",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12329/certain-chassis-and-subassemblies-thereof-from-mexico-and-thailand-countervailing-duty-orders",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12301",
+          "publication_date": "2026-06-18",
+          "title": "Raw Honey from India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12301/raw-honey-from-india-final-results-of-antidumping-duty-administrative-review-2023-2024",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12265",
+          "publication_date": "2026-06-18",
+          "title": "Certain Motorized Self-Balancing Vehicles; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on the Issues Under Review and on Remedy, the Public Interest, and Bonding",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12265/certain-motorized-self-balancing-vehicles-notice-of-a-commission-determination-to-review-in-part-a",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12248",
+          "publication_date": "2026-06-18",
+          "title": "Finished Carbon Steel Flanges From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12248/finished-carbon-steel-flanges-from-india-final-results-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-12217",
           "publication_date": "2026-06-17",
@@ -544,7 +598,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/08/2026-11431/foreign-trade-zone-ftz-84-notification-of-proposed-production-activity-tesla-inc-battery-storage",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11394",
@@ -571,7 +625,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/08/2026-11375/foreign-trade-zone-ftz-72-notification-of-proposed-production-activity-subaru-of-indiana-automotive",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11374",
@@ -689,60 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11296/notice-of-determinations-and-request-for-comments-concerning-actions-in-section-301-investigations",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11291",
-          "publication_date": "2026-06-05",
-          "title": "Request for Comments on the Scope and Operation of a Mechanism To Promote Reciprocal Managed Trade With China",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11291/request-for-comments-on-the-scope-and-operation-of-a-mechanism-to-promote-reciprocal-managed-trade",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11314",
-          "publication_date": "2026-06-04",
-          "title": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States",
-          "type": "Presidential Document",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11314/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11266",
-          "publication_date": "2026-06-04",
-          "title": "Prestressed Concrete Steel Wire Strand From Brazil, India, Japan, Mexico, the Republic of Korea, and Thailand: Continuation of Antidumping Duty and Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11266/prestressed-concrete-steel-wire-strand-from-brazil-india-japan-mexico-the-republic-of-korea-and",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11265",
-          "publication_date": "2026-06-04",
-          "title": "Certain Oil Country Tubular Goods From Austria: Postponement of Preliminary Determination in the Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11265/certain-oil-country-tubular-goods-from-austria-postponement-of-preliminary-determination-in-the",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11264",
-          "publication_date": "2026-06-04",
-          "title": "Large Diameter Welded Pipe From the Republic of T\u00fcrkiye: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11264/large-diameter-welded-pipe-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11263",
-          "publication_date": "2026-06-04",
-          "title": "Certain Freight Rail Couplers and Parts Thereof From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/04/2026-11263/certain-freight-rail-couplers-and-parts-thereof-from-mexico-final-results-of-antidumping-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,14 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 68902435 - Final Reminder: Register for U.S. Customs and Border Protection\u2019s June Trade Enforcement Webinars",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41b5e23",
+          "pub_date": "Wed, 17 Jun 2026 09:20:14 -0400",
+          "guid": "68902435",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68902435 - Final Reminder: Register for U.S. Customs and Border Protection\u2019s June Trade Enforcement Webinars This is a final reminder to register for U.S. Customs and Border Protect ion \u2019s (CBP) free quarterly trade enforcement webinars scheduled for June 23 and 25 . These e ssential sessions are designed to empower the public with the knowledge to effectively report suspected trade violations and file Enforce and Protect Act (EAPA) allegations with CBP. June Webinar Dates Please click on the direct links below to register for individual webinars: Trade Violations Reporting (TVR) Webinar - Tuesday, June 23, 2026, at 1:30 p.m. E T Enforce and Protect Act"
+        },
         {
           "title": "CSMS # 68966469 - ACE Portal: New Tools and Automation for Account Management",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41c5845",
@@ -1062,14 +1070,6 @@
           "guid": "68396594",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68396594 - AVAILABLE NOW \u2013 Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds U.S. Customs and Border Protection (CBP) has activate d the first phase of the Consolidated Administration and Processing of Entries (CAPE) tool in the Automated Commercial Environment Secure Data Portal (ACE Portal) . Importers and authorized customs broker s can now file their CAPE Declarations through their ACE Portal accounts. CAPE is designed to consolidate refunds of IEEPA duties including interest rather than processing refunds on an entry-by-entry basis. CAPE Phase 1 is limited to certain unliquidated entries and certain entries within 80 da"
-        },
-        {
-          "title": "CSMS # 68370692 - Updated Guidance #2: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4134104",
-          "pub_date": "Thu, 16 Apr 2026 12:19:52 -0400",
-          "guid": "68370692",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68370692 - Updated Guidance #2: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026 U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS #68096516 and CSMS #68180454. This guidance includes an updated list of potentially covered products (attached) as of April 16, 2026. Original CSMS Messages #68096516 and #68180454 listed below. U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS # 68096516 - Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026. This guidance includes an updated list of potentially covered products (attached) as"
         }
       ],
       "errors": []
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "G7 Leaders' Joint Statements, 16-17 June 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1377",
-            "pub_date": "Wed, 17 Jun 2026 06:44:37 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1377",
-            "category": "POLICY_AREA=DEVEL,HREXTRELS,HEALTHPOL,HOMEAFF,MIGR,UKRAINE,MIDDLE,TECH",
-            "description": "European Commission Statement \u00c9vian, 17 Jun 2026 At the 2026 G7 Leaders' Summit held in Evian, France, the leaders of the G7 discussed topics that included international peace and security, public health, migr..."
-          },
-          {
-            "title": "Press Remarks by Commissioner V\u00e1rhelyi following the EPSCO Health Council",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1374",
-            "pub_date": "Tue, 16 Jun 2026 18:07:29 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1374",
-            "category": "POLICY_AREA=HEALTHPOL",
-            "description": "European Commission Speech Luxembourg, 16 Jun 2026 Good afternoon. First, I would like to thank Minister Charalambides and the Cyprus Presidency for all the hard work they have done over the past six months. Thi..."
-          },
-          {
-            "title": "Remarks by Commissioner Serafin at the General Affairs Council in Luxembourg",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1371",
-            "pub_date": "Tue, 16 Jun 2026 15:30:12 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1371",
-            "category": "POLICY_AREA=BUDFINPROG",
-            "description": "European Commission Speech Brussels, 16 Jun 2026 Dear Marilena, dear Presidency, dear Ministers, Let me start by thanking the Presidency for having brought us a step closer to reaching a timely agreement on th..."
-          },
-          {
-            "title": "Commission will engage with industry following European Citizens' Initiative on the disabling of videogames by publishers",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1369",
-            "pub_date": "Tue, 16 Jun 2026 09:40:31 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1369",
-            "category": "POLICY_AREA=CONSUMPOL,DIGAG",
-            "description": "European Commission Press release Brussels, 16 Jun 2026 The European Commission will engage with consumers and publishers by the end of 2026 to explore ways to improve industry standards, as a response to the European Citizens' Initiative (ECI) \u2018Stop Destroying Videogames'."
-          },
-          {
-            "title": "Daily News 16 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1368",
-            "pub_date": "Tue, 16 Jun 2026 09:03:51 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1368",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 16 Jun 2026 Commission welcomes political agreement on seeds and other plant reproductive materials The European Commission welcomes the political agreement reached yesterd..."
-          },
-          {
-            "title": "Commission strengthens migration management along the Channel route",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1367",
-            "pub_date": "Tue, 16 Jun 2026 08:41:52 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1367",
-            "category": "POLICY_AREA=HOMEAFF,MIGR",
-            "description": "European Commission Press release Brussels, 16 Jun 2026 Today, the Commission is presenting an EU action plan for the Channel migratory route, setting out a comprehensive European response to the challenges posed by illegal migration along this route."
-          },
-          {
-            "title": "Final meeting of the Special Panel on child safety online as Eurobarometer confirms link between social media use and wellbeing",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1361",
-            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1361",
-            "category": "POLICY_AREA=DIGAG",
-            "description": "European Commission Press release Brussels, 16 Jun 2026 Today, the Special Panel on child safety online met for the third and final time. On 13 July, the Panel's Co-chairs will present recommendations to President Ursula von der Leyen on how to further strengthen the EU's trailblazing framework for the protection of minors online."
-          },
-          {
-            "title": "Europe's bathing waters remain safe to swim",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1352",
-            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1352",
-            "category": "POLICY_AREA=ENVIRO",
-            "description": "European Commission Press release Brussels, 16 Jun 2026 From the Atlantic to the Mediterranean, the vast majority of bathing waters in Europe met the European Union's most stringent \u2018excellent' bathing quality standards in 2025, according to the latest annual Bathing Water report published today."
-          },
-          {
-            "title": "Navigating crises and delivering results with the EU Budget in 2025",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1342",
-            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1342",
-            "category": "POLICY_AREA=BUDFINPROG",
-            "description": "European Commission Press release Brussels, 16 Jun 2026 Today, the College of Commissioners adopted the Annual Management and Performance Report for 2025 (AMPR)."
-          },
-          {
-            "title": "Commission welcomes political agreement on seeds and other plant reproductive materials",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1364",
-            "pub_date": "Mon, 15 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1364",
-            "category": "POLICY_AREA=HEALTHPOL,FOODSAF",
-            "description": "European Commission Press release Brussels, 16 Jun 2026 The European Commission welcomes the political agreement reached by the Council of the EU and the European Parliament on the revision and simplification of EU rules for plant reproductive material."
+            "title": "D\u00e9claration du Commissaire Serafin lors de la c\u00e9r\u00e9monie de signature de l'accord SAFE \u00e0 Paris",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1382",
+            "pub_date": "Wed, 17 Jun 2026 14:57:26 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1382",
+            "category": "POLICY_AREA=BUDFINPROG,DEFENCE",
+            "description": "European Commission Discours Paris, 17 Jun 2026 Madame la Ministre, Monsieur le Ministre, Monsieur le Commissaire, Mesdames et Messieurs, Nous sommes ici pour franchir une \u00e9tape importante dans la constructio..."
           }
         ],
         "errors": []
@@ -1166,6 +1094,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "The countdown begins: UK-India FTA enters into force on July 15th",
+            "link": "https://www.gov.uk/government/news/the-countdown-begins-uk-india-fta-enters-into-force-on-july-15th",
+            "updated": "2026-06-17T15:20:03+01:00",
+            "summary": "Businesses to start preparations for historic UK-India <mark>trade</mark> deal worth \u00a34.8bn to enter into force next month."
+          },
           {
             "title": "UK to set end date for imports of Russian diesel and jet fuel via third countries",
             "link": "https://www.gov.uk/government/news/uk-to-set-end-date-for-imports-of-russian-diesel-and-jet-fuel-via-third-countries",
