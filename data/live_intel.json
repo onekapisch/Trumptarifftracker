@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:13:23+00:00",
+  "generated_at": "2026-06-19T08:19:45+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,14 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 68987884 - CORRECTION: Reauthorization of Preferential Trade Legislative (PTL) Programs - African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP)",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41cabec",
+          "pub_date": "Thu, 18 Jun 2026 12:51:39 -0400",
+          "guid": "68987884",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 68987884 - CORRECTION: Reauthorization of Preferential Trade Legislative (PTL) Programs - African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP) This message replaces CSMS 67647279 published on February 6, 2026. This updated guidance provides importer instructions for requesting AGOA and Haiti HOPE/HELP retroactive duty refunds. --- 2026 Reauthorization On February 3, 2026, the President signed H.R.7148 (\u201cthe Act\u201d), extending duty-free treatment through December 31, 2026 , for imports from eligible African Growth and Opportunity Act (AGOA) beneficiary "
+        },
+        {
           "title": "CSMS # 68902435 - Final Reminder: Register for U.S. Customs and Border Protection\u2019s June Trade Enforcement Webinars",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41b5e23",
           "pub_date": "Wed, 17 Jun 2026 09:20:14 -0400",
@@ -1062,14 +1070,6 @@
           "guid": "68397097",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68397097 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov U.S. Customs and Border Protection (CBP) has published an updated ACE Entry Summary Error Dictionary. The updated version includes a new validation error that occurs when a filer attempts to file a post-summary correction (PSC) for an entry for which a Consolidated Administration and Processing of Entries (CAPE) declaration has been submitted. Below are additional details about the new error: Condition Code : 864 Narrative Text : PSC NOT ALLOWED \u2013 REFUND REQUESTED Explanation : PSC is not allowed due to a CAPE Refund in process The updated error dictionary is available in the"
-        },
-        {
-          "title": "CSMS # 68396594 - AVAILABLE NOW \u2013 Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413a632",
-          "pub_date": "Mon, 20 Apr 2026 07:18:51 -0400",
-          "guid": "68396594",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68396594 - AVAILABLE NOW \u2013 Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds U.S. Customs and Border Protection (CBP) has activate d the first phase of the Consolidated Administration and Processing of Entries (CAPE) tool in the Automated Commercial Environment Secure Data Portal (ACE Portal) . Importers and authorized customs broker s can now file their CAPE Declarations through their ACE Portal accounts. CAPE is designed to consolidate refunds of IEEPA duties including interest rather than processing refunds on an entry-by-entry basis. CAPE Phase 1 is limited to certain unliquidated entries and certain entries within 80 da"
         }
       ],
       "errors": []
@@ -1097,7 +1097,7 @@
           {
             "title": "The countdown begins: UK-India FTA enters into force on July 15th",
             "link": "https://www.gov.uk/government/news/the-countdown-begins-uk-india-fta-enters-into-force-on-july-15th",
-            "updated": "2026-06-17T15:20:03+01:00",
+            "updated": "2026-06-17T15:20:00+01:00",
             "summary": "Businesses to start preparations for historic UK-India <mark>trade</mark> deal worth \u00a34.8bn to enter into force next month."
           },
           {
