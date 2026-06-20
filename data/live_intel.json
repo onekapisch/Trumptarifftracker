@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T08:19:45+00:00",
+  "generated_at": "2026-06-20T07:45:20+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,96 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-12508",
+          "publication_date": "2026-06-22",
+          "title": "Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Super Micro Computer, Inc.; (High-Performance Computing Systems); San Jose, Fremont, and Milpitas, California",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12508/foreign-trade-zone-ftz-18-notification-of-proposed-production-activity-super-micro-computer-inc",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12506",
+          "publication_date": "2026-06-22",
+          "title": "1,1,1,2- Tetrafluoroethane (R-134a) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12506/1112--tetrafluoroethane-r-134a-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12503",
+          "publication_date": "2026-06-22",
+          "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12503/agency-information-collection-activities-proposed-collection-comment-request-extension",
+          "raw_text_url": null,
+          "term_hit": "de minimis"
+        },
+        {
+          "document_number": "2026-12501",
+          "publication_date": "2026-06-22",
+          "title": "Foreign-Trade Zone (FTZ) 193; Authorization of Production Activity; Lithionics Battery, LLC; (Lithium-Ion Battery Systems and Accessories); Clearwater, Florida",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12501/foreign-trade-zone-ftz-193-authorization-of-production-activity-lithionics-battery-llc-lithium-ion",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12500",
+          "publication_date": "2026-06-22",
+          "title": "Prestressed Concrete Steel Wire Strand From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12500/prestressed-concrete-steel-wire-strand-from-spain-preliminary-results-of-antidumping-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12486",
+          "publication_date": "2026-06-22",
+          "title": "Certain Activated Carbon From the People's Republic of China: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024; Correction",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12486/certain-activated-carbon-from-the-peoples-republic-of-china-amended-final-results-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12448",
+          "publication_date": "2026-06-22",
+          "title": "Rescinding the Requirement for Electronic Logging Device Operator's Manual Located in Commercial Motor Vehicles",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12448/rescinding-the-requirement-for-electronic-logging-device-operators-manual-located-in-commercial",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12373",
+          "publication_date": "2026-06-22",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12373/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12369",
+          "publication_date": "2026-06-22",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12369/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12345",
+          "publication_date": "2026-06-22",
+          "title": "Carbazole Violet Pigment 23 From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12345/carbazole-violet-pigment-23-from-india-final-results-of-antidumping-duty-administrative-review",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-12343",
           "publication_date": "2026-06-18",
@@ -493,24 +583,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-11595",
-          "publication_date": "2026-06-10",
-          "title": "Strengthening Customs Enforcement",
-          "type": "Presidential Document",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11595/strengthening-customs-enforcement",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-11591",
-          "publication_date": "2026-06-10",
-          "title": "Certain New Chemicals; Receipt and Status Information for November 2025, January 2026, and February 2026",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11591/certain-new-chemicals-receipt-and-status-information-for-november-2025-january-2026-and-february",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-11573",
           "publication_date": "2026-06-10",
           "title": "Certain Smart Devices; Notice of Institution of Investigation",
@@ -553,7 +625,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11547/foreign-trade-zone-ftz-218-notification-of-proposed-production-activity-oculus-surgical-inc",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11546",
@@ -562,16 +634,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11546/foreign-trade-zone-ftz-52-notification-of-proposed-production-activity-photonics-industries",
           "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
-          "document_number": "2026-11507",
-          "publication_date": "2026-06-09",
-          "title": "Dependent Care and Board Member Expense Reimbursement",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11507/dependent-care-and-board-member-expense-reimbursement",
-          "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-11465",
@@ -678,69 +741,6 @@
           "title": "Van-Type Trailers and Subassemblies Thereof From People's Republic of China: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11350/van-type-trailers-and-subassemblies-thereof-from-peoples-republic-of-china-preliminary-affirmative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11349",
-          "publication_date": "2026-06-05",
-          "title": "Van-Type Trailers and Subassemblies Thereof From Canada: Termination of Countervailing Duty Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11349/van-type-trailers-and-subassemblies-thereof-from-canada-termination-of-countervailing-duty",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11348",
-          "publication_date": "2026-06-05",
-          "title": "Certain Van-Type Trailers and Subassemblies Thereof From Mexico: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11348/certain-van-type-trailers-and-subassemblies-thereof-from-mexico-preliminary-affirmative",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11334",
-          "publication_date": "2026-06-05",
-          "title": "Foreign-Trade Zone (FTZ) 124, Notification of Proposed Production Activity; OneSubsea; (Subsea Oil Equipment); Bayou Vista, Louisiana",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11334/foreign-trade-zone-ftz-124-notification-of-proposed-production-activity-onesubsea-subsea-oil",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11333",
-          "publication_date": "2026-06-05",
-          "title": "Foreign-Trade Zone (FTZ) 153, Notification of Proposed Production Activity; Foxx Development, Inc.; (Smartphones); San Diego, California",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11333/foreign-trade-zone-ftz-153-notification-of-proposed-production-activity-foxx-development-inc",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11332",
-          "publication_date": "2026-06-05",
-          "title": "Foreign-Trade Zone (FTZ) 213, Notification of Proposed Production Activity; Project and Construction Welding, Inc. dba IMS Inc.; (Marine Watertight Sliding Doors); Cape Coral, Florida",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11332/foreign-trade-zone-ftz-213-notification-of-proposed-production-activity-project-and-construction",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11326",
-          "publication_date": "2026-06-05",
-          "title": "Monosodium Glutamate From the Republic of Indonesia and the People's Republic of China: Continuation of Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11326/monosodium-glutamate-from-the-republic-of-indonesia-and-the-peoples-republic-of-china-continuation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11296",
-          "publication_date": "2026-06-05",
-          "title": "Notice of Determinations and Request for Comments Concerning Actions in Section 301 Investigations of Acts, Policies, and Practices of Various Economies Related to the Failure To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/05/2026-11296/notice-of-determinations-and-request-for-comments-concerning-actions-in-section-301-investigations",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "D\u00e9claration du Commissaire Serafin lors de la c\u00e9r\u00e9monie de signature de l'accord SAFE \u00e0 Paris",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1382",
-            "pub_date": "Wed, 17 Jun 2026 14:57:26 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1382",
-            "category": "POLICY_AREA=BUDFINPROG,DEFENCE",
-            "description": "European Commission Discours Paris, 17 Jun 2026 Madame la Ministre, Monsieur le Ministre, Monsieur le Commissaire, Mesdames et Messieurs, Nous sommes ici pour franchir une \u00e9tape importante dans la constructio..."
+            "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of June 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1401",
+            "pub_date": "Fri, 19 Jun 2026 09:58:54 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1401",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission Statement Brussels, 19 Jun 2026 Good afternoon, We have had a productive EUCO so let me jump right in. First, on Ukraine. The tide really is turning. We start with good news, Ant\u00f3nio and I con..."
+          },
+          {
+            "title": "Daily News 19 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1396",
+            "pub_date": "Fri, 19 Jun 2026 09:22:37 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1396",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 19 Jun 2026 Commission greenlights Bulgaria's fourth payment request under NextGenerationEU Today, the European Commission greenlighted Bulgaria's fourth payment request un..."
+          },
+          {
+            "title": "Joint statement by the European Commission and the High Representative ahead of World Refugee Day",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1395",
+            "pub_date": "Fri, 19 Jun 2026 09:21:49 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1395",
+            "category": "POLICY_AREA=ENLNEIG,HREXTRELS,INRELATION",
+            "description": "European Commission Statement Brussels, 19 Jun 2026 On World Refugee Day, we will recognise the strength and resilience of the more than 117 million people displaced globally. Forced from their homes by conflict,..."
+          },
+          {
+            "title": "Commission greenlights Bulgaria's fourth payment request under NextGenerationEU",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1392",
+            "pub_date": "Fri, 19 Jun 2026 08:10:35 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1392",
+            "category": "POLICY_AREA=RECOVERY",
+            "description": "European Commission Press release Brussels, 19 Jun 2026 Today, the European Commission greenlighted Bulgaria's fourth payment request under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU."
+          },
+          {
+            "title": "Doorsteps by President von der Leyen with President Zelenskyy ahead of the EUCO meeting of 18-19 June 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1391",
+            "pub_date": "Thu, 18 Jun 2026 14:25:47 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1391",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission Statement Brussels, 18 Jun 2026 I also want to join those who congratulate Ukraine for opening the first cluster. This is a big step forward. Congratulations, and you deserve it because you ha..."
+          },
+          {
+            "title": "Opening speech by Commissioner Hansen at the DG AGRI and the European Investment Bank (EIB) event 'Boosting generational renewal in EU agriculture \u2013 improving access to finance for young farmers'",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1387",
+            "pub_date": "Thu, 18 Jun 2026 13:41:55 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1387",
+            "category": "POLICY_AREA=AGRURAL",
+            "description": "European Commission Speech Warsaw, 18 Jun 2026 Minister Krajewski, Vice-President Vigliotti, Representatives of the European Investment Bank, Dear young farmers, bankers, policymakers and all ..."
+          },
+          {
+            "title": "President von der Leyen participates in G7 Summit in Evian to address global economic imbalances and ongoing crises",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1386",
+            "pub_date": "Thu, 18 Jun 2026 12:43:37 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1386",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 18 Jun 2026 Ursula von der Leyen, President of the European Commission, was in Evian earlier this week to participate in the G7 leaders' meeting. Leaders had a packed agen..."
+          },
+          {
+            "title": "\u2018Europe for Culture, Culture for Europe': European institutions commit to placing culture at the heart of EU policy",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1385",
+            "pub_date": "Thu, 18 Jun 2026 10:53:58 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1385",
+            "category": "POLICY_AREA=ECMY,CULTMED",
+            "description": "European Commission Press release Brussels, 18 Jun 2026 On the sidelines of the European Council today in Brussels, the President of the European Commission, the President of the Parliament and the President of the Republic of Cyprus, on behalf of the rotating Presidency of the Council of the European Union signed a joint declaration entitled \u2018Europe for Culture, Culture for Europe\u201d. The declaration sets out their shared political commitment to protecting, promoting and supporting culture in Europe."
+          },
+          {
+            "title": "Daily News 18 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1384",
+            "pub_date": "Thu, 18 Jun 2026 09:37:07 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1384",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 18 Jun 2026 Cyprus receives first \u20ac177.2 million payment under SAFE Today, Cyprus received its first payment of \u20ac177.2 million under the Security Action for Europe (SAFE..."
+          },
+          {
+            "title": "A solid start - first progress report on the 'One Europe, one Market' Roadmap",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1383",
+            "pub_date": "Thu, 18 Jun 2026 08:55:15 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1383",
+            "category": "POLICY_AREA=GROWTH,BUSINDUS",
+            "description": "European Commission Press release Brussels, 18 Jun 2026 Following the signature of the Joint Declaration on the EU legislative priorities for 2026 and of the One Europe, One Market Roadmap, the European Parliament, the Council and the Commission have worked closely together to effectively deliver on the identified priorities."
           }
         ],
         "errors": []
@@ -1161,12 +1233,12 @@
           {
             "title": "Canada's response to U.S. tariffs (policy page)",
             "link": "https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-response-us-tariffs.html",
-            "pub_date": "2026-01-15",
+            "pub_date": "2026-06-19",
             "description": "ist of U.S. products subject to counter tariffs as of September 1, 2025 Support for businesses and workers On this page Countermeasures in response to U.S. tariffs Helping Canadian businesses and workers Impacts of unjustified U.S. trade actions Related news from the Prime Minister Support for Canadian strategic industries (September 5, 2025) PM Statement on Canada-U.S. trade ( | nada is removing counter tariffs put in place in March 2025 on most U.S. imports, effective September 1, 2025. Canada's counter tariffs on steel, aluminum and automobiles remain in effect as intensive negotiations with the U.S. continue. This is in recognition that the U.S. maintains tariffs on these sectors, without providing an exemption for CUSMA-compliant goods. Find U.S. p | S. products under each related countermeasure announcement below. Countermeasure announcements September 1, 2025 Canada removed counte"
           }
         ],
         "errors": [],
-        "dcterms_modified": "2026-01-15"
+        "dcterms_modified": "2026-06-19"
       }
     }
   }
