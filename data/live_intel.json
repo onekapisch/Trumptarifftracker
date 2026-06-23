@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T08:32:32+00:00",
+  "generated_at": "2026-06-23T07:44:48+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,30 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 69019627 - Forced Labor Portal Overview Webinar",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41d27eb",
+          "pub_date": "Mon, 22 Jun 2026 11:38:05 -0400",
+          "guid": "69019627",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69019627 - Forced Labor Portal Overview Webinar U.S. Customs and Border Protection\u2019s (CBP) Office of Trade is hosting a webinar on Thursday, July 9, 2026, at 11:00 a.m. ET titled Forced Labor Portal Overview . CBP will conduct an overview to train users on the usage of the new Forced Labor Portal that launched on January 21, 2026. It is now a mandatory requirement to use the Forced Labor Portal for the submission of the following types of review requests: Withhold Release Order/Finding admissibility reviews Withhold Release Order/Finding modifications Uyghur Forced Labor Prevention Act applicability reviews Uyghur Forced Labor Prevention Act exception r"
+        },
+        {
+          "title": "CSMS # 69019529 - Information: Quota Bulletin 26-509 2026 United Kingdom Automobile Quarter 3 Tariff Rate Quota",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41d2789",
+          "pub_date": "Mon, 22 Jun 2026 11:31:21 -0400",
+          "guid": "69019529",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69019529 - Information: Quota Bulletin 26-509 2026 United Kingdom Automobile Quarter 3 Tariff Rate Quota Quota Bulletin 26-509 2026 United Kingdom Automobile Quarter 3 Tariff Rate Quota has been published on our webpage at the following link : Quota Bulletin 26-509 2026 United Kingdom Automobile Quarter 3 Tariff Rate Quota Commodity: Automobiles from the United Kingdom (UK) in the Harmonized Tariff Schedule of the United States (HTSUS), Chapter 87 subheading, specified in Executive Order 14309, \u201cImplementing the General Terms of the United States of America-United Kingdom Economic Prosperity Deal,\u201d 90 FR 26419 (June 23, 2025). Quota Period: July 1, 2026"
+        },
+        {
+          "title": "CSMS # 69019366 - Updated Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41d26e6",
+          "pub_date": "Mon, 22 Jun 2026 11:03:18 -0400",
+          "guid": "69019366",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69019366 - Updated Consumer Product Safety Commission (CPSC) Message Implementation Guide is Now Available An updated version (2.5) of the Consumer Product Safety Commission (CPSC) Message Implementation Guide (IG) is now available and can be found in the Draft Chapters: Future Capabilities section of the CATAIR website: ACE Automated Broker Interface (ABI) CBP and Trade Automated Interface Requirements (CATAIR) This update includes: Updated scenarios under Disclaim A If you have any questions about the CPSC IG or message set, please reach out to the CPSC eFiling Support team at EFilingSupport@cpsc.gov . Related Message Number(s): CSMS # 68290359; CSMS "
+        },
+        {
           "title": "CSMS # 68987884 - CORRECTION: Reauthorization of Preferential Trade Legislative (PTL) Programs - African Growth and Opportunity Act (AGOA), Haiti Hemispheric Opportunity through Partnership Encouragement Act (HOPE), and Haiti Economic Lift Program (HELP)",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41cabec",
           "pub_date": "Thu, 18 Jun 2026 12:51:39 -0400",
@@ -1046,30 +1070,6 @@
           "guid": "68427066",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68427066 - Update to Electronic Export Manifest (EEM) \u2013 Truck Manifest Implementation Guide (IG) 309 Truck Export Customs Manifest, and CUSREP Conveyance Report U.S. Customs and Border Protection has updated the Electronic Export Manifest (EEM) Automated Commercial Environment (ACE) Exports Truck 309 Customs Manifest, and CUSREP Conveyance Report. Updates implemented: 309 Customs Manifest - Updated VID09 in Data Element Summary to \u201cNot Used\u201d CUSREP Conveyance Report - Removed Code 1: Cancellation code in Segment BGM Update language from \u201864\u2019 Verification to \u201864\u2019 Enroute/Departure in Segment LOC Updated Code 22 and Code 23 description in Data Element Sum"
-        },
-        {
-          "title": "CSMS # 68402148 - New ACE Drawback Error Validations Set to Deploy to PROD April 21, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413bbe4",
-          "pub_date": "Tue, 21 Apr 2026 10:00:53 -0400",
-          "guid": "68402148",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68402148 - New ACE Drawback Error Validations Set to Deploy to PROD April 21, 2026 U.S. Customs and Border Protection will deploy two new error messages for Drawback to the Automated Commercial Environment (ACE) Production (PROD) environment on Tuesday, April 21, 2026. These new validations for FD12 and FD13 support proclamations related to Medium- and Heavy-Duty Vehicle Parts (MHDVPs) and Automobile Parts (products of South Korea) applicable to drawback claims Direct Identification Manufacturing Drawback under 19 U.S.C. 1313(a) and Substitution Manufacturing Drawback Claims under 19 U.S.C. 1313(b). The filer will receive the error code FD12 232 CLM NOT"
-        },
-        {
-          "title": "CSMS # 68401616 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413b9d0",
-          "pub_date": "Mon, 20 Apr 2026 10:31:40 -0400",
-          "guid": "68401616",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68401616 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov U.S. Customs and Border Protection (CBP) has published an updated ACE Entry Summary Error Dictionary. The updated version includes a new validation error that occurs when a filer attempts to file a post-summary correction (PSC) for an entry for which a Consolidated Administration and Processing of Entries (CAPE) declaration has been submitted. Below are additional details about the new error: Condition Code : 864 Narrative Text : PSC NOT ALLOWED \u2013 REFUND REQUESTED Explanation : PSC is not allowed due to a CAPE Refund in process The updated error dictionary is available in the"
-        },
-        {
-          "title": "CSMS # 68397097 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/413a829",
-          "pub_date": "Mon, 20 Apr 2026 09:39:35 -0400",
-          "guid": "68397097",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68397097 - Updated ACE Entry Summary Error Dictionary Now Available on CBP.gov U.S. Customs and Border Protection (CBP) has published an updated ACE Entry Summary Error Dictionary. The updated version includes a new validation error that occurs when a filer attempts to file a post-summary correction (PSC) for an entry for which a Consolidated Administration and Processing of Entries (CAPE) declaration has been submitted. Below are additional details about the new error: Condition Code : 864 Narrative Text : PSC NOT ALLOWED \u2013 REFUND REQUESTED Explanation : PSC is not allowed due to a CAPE Refund in process The updated error dictionary is available in the"
         }
       ],
       "errors": []
@@ -1080,84 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Statement by Commissioner Dombrovskis before the European Parliament's joint ECON-EMPL committee on the European Semester Spring Package",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1407",
+            "pub_date": "Mon, 22 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1407",
+            "category": "POLICY_AREA=ECOMONAFF",
+            "description": "European Commission Statement Brussels, 23 Jun 2026 Honourable Co-Chairs, Honourable Members, It is a pleasure to be back here for this economic dialogue. The 2026 Spring Package comes at a time of profound geopo..."
+          },
+          {
+            "title": "Speech by Commissioner Jozef S\u00edkela at the Opening of the Future Affairs Forum",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1416",
+            "pub_date": "Mon, 22 Jun 2026 14:03:04 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1416",
+            "category": "POLICY_AREA=DEVEL",
+            "description": "European Commission Speech Rio de Janeiro, 22 Jun 2026 Distinguished guests, ladies and gentlemen, bom dia. This is my first time in Rio. And let me tell you: This city truly lives up to its reputation: beautiful, v..."
+          },
+          {
+            "title": "Commission welcomes political agreement on criminal law rules to fight child sexual abuse",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1415",
+            "pub_date": "Mon, 22 Jun 2026 14:00:50 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1415",
+            "category": "POLICY_AREA=HOMEAFF,SECU",
+            "description": "European Commission Press release Brussels, 22 Jun 2026 The Commission welcomes today's political agreement with the European Parliament and Council on the Directive updating the criminal law rules on child sexual abuse and sexual exploitation. Worrisome trends like the proliferation of artificial intelligence (AI)-generated abuse material make today's agreement even more timely."
+          },
+          {
+            "title": "Statement by President von der Leyen following the EU-Moldova Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1411",
+            "pub_date": "Mon, 22 Jun 2026 10:01:40 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1411",
+            "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,HREXTRELS,PRESIDENCY",
+            "description": "European Commission Statement Brussels, 22 Jun 2026 Dear Maia, Madam President, Dear Ant\u00f3nio, Only last week, we opened the first negotiation cluster with Moldova. It is a historic milestone on your European jour..."
+          },
+          {
+            "title": "Daily News 22 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1410",
+            "pub_date": "Mon, 22 Jun 2026 09:53:33 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1410",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 22 Jun 2026 Commission makes \u20ac1.1 billion available to improve Europe's transport infrastructure The European Commission has launched a call for proposals worth \u20ac1.1 billio..."
+          },
+          {
+            "title": "EU allocates over \u20ac56 million in emergency support to farmers in Portugal, Romania, Cyprus, Croatia, and Slovenia",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1405",
+            "pub_date": "Mon, 22 Jun 2026 08:42:27 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1405",
+            "category": "POLICY_AREA=AGRURAL",
+            "description": "European Commission Press release Brussels, 22 Jun 2026 Today, Member States endorsed the European Commission's proposal to mobilise over \u20ac56 million from the agricultural reserve. Farmers from Portugal will receive \u20ac30 million, Romania \u20ac14.8 million, Cyprus \u20ac4.6 million, Croatia \u20ac4.4 million, and Slovenia \u20ac2.8 million."
+          },
+          {
+            "title": "EU-Moldova Summit in Brussels marks a new milestone on path to EU membership",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1406",
+            "pub_date": "Mon, 22 Jun 2026 08:42:04 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1406",
+            "category": "POLICY_AREA=ENLNEIG,HREXTRELS",
+            "description": "European Commission Press release Brussels, 23 Jun 2026 Today, the second EU-Moldova Summit marked another step forward in EU\u2013Republic of Moldova relations and underscored the country's remarkable progress on its EU path. President of the European Commission Ursula von der Leyen, President of the European Council Ant\u00f3nio Costa and President of Moldova Maia Sandu gathered in Brussels one week after the landmark opening of the first cluster in accession negotiations."
+          },
+          {
+            "title": "Remarks by Commissioner Hoekstra at the 10th Ministerial on Climate Action",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1404",
+            "pub_date": "Mon, 22 Jun 2026 08:20:40 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1404",
+            "category": "POLICY_AREA=CLIMACTION,COP",
+            "description": "European Commission Speech Brussels, 22 Jun 2026 Dear colleagues, dear friends, It is a great pleasure to welcome you to Brussels for the 10th session of the Ministerial on Climate Action, alongside my co-conv..."
+          },
+          {
+            "title": "Opening remarks by President von der Leyen at the EU-Moldova Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1403",
+            "pub_date": "Mon, 22 Jun 2026 08:01:29 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1403",
+            "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,HREXTRELS,PRESIDENCY",
+            "description": "European Commission Statement Brussels, 22 Jun 2026 Madam President, dear Maia, A very warm welcome. It is wonderful to have you here for our second EU-Moldova Summit. We have two big topics. One is of course Mol..."
+          },
+          {
             "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of June 2026",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1401",
             "pub_date": "Fri, 19 Jun 2026 09:58:54 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1401",
             "category": "POLICY_AREA=PRESIDENCY",
             "description": "European Commission Statement Brussels, 19 Jun 2026 Good afternoon, We have had a productive EUCO so let me jump right in. First, on Ukraine. The tide really is turning. We start with good news, Ant\u00f3nio and I con..."
-          },
-          {
-            "title": "Daily News 19 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1396",
-            "pub_date": "Fri, 19 Jun 2026 09:22:37 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1396",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 19 Jun 2026 Commission greenlights Bulgaria's fourth payment request under NextGenerationEU Today, the European Commission greenlighted Bulgaria's fourth payment request un..."
-          },
-          {
-            "title": "Joint statement by the European Commission and the High Representative ahead of World Refugee Day",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1395",
-            "pub_date": "Fri, 19 Jun 2026 09:21:49 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1395",
-            "category": "POLICY_AREA=ENLNEIG,HREXTRELS,INRELATION",
-            "description": "European Commission Statement Brussels, 19 Jun 2026 On World Refugee Day, we will recognise the strength and resilience of the more than 117 million people displaced globally. Forced from their homes by conflict,..."
-          },
-          {
-            "title": "Commission greenlights Bulgaria's fourth payment request under NextGenerationEU",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1392",
-            "pub_date": "Fri, 19 Jun 2026 08:10:35 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1392",
-            "category": "POLICY_AREA=RECOVERY",
-            "description": "European Commission Press release Brussels, 19 Jun 2026 Today, the European Commission greenlighted Bulgaria's fourth payment request under the Recovery and Resilience Facility (RRF), the centrepiece of NextGenerationEU."
-          },
-          {
-            "title": "Doorsteps by President von der Leyen with President Zelenskyy ahead of the EUCO meeting of 18-19 June 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1391",
-            "pub_date": "Thu, 18 Jun 2026 14:25:47 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1391",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission Statement Brussels, 18 Jun 2026 I also want to join those who congratulate Ukraine for opening the first cluster. This is a big step forward. Congratulations, and you deserve it because you ha..."
-          },
-          {
-            "title": "Opening speech by Commissioner Hansen at the DG AGRI and the European Investment Bank (EIB) event 'Boosting generational renewal in EU agriculture \u2013 improving access to finance for young farmers'",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1387",
-            "pub_date": "Thu, 18 Jun 2026 13:41:55 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1387",
-            "category": "POLICY_AREA=AGRURAL",
-            "description": "European Commission Speech Warsaw, 18 Jun 2026 Minister Krajewski, Vice-President Vigliotti, Representatives of the European Investment Bank, Dear young farmers, bankers, policymakers and all ..."
-          },
-          {
-            "title": "President von der Leyen participates in G7 Summit in Evian to address global economic imbalances and ongoing crises",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1386",
-            "pub_date": "Thu, 18 Jun 2026 12:43:37 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1386",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission News Brussels, 18 Jun 2026 Ursula von der Leyen, President of the European Commission, was in Evian earlier this week to participate in the G7 leaders' meeting. Leaders had a packed agen..."
-          },
-          {
-            "title": "\u2018Europe for Culture, Culture for Europe': European institutions commit to placing culture at the heart of EU policy",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1385",
-            "pub_date": "Thu, 18 Jun 2026 10:53:58 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1385",
-            "category": "POLICY_AREA=ECMY,CULTMED",
-            "description": "European Commission Press release Brussels, 18 Jun 2026 On the sidelines of the European Council today in Brussels, the President of the European Commission, the President of the Parliament and the President of the Republic of Cyprus, on behalf of the rotating Presidency of the Council of the European Union signed a joint declaration entitled \u2018Europe for Culture, Culture for Europe\u201d. The declaration sets out their shared political commitment to protecting, promoting and supporting culture in Europe."
-          },
-          {
-            "title": "Daily News 18 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1384",
-            "pub_date": "Thu, 18 Jun 2026 09:37:07 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1384",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 18 Jun 2026 Cyprus receives first \u20ac177.2 million payment under SAFE Today, Cyprus received its first payment of \u20ac177.2 million under the Security Action for Europe (SAFE..."
-          },
-          {
-            "title": "A solid start - first progress report on the 'One Europe, one Market' Roadmap",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1383",
-            "pub_date": "Thu, 18 Jun 2026 08:55:15 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1383",
-            "category": "POLICY_AREA=GROWTH,BUSINDUS",
-            "description": "European Commission Press release Brussels, 18 Jun 2026 Following the signature of the Joint Declaration on the EU legislative priorities for 2026 and of the One Europe, One Market Roadmap, the European Parliament, the Council and the Commission have worked closely together to effectively deliver on the identified priorities."
           }
         ],
         "errors": []
@@ -1166,6 +1166,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "UK and Malaysia launch negotiations on Digital Trade Agreement",
+            "link": "https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement",
+            "updated": "2026-06-22T11:18:11+01:00",
+            "summary": "The ambitious new agreement will remove barriers to digital <mark>trade</mark> and enable UK exporters to expand into high-tech markets."
+          },
           {
             "title": "The countdown begins: UK-India FTA enters into force on July 15th",
             "link": "https://www.gov.uk/government/news/the-countdown-begins-uk-india-fta-enters-into-force-on-july-15th",
