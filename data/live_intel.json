@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:43:37+00:00",
+  "generated_at": "2026-06-25T07:43:52+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,114 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-12750",
+          "publication_date": "2026-06-24",
+          "title": "Enterprise Duty To Serve Underserved Markets",
+          "type": "Proposed Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12750/enterprise-duty-to-serve-underserved-markets",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12722",
+          "publication_date": "2026-06-24",
+          "title": "Certain Vehicle Parts and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting an Unopposed Motion To Amend the Complaint and Notice of Investigation",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12722/certain-vehicle-parts-and-components-thereof-notice-of-a-commission-determination-not-to-review-an",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12717",
+          "publication_date": "2026-06-24",
+          "title": "Conditions for Additional Information and Fee in Petitions Filed in Patent Applications and Patents Based on Unintentional Delay",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12717/conditions-for-additional-information-and-fee-in-petitions-filed-in-patent-applications-and-patents",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12714",
+          "publication_date": "2026-06-24",
+          "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From the People's Republic of China: Preliminary Results, Intent To Rescind, in Part, and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12714/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-the-peoples",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12710",
+          "publication_date": "2026-06-24",
+          "title": "Agency Information Collection Activities: Submission for OMB Review; Renewal of Generic Clearance; Comment Request",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12710/agency-information-collection-activities-submission-for-omb-review-renewal-of-generic-clearance",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12699",
+          "publication_date": "2026-06-24",
+          "title": "Acetone From the Republic of Korea: Rescission of Antidumping Duty Administrative Review; 2025-2026",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12699/acetone-from-the-republic-of-korea-rescission-of-antidumping-duty-administrative-review-2025-2026",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12694",
+          "publication_date": "2026-06-24",
+          "title": "Certain Carbon and Alloy Steel Cut-To-Length Plate from Belgium: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12694/certain-carbon-and-alloy-steel-cut-to-length-plate-from-belgium-amended-final-results-of-antidumping",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12672",
+          "publication_date": "2026-06-24",
+          "title": "Hours of Service of Drivers: Association of American Railroads and American Short Line and Regional Railroad Association; Application for Exemption Renewal",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12672/hours-of-service-of-drivers-association-of-american-railroads-and-american-short-line-and-regional",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12671",
+          "publication_date": "2026-06-24",
+          "title": "Initiation of Section 301 Investigation; Hearing; and Request for Public Comments: Germany's Persistent Underpayment for Innovative Pharmaceutical Products",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12671/initiation-of-section-301-investigation-hearing-and-request-for-public-comments-germanys-persistent",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12670",
+          "publication_date": "2026-06-24",
+          "title": "Indefinite Suspension of the De Minimis Exemption for Merchandise Arriving Through All Modes Other Than the International Postal Network",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12670/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12669",
+          "publication_date": "2026-06-24",
+          "title": "Indefinite Suspension of the De Minimis Exemption for Mail Shipments and New Postal Informal Entry Process",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12668",
+          "publication_date": "2026-06-24",
+          "title": "Test of the New Electronic Informal Entry Process for Mail",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12668/test-of-the-new-electronic-informal-entry-process-for-mail",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-12611",
           "publication_date": "2026-06-23",
@@ -517,7 +625,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11866/raw-honey-from-the-socialist-republic-of-vietnam-final-results-of-antidumping-duty-administrative",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "de minimis"
         },
         {
           "document_number": "2026-11865",
@@ -633,114 +741,6 @@
           "title": "Certain Glass Substrate for Liquid Crystal Displays, Products Containing the Same, and Methods for Manufacturing II; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on Remedy, the Public Interest, and Bonding",
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11686/certain-glass-substrate-for-liquid-crystal-displays-products-containing-the-same-and-methods-for",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11631",
-          "publication_date": "2026-06-10",
-          "title": "Foreign-Trade Zone (FTZ) 26, Notification of Proposed Production Activity; Viasat, Inc.; (Satellite Communications Technology); Lawrenceville, Duluth, and Pendergrass, Georgia",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11631/foreign-trade-zone-ftz-26-notification-of-proposed-production-activity-viasat-inc-satellite",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11630",
-          "publication_date": "2026-06-10",
-          "title": "Certain Pre-Stretched Synthetic Braiding Hair and Packaging Therefor; Notice of Commission Determination Not To Review an Initial Determination Granting Unopposed Motion To Amend the Complaint and Notice of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11630/certain-pre-stretched-synthetic-braiding-hair-and-packaging-therefor-notice-of-commission",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11622",
-          "publication_date": "2026-06-10",
-          "title": "Corrosion Inhibitors From China; Scheduling of Expedited Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11622/corrosion-inhibitors-from-china-scheduling-of-expedited-five-year-reviews",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11617",
-          "publication_date": "2026-06-10",
-          "title": "High Purity Dissolving Pulp From Brazil and Norway; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11617/high-purity-dissolving-pulp-from-brazil-and-norway-scheduling-of-the-final-phase-of-countervailing",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11573",
-          "publication_date": "2026-06-10",
-          "title": "Certain Smart Devices; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11573/certain-smart-devices-notice-of-institution-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11565",
-          "publication_date": "2026-06-10",
-          "title": "Notice of Revocation of Customs Brokers' Licenses",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11565/notice-of-revocation-of-customs-brokers-licenses",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11550",
-          "publication_date": "2026-06-10",
-          "title": "Certain Oil Vaporizing Devices, Components Thereof, and Products Containing the Same; Notice of Institution of Formal Enforcement Proceeding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/10/2026-11550/certain-oil-vaporizing-devices-components-thereof-and-products-containing-the-same-notice-of",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11549",
-          "publication_date": "2026-06-09",
-          "title": "Acetone From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11549/acetone-from-the-republic-of-korea-final-results-of-antidumping-duty-administrative-review-2024-2025",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11547",
-          "publication_date": "2026-06-09",
-          "title": "Foreign-Trade Zone (FTZ) 218, Notification of Proposed Production Activity; OCULUS Surgical, Inc.; (Ophthalmic Diagnostic Equipment); Port St. Lucie, Florida",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11547/foreign-trade-zone-ftz-218-notification-of-proposed-production-activity-oculus-surgical-inc",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11546",
-          "publication_date": "2026-06-09",
-          "title": "Foreign-Trade Zone (FTZ) 52, Notification of Proposed Production Activity; Photonics Industries International, Inc.; (Laser Systems); Ronkonkoma, New York",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11546/foreign-trade-zone-ftz-52-notification-of-proposed-production-activity-photonics-industries",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11465",
-          "publication_date": "2026-06-08",
-          "title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11459",
-          "publication_date": "2026-06-08",
-          "title": "Certain Pickleball Paddles; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/08/2026-11459/certain-pickleball-paddles-notice-of-institution-of-investigation",
           "raw_text_url": null,
           "term_hit": "tariff"
         }
@@ -1080,84 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Commission pays \u20ac846 million to Spain to support recovery following the 2024 Valencia region floods",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1445",
-            "pub_date": "Wed, 24 Jun 2026 06:03:19 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1445",
-            "category": "POLICY_AREA=RECOVERY",
-            "description": "European Commission Press release Brussels, 24 Jun 2026 The European Commission has approved the payment of \u20ac846 million to Spain from the EU Solidarity Fund (EUSF) to support the reconstruction efforts after the devastating floods that struck the Valencia Region in October 2024."
-          },
-          {
-            "title": "Commission welcomes political agreement to protect workers from cancer-causing chemicals",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1443",
-            "pub_date": "Tue, 23 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1443",
-            "category": "POLICY_AREA=ESAI",
-            "description": "European Commission Press release Brussels, 24 Jun 2026 The European Commission welcomes the provisional agreement reached by the European Parliament and the Council on the sixth revision of the Carcinogens, Mutagens and Reprotoxic substances Directive (CMRD)."
-          },
-          {
-            "title": "Speech by Commissioner Jozef S\u00edkela at the 2nd EU-Brazil Investment Forum",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1442",
-            "pub_date": "Tue, 23 Jun 2026 13:50:28 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1442",
-            "category": "POLICY_AREA=DEVEL",
-            "description": "European Commission Speech Brasilia, 23 Jun 2026 Minister Dweck, Minister Rosa, Distinguished Guests, Ladies and Gentlemen. Bom Dia! This is my first time visiting Brazil\u2026 Over the past few days, I've travelle..."
-          },
-          {
-            "title": "Joint press statement: Strengthening the Strategic Partnership between the European Union and Kazakhstan",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1436",
-            "pub_date": "Tue, 23 Jun 2026 12:19:40 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1436",
-            "category": "POLICY_AREA=DEVEL,HOMEAFF,PRESIDENCY,TRANSPORT,BUSINDUS",
-            "description": "European Commission Statement Brussels, 23 Jun 2026 H.E. Mr. Kassym-Jomart Tokayev, President of the Republic of Kazakhstan, paid an official visit to Brussels on 23 June 2026 and met with H.E. Mr. Ant\u00f3nio Costa,..."
-          },
-          {
-            "title": "EU and Kazakhstan strengthen strategic partnership during leaders' meeting in Brussels",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1435",
-            "pub_date": "Tue, 23 Jun 2026 12:11:12 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1435",
-            "category": "POLICY_AREA=DEVEL,HOMEAFF,PRESIDENCY,TRANSPORT,BUSINDUS",
-            "description": "European Commission Press release Brussels, 23 Jun 2026 The President of the European Commission, Ursula von der Leyen, and the President of the European Council, Ant\u00f3nio Costa, welcomed today Kassym-Jomart Tokayev, President of Kazakhstan, in Brussels. During the visit, the EU and Kazakhstan signed a joint press statement, as well as several agreements that will deliver for citizens and business on both sides."
-          },
-          {
-            "title": "President von der Leyen and EU leaders chart course on Ukraine, security and competitiveness at European Council summit",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1434",
-            "pub_date": "Tue, 23 Jun 2026 11:05:17 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1434",
-            "category": "POLICY_AREA=PRESIDENCY",
-            "description": "European Commission News Brussels, 23 Jun 2026 President of the European Commission, Ursula von der Leyen, joined EU heads of state at the European Council in Brussels on 18\u201319 June at a moment when the Uni..."
-          },
-          {
-            "title": "Speech by Commissioner Albuquerque (by video message) for the BaFin - Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht second annual financial market conference",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1432",
-            "pub_date": "Tue, 23 Jun 2026 10:26:03 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1432",
-            "category": "POLICY_AREA=FINSTAB",
-            "description": "European Commission Speech Online, 23 Jun 2026 Good morning to all of you in Frankfurt, and many thanks for the opportunity to contribute to this year's BaFin Capital Markets Conference. Unfortunately, my sc..."
-          },
-          {
-            "title": "Daily News 23 / 06 / 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1431",
-            "pub_date": "Tue, 23 Jun 2026 09:37:27 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1431",
-            "category": "POLICY_AREA=GENINFO",
-            "description": "European Commission Daily news Brussels, 23 Jun 2026 Commission disburses \u20ac2.25 billion to Romania under NextGenerationEU Today, the European Commission disbursed \u20ac2.25 billion in grants to Romania, marking the f..."
-          },
-          {
-            "title": "EU launches Connectivity Agenda Platform to strengthen links between Europe and Central Asia through the Black Sea region and the South Caucasus",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1430",
-            "pub_date": "Tue, 23 Jun 2026 09:30:27 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1430",
-            "category": "POLICY_AREA=ENLNEIG",
-            "description": "European Commission Press release Brussels, 23 Jun 2026 Today, the European Commission launched the Connectivity Agenda Platform and concluded agreements with international financial institutions expected to mobilise up to \u20ac2 billion for strategic connectivity investments in the Black Sea region and the South Caucasus."
-          },
-          {
-            "title": "Speaking notes by Commissioner Kubilius at the Brussels Dialogue",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1428",
-            "pub_date": "Tue, 23 Jun 2026 09:15:05 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1428",
-            "category": "POLICY_AREA=DEFENCE",
-            "description": "European Commission Speech Brussels, 23 Jun 2026 Russia: tragedy as an opportunity. 10 points Thanks to organizers of Second edition of Brussels Dialogue. I Remember very well how we were organizing the firs..."
+            "title": "Press remarks by Commissioner Dombrovskis and Commissioner Hoekstra on omnibus proposals on taxation and on energy product legislation",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1449",
+            "pub_date": "Wed, 24 Jun 2026 10:18:14 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1449",
+            "category": "POLICY_AREA=ENERGY,TAXCUAA",
+            "description": "European Commission Speech Brussels, 24 Jun 2026 Commissioner Dombrovskis Today, we are presenting our latest Omnibus simplification proposals in two important areas. The first \u2013 on taxation \u2013 cuts red tape fo..."
           }
         ],
         "errors": []
@@ -1207,12 +1135,6 @@
             "link": "https://www.gov.uk/government/news/costa-rica-to-join-uk-as-member-of-13-trillion-global-trade-bloc",
             "updated": "2026-05-07T13:33:00+01:00",
             "summary": "Costa Rica to join UK as member of \u00a313 trillion in GDP global <mark>trade</mark> bloc\u2026"
-          },
-          {
-            "title": "All eyes on LA ahead of largest ever UK trade mission to the US",
-            "link": "https://www.gov.uk/government/news/all-eyes-on-la-ahead-of-largest-ever-uk-trade-mission-to-the-us",
-            "updated": "2026-05-02T11:23:00+01:00",
-            "summary": "Hundreds of UK business leaders will travel to the US later this month as part of the largest ever UK <mark>trade</mark> mission to the country, building on the success of the State Visit of Their Majesties the King and Queen."
           }
         ],
         "errors": []
