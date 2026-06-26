@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T07:43:52+00:00",
+  "generated_at": "2026-06-26T07:45:01+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,105 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-12850",
+          "publication_date": "2026-06-25",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12850/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12848",
+          "publication_date": "2026-06-25",
+          "title": "Commission Information Collection Activities (FERC-516); Comment Request; Merger; Extension",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12848/commission-information-collection-activities-ferc-516-comment-request-merger-extension",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12832",
+          "publication_date": "2026-06-25",
+          "title": "Certain New Pneumatic Off-The-Road Tires from India: Preliminary Results of Countervailing Duty Administrative Review; 2024",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12832/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12831",
+          "publication_date": "2026-06-25",
+          "title": "Certain Topcon Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same; Notice of a Commission Determination Not To Review an Initial Determination Amending the Complaint and Notice of Investigation To Correct the Name of Respondent JA Solar AZ, LLC to American Panel Solutions LLC",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12831/certain-topcon-solar-cells-modules-panels-components-thereof-and-products-containing-same-notice-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12824",
+          "publication_date": "2026-06-25",
+          "title": "Carbazole Violet Pigment 23 From India: Preliminary Results, Intent To Rescind, and Rescission, in Part of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12824/carbazole-violet-pigment-23-from-india-preliminary-results-intent-to-rescind-and-rescission-in-part",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12810",
+          "publication_date": "2026-06-25",
+          "title": "Mattresses From Poland: Rescission of Circumvention Inquiry on the Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12810/mattresses-from-poland-rescission-of-circumvention-inquiry-on-the-antidumping-duty-order",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12792",
+          "publication_date": "2026-06-25",
+          "title": "Improving and Eliminating Regulations; Diesel Particulate Matter Emission Limits in Underground Coal Mines",
+          "type": "Rule",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12792/improving-and-eliminating-regulations-diesel-particulate-matter-emission-limits-in-underground-coal",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12774",
+          "publication_date": "2026-06-25",
+          "title": "Foreign-Trade Zone (FTZ) 83, Notification of Proposed Production Activity; BASF Mobile Emissions Catalysts LLC; (Mobile Emissions Catalyst Products); Huntsville, Alabama",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12774/foreign-trade-zone-ftz-83-notification-of-proposed-production-activity-basf-mobile-emissions",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-12771",
+          "publication_date": "2026-06-25",
+          "title": "Methylene Diphenyl Diisocyanate From the People's Republic of China: Amended Final Determination of Sales at Less Than Fair Value and Antidumping Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12771/methylene-diphenyl-diisocyanate-from-the-peoples-republic-of-china-amended-final-determination-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12768",
+          "publication_date": "2026-06-25",
+          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12768/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-12762",
+          "publication_date": "2026-06-25",
+          "title": "Utility Scale Wind Towers from Canada: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Investigation; Notice of Amended Final Determination; Notice of Amended Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12762/utility-scale-wind-towers-from-canada-notice-of-court-decision-not-in-harmony-with-the-final",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
         {
           "document_number": "2026-12750",
           "publication_date": "2026-06-24",
@@ -517,7 +616,7 @@
           "type": "Notice",
           "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12073/foreign-trade-zone-ftz-230-notification-of-proposed-production-activity-tn-americas-llc-nuclear-fuel",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-12066",
@@ -526,7 +625,7 @@
           "type": "Rule",
           "html_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12066/assistance-to-foreign-atomic-energy-activities",
           "raw_text_url": null,
-          "term_hit": "duty"
+          "term_hit": "section 232"
         },
         {
           "document_number": "2026-12001",
@@ -536,15 +635,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/15/2026-12001/welded-line-pipe-from-the-republic-of-korea-preliminary-results-and-rescission-in-part-of",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11991",
-          "publication_date": "2026-06-15",
-          "title": "Foreign-Trade Zone (FTZ) 114, Notification of Proposed Production Activity; Rainbow Champaign LLC; (Herbicides); Champaign, Illinois",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/15/2026-11991/foreign-trade-zone-ftz-114-notification-of-proposed-production-activity-rainbow-champaign-llc",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-11937",
@@ -563,15 +653,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/15/2026-11934/certain-nand-and-dram-memory-chips-and-products-containing-the-same-notice-of-institution-of",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11931",
-          "publication_date": "2026-06-15",
-          "title": "Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Energy Recovery Inc.; (Desalination Equipment); San Leandro, California",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/15/2026-11931/foreign-trade-zone-ftz-18-notification-of-proposed-production-activity-energy-recovery-inc",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-11929",
@@ -662,87 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11862/certain-cold-drawn-mechanical-tubing-of-carbon-and-alloy-steel-from-india-final-results-of",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11829",
-          "publication_date": "2026-06-12",
-          "title": "Common Alloy Aluminum Sheet From Bahrain, Brazil, Croatia, Egypt, Germany, India, Indonesia, Italy, Oman, Romania, Serbia, Slovenia, South Africa, Spain, Taiwan, and Turkey; Notice of Commission Determination To Conduct Full Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11829/common-alloy-aluminum-sheet-from-bahrain-brazil-croatia-egypt-germany-india-indonesia-italy-oman",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11796",
-          "publication_date": "2026-06-12",
-          "title": "Certain GPU Computing Systems, Data Processing Unit (DPU) Technologies, and Associated Components Thereof, and Products Containing the Same; Notice of Institution of Investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11796/certain-gpu-computing-systems-data-processing-unit-dpu-technologies-and-associated-components",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11793",
-          "publication_date": "2026-06-12",
-          "title": "Foreign-Trade Zone (FTZ) 26, Notification of Proposed Production Activity; Trinidad Benham Corporation; (Rolls of Aluminum Foil and Aluminum Foil Containers); LaGrange, Georgia",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11793/foreign-trade-zone-ftz-26-notification-of-proposed-production-activity-trinidad-benham-corporation",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11776",
-          "publication_date": "2026-06-11",
-          "title": "Foreign-Trade Zone (FTZ) 207, Notification of Proposed Production Activity; Lutron Electronics Co., Inc.; (Window Shades); Ashland, Virginia",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11776/foreign-trade-zone-ftz-207-notification-of-proposed-production-activity-lutron-electronics-co-inc",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11775",
-          "publication_date": "2026-06-11",
-          "title": "Foreign-Trade Zone (FTZ) 252, Notification of Proposed Production Activity; Fermi Inc.; (Modular Nuclear Power Plant and Natural Gas Power Plant); Panhandle, Texas",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11775/foreign-trade-zone-ftz-252-notification-of-proposed-production-activity-fermi-inc-modular-nuclear",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11693",
-          "publication_date": "2026-06-11",
-          "title": "Determination Under the Textile and Apparel Commercial Availability Provision of the Dominican Republic-Central America-United States Free Trade Agreement (\u201cCAFTA-DR\u201d)",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11693/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican",
-          "raw_text_url": null,
-          "term_hit": "section 232"
-        },
-        {
-          "document_number": "2026-11689",
-          "publication_date": "2026-06-11",
-          "title": "Certain Paper Shopping Bags From Portugal: Rescission of Antidumping Duty Administrative Review; 2024-2025",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11689/certain-paper-shopping-bags-from-portugal-rescission-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11687",
-          "publication_date": "2026-06-11",
-          "title": "Mobile Access Equipment and Subassemblies Thereof From the People's Republic of China: Preliminary Results and Rescission, in Part, of the Countervailing Duty Administrative Review; 2023",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11687/mobile-access-equipment-and-subassemblies-thereof-from-the-peoples-republic-of-china-preliminary",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-11686",
-          "publication_date": "2026-06-11",
-          "title": "Certain Glass Substrate for Liquid Crystal Displays, Products Containing the Same, and Methods for Manufacturing II; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on Remedy, the Public Interest, and Bonding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/11/2026-11686/certain-glass-substrate-for-liquid-crystal-displays-products-containing-the-same-and-methods-for",
-          "raw_text_url": null,
-          "term_hit": "tariff"
         }
       ],
       "errors": []
@@ -751,6 +751,22 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 69056483 - Update to Entry-Level Validations for CAPE Declarations",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41db7e3",
+          "pub_date": "Thu, 25 Jun 2026 15:16:42 -0400",
+          "guid": "69056483",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69056483 - Update to Entry-Level Validations for CAPE Declarations U.S. Customs and Border Protection (CBP) has updated certain validations performed on entries included on Consolidated Administration and Processing of Entries (CAPE) Declarations filed in the Automated Commercial Environment (ACE) . Entries that previously resulted in the following error messages should be resubmitted on a new CAPE D eclaration. GOODS VALUE AMOUNT MUST BE REPORTED ON THE CH 1-97 . The validation resulting in th is error message has been removed. E ntries that previously triggered this error will now be accepted. HTS RELATIONSHIP/SEQUENCE MISMATCH . T he error message ha"
+        },
+        {
+          "title": "CSMS # 69054058 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Suriname",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41dae6a",
+          "pub_date": "Thu, 25 Jun 2026 11:44:49 -0400",
+          "guid": "69054058",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69054058 - National Marine Fisheries Service Lifts Marine Mammal Protection Act Import Restrictions for Suriname On June 22 , 2026, The National Marine Fisheries Service (NOAA Fisheries) issued comparability findings for the fisheries of Suriname . This action lifts the seafood import restrictions on these nations under the Marine Mammal Protection Act (MMPA) Import Provisions ( https://www.federalregister.gov/d/2026-12494 ). As a result, effective June 22 , 2026, NOAA Fisheries no longer requires a Certification of Admissibility (COA) to accompany imports from Suriname . However, a COA may still be required if the products are processed in another nati"
+        },
         {
           "title": "CSMS # 69035485 - UPDATE \u2013 Consolidated Administration and Processing of Entries (CAPE) for IEEPA Refunds - Entries Flagged for Reconciliation",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41d65dd",
@@ -1054,22 +1070,6 @@
           "guid": "68504361",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68504361 - Harmonized System Update (HSU) 2609 Harmonized System Update (HSU) 2609 was created on April 29, 2026, and contains six Harmonized Tariff Records and 19 Automated Broker Interface (ABI) records. This HSU contains updates to the Harmonized Tariff Schedule of the United States (HTSUS) for duties imposed by presidential proclamation 11021. For more information on this, please see published inspection document: Harmonized Tariff Schedule of the United States for Duties Imposed by Presidential Proclamation; Technical Corrections . For filing questions related to this presidential proclamation, please contact the Trade Remedy Branch at traderemedy@"
-        },
-        {
-          "title": "CSMS # 68468385 - PGA Flag Enforcement Table Updated on CBP.gov",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/414bea1",
-          "pub_date": "Mon, 27 Apr 2026 12:19:44 -0400",
-          "guid": "68468385",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68468385 - PGA Flag Enforcement Table Updated on CBP.gov U.S. Customs and Border Protection (CBP) has updated the Partner Government Agency (PGA) Flag Enforcement Table and is now available in the Draft Chapters section online: https://www.cbp.gov/trade/automated/catair The flagging enforcement for the Consumer Product Safety Commission (CPSC) was added. For questions about the CPSC flagging, please reach out to the CPSC eFiling Support team at eFilingSupport@cpsc.gov . Related Message Number(s): 68290359"
-        },
-        {
-          "title": "CSMS # 68448732 - Updated Guidance #3: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41471dc",
-          "pub_date": "Fri, 24 Apr 2026 14:09:25 -0400",
-          "guid": "68448732",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68448732 - Updated Guidance #3: Implementation of Jones Act Waiver issued to the Department of War, dated March 17, 2026 U.S. Customs and Border Protection (CBP) is providing updated guidance to CSMS #68096516, CSMS #68180454, and CSMS #68370692. This guidance serves as notice that the Department of Homeland Security (DHS) has approved an extension of the waiver, dated March 17, 2026, at the request of the Department of War (DOW). The waiver will be extended for a period of 90-days commencing on May 18, 2026 at 12 a.m. Thus, CBP has determined that to be compliant with the extended waiver, any covered product must be loaded onboard the relevant vessel b"
         }
       ],
       "errors": []
@@ -1080,12 +1080,84 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Press remarks by Commissioner Dombrovskis and Commissioner Hoekstra on omnibus proposals on taxation and on energy product legislation",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1449",
-            "pub_date": "Wed, 24 Jun 2026 10:18:14 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1449",
-            "category": "POLICY_AREA=ENERGY,TAXCUAA",
-            "description": "European Commission Speech Brussels, 24 Jun 2026 Commissioner Dombrovskis Today, we are presenting our latest Omnibus simplification proposals in two important areas. The first \u2013 on taxation \u2013 cuts red tape fo..."
+            "title": "Commission proposes to extend temporary protection of people fleeing Ukraine for an additional year",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1462",
+            "pub_date": "Thu, 25 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1462",
+            "category": "POLICY_AREA=HOMEAFF,MIGR",
+            "description": "European Commission Press release Brussels, 26 Jun 2026 Today, the Commission is proposing to extend for an additional year the temporary protection for people fleeing Russia's war of aggression against Ukraine, while taking into account Ukraine's overall ability to defend itself. By doing so, the Commission reinforces its unwavering commitment to support Ukraine for as long as it takes."
+          },
+          {
+            "title": "Remarks by Commissioner Hoekstra at the ENVI Council",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
+            "pub_date": "Thu, 25 Jun 2026 18:08:48 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
+            "category": "POLICY_AREA=CLIMACTION",
+            "description": "European Commission Speech Luxembourg, 25 Jun 2026 Ladies and gentlemen, Very good evening, I have been thanking you more often for your tenacity. Thank you very much for being here. This morning at the doorstep..."
+          },
+          {
+            "title": "EU steps up support for Ukraine's defence, recovery and reconstruction at the Ukraine Recovery Conference 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
+            "pub_date": "Thu, 25 Jun 2026 17:49:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
+            "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,HREXTRELS,DEFENCE",
+            "description": "European Commission Press release Gda\u0144sk, 25 Jun 2026 At the Ukraine Recovery Conference 2026, co-hosted by Poland and Ukraine in Gda\u0144sk, President von der Leyen reaffirmed that the European Union will continue to stand firmly by Ukraine, supporting its reforms, strengthening its institutions, and helping build a resilient and prosperous future. Just ten days after the historic decision to open the first cluster of Ukraine's accession negotiations, the conference marked another step in the European Union's support for Ukraine's recovery, defence a"
+          },
+          {
+            "title": "Press Statement by Commissioner Kubilius after the Eastern Flank Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1464",
+            "pub_date": "Thu, 25 Jun 2026 16:45:23 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1464",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Gda\u0144sk, 25 Jun 2026 1. Summit reminds - Eastern Flank Watch is for defence of the Eastern Flank region and for defence of the whole Union. 2. The Member States from Eastern Flank ..."
+          },
+          {
+            "title": "\u201cMoldova's place is in the European Union,\u201d says President von der Leyen at the EU-Moldova Summit",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1458",
+            "pub_date": "Thu, 25 Jun 2026 12:51:47 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1458",
+            "category": "POLICY_AREA=PRESIDENCY",
+            "description": "European Commission News Brussels, 25 Jun 2026 President Ursula von der Leyen and President Ant\u00f3nio Costa welcomed Moldovan President Maia Sandu to Brussels on 22 June for the second EU-Moldova Summit. The ..."
+          },
+          {
+            "title": "Joint Statement by High Representative Kallas and Commissioners S\u00edkela and Lahbib on the devastating earthquakes in Venezuela",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1457",
+            "pub_date": "Thu, 25 Jun 2026 11:57:30 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1457",
+            "category": "POLICY_AREA=DEVEL,HREXTRELS,ICHACR",
+            "description": "European Commission Statement Brussels, 25 Jun 2026 The European Union conveys its condolences to the families and loved ones of the victims of the devastating earthquakes that struck Venezuela. At this difficult moment, the European Union expresses its solidarity with the people of Venezuela and with all those engaged in rescue and relief operations."
+          },
+          {
+            "title": "Daily News 25 / 06 / 2026",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1456",
+            "pub_date": "Thu, 25 Jun 2026 09:31:39 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1456",
+            "category": "POLICY_AREA=GENINFO",
+            "description": "European Commission Daily news Brussels, 25 Jun 2026 Lithuania receives first \u20ac956.3 million payment under SAFE* Lithuania received its first payment of \u20ac956.3 million under the Security Action for Europe (SAFE) d..."
+          },
+          {
+            "title": "Factsheet - EU solidarity with Ukraine",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_22_3862",
+            "pub_date": "Wed, 24 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/fs_22_3862",
+            "category": "POLICY_AREA=ENLNEIG,ICHACR,UKRAINE",
+            "description": "European Commission Factsheet Brussels, 25 Jun 2026 Factsheet - EU solidarity with Ukraine Factsheet - EU solidarity with Ukraine"
+          },
+          {
+            "title": "Commission disburses the first \u20ac3.2 billion instalment to Ukraine under the \u20ac90 billion Ukraine Support Loan",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1452",
+            "pub_date": "Wed, 24 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1452",
+            "category": "POLICY_AREA=ECOMONAFF,UKRAINE",
+            "description": "European Commission Press release Brussels, 25 Jun 2026 Today at the Ukraine Recovery Conference, President Ursula von der Leyen announced the disbursement of \u20ac3.2 billion to Ukraine as the first instalment of the new macro-financial assistance (MFA)."
+          },
+          {
+            "title": "Opening speech by President von der Leyen at the Ukraine Recovery Conference",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1455",
+            "pub_date": "Wed, 24 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1455",
+            "category": "POLICY_AREA=ENLNEIG,PRESIDENCY,BUSINDUS,UKRAINE",
+            "description": "European Commission Speech Gda\u0144sk, 25 Jun 2026 Prime Minister Tusk, dear Donald, Prime Minister Svyrydenko, dear Yulia, President Costa, dear Ant\u00f3nio, Fellow leaders, Distinguished guests, Ladies and Gentlem..."
           }
         ],
         "errors": []
