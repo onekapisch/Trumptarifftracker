@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T07:31:00+00:00",
+  "generated_at": "2026-06-28T07:45:18+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -1080,6 +1080,14 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
+            "title": "Doorstep Statement by Commissioner Lahbib at Budapest Pride",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1474",
+            "pub_date": "Sat, 27 Jun 2026 10:54:14 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1474",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Statement Budapest, 27 Jun 2026 Last year we stood together in this city when Pride was banned, when people faced prosecution just for walking in the streets. Yet, you marched anyway, two hund..."
+          },
+          {
             "title": "Remarks by Commissioner J\u00f8rgensen at the press conference of the Energy Council",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1472",
             "pub_date": "Fri, 26 Jun 2026 16:37:19 GMT",
@@ -1136,28 +1144,20 @@
             "description": "European Commission Press release Brussels, 26 Jun 2026 The European Commission has opened a formal antitrust investigation to assess whether Sanofi has breached EU competition rules by carrying out a communication campaign that disparages the only rival flu vaccine recommended for vulnerable patients with risk factors."
           },
           {
+            "title": "Speech by Commissioner Lahbib at the Budapest Pride Diplomatic Reception",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1473",
+            "pub_date": "Thu, 25 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1473",
+            "category": "POLICY_AREA=EQUALITY",
+            "description": "European Commission Speech Budapest, 27 Jun 2026 What a difference a year makes. The winds of change are blowing across this great nation in the heart of Europe. I feel it. We all feel it. It is a great pleasu..."
+          },
+          {
             "title": "First-ever EU tripartite agreement signed to boost energy storage",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1426",
             "pub_date": "Thu, 25 Jun 2026 22:00:00 GMT",
             "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1426",
             "category": "POLICY_AREA=ENERGY",
             "description": "European Commission Press release Brussels, 26 Jun 2026 The European Commission has rallied a number of EU energy ministers, storage developers and manufacturers, renewable energy developers, energy-consuming industries and financial institutions around the first-ever EU tripartite agreement on energy storage."
-          },
-          {
-            "title": "Remarks by Commissioner Hoekstra at the ENVI Council",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
-            "pub_date": "Thu, 25 Jun 2026 18:08:48 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
-            "category": "POLICY_AREA=CLIMACTION",
-            "description": "European Commission Speech Luxembourg, 25 Jun 2026 Ladies and gentlemen, Very good evening, I have been thanking you more often for your tenacity. Thank you very much for being here. This morning at the doorstep..."
-          },
-          {
-            "title": "EU steps up support for Ukraine's defence, recovery and reconstruction at the Ukraine Recovery Conference 2026",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
-            "pub_date": "Thu, 25 Jun 2026 17:49:23 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
-            "category": "POLICY_AREA=ECOMONAFF,ENLNEIG,HREXTRELS,DEFENCE",
-            "description": "European Commission Press release Gda\u0144sk, 26 Jun 2026 At the Ukraine Recovery Conference 2026, co-hosted by Poland and Ukraine in Gda\u0144sk, President von der Leyen reaffirmed that the European Union will continue to stand firmly by Ukraine, supporting its reforms, strengthening its institutions, and helping build a resilient and prosperous future. Just ten days after the historic decision to open the first cluster of Ukraine's accession negotiations, the conference marked another step in the European Union's support for Ukraine's recovery, defence a"
           }
         ],
         "errors": []
