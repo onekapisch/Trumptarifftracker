@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:45:28+00:00",
+  "generated_at": "2026-07-01T07:55:35+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -752,6 +752,22 @@
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
         {
+          "title": "CSMS # 69100111 - Update to ACE CATAIR Error Dictionary: New Error \u201cF876 DUTY HTS REQUIRES NON-DUTY HTS\u201d",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e624f",
+          "pub_date": "Tue, 30 Jun 2026 12:10:34 -0400",
+          "guid": "69100111",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69100111 - Update to ACE CATAIR Error Dictionary: New Error \u201cF876 DUTY HTS REQUIRES NON-DUTY HTS\u201d Please be advised that a n updated version of the ACE CATAIR Error Dictionary V 4 9 has been posted under the Supporting Documents: Documentation for Entry Summary Chapters section CBP.gov . This update create s a new Fatal validation to prevent a dutiable Auto Part HTS and a dutiable Medium and Heavy-Duty Vehicles (MHDV) HTS number from being on the same Entry Summary line . The update includes the following error : F 876 : 876 DUTY HTS REQUIRES NON-DUTY HTS When an Entry Summary line contains a common Auto Part HTS number and a MHDV HTS number, only one o"
+        },
+        {
+          "title": "CSMS # 69098949 - Update to the Automated Export System Trade Interface Requirements (AESTIR) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e5dc5",
+          "pub_date": "Tue, 30 Jun 2026 10:37:49 -0400",
+          "guid": "69098949",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69098949 - Update to the Automated Export System Trade Interface Requirements (AESTIR) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting Update to the Automated Export System Trade Interface Requirements (AESTIR) \u2013 Appendix U \u2013 HTS/Schedule B Classifications Requiring Used Vehicle Reporting has been posted to CBP .gov. The following HTS /Schedule B code numbers have been added: 84 27 . 1 0. 8020 for self-propelled forklift equipment Documentation is available under the ACE AESTIR, Appendix on the AES webpage: https://www.cbp.gov/document/guidance/appendix-u-htsschedule-b-classifications-requiring-used-vehicle-reporting Techn"
+        },
+        {
           "title": "CSMS # 69087399 - GUIDANCE: Duty Offset for Imports of Automobile and Medium and Heavy-Duty Vehicle Parts",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e30a7",
           "pub_date": "Mon, 29 Jun 2026 11:00:57 -0400",
@@ -1054,22 +1070,6 @@
           "guid": "68569567",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68569567 - Best Practices for Protecting Your Information Regarding IEEPA Refunds With the launch of the Consolidated Administration and Processing of Entries (CAPE), CBP expects that scammers will attempt to use social media, email, and other communication methods to secure account information from importers in order to interfere with the process of refunding International Emergency Economic Powers Act (IEEPA) duties . Don\u2019t get scammed! Don\u2019t be a victim! If someone you do not know tells you they will file for an IEE PA refund on your behalf if you provide them with your personal information, company information, or banking information , this may be a"
-        },
-        {
-          "title": "CSMS # 68559236 - GUIDANCE: Applying Section 232 Import Duties on USMCA-Qualifying Medium-and Heavy-Duty Vehicles (MHDVs)",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4162184",
-          "pub_date": "Wed, 06 May 2026 15:40:59 -0400",
-          "guid": "68559236",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68559236 - GUIDANCE: Applying Section 232 Import Duties on USMCA-Qualifying Medium-and Heavy-Duty Vehicles (MHDVs) The purpose of this message is to provide guidance on applying the 25 percent Section 232 dut ies imposed by Proclamation 1098 4 exclusively to the value of the non-U.S . content for approved imports of MHDVs qualifying for preferential tariff treatment under the U nited States- Mexico-Canada Agreement (USMCA) . BACKGROUND On October 17 , 2025, Presidential Proclamation 1098 4 authorized the Secretary of Commerce to approve imports of MHDVs qualifying for preferential tariff treatment under USMCA to be eligible to apply the ad valorem tarif"
-        },
-        {
-          "title": "CSMS # 68554727 - GUIDANCE: Technical Corrections to Section 232 Duties on Imports of Aluminum, Steel, and Copper",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4160fe7",
-          "pub_date": "Wed, 06 May 2026 09:57:47 -0400",
-          "guid": "68554727",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68554727 - GUIDANCE: Technical Corrections to Section 232 Duties on Imports of Aluminum, Steel, and Copper The purpose of this message is to provide guidance regarding the technical corrections to Annex IV of Presidential Proclamation 11021, \u201c Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States.\u201d BACKGROUND On April 2, 2026, the President issued Proclamation 11021 , \u201c Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States ,\u201d under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862). This proclamation impo ses 10-50% additional duties on t"
         }
       ],
       "errors": []
@@ -1080,20 +1080,12 @@
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
           {
-            "title": "Joint press statement by Commissioner \u0160ef\u010dovi\u010d and Minister Wang",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480",
-            "pub_date": "Mon, 29 Jun 2026 10:42:52 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Statement Brussels, 29 Jun 2026 On 29th June 2026, Mr Maros \u0160ef\u010dovi\u010d, European Commissioner for Trade and Economic Security and Interinstitutional Relations and Transparency, and Mr Wang Wenta..."
-          },
-          {
-            "title": "Press remarks by Commissioner \u0160ef\u010dovi\u010d on the EU-China Trade and Investment Consultations",
-            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1344",
-            "pub_date": "Sun, 28 Jun 2026 22:00:00 GMT",
-            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1344",
-            "category": "POLICY_AREA=TRADEPOL",
-            "description": "European Commission Speech Brussels, 29 Jun 2026 Good afternoon. Today, I have the opportunity to host my counterpart from China, Minister Wang Wentao. We held a series of substantive talks as of this morning ..."
+            "title": "Closing keynote speech by Commissioner Kubilius at the Conference on the future of the UK-EU relationship",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+            "pub_date": "Tue, 30 Jun 2026 16:08:39 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+            "category": "POLICY_AREA=DEFENCE",
+            "description": "European Commission Speech Brussels, 30 Jun 2026 Good afternoon, I am honoured that you asked me to deliver the closing keynote at this important conference. Important for Britain and impor..."
           }
         ],
         "errors": []
@@ -1102,6 +1094,12 @@
         "source": "UK GOV.UK DBT news Atom feed",
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
+          {
+            "title": "UK targets services exports in China trade talks",
+            "link": "https://www.gov.uk/government/news/uk-targets-services-exports-in-china-trade-talks",
+            "updated": "2026-06-30T22:30:09+01:00",
+            "summary": "UK targets services exports in China <mark>trade</mark> talks\u2026"
+          },
           {
             "title": "UK and Malaysia launch negotiations on Digital Trade Agreement",
             "link": "https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement",
