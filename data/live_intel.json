@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:55:35+00:00",
+  "generated_at": "2026-07-02T07:39:21+00:00",
   "about": {
     "description": "Automated live intelligence pull from official government/legal sources.",
     "keyword_filter": [
@@ -24,6 +24,105 @@
       "source": "Federal Register API",
       "source_url": "https://www.federalregister.gov/api/v1/documents.json",
       "items": [
+        {
+          "document_number": "2026-13345",
+          "publication_date": "2026-07-01",
+          "title": "Steel Concrete Reinforcing Bar From the Republic of T[uuml]rkiye: Final Results of Countervailing Duty Administrative Review; 2023",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13345/steel-concrete-reinforcing-bar-from-the-republic-of-tuumlrkiye-final-results-of-countervailing-duty",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-13343",
+          "publication_date": "2026-07-01",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13343/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-13342",
+          "publication_date": "2026-07-01",
+          "title": "Standard Steel Welded Wire Mesh From Mexico: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13342/standard-steel-welded-wire-mesh-from-mexico-final-results-of-the-expedited-first-sunset-review-of",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-13341",
+          "publication_date": "2026-07-01",
+          "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13341/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-13308",
+          "publication_date": "2026-07-01",
+          "title": "Foreign-Trade Zone (FTZ) 230, Notification of Proposed Production Activity; Corning Optical Communications LLC; (Fiber Optic Cables); Winston-Salem, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13308/foreign-trade-zone-ftz-230-notification-of-proposed-production-activity-corning-optical",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-13307",
+          "publication_date": "2026-07-01",
+          "title": "Foreign-Trade Zone (FTZ) 57, Notification of Proposed Production Activity; Corning Optical Communications LLC; (Fiber Optic Cables); Newton and Hickory, North Carolina",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13307/foreign-trade-zone-ftz-57-notification-of-proposed-production-activity-corning-optical",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-13298",
+          "publication_date": "2026-07-01",
+          "title": "Quarterly IRS Interest Rates Used in Calculating Interest on Overdue Accounts and Refunds of Customs Duties",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13298/quarterly-irs-interest-rates-used-in-calculating-interest-on-overdue-accounts-and-refunds-of-customs",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-13293",
+          "publication_date": "2026-07-01",
+          "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Flight and Duty Limitations and Rest RequirementsFlightcrew Members",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13293/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
+        {
+          "document_number": "2026-13276",
+          "publication_date": "2026-07-01",
+          "title": "Agency Information Collection Activities; Revision; Entry/ Immediate Delivery Application and ACE Cargo Release",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13276/agency-information-collection-activities-revision-entry-immediate-delivery-application-and-ace-cargo",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-13273",
+          "publication_date": "2026-07-01",
+          "title": "Agency Information Collection Activities; Revision; Entry Summary",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13273/agency-information-collection-activities-revision-entry-summary",
+          "raw_text_url": null,
+          "term_hit": "tariff"
+        },
+        {
+          "document_number": "2026-13237",
+          "publication_date": "2026-07-01",
+          "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Flight and Duty Limitations and Rest RequirementsFlightcrew Members",
+          "type": "Notice",
+          "html_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13237/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of",
+          "raw_text_url": null,
+          "term_hit": "duty"
+        },
         {
           "document_number": "2026-13183",
           "publication_date": "2026-06-30",
@@ -394,15 +493,6 @@
           "term_hit": "tariff"
         },
         {
-          "document_number": "2026-12717",
-          "publication_date": "2026-06-24",
-          "title": "Conditions for Additional Information and Fee in Petitions Filed in Patent Applications and Patents Based on Unintentional Delay",
-          "type": "Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12717/conditions-for-additional-information-and-fee-in-petitions-filed-in-patent-applications-and-patents",
-          "raw_text_url": null,
-          "term_hit": "duty"
-        },
-        {
           "document_number": "2026-12714",
           "publication_date": "2026-06-24",
           "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From the People's Republic of China: Preliminary Results, Intent To Rescind, in Part, and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
@@ -437,15 +527,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12694/certain-carbon-and-alloy-steel-cut-to-length-plate-from-belgium-amended-final-results-of-antidumping",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12672",
-          "publication_date": "2026-06-24",
-          "title": "Hours of Service of Drivers: Association of American Railroads and American Short Line and Regional Railroad Association; Application for Exemption Renewal",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12672/hours-of-service-of-drivers-association-of-american-railroads-and-american-short-line-and-regional",
-          "raw_text_url": null,
-          "term_hit": "duty"
         },
         {
           "document_number": "2026-12671",
@@ -662,87 +743,6 @@
           "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12343/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
           "raw_text_url": null,
           "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12330",
-          "publication_date": "2026-06-18",
-          "title": "Certain Chassis and Subassemblies Thereof From Mexico, Thailand, and the Socialist Republic of Vietnam: Antidumping Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12330/certain-chassis-and-subassemblies-thereof-from-mexico-thailand-and-the-socialist-republic-of-vietnam",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12329",
-          "publication_date": "2026-06-18",
-          "title": "Certain Chassis and Subassemblies Thereof From Mexico and Thailand: Countervailing Duty Orders",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12329/certain-chassis-and-subassemblies-thereof-from-mexico-and-thailand-countervailing-duty-orders",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12301",
-          "publication_date": "2026-06-18",
-          "title": "Raw Honey from India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12301/raw-honey-from-india-final-results-of-antidumping-duty-administrative-review-2023-2024",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12265",
-          "publication_date": "2026-06-18",
-          "title": "Certain Motorized Self-Balancing Vehicles; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation of Section 337; Request for Written Submissions on the Issues Under Review and on Remedy, the Public Interest, and Bonding",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12265/certain-motorized-self-balancing-vehicles-notice-of-a-commission-determination-to-review-in-part-a",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12248",
-          "publication_date": "2026-06-18",
-          "title": "Finished Carbon Steel Flanges From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12248/finished-carbon-steel-flanges-from-india-final-results-of-antidumping-duty-administrative-review",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12207",
-          "publication_date": "2026-06-17",
-          "title": "Phosphate Fertilizers From Morocco and Russia; Notice of Commission Determination To Conduct Full Five-Year Reviews",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12207/phosphate-fertilizers-from-morocco-and-russia-notice-of-commission-determination-to-conduct-full",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12206",
-          "publication_date": "2026-06-17",
-          "title": "Van-Type Trailers and Subassemblies From Canada; Termination of investigation",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12206/van-type-trailers-and-subassemblies-from-canada-termination-of-investigation",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12179",
-          "publication_date": "2026-06-17",
-          "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-          "type": "Notice",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12179/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
-          "raw_text_url": null,
-          "term_hit": "tariff"
-        },
-        {
-          "document_number": "2026-12163",
-          "publication_date": "2026-06-17",
-          "title": "The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS",
-          "type": "Proposed Rule",
-          "html_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12163/the-trade-through-rule-and-locked-and-crossed-markets-provisions-of-regulation-nms",
-          "raw_text_url": null,
-          "term_hit": "section 232"
         }
       ],
       "errors": []
@@ -751,6 +751,30 @@
       "source": "U.S. Customs and Border Protection CSMS (GovDelivery RSS)",
       "source_url": "https://content.govdelivery.com/accounts/USDHSCBP/widgets/USDHSCBP_WIDGET_2.rss",
       "items": [
+        {
+          "title": "CSMS # 69113360 - Updated Cargo Release Condition Codes Document Posted to CBP.gov",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e9610",
+          "pub_date": "Wed, 01 Jul 2026 13:53:31 -0400",
+          "guid": "69113360",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69113360 - Updated Cargo Release Condition Codes Document Posted to CBP.gov The Cargo Release C ondition Codes document has been posted to cbp.gov with the following changes : Error code 3 33 added: IMPORTER OF RECORD INACTIVE FOR ENTRY This pertains to the deployment of the Inactive for Entry Purposes Status for Importer Records Following Entry Filing Activity . This will be deployed to the Automated Commercial Environment (ACE) Certification environment on June 30, 2026 and will be deployed to the Production environment on July, 14, 2026. This document is available in the Supporting Documents section on cbp.gov : https://www.cbp.gov/document/guidance/"
+        },
+        {
+          "title": "CSMS # 69112467 - Quota Bulletin 26-214 2026 Tuna Final Restraint Limit and Proration",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e9293",
+          "pub_date": "Wed, 01 Jul 2026 12:12:26 -0400",
+          "guid": "69112467",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69112467 - Quota Bulletin 26-214 2026 Tuna Final Restraint Limit and Proration Quota Bulletin 26-214 2026 Tuna Final Restraint Limit and Proration has been published on our webpage at the following link : Quota Bulletin 26-214 2026 Tuna Final Restraint Limit and Proration A notice entitled \u201cTuna Tariff \u2013 Rate Quota For Calendar Year 202 6 \u201d published in the Federal Register ( Federal Register :: Tuna Tariff-Rate Quota for Calendar Year 2026 for Tuna Classifiable Under Subheading 1604.14.22, Harmonized Tariff Schedule of the United States (HTSUS) ) on June 3, 202 6 announced the 202 6 restraint limit for tuna. The quota restraint limit for 202 6 is 16, 3"
+        },
+        {
+          "title": "CSMS # 69111382 - Harmonized System Update (HSU) 2614",
+          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e8e56",
+          "pub_date": "Wed, 01 Jul 2026 10:47:40 -0400",
+          "guid": "69111382",
+          "category": "",
+          "description": "Cargo Systems Messaging Service CSMS # 69111382 - Harmonized System Update (HSU) 2614 Harmonized System Update (HSU) 2 6 14 was created on June 30, 2026, and contains 310 harmonized tariff records and 1287 Automated Broker Interface (ABI) records. HSU 2 6 14 contains the Spring 2026 484(f) HTS Updates. For more information on th e Spring 2026 484(f) u pdates, please see 484(f) Committee Web Page (Spring 2026 Approved List of Changes) . Questions or concerns regarding the 484(f) updates should be directed to 484f@usitc.gov . Questions or concerns with the se Harmonized System Update s should be directed to the HTS Administrator at HTSAdmin@cbp.dhs.gov ."
+        },
         {
           "title": "CSMS # 69100111 - Update to ACE CATAIR Error Dictionary: New Error \u201cF876 DUTY HTS REQUIRES NON-DUTY HTS\u201d",
           "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41e624f",
@@ -1046,30 +1070,6 @@
           "guid": "68609998",
           "category": "",
           "description": "Cargo Systems Messaging Service CSMS # 68609998 - Harmonized System Update (HSU) 2610 Harmonized System Update (HSU) 2 6 10 was created on May 7 , 2026, and contains two harmonized tariff records and four ABI records. Th is HSU contains the Section 232 USMCA-Qualifying Medium -and Heavy-Duty Vehicles (MHDV s) HTS updates . For more information please see CSMS # 6855 9236 . For questions regarding Section 232 updates , contact the Trade Remedy Branch at TradeRemedy@cbp.dhs.gov . Questions or concerns with th is HSU should be directed to the HTS Administrator at HTSAdmin@cbp.dhs.gov . Related Message Number(s): 68 559236"
-        },
-        {
-          "title": "CSMS # 68577428 - Drawback Transition to the Petroleum, Natural Gas, and Minerals Center",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4166894",
-          "pub_date": "Fri, 08 May 2026 09:59:36 -0400",
-          "guid": "68577428",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68577428 - Drawback Transition to the Petroleum, Natural Gas, and Minerals Center On October 6, 2025, t he drawback program and Drawback Specialists were consolidated under the P e troleum, Natural Gas and Mineral s Center of Excellence and Expertise (PNGM Center) . Effective April 2 2 , 2026, drawback claims transmitted in ACE will be routed directly to the P etroleum, N atural G as, and M inerals Center for more effective and efficient workload processing. Filers should continue to transmit drawback claims via ACE and in accordance with the CBP and Trade Automated Interface Requirements (CATAIR). Drawback claims will be assigned to Team FDK and routed"
-        },
-        {
-          "title": "CSMS # 68570342 - Reminder \u2013 CSMS User Satisfaction Survey",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4164ce6",
-          "pub_date": "Thu, 07 May 2026 15:03:43 -0400",
-          "guid": "68570342",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68570342 - Reminder \u2013 CSMS User Satisfaction Survey CBP\u2019s Office of Trade is continuing to collect responses for its CSMS User Satisfaction Survey. As a CSMS user, your response to the CSMS User Satisfaction Survey will provide CBP with useful information about your experience engaging with CSMS messages. CBP will use the data collected from the survey to determine potential improvements to trade communications. CBP launched the CSMS User Satisfaction Survey on February 9, 2026, and announce d the launch with CSMS # 67698864 . If you have already responded to the CSMS User Satisfaction Survey, please do not respond a second time . The CSMS User Satisfac"
-        },
-        {
-          "title": "CSMS # 68569567 - Best Practices for Protecting Your Information Regarding IEEPA Refunds",
-          "link": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/41649df",
-          "pub_date": "Thu, 07 May 2026 13:52:05 -0400",
-          "guid": "68569567",
-          "category": "",
-          "description": "Cargo Systems Messaging Service CSMS # 68569567 - Best Practices for Protecting Your Information Regarding IEEPA Refunds With the launch of the Consolidated Administration and Processing of Entries (CAPE), CBP expects that scammers will attempt to use social media, email, and other communication methods to secure account information from importers in order to interfere with the process of refunding International Emergency Economic Powers Act (IEEPA) duties . Don\u2019t get scammed! Don\u2019t be a victim! If someone you do not know tells you they will file for an IEE PA refund on your behalf if you provide them with your personal information, company information, or banking information , this may be a"
         }
       ],
       "errors": []
@@ -1079,6 +1079,30 @@
         "source": "European Commission Press Corner RSS",
         "source_url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
         "items": [
+          {
+            "title": "EU launches connectivity and communities support programmes for peace in the South Caucasus",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1494",
+            "pub_date": "Tue, 30 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1494",
+            "category": "POLICY_AREA=ENLNEIG",
+            "description": "European Commission Press release Baku, 01 Jul 2026 Today in Baku, European Commission President Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos, met with the President of Azerbaijan Ilham Aliyev to discuss ways to foster peace in the region through greater connectivity and support to border communities. They also discussed bilateral EU-Azerbaijan trade and energy partnerships."
+          },
+          {
+            "title": "Questions and answers on \u20ac3 customs duty",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1492",
+            "pub_date": "Tue, 30 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1492",
+            "category": "POLICY_AREA=CUSTOMS",
+            "description": "European Commission Questions and answers Brussels, 01 Jul 2026 How is the \u20ac3 temporary customs duty applied in practice? The \u20ac3 duty is applied per item to consignments with a value up to \u20ac150. The measure applies to goods ..."
+          },
+          {
+            "title": "New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers",
+            "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1491",
+            "pub_date": "Tue, 30 Jun 2026 22:00:00 GMT",
+            "guid": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1491",
+            "category": "POLICY_AREA=CUSTOMS",
+            "description": "European Commission Press release Brussels, 01 Jul 2026 Starting today, the EU abolishes an outdated customs duty exemption for e-commerce packages worth less than \u20ac150."
+          },
           {
             "title": "Closing keynote speech by Commissioner Kubilius at the Conference on the future of the UK-EU relationship",
             "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
@@ -1095,9 +1119,15 @@
         "source_url": "https://www.gov.uk/search/news-and-communications.atom?keywords=tariff%20duty%20trade&organisations%5B%5D=department-for-business-and-trade",
         "items": [
           {
+            "title": "Trade Secretary speech at UK-China JETCO",
+            "link": "https://www.gov.uk/government/news/trade-secretary-speech-at-uk-china-jetco",
+            "updated": "2026-07-01T11:07:42+01:00",
+            "summary": "Business Secretary Peter Kyle spoke at the UK Session of the Big Market for All: Export to China event on 1 July 2026."
+          },
+          {
             "title": "UK targets services exports in China trade talks",
             "link": "https://www.gov.uk/government/news/uk-targets-services-exports-in-china-trade-talks",
-            "updated": "2026-06-30T22:30:09+01:00",
+            "updated": "2026-06-30T22:30:00+01:00",
             "summary": "UK targets services exports in China <mark>trade</mark> talks\u2026"
           },
           {
